@@ -1,0 +1,18 @@
+flowchart TD
+  Start([START]) --> Visit["Visit reaper.fm"]
+  Visit --> Download["Download REAPER Installer"]
+  Download --> Run["Run Installer"]
+  Run --> OS{Which OS?}
+  OS -->|Windows| Win[".exe → Install → Finish"]
+  OS -->|macOS| Mac[".dmg → Drag to Applications → Open"]
+  Win --> LaunchWin["Launch REAPER on Windows"]
+  Mac --> LaunchMac["Launch REAPER on macOS"]
+  LaunchWin --> First["First Launch: Set Audio Device"]
+  LaunchMac --> First
+  First --> Prefs["Options → Preferences → Audio → Device"]
+  Prefs --> Chosen{Device Selected?}
+  Chosen -->|Yes| Test["Sound Test"]
+  Test --> Familiar{Theme/Layout Familiar?}
+  Familiar -->|Yes| Done([DONE])
+  Familiar -->|No| Switch["Switch Theme (Options → Themes)"]
+  Switch --> Done
