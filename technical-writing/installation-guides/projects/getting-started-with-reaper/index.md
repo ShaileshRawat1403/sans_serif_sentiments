@@ -6,112 +6,130 @@ A complete, beginner-focused guide to installing and configuring REAPER—the li
 
 ## Why This Guide Exists
 
-REAPER updates often, but its installation process stays consistent—this single guide covers download, installation, setup, and troubleshooting, with version-specific notes where they matter.
+REAPER updates often, but installation steps stay consistent. This guide covers:
+
+- **Download** REAPER  
+- **Install** on Windows or macOS  
+- **Configure** audio settings  
+- **Troubleshoot** common issues  
+
+Version-specific notes are included where they matter.
 
 ---
 
 ## System Requirements
 
-### Windows
-- Windows 7, 8, 10, or 11 (32- or 64-bit)  
-- ~20 MB free disk space  
-- Optional: ASIO-compatible audio interface for low-latency performance
+| Platform    | Requirements                                                                 |
+|-------------|-------------------------------------------------------------------------------|
+| **Windows** | • Windows 7 or later (32- or 64-bit)  <br> • ~20 MB free disk space  <br> • (Optional) ASIO-compatible audio interface |
+| **macOS**   | • macOS 10.5+ (up to Sonoma)  <br> • Universal build for Intel & Apple Silicon  <br> • CoreAudio (no extra drivers required) |
 
-### macOS
-- macOS 10.5 and later (up to Sonoma)  
-- Intel and Apple Silicon (M1/M2/M3) chips supported  
-- Uses CoreAudio natively—no driver install required
-
-> **Tip:** REAPER is exceptionally lightweight—most modern computers run it without issue.
+> **Tip:** REAPER is exceptionally lightweight—most modern systems run it without issue.
 
 ---
 
 ## Download REAPER
 
-1. Go to [reaper.fm](https://reaper.fm).  
-2. Click **Download REAPER**.  
-3. Select:
-   - **Windows 64-bit** (most common)  
-   - **macOS Universal** (Intel + Apple Silicon)
+```text
+1. Visit https://reaper.fm  
+2. Click “Download REAPER”  
+3. Select your OS:
+   - Windows 64-bit  
+   - macOS Universal  
+```
 
-> **Note:** The version number you see may be newer—but these steps still apply.
+> **Note:** Version numbers may change, but these steps remain valid.
 
 ---
 
 ## Install REAPER
 
 ### Windows
-1. Open the downloaded `.exe`.  
+
+```bash
+# Run the installer
+./REAPER_installer.exe
+```
+
+1. Double-click the downloaded `.exe`.  
 2. Accept the license agreement.  
 3. Choose an install location (default is fine).  
-4. (Optional) Select **Portable Install** to keep settings together.  
+4. (Optional) Enable **Portable Install** to keep settings contained.  
 5. Click **Install**.
 
 ### macOS
-1. Open the downloaded `.dmg`.  
-2. Drag the REAPER icon into **Applications**.  
-3. Right-click the app and choose **Open** to bypass Gatekeeper.
 
-> **Note:** On macOS Ventura and newer, you may need to allow REAPER under **System Settings → Security & Privacy**.
+```bash
+# Mount and install
+open REAPER.dmg
+cp -R /Volumes/REAPER/REAPER.app /Applications/
+```
+
+1. Mount the downloaded `.dmg`.  
+2. Drag **REAPER.app** into **Applications**.  
+3. Right-click **REAPER.app** → **Open** to bypass Gatekeeper.
+
+> **Note (Ventura+):** You may need to allow REAPER under **System Settings → Security & Privacy**.
 
 ---
 
 ## Configure Audio Settings
 
-1. Launch REAPER.  
-2. Go to **Options → Preferences → Audio → Device**.
+Launch REAPER and go to:
 
-### Windows
-- **ASIO** (best performance) for external audio interfaces  
-- **WASAPI** for built-in speakers
+```text
+Options → Preferences → Audio → Device
+```
 
-### macOS
-- **CoreAudio** auto-selects your device  
-- Use the dropdowns to choose input/output
+- **Windows**  
+  - **ASIO** (low-latency) for external interfaces  
+  - **WASAPI** for built-in speakers  
 
-> **Tip:** If you hear no sound, double-check your device selection and increase the buffer size.
+- **macOS**  
+  - **CoreAudio** auto-detects devices  
+
+> **Tip:** If you hear no sound, verify the selected device and increase the buffer size.
 
 ---
 
 ## Understand Theme & Layout
 
-REAPER 7 introduced a modern UI:
+REAPER 7’s default theme includes:
 
 - Floating track controls  
-- Spacing and alignment tweaks  
-- Improved routing panels
+- Revised icons & spacing  
+- Enhanced routing panels  
 
-> **Note for v7.0 users:** Switch back to the classic theme at **Options → Themes → Default_6.0**.  
-> **Note for v7.1+ users:** You’ll notice refined meter contrast and lane behavior.
+> **Note (v7.0):** Revert to the classic theme at **Options → Themes → Default_6.0**  
+> **Note (v7.1+):** Expect refined meter contrast & lane behavior
 
 ---
 
 ## Troubleshooting
 
-| Problem                   | Solution                                                |
-|---------------------------|---------------------------------------------------------|
-| No sound output           | Check **Preferences → Audio → Device** settings         |
-| App won’t open (macOS)    | Right-click → **Open** or allow in Security & Privacy   |
-| Track lanes are hidden    | Right-click TCP → **Enable Track Lanes**                |
-| Audio glitches or pops    | Increase buffer size or adjust sample rate              |
+| Issue                   | Solution                                               |
+|-------------------------|--------------------------------------------------------|
+| No audio output         | Check **Preferences → Audio → Device** settings        |
+| App won’t launch (macOS)| Right-click **Open** or allow in **Security & Privacy** |
+| Hidden track lanes      | Right-click TCP → **Enable Track Lanes**                |
+| Audio glitches or pops  | Increase buffer size or adjust sample rate             |
 
 ---
 
 ## Version-Specific Notes
 
-For theme and workflow details by release:
-
-- [REAPER v7.0 Notes](../v7.0/index.md)  
-- [REAPER v7.1+ Notes](../v7.1/index.md)
+- [REAPER v7.0 Theme & Layout](../v7.0/index.md)  
+- [REAPER v7.1+ Refinements](../v7.1/index.md)
 
 ---
 
-## What’s Next?
+## What’s Next
 
-You’re ready to record and play:
+1. **Insert** a new track: _Track → Insert new track_  
+2. **Drag** an audio file into the timeline  
+3. **Press** ▶️ to play  
 
-1. **Insert a new track** (`Track → Insert new track`).  
-2. **Drag in an audio file** and press ►.  
-3. Explore **plugins**, **MIDI mapping**, and more in the next sections.
+Explore plugins, MIDI mapping, and more in the next guides.
 
-> This guide is part of a larger documentation portfolio built with clarity and care. Your feedback is welcome!
+> **Feedback welcome:** Open an issue or submit a pull request to improve this guide.  
+`
