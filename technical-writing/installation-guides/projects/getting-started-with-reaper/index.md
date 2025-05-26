@@ -2,7 +2,10 @@
 
 A complete, beginner-focused guide to installing and configuring REAPER—the lightweight, flexible, and powerful digital audio workstation.
 
-![REAPER Installation Flowchart](/assets/images/reaper-flowchart.svg)
+<p align="center">
+  <img src="/assets/images/reaper-flowchart.svg" alt="REAPER Installation Flowchart"
+       style="max-width:600px; width:100%; height:auto;">
+</p>
 
 ---
 
@@ -23,8 +26,8 @@ Version-specific notes are included where they matter.
 
 | Platform    | Requirements                                                                 |
 |-------------|-------------------------------------------------------------------------------|
-| **Windows** | • Windows 7 or later (32- or 64-bit)  <br> • ~20 MB free disk space  <br> • (Optional) ASIO-compatible audio interface |
-| **macOS**   | • macOS 10.5+ (up to Sonoma)  <br> • Universal build for Intel & Apple Silicon  <br> • CoreAudio (no extra drivers required) |
+| **Windows** | • Windows 7 or later (32- or 64-bit)<br>• ~20 MB free disk space<br>• (Optional) ASIO-compatible audio interface |
+| **macOS**   | • macOS 10.5+ (up to Sonoma)<br>• Universal build for Intel & Apple Silicon<br>• CoreAudio (no extra drivers) |
 
 > **Tip:** REAPER is exceptionally lightweight—most modern systems run it without issue.
 
@@ -32,13 +35,11 @@ Version-specific notes are included where they matter.
 
 ## Download REAPER
 
-```text
 1. Visit https://reaper.fm  
-2. Click “Download REAPER”  
-3. Select your OS:
+2. Click **Download REAPER**  
+3. Select your OS:  
    - Windows 64-bit  
    - macOS Universal  
-```
 
 > **Note:** Version numbers may change, but these steps remain valid.
 
@@ -109,12 +110,12 @@ REAPER 7’s default theme includes:
 
 ## Troubleshooting
 
-| Issue                   | Solution                                               |
-|-------------------------|--------------------------------------------------------|
-| No audio output         | Check **Preferences → Audio → Device** settings        |
+| Issue                   | Solution                                              |
+|-------------------------|-------------------------------------------------------|
+| No audio output         | Check **Preferences → Audio → Device** settings       |
 | App won’t launch (macOS)| Right-click **Open** or allow in **Security & Privacy** |
-| Hidden track lanes      | Right-click TCP → **Enable Track Lanes**                |
-| Audio glitches or pops  | Increase buffer size or adjust sample rate             |
+| Hidden track lanes      | Right-click TCP → **Enable Track Lanes**              |
+| Audio glitches or pops  | Increase buffer size or adjust sample rate            |
 
 ---
 
@@ -131,7 +132,6 @@ REAPER 7’s default theme includes:
 2. **Drag** an audio file into the timeline  
 3. **Press** ▶️ to play  
 
-Explore plugins, MIDI mapping, and more in the next guides.
+Explore plugins, MIDI mapping, and more in the following guides.
 
 > **Feedback welcome:** Open an issue or submit a pull request to improve this guide.  
-`
