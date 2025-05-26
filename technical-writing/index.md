@@ -12,36 +12,21 @@ My aim in this section is simple: translate the products and practices I use int
 
  ## Sections
 
--### Installation Guides  
--Step-by-step instructions …  
--[Explore Installation Guides →](installation-guides/index.md)
+### Installation Guides  
+Step-by-step instructions for installing software and hardware without guesswork.  
+[Explore Installation Guides →](installation-guides/)
 
--### User Manuals  
--Comprehensive manuals …  
--[Explore User Manuals →](technical-writing/user-manuals/index.md)
+### User Manuals  
+Comprehensive manuals that show you how to set up and use tools, devices, or systems in real time.  
+[Explore User Manuals →](user-manuals/)
 
--### Conceptual Education  
--Deep-dive guides …  
--[Explore Conceptual Education →](technical-writing/conceptual-education/index.md)
+### Conceptual Education  
+Deep-dive guides to explain core concepts, terminology, and best practices for beginners.  
+[Explore Conceptual Education →](conceptual-education/)
 
--### Release Notes  
--Structured notes …  
--[Explore Release Notes →](release-notes/index.md)
-+### Installation Guides  
-+Step-by-step instructions …  
-+[Explore Installation Guides →](installation-guides/)
-
-+### User Manuals  
-+Comprehensive manuals …  
-+[Explore User Manuals →](user-manuals/)
-
-+### Conceptual Education  
-+Deep-dive guides …  
-+[Explore Conceptual Education →](conceptual-education/)
-
-+### Release Notes  
-+Structured notes …  
-+[Explore Release Notes →](release-notes/)
+### Release Notes  
+Structured notes on major product updates and changes, grouped by version.  
+[Explore Release Notes →](release-notes/)
 
 ---
 
