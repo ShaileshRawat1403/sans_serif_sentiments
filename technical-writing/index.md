@@ -8,7 +8,7 @@ My aim in this section is simple: translate the products and practices I use int
 
 ### Getting Started with REAPER  
 A beginner-focused installation hub for the REAPER DAW, complete with version-aware notes and troubleshooting.  
-[View project →](projects/reaper-install/README.md)
+[View project →](installation-guides/projects/getting-started-with-reaper/)
 
 ### Cloud Storage 101  
 An introductory guide to cloud storage, blending clear explanations and practical setup steps for everyday users.  
