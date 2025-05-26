@@ -121,8 +121,9 @@ REAPER 7’s default theme introduces:
 
 ## Version-Specific Notes
 
-- [REAPER v7.0 Theme & Layout](../v7.0/index.md)  
-- [REAPER v7.1+ Refinements](../v7.1/index.md)
+- [REAPER v6.0.0 Release Notes](../../../release-notes/reaper/v6.0.0.md)  
+- [REAPER v7.0.0 Release Notes](../../../release-notes/reaper/v7.0.0.md)  
+- [REAPER v7.1.0 Release Notes](../../../release-notes/reaper/v7.1.0.md)  
 
 ---
 
