@@ -19,15 +19,13 @@ Below are the main categories of technical writing. Each category has its own in
 Step-by-step instructions for installing software and hardware without guesswork.  
 [Explore Installation Guides →](installation-guides/index.md)
 
-### User Manuals
+### User Manuals  
+Comprehensive manuals …  
+[Explore User Manuals →](technical-writing/user-manuals/)
 
-Comprehensive manuals that show you how to set up and use tools, devices, or systems in real time.  
-[Explore User Manuals →](user-manuals/index.md)
-
-### Conceptual Education
-
-Deep-dive guides to explain core concepts, terminology, and best practices for beginners.  
-[Explore Conceptual Education →](conceptual-education/index.md)
+### Conceptual Education  
+Deep-dive guides …  
+[Explore Conceptual Education →](technical-writing/conceptual-education/)
 
 ### Release Notes
 
