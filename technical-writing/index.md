@@ -1,27 +1,43 @@
+---
+title: "Technical Writing"
+description: "Overview of technical writing projects, organized by category"
+last_updated: 2025-05-26
+---
+
 # Technical Writing
 
 My aim in this section is simple: translate the products and practices I use into reliable, community-driven documentation you can trust and extend.
 
 ---
 
-## Projects
+## Sections
 
-### Getting Started with REAPER  
-A beginner-focused installation hub for the REAPER DAW, complete with version-aware notes and troubleshooting.  
-[View project →](installation-guides/projects/getting-started-with-reaper/)
+Below are the main categories of technical writing. Each category has its own index with links to the projects within.
 
-### Cloud Storage 101  
-An introductory guide to cloud storage, blending clear explanations and practical setup steps for everyday users.  
-[View project →](projects/cloud-storage/README.md)
+### Installation Guides
 
-### Documentation Style Guide  
-An overview of my writing principles, tone rules, and real-world examples—driving consistency across all documentation.  
-[View project →](projects/style-guide/README.md)
+Step-by-step instructions for installing software and hardware without guesswork.  
+[Explore Installation Guides →](installation-guides/index.md)
+
+### User Manuals
+
+Comprehensive manuals that show you how to set up and use tools, devices, or systems in real time.  
+[Explore User Manuals →](user-manuals/index.md)
+
+### Conceptual Education
+
+Deep-dive guides to explain core concepts, terminology, and best practices for beginners.  
+[Explore Conceptual Education →](conceptual-education/index.md)
+
+### Release Notes
+
+Structured notes on major product updates and changes, grouped by version.  
+[Explore Release Notes →](release-notes/index.md)
 
 ---
 
 ## How to Use
 
-1. Click the project link above to open its folder.  
-2. Read that folder’s `README.md` for full documentation.  
-3. Follow any additional links inside for assets, code samples, or deeper dives.
+1. Choose a section above to see its overview and available projects.  
+2. Click the section link to open its index file.  
+3. Select a project and follow the links inside for the full documentation.
