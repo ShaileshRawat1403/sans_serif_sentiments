@@ -3,7 +3,8 @@
 A complete, beginner-focused guide to installing and configuring REAPER—the lightweight, flexible, and powerful digital audio workstation.
 
 <p align="center">
-  <img src="/assets/images/reaper-flowchart.svg" alt="REAPER Installation Flowchart"
+  <img src="../../../assets/images/reaper-flowchart.svg"
+       alt="REAPER Installation Flowchart"
        style="max-width:600px; width:100%; height:auto;">
 </p>
 
