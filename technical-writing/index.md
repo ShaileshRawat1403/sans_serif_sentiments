@@ -10,27 +10,38 @@ My aim in this section is simple: translate the products and practices I use int
 
 ---
 
-## Sections
+ ## Sections
 
-Below are the main categories of technical writing. Each category has its own index with links to the projects within.
+-### Installation Guides  
+-Step-by-step instructions …  
+-[Explore Installation Guides →](installation-guides/index.md)
 
-### Installation Guides
+-### User Manuals  
+-Comprehensive manuals …  
+-[Explore User Manuals →](technical-writing/user-manuals/index.md)
 
-Step-by-step instructions for installing software and hardware without guesswork.  
-[Explore Installation Guides →](installation-guides/index.md)
+-### Conceptual Education  
+-Deep-dive guides …  
+-[Explore Conceptual Education →](technical-writing/conceptual-education/index.md)
 
-### User Manuals  
-Comprehensive manuals …  
-[Explore User Manuals →](technical-writing/user-manuals/)
+-### Release Notes  
+-Structured notes …  
+-[Explore Release Notes →](release-notes/index.md)
++### Installation Guides  
++Step-by-step instructions …  
++[Explore Installation Guides →](installation-guides/)
 
-### Conceptual Education  
-Deep-dive guides …  
-[Explore Conceptual Education →](technical-writing/conceptual-education/)
++### User Manuals  
++Comprehensive manuals …  
++[Explore User Manuals →](user-manuals/)
 
-### Release Notes
++### Conceptual Education  
++Deep-dive guides …  
++[Explore Conceptual Education →](conceptual-education/)
 
-Structured notes on major product updates and changes, grouped by version.  
-[Explore Release Notes →](release-notes/index.md)
++### Release Notes  
++Structured notes …  
++[Explore Release Notes →](release-notes/)
 
 ---
 
