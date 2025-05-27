@@ -41,3 +41,10 @@ This is a living, collaborative hub. To get involved:
 - **Join the discussion** to share ideas and best practices  
 
 Thank you for making this resource more reliable and accessible for everyone.
+
+---
+
+### Backstory
+
+Curious why this project exists in the first place?  
+Read the satirical-but-true origin story in the [README file →](./README.md)
