@@ -1,6 +1,6 @@
 # sans-serif-sentiments
 
-*A human-first technical writing portfolio where clarity commits, and fluff gets forked.*
+*A writing portfolio where clarity commits, and fluff gets forked.*
 
 This is not just a repository.  
 It’s a rebellion against persuasive pretension, bloated frameworks, and jargon-scented PDFs.  
