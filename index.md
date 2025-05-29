@@ -16,12 +16,17 @@ This section showcases step-by-step guides, user manuals, and style systems craf
 This section highlights content strategies, campaign case studies, and brand storytelling frameworks.  
 [Explore Marketing →](./marketing/index.md)
 
-### Templates & Tools (Coming Soon)  
-Practical assets to jumpstart your own documentation:  
-- Checklists  
-- Markdown starter kits  
-- Voice & tone sliders  
-- Content decision maps
+## Templates & Tools
+
+Practical assets to jumpstart your own documentation:
+
+- > 📎 Uses principles from our [Style Guide](../../../docs/STYLE-GUIDE/STYLE-GUIDE.md)
+
+(Coming Soon)
+- [✅ Checklists →](templates-and-tools/checklists/)
+- [✍️ Markdown starter kits →](templates-and-tools/markdown-starter-kits/)
+- [🎯 Voice & tone sliders →](templates-and-tools/voice-and-tone-sliders/)
+- [🧭 Content decision maps →](templates-and-tools/content-decision-maps/)
 
 ---
 
