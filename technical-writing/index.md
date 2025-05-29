@@ -6,7 +6,7 @@ last_updated: 2025-05-26
 
 # Technical Writing
 
-My aim in this section is simple: translate the products and practices I use into reliable, community-driven documentation you can trust and extend.
+> My aim in this section is simple: translate the products and practices I use into reliable, community-driven documentation you can trust and extend.
 
 ---
 
