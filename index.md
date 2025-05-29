@@ -54,4 +54,4 @@ Thank you for making this resource more reliable and accessible for everyone.
 Curious why this project exists in the first place?  
 Read the satirical-but-true origin story here - the [README file →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/README.md) 
 
-
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
