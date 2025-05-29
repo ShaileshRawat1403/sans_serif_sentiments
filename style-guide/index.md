@@ -6,9 +6,9 @@ _A living framework for calm, clear, human-first documentation._
 
 ## 📑 Table of Contents
 
-1. [Purpose of This Guide](#purpose-of-this-guide)  
-2. [Tone & Voice](#tone--voice)  
-3. [Structure & Hierarchy](#structure--hierarchy)  
+1. [Purpose of This Guide](#1-purpose-of-this-guide)  
+2. [Tone & Voice](#2-tone--voice)  
+3. [Structure & Hierarchy](#3-structure--hierarchy)  
 4. [Emphasis Rules](#emphasis-rules)  
 5. [Language & Word Choice](#language--word-choice)  
 6. [Layout Patterns](#layout-patterns)  
