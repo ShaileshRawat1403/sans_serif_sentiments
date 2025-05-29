@@ -20,7 +20,7 @@ This section highlights content strategies, campaign case studies, and brand sto
 
 Practical assets to jumpstart your own documentation:
 
-- > 📎 Uses principles from our - [🎨 Style Guide](./sans_serif_sentiments/style-guide/index.md)
+- > 📎 Uses principles from our - [🎨 Style Guide](./sans_serif_sentiments/style-guide/)
 
 (Coming Soon)
 - [✅ Checklists →](templates-and-tools/checklists/)
