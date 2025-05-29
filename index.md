@@ -52,4 +52,6 @@ Thank you for making this resource more reliable and accessible for everyone.
 ### Backstory
 
 Curious why this project exists in the first place?  
-Read the satirical-but-true origin story in the [README file →](./README.md)
+Read the satirical-but-true origin story here - the [README file →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/README.md) 
+
+
