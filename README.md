@@ -87,7 +87,7 @@ Write like they matter—because they do.
 
 ## license
 
-MIT License, because freedom matters.  
+CC 4.0 License, because freedom matters.  
 But so does responsibility.  
 So be kind with your forks.
 
