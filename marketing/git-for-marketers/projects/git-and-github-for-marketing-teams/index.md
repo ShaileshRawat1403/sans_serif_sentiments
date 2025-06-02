@@ -3,12 +3,22 @@
 
 ---
 
+> **Disclaimer**  
+> This document is part of an open effort to simplify, inform, and share.  
+> It may not be exhaustive or comprehensive — but the intention is.  
+>  
+> **You are encouraged to question, improve, and extend it.**  
+> Mistakes are possible. Growth is the goal.
+
+
 ## Overview
 
-Marketing often runs on chaos masked as creativity — overflowing folders, files named `final_FINAL_v3_APPROVED_THIS_ONE_REVIEWED.pptx`, and feedback scattered across email, Slack, and sticky notes.
+**Marketing teams are creative** — but often disorganized. — overflowing folders, files named `final_FINAL_v3_APPROVED_THIS_ONE_REVIEWED.pptx`, and feedback scattered across email, Slack, and sticky notes.
 
-Git and GitHub offer a better way.  
-They bring **version control**, **collaboration**, and **clarity** into the marketing workflow — without needing to know how to code.
+Git and GitHub offer a better way.
+> They bring  structure, clarity, and accountability — without taking away creativity.
+
+This guide tries to bring **version control**, **collaboration**, and **clarity** into the marketing workflow — without needing to know how to code.
 
 ---
 
