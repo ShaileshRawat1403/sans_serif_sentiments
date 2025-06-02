@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 Marketing often runs on chaos masked as creativity — overflowing folders, files named `final_FINAL_v3_APPROVED_THIS_ONE_REVIEWED.pptx`, and feedback scattered across email, Slack, and sticky notes.
 
@@ -12,45 +12,44 @@ They bring **version control**, **collaboration**, and **clarity** into the mark
 
 ---
 
-## 📁 Table of Contents
+## Table of Contents
 
-1. [Why Git and GitHub for Marketing?](#why-git-and-github-for-marketing)  
-2. [Key Concepts Explained Simply](#key-concepts-explained-simply)  
-3. [Use Cases in Marketing Teams](#use-cases-in-marketing-teams)  
-4. [Step-by-Step: Setting Up GitHub for Marketing](#step-by-step-setting-up-github-for-marketing)  
-5. [Workflow Example: Blog Publishing](#workflow-example-blog-publishing)  
-6. [Managing Creative Assets](#managing-creative-assets)  
-7. [Version Control Without Tears](#version-control-without-tears)  
-8. [Pull Requests: Feedback Without Chaos](#pull-requests-feedback-without-chaos)  
-9. [Managing Campaigns with Issues & Projects](#managing-campaigns-with-issues--projects)  
-10. [Best Practices for Marketing GitHub Repos](#best-practices-for-marketing-github-repos)  
-11. [When NOT to Use GitHub](#when-not-to-use-github)  
-12. [Tools & Integrations](#tools--integrations)  
-13. [Git Glossary for Marketing Teams](#git-glossary-for-marketing-teams)  
+1. [Why Git and GitHub for Marketing?](#why-git-and-github-for-marketing)
+2. [Key Concepts Explained Simply](#key-concepts-explained-simply)
+3. [Use Cases in Marketing Teams](#use-cases-in-marketing-teams)
+4. [Step-by-Step: Setting Up GitHub for Marketing](#step-by-step-setting-up-github-for-marketing)
+5. [Workflow Example: Blog Publishing](#workflow-example-blog-publishing)
+6. [Managing Creative Assets](#managing-creative-assets)
+7. [Version Control Without Tears](#version-control-without-tears)
+8. [Pull Requests: Feedback Without Chaos](#pull-requests-feedback-without-chaos)
+9. [Managing Campaigns with Issues and Projects](#managing-campaigns-with-issues-and-projects)
+10. [Best Practices for Marketing GitHub Repos](#best-practices-for-marketing-github-repos)
+11. [When Not to Use GitHub](#when-not-to-use-github)
+12. [Tools and Integrations](#tools-and-integrations)
+13. [Git Glossary for Marketing Teams](#git-glossary-for-marketing-teams)
 14. [Final Thoughts](#final-thoughts)
+15. [Next Steps](#next-steps)
 
 ---
 
-## 💡 Why Git and GitHub for Marketing?
+## Why Git and GitHub for Marketing?
 
 ### Problem:
-> “Where’s the final deck?”
->
-> “Which version do I use?”
->
+> “Where’s the final deck?”  
+> “Which version do I use?”  
 > “Who changed the headline again?”
 
 ### Solution:
 GitHub removes the guesswork.  
 You get **one source of truth**, **every version tracked**, and **collaborative workflows that scale**.
 
-**Example**:  
+**Example:**  
 Instead of emailing “content-v2-revised-July28-NEW-Draft.pptx” back and forth,  
 you create a branch → edit → push → create pull request → review → merge.
 
 ---
 
-## 🧠 Key Concepts Explained Simply
+## Key Concepts Explained Simply
 
 | Concept            | What It Means                        | Example Use in Marketing                                                  |
 |--------------------|---------------------------------------|---------------------------------------------------------------------------|
@@ -59,9 +58,9 @@ you create a branch → edit → push → create pull request → review → mer
 | **Commit**          | A saved edit with a note             | “Updated CTAs on email 2 based on feedback”                               |
 | **Push**            | Send local changes to GitHub         | Final blog draft written locally, then pushed to GitHub for review        |
 | **Pull**            | Sync latest updates from GitHub      | Designer pulls updated copy for the website from content team             |
-| **Pull Request**    | Propose & review changes             | Copywriter submits edits to social captions for review before approval    |
+| **Pull Request**    | Propose and review changes           | Copywriter submits edits to social captions for review before approval    |
 | **Merge**           | Apply reviewed changes               | Approved SEO edits are merged into main blog post                         |
-| **Issue**           | A to-do/task/feedback note           | “Update email banner for Q3 theme”                                        |
+| **Issue**           | A to-do, task, or feedback note      | “Update email banner for Q3 theme”                                        |
 | **Project Board**   | A visual Kanban board                | Track content pipeline: To Do → Writing → Review → Scheduled              |
 | **README.md**       | A guide to the repo                  | Quick explanation: “This repo tracks our 2025 social campaigns”           |
 | **Markdown**        | Clean text format with simple syntax | `# Header` for titles, `-` for lists, `[]()` for links                    |
@@ -69,7 +68,7 @@ you create a branch → edit → push → create pull request → review → mer
 
 ---
 
-## 🎯 Use Cases in Marketing Teams
+## Use Cases in Marketing Teams
 
 ### ✅ Blog Publishing Workflow  
 Track drafts, edits, approvals, and design assets — all in one versioned place.
@@ -88,7 +87,7 @@ Try SEO variations in branches, track what works, and roll back when needed.
 
 ---
 
-## 🛠️ Step-by-Step: Setting Up GitHub for Marketing
+## Step-by-Step: Setting Up GitHub for Marketing
 
 1. **Create a GitHub account**
 2. **Start a repository**  
@@ -109,23 +108,23 @@ Try SEO variations in branches, track what works, and roll back when needed.
 
 ---
 
-## ✍️ Workflow Example: Blog Publishing
+## Workflow Example: Blog Publishing
 
-```mermaid
-graph TD;
-    A[New blog idea] --> B[Create branch: blog-draft-topicX]
-    B --> C[Write in blog.md]
-    C --> D[Push to GitHub]
-    D --> E[Create Pull Request]
-    E --> F[Team comments + suggestions]
-    F --> G[Apply changes]
-    G --> H[Merge into main branch]
-    H --> I[Mark as "Ready to Publish"]
-```
+### Text-Based Flow (GitHub-Compatible)
+
+1. New blog idea  
+2. Create branch: `blog-draft-topicX`  
+3. Write in `blog.md`  
+4. Push to GitHub  
+5. Create Pull Request  
+6. Team comments and suggests changes  
+7. Apply changes  
+8. Merge into main branch  
+9. Mark as "Ready to Publish"
 
 ---
 
-### ❌ Before GitHub
+### Before GitHub
 
 - `blog-title-draft-v3-edited-SANDHYA-version-FINAL.docx`
 - Email feedback: “Please change line 3 and 5”
@@ -139,9 +138,7 @@ graph TD;
 
 ---
 
-## 🖼️ Managing Creative Assets
-
-While GitHub isn't perfect for large files, it works great for:
+## Managing Creative Assets
 
 | Scenario                              | Best Practice                                   |
 |---------------------------------------|-------------------------------------------------|
@@ -155,7 +152,7 @@ While GitHub isn't perfect for large files, it works great for:
 
 ---
 
-## 🔄 Version Control Without Tears
+## Version Control Without Tears
 
 ### ❌ Common Pain:
 > “I’m not sure which version of the email we approved.”
@@ -172,7 +169,7 @@ Now you know **who wrote what**, **when**, and **why** — with the ability to u
 
 ---
 
-## 🤝 Pull Requests: Feedback Without Chaos
+## Pull Requests: Feedback Without Chaos
 
 A Pull Request (PR) lets you propose changes, get feedback, and merge when approved — just like Suggest Mode in Google Docs, but tracked forever.
 
@@ -188,7 +185,7 @@ No overlapping edits. No back-and-forth emails. No confusion.
 
 ---
 
-## 📋 Managing Campaigns with Issues & Projects
+## Managing Campaigns with Issues and Projects
 
 ### Example: Social Media Planning Board
 
@@ -207,7 +204,7 @@ Each Issue can have:
 
 ---
 
-## 📐 Best Practices for Marketing GitHub Repos
+## Best Practices for Marketing GitHub Repos
 
 | Tip                                 | Why It Helps                                               |
 |-------------------------------------|-------------------------------------------------------------|
@@ -220,7 +217,7 @@ Each Issue can have:
 
 ---
 
-## 🚫 When NOT to Use GitHub
+## When Not to Use GitHub
 
 | Don’t use GitHub for...           | Reason                                                      |
 |----------------------------------|--------------------------------------------------------------|
@@ -230,18 +227,18 @@ Each Issue can have:
 
 ---
 
-## 🔌 Tools & Integrations
+## Tools and Integrations
 
 | Tool                  | Integration Use                                       |
 |-----------------------|--------------------------------------------------------|
-| **Figma**             | Embed design links inside Markdown files              |
-| **Slack**             | Auto-notify when PRs are created or merged            |
-| **Zapier**            | Automate GitHub → Trello/Sheets for campaign updates  |
-| **GitHub Pages**      | Publish internal brand docs, style guides, etc.       |
+| Figma                 | Embed design links inside Markdown files              |
+| Slack                 | Auto-notify when PRs are created or merged            |
+| Zapier                | Automate GitHub → Trello/Sheets for campaign updates  |
+| GitHub Pages          | Publish internal brand docs, style guides, etc.       |
 
 ---
 
-## 🛠️ Git Glossary for Marketing Teams
+## Git Glossary for Marketing Teams
 
 | Command                   | What It Means                                     | Marketing Scenario Example                        |
 |---------------------------|----------------------------------------------------|---------------------------------------------------|
@@ -258,18 +255,18 @@ Each Issue can have:
 | `git diff`                | Compare two versions                               | Check how the CTA changed between drafts          |
 | `.gitignore`              | Ignore junk files                                  | Avoid pushing `.DS_Store`, `.ai~`, `Thumbs.db`    |
 | `README.md`               | Explains the project or folder purpose             | “This folder contains all March 2025 social copy” |
-| `Markdown (.md)`          | Easy-to-read writing format                        | All copy, plans, and briefs can live here         |
+| Markdown (`.md`)          | Easy-to-read writing format                        | All copy, plans, and briefs can live here         |
 
 ---
 
-## 🧵 Final Thoughts
+## Final Thoughts
 
 GitHub isn’t just for developers.
 
 It’s for marketers who are tired of:
-- Duplicated files
-- Confusing edits
-- Lost feedback
+- Duplicated files  
+- Confusing edits  
+- Lost feedback  
 - Broken workflows
 
 By working like creators *and* collaborators — using commits, branches, and pull requests — marketing becomes:
@@ -282,14 +279,13 @@ And most importantly: **Creative with clarity.**
 
 ---
 
-## 📎 Next Steps
+## Next Steps
 
-1. Create your first GitHub repo for your **2025 content calendar**
-2. Write your next email copy as a `.md` file in a branch
-3. Submit a Pull Request for peer feedback
+1. Create your first GitHub repo for your **2025 content calendar**  
+2. Write your next email copy as a `.md` file in a branch  
+3. Submit a Pull Request for peer feedback  
 4. Use GitHub Projects to track your campaign launch
 
 Let Git bring the same discipline to **marketing** as it did to **code**.
 
 Your brand will thank you for it.
-
