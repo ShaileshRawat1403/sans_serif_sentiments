@@ -13,7 +13,7 @@
 
 ## Overview
 
-**Marketing teams are creative** — but often disorganized. — overflowing folders, files named `final_FINAL_v3_APPROVED_THIS_ONE_REVIEWED.pptx`, and feedback scattered across email, Slack, and sticky notes.
+**Marketing teams are creative — but often disorganized.** — overflowing folders, files named `final_FINAL_v3_APPROVED_THIS_ONE_REVIEWED.pptx`, and feedback scattered across email, Slack, and sticky notes.
 
 Git and GitHub offer a better way.
 > They bring  structure, clarity, and accountability — without taking away creativity.
