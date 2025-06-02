@@ -47,11 +47,28 @@ You get **one source of truth**, **every version tracked**, and **collaborative 
 Instead of emailing “content-v2-revised-July28-NEW-Draft.pptx” back and forth,  
 you create a branch → edit → push → create pull request → review → merge.
 
+### Why Git Makes Sense for Marketing Teams
+
+> **✅ Version Control**  
+> Track every content change — no more overwriting files.
+
+> **✅ Collaboration**  
+> Suggest edits, request reviews, and branch out ideas safely.
+
+> **✅ Transparency**  
+> Know exactly who changed what, when, and why.
+
+> **✅ Scalability**  
+> Build systems for blogs, campaigns, and brand assets.
+
+> **✅ Clutter-Free History**  
+> Say goodbye to `final-v6_REAL_THISONE.pptx`
+
 ---
 
 ## Key Concepts Explained Simply
 
-| Concept            | What It Means                        | Example Use in Marketing                                                  |
+| Concept            | What It Means                        | Use Case in Marketing                                                  |
 |--------------------|---------------------------------------|---------------------------------------------------------------------------|
 | **Repository**      | A folder that holds your project      | `email-campaigns-2025/` or `brand-guidelines/`                            |
 | **Branch**          | A draft version                      | `subject-line-variants` branch for testing headlines                      |
