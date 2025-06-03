@@ -226,8 +226,8 @@ Ask:
 1. **HBR** – *Why Transformation Efforts Fail*  
    https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2
 
-3. **Microsoft Growth Mindset Memo** (via Satya Nadella)  
-   https://www.inc.com/justin-bariso/satya-nadella-microsoft-growth-mindset.html  
+3. **Change Management and Communication Strategy** (Gartner)  
+   https://www.gartner.com/en/corporate-communications/insights/change-communication
 
 4. **Stripe API Change Docs**  
    https://stripe.com/docs/upgrades  
