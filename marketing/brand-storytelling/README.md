@@ -18,11 +18,8 @@ A deep dive into brand wisdom drawn from a man who said nothing, yet said it all
 ---
 
 ## Coming Soon
-
-- `klaar-brand-story-map.md`  
-- `se7en-sins-of-marketing.md`  
-- `apple-retail-magic-thread.md`  
-- `eurokids-narrative-reframe.md`  
+ 
+- `se7en-sins-of-marketing.md`   
 - `onlydesi-details-matter.md`  
 
 ---
