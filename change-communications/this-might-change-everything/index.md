@@ -232,8 +232,8 @@ Ask:
 4. **Stripe API Change Docs**  
    https://stripe.com/docs/upgrades  
 
-5. **Google Gemini Employee Backlash**  
-   https://www.nytimes.com/2024/03/02/technology/google-gemini-controversy.html
+5. **Communication Issues in the Change Management Process**  
+   https://www.researchgate.net/publication/378147139_COMMUNICATION_ISSUES_IN_THE_CHANGE_MANAGEMENT_PROCESS_IN_PUBLIC_ORGANISATIONS
 
 ---
 
