@@ -40,7 +40,7 @@ A strong vision acts as the backbone of any change. It aligns every system—str
 **Example:**  
 > A tech startup announced a shift to “platform-first thinking.” Yet product teams were still measured on feature velocity. The result? A bent spine—no clarity, no coherence.
 
-This is why vision must be felt, not just stated. As [Simon Sinek reminds us](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action), great leaders inspire action by starting with why.
+This is why vision must be felt, not just stated. As [Simon Sinek reminds us](https://simonsinek.com/the-optimism-library/?), great leaders inspire action by starting with why.
 
 ---
 
