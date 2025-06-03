@@ -237,7 +237,7 @@ GitHub Pages is powerful once you understand how it works. But it can be frustra
 
 This guide exists because we broke things first—so you don’t have to.
 
-> If you remember one thing:  
+> **Don't assume**:  
 > Always test your links *on the live site*, not just inside the repo.
 
 ---
