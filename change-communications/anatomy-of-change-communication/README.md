@@ -16,7 +16,7 @@ A strong vision acts as the backbone of any change. It aligns every system—str
 - Is your vision specific enough to guide action?
 - Are daily decisions aligned with what leadership says?
 
-**Mini case example:**
+**Example:**
 > A tech startup announced a shift to “platform-first thinking.” Yet product teams were still measured on feature velocity. The result? A bent spine—no clarity, no coherence.
 
 When your spine bends under pressure, your communication becomes unstable. Strong change requires a vision people can hold onto, not just hear once.
@@ -31,7 +31,7 @@ Communication is not just top-down. It's a sensing system. Your nervous system i
 - Do we have two-way communication built into our routines?
 - Is there a clear path for raising concerns or surfacing signals from teams?
 
-**Real-world example:**
+**Example:**
 > In a global retail chain, store employees were expected to implement new digital checkouts. But many lacked training. No feedback system existed to escalate issues until customer complaints surfaced online.
 
 Organizations without nerves don’t feel pain until it’s too late.
@@ -46,7 +46,7 @@ People don’t experience change through bullet points. They experience it throu
 - Anticipate common emotional responses (confusion, resentment, apathy).
 - Let leaders name discomfort out loud—this creates psychological permission.
 
-**Mini case example:**
+**Example:**
 > During a post-merger integration, one company invited employees to write down “What I’m afraid will be lost” on anonymous cards. The collected themes were addressed in follow-up sessions. This simple act reduced anxiety more than any policy change.
 
 The heart isn’t a soft extra. It’s the reason people stay or silently check out.
@@ -61,7 +61,7 @@ The skin is the interface. It protects and connects. Language in change communic
 - Using overly polished “we’re excited to announce…” language during layoffs.
 - Saying “transparency matters” while hiding uncomfortable truths in footnotes.
 
-**Case example:**
+**Example:**
 > A global SaaS company moved to a flatter org structure. The CEO’s memo used vague metaphors (“we are growing into a new tree of collaboration”) and corporate lingo. Employees were confused. A follow-up by a senior leader using direct language got more engagement than the official announcement.
 
 Language that doesn’t breathe becomes armor. And people respond to armor with distance.
@@ -91,7 +91,7 @@ Change doesn’t happen in slides. It happens in team meetings, daily tools, and
 - Clear, role-specific actions: “What should I do differently starting Monday?”
 - Reinforcement through managers and team leads, not just comms teams.
 
-**Mini case example:**
+**Example:**
 > A health-tech company updated its compliance model. But field sales reps never received new onboarding materials tailored to their territory. Six months later, policy violations were still rising—not due to resistance, but due to unclear instruction.
 
 Without clarity, action becomes guesswork. And guesswork leads to inaction.
@@ -107,7 +107,7 @@ Routines hold change in place. Without structural reinforcement, even the best c
 - Visible recognition of teams embodying the change
 - Monthly retros to adapt communication as needed
 
-**Real-world case:**
+**Example:**
 > A fintech company trying to embed “customer-first thinking” created a ritual called “Friday Voice” where teams shared one story of customer feedback they acted on. This weekly habit did more to embed the change than the original rollout campaign.
 
 Messages don’t become culture until they're repeated in structures people can rely on.
