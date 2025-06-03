@@ -224,15 +224,15 @@ Ask:
 ## 📚 References & Articles
 
 1. **HBR** – *Why Transformation Efforts Fail*  
-   https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail  
+   https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2
 
-2. **Microsoft Growth Mindset Memo** (via Satya Nadella)  
+3. **Microsoft Growth Mindset Memo** (via Satya Nadella)  
    https://www.inc.com/justin-bariso/satya-nadella-microsoft-growth-mindset.html  
 
-3. **Stripe API Change Docs**  
+4. **Stripe API Change Docs**  
    https://stripe.com/docs/upgrades  
 
-4. **Google Gemini Employee Backlash**  
+5. **Google Gemini Employee Backlash**  
    https://www.nytimes.com/2024/03/02/technology/google-gemini-controversy.html
 
 ---
