@@ -2020,7 +2020,7 @@ It’s the truth.**
 
 ---
 
-##📌 TL;DR — “Prompted, But Not Prepared”
+## TL;DR — “Prompted, But Not Prepared”
 
 > _You don’t need to master AI.  
 You need to master how **you** work with AI._
