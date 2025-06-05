@@ -779,8 +779,9 @@ Once done, show me 2 alternate intros with different emotional framing.
 
 > 💬 *You’ve done this every time you asked clearly for help.*  
 Whether it was a teammate, a friend, or your kid.  
-Prompting is just framing your need with clarity and care.  
-That’s not “AI literacy.” That’s just *communication*. 📌
+Prompting is just framing your need with clarity and care.
+ 
+> 📌 That’s not “AI literacy.” That’s just *communication*. 
 
 
 Ask yourself:
