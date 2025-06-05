@@ -151,7 +151,7 @@ This guide will feel more like a conversation than a crash course.
 
 ---
 
-## Welcome: This Is the Best Time to Study
+## #1 Welcome: This Is the Best Time to Study
 
 > 🧠 *You weren’t late to the AI revolution.  
 You were right on time to ask better questions.*
