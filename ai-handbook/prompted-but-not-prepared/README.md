@@ -159,7 +159,7 @@ This guide will feel more like a conversation than a crash course.
 
 ---
 
-## #1 Welcome: This Is the Best Time to Study
+## Welcome: This Is the Best Time to Study
 
 > 🧠 *You weren’t late to the AI revolution.  
 You were right on time to ask better questions.*
@@ -271,7 +271,7 @@ It might be the last time you can afford not to.*
 
 ---
 
-## #2 The AI Entry Point: Where Most People Begin
+## The AI Entry Point: Where Most People Begin
 
 > 💬 *No one teaches you how to use a mirror.  
 But it still matters how you look into it.*
@@ -356,7 +356,7 @@ but whether you’re willing to learn how to dive.*
 
 ---
 
-## #3 Why Most People Misunderstand AI (And It’s Not Their Fault)
+## Why Most People Misunderstand AI (And It’s Not Their Fault)
 
 > 💬 *You didn’t fail to understand AI.  
 AI failed to explain itself like it was talking to a human.*
@@ -487,7 +487,7 @@ You were just never told what to prepare for.*
 
 ---
 
-## #3 Front-End vs Back-End — What’s Really Happening
+## Front-End vs Back-End — What’s Really Happening
 
 > 🧠 *You see a reply.  
 But under the hood, a storm of probabilities just passed you by.*
@@ -618,7 +618,7 @@ the better your orders — and your outcomes.
 
 ---
 
-## #5 The Architecture of a Prompt — Understand the Parts, Understand the Power
+## The Architecture of a Prompt — Understand the Parts, Understand the Power
 
 > 💬 *You’re not bad at prompting.
 > You’ve just never seen what a good one is made of.*
@@ -934,7 +934,7 @@ Because the better you **think**, the better it **answers**.
 
 ---
 
-## #5 Types of Prompts — Choose Your Weapon, Choose Your War
+## Types of Prompts — Choose Your Weapon, Choose Your War
 
 > 🎯 *Different tools for different tasks. Different prompts for different minds.*
 
@@ -1280,5 +1280,4 @@ Because you’re not just dealing with ChatGPT.
 
 You’re stepping into an **entire ecosystem.**
 
-→ [Go to Section 7: Understanding AI's Ecosystem](#)
 
