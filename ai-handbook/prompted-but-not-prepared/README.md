@@ -1925,8 +1925,7 @@ Let AI do the typing — not the deciding._
 
 A good prompt is only half the story.  
 A good response is what you can confidently use, share, and stand by.
-> _The future isn’t about using AI faster. It’s about learning to slow down, ask better, and judge sharper.
 
-
+> _***The future isn’t about using AI faster. It’s about learning to slow down, ask better, and judge sharper.***_
 
 ---
