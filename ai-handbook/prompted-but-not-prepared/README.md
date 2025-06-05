@@ -521,89 +521,240 @@ Can you help me reflect on how I’ve misunderstood you? Give me 3 things you of
 You were just never told what to prepare for.*
 
 ---
-
 ## #4 The Architecture of a Prompt — Understand the Parts, Understand the Power
 
-> 💬 *You’re not bad at prompting.  
-You’ve just never seen what a good one is made of.*
+> 💬 *You’re not bad at prompting.
+> You’ve just never seen what a good one is made of.*
 
 ---
 
 Most people think they need “better prompts.”
 
-What they actually need is a **better way to think about prompting.**  
-Because a prompt isn’t a magic phrase.  
+What they actually need is a **better way to think about prompting.**
+Because a prompt isn’t a magic phrase.
 It’s a structured reflection of what you want, how you think, and how clearly you can express that to a machine that can’t read your mind — only your syntax.
 
-> 🧠 *Prompts don’t need to be longer.  
-They need to be sharper.*
+> 🧠 *Prompts don’t need to be longer.
+> They need to be sharper.*
 
 ---
 
-### 🧱 The 5-Part Anatomy of a Good Prompt
+## 🧱 The 6-Part Prompt Framework
 
-A strong prompt usually includes these 5 elements.  
-Not as rules — but as thought-lenses:
+Use this not as a formula — but as a lens.
+Each part helps reduce friction between your intent and the AI's output.
 
-| Part | What It Answers |
-|------|------------------|
-| 1. **Intent** | What do I *actually* want from this interaction? |
-| 2. **Role** | Who is the AI pretending to be (if anyone)? |
-| 3. **Context** | What background does it need to make the output relevant? |
-| 4. **Format** | What should the output *look like*? |
-| 5. **Constraints** | Are there limits or conditions (tone, length, style)? |
+| Part              | What It Answers                                                   |
+| ----------------- | ----------------------------------------------------------------- |
+| **Intent**        | What outcome am I truly seeking?                                  |
+| **Role**          | Who is the AI emulating for this task?                            |
+| **Context**       | What should the AI assume about my needs, audience, or situation? |
+| **Format**        | What should the output *look* like?                               |
+| **Constraints**   | What limits, rules, or conditions must be followed?               |
+| **Feedback Loop** | How do I know if the response is good, and what do I do next?     |
 
 ---
 
-### ❌ The Default Prompt
+## 1. 🎯 Intent — The Compass
+
+> Without intent, you’re not prompting. You’re fishing.
+
+**What It Answers:** What do I *actually* want out of this?
+
+### ❌ Weak
+
+```
+Write something about mindfulness.
+```
+
+### ✅ Strong
+
+```
+I want to help overwhelmed remote workers understand how 5-minute mindfulness breaks improve focus and reduce burnout.
+```
+
+### 💡 Why It Works:
+
+This sets a **clear destination**.
+You wouldn’t tell a friend “Let’s go somewhere.” You’d say, “Let’s go get coffee to decompress.” Intent guides context.
+
+### 🧪 Try It Yourself
+
+Take your last 3 prompts.
+Ask: “Did I actually say what I wanted to achieve?”
+
+---
+
+## 2. 👥 Role — The Actor
+
+> AI is method acting. You choose the mask.
+
+**What It Answers:** Who should the AI pretend to be?
+
+### ❌ Weak
+
+```
+Give me career advice.
+```
+
+### ✅ Strong
+
+```
+You are a career coach who helps mid-career professionals switch to creative fields.
+```
+
+### 💡 Why It Works:
+
+You’re not just asking. You’re casting.
+Different roles shape tone, examples, and mindset — just like talking to a doctor vs. a therapist.
+
+### 🧪 Try It Yourself
+
+Next time you prompt, begin with:
+“You are a…”
+See how much sharper the response gets.
+
+---
+
+## 3. 🌍 Context — The Backstory
+
+> The AI isn’t psychic. It’s contextual.
+
+**What It Answers:** What background does the AI need?
+
+### ❌ Weak
+
+```
+Explain why my startup failed.
+```
+
+### ✅ Strong
+
+```
+Our bootstrapped SaaS startup targeted early-career freelancers, but we didn’t validate the pricing model before launch. Can you analyze the potential business gaps?
+```
+
+### 💡 Why It Works:
+
+Context allows precision.
+No chef can cook well if you don’t mention allergies.
+
+### 🧪 Try It Yourself
+
+List 3 facts the AI needs to know *before* responding to your next prompt.
+
+---
+
+## 4. 🖾 Format — The Frame
+
+> Form is function when it comes to clarity.
+
+**What It Answers:** What should the output *look* like?
+
+### ❌ Weak
+
+```
+Help me understand this better.
+```
+
+### ✅ Strong
+
+```
+Explain this concept as a 4-point list, using analogies from cooking.
+```
+
+### 💡 Why It Works:
+
+You’re reducing decision fatigue — both for you and the AI.
+It’s like asking for a recipe vs. being handed a buffet.
+
+### 🧪 Try It Yourself
+
+Try 3 different formats for the same task:
+
+* List
+* Dialogue
+* Metaphor
+
+Notice how the tone and value shift.
+
+---
+
+## 5. ⛑ Constraints — The Guardrails
+
+> The power of the prompt lies in its precision.
+
+**What It Answers:** What rules, limits, or style guidelines should it follow?
+
+### ❌ Weak
+
+```
+Give me an idea.
+```
+
+### ✅ Strong
+
+```
+Give me 3 ideas suitable for a 60-second TikTok with a sarcastic tone, targeted at tired content marketers.
+```
+
+### 💡 Why It Works:
+
+Creativity loves boundaries.
+Constraints spark specific outputs — not generic mush.
+
+### 🧪 Try It Yourself
+
+Add constraints to your next prompt:
+
+* Word count
+* Tone
+* Use/not use of jargon
+
+---
+
+## 6. 🔁 Feedback Loop — The Conversation Continuum
+
+> Prompts aren’t one-night stands. They’re relationships.
+
+**What It Answers:** How do you guide, refine, and assess responses?
+
+### ❌ Weak
+
+> Hm. That’s not what I meant. (Abandon)
+
+### ✅ Strong
+
+```
+This is close, but I want less technical detail and more emotional impact. Can you rewrite it with that in mind?
+```
+
+### 💡 Why It Works:
+
+Feedback trains the model *for you*.
+You’re creating a loop — not a dead-end.
+
+### 🧪 Try It Yourself
+
+Use these phrases:
+
+* “Let’s iterate.”
+* “Can you rephrase this section?”
+* “Make it more \[x], less \[y].”
+
+---
+
+## 🔄 Final Example: The Evolution in Action
+
+Let’s rebuild a basic prompt using all 6 parts.
+
+### ❌ Default
 
 ```
 Write a blog post about remote work.
 ```
 
-**Why it fails**:  
-No audience, no tone, no structure, no intent beyond “write.”  
-It invites blandness. Because bland is the only safe assumption.
-
----
-
-### ✅ Rebuilding That Prompt Using the 5 Parts
-
-Let’s evolve it.
-
-#### **1. Intent**
-
-```
-I want to help first-time managers understand how remote work affects team morale.
-```
-
-#### **2. Role**
-
-```
-You are a leadership coach who specializes in remote team dynamics.
-```
-
-#### **3. Context**
-
-```
-My readers are new team leads in tech startups, managing hybrid teams across 3 time zones.
-```
-
-#### **4. Format**
-
-```
-Structure it like a short blog with a headline, 3 subheadings, and a closing takeaway.
-```
-
-#### **5. Constraints**
-
-```
-Keep the tone direct but empathetic. Stay under 700 words.
-```
-
----
-
-### 🔁 Full Final Prompt
+### ✅ Refined Prompt (All 6 Parts)
 
 ```
 You are a leadership coach who specializes in remote team dynamics.
@@ -615,58 +766,70 @@ My readers are new team leads in tech startups, managing hybrid teams across 3 t
 Structure it like a short blog with a headline, 3 subheadings, and a closing takeaway.
 
 Keep the tone direct but empathetic. Stay under 700 words.
+
+Once done, show me 2 alternate intros with different emotional framing.
 ```
 
-> 🧠 *This isn’t just a “prompt.”  
-It’s a blueprint for thought — and the AI is your builder.*
+> 🧠 *This isn’t just a prompt.
+> It’s a thought blueprint — and the AI is your builder.*
 
 ---
 
-### 🪜 See the Evolution in Action
+## 🧠 Think Break
 
-| Layer | Prompt Snippet |
-|-------|----------------|
-| ❌ Default | Write a blog post about remote work. |
-| ✅ Intent | I want to help managers understand morale in remote teams. |
-| ✅ Role | You are a leadership coach. |
-| ✅ Context | Audience is new team leads in startups, hybrid teams. |
-| ✅ Format | Blog with heading + 3 points + closing tip. |
-| ✅ Constraints | Empathetic tone, under 700 words. |
+> 💬 *You’ve done this every time you asked clearly for help.*  
+Whether it was a teammate, a friend, or your kid.  
+Prompting is just framing your need with clarity and care.  
+That’s not “AI literacy.” That’s just *communication*. 📌
 
-> 🔁 *Iterations aren’t just improvements.  
-They’re declarations of clarity.*
+
+Ask yourself:
+
+```
+Which part of the 6-part prompt do I tend to skip?
+```
+
+Try this:
+
+```
+Pick one old prompt and reframe it using all 6 layers.
+```
 
 ---
 
-### 📎 Encouragement Note
+## 📌 Encouragement Note
 
-> 💬 *You’ve done this before — with people.  
-When you brief a designer, explain a recipe, or give someone feedback.  
-You just didn’t call it prompting.  
-Now you can.*
+> 💬 *You’re not practicing prompts.
+> You’re practicing perspective.*
 
 ---
 
-### 🧠 Think Break
+## 🯩 Quiz Time (Reflection-Based)
 
-Ask your assistant:
+Choose the best version of a prompt below:
 
-```
-Here are 3 of my recent prompts. Can you tell me what’s missing in each: intent, role, context, format, or constraints?
-```
+**Scenario:** You want to generate viral taglines for a mental health app targeting young professionals.
 
-Or try this:
+A. “Give me taglines.”
+B. “Write 3 taglines that are inspiring and non-cliché.”
+C. “You are a brand strategist. I want 3 witty, emotionally resonant taglines for a mental health app aimed at 25–35 year old urban professionals. Format as a short list. Avoid clichés.”
 
-```
-Help me rewrite this prompt using the 5-part framework from “Prompted, But Not Prepared.”
-```
-
-> 💬 *You’re not practicing prompts.  
-You’re practicing perspective.*
+> ✅ **Answer: C** — It defines the role, intent, audience, format, and constraints.
 
 ---
 
-> 🔁 *Iterations are the goldmine when it comes to ideation.*  
-Every prompt you rebuild is a mirror you’re polishing — for both of you.
+## ✏️ Ritual Reminder
+
+> 🔁 *Iterations are the goldmine when it comes to ideation.*
+> Every prompt you rebuild is a mirror you’re polishing — for both of you.
 
 ---
+
+## 🖚 Closing Reflection
+
+Next time you're stuck writing a prompt, don’t reach for complexity.
+Reach for **clarity**.
+Because the better you **think**, the better it **answers**.
+
+> “Simple is not the same as easy.
+> But it’s where the truth lives.”
