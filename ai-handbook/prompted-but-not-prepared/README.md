@@ -834,3 +834,241 @@ Because the better you **think**, the better it **answers**.
 
 > “Simple is not the same as easy.
 > But it’s where the truth lives.”
+
+---
+
+## #5 Types of Prompts — Choose Your Weapon, Choose Your War
+
+> 🎯 *Different tools for different tasks. Different prompts for different minds.*
+
+Most people use prompts like a hammer.
+But not every problem is a nail.
+
+This section is your field guide to the **core families of prompts** — and how to wield them like a pro.
+Each type is followed by:
+
+* ✅ A strong example
+* ❌ A common mistake
+* 🧠 Why it works (or fails)
+* 🔁 Try it yourself
+
+---
+
+## 🧭 Prompt Types by Use Case
+
+| Type           | Best For                                   | Typical Output                              |
+| -------------- | ------------------------------------------ | ------------------------------------------- |
+| **Creative**   | Ideation, Writing, Content Generation      | Brainstormed ideas, copy drafts, narratives |
+| **Analytical** | Strategy, Decision Support, Comparisons    | Lists, frameworks, pros/cons                |
+| **Structural** | Organizing Ideas or Documents              | Tables, outlines, hierarchies               |
+| **Reflective** | Thought Partnering, Journaling, Ethics     | Open-ended questions, reframes              |
+| **Explainer**  | Learning a Concept, Simplifying            | Analogies, walkthroughs, examples           |
+| **Socratic**   | Self-Debate, Philosophy, Critical Thinking | Contrasts, counterarguments, provocations   |
+| **Role-Based** | Simulations, Training, Coaching            | Persona-specific advice, mock scenarios     |
+
+---
+
+### 🖌️ 1. Creative Prompts
+
+> *Fuel the fog of blank pages.*
+
+**✅ Example:**
+
+```
+You are a witty ad copywriter for eco-products.
+Give me 5 unconventional taglines for a reusable water bottle.
+Tone: satirical. Target audience: overworked millennials.
+```
+
+**❌ Mistake:**
+
+```
+Give me taglines.
+```
+
+**🧠 Why It Works:**
+The first example gives clarity of **intent, tone, audience,** and **format**. The second just begs for generic fluff.
+
+**🔁 Try It Yourself:**
+Ask for:
+
+* 10 name ideas for your side project — in the style of Wes Anderson.
+* A social caption written like a drunk philosopher.
+
+---
+
+### 📊 2. Analytical Prompts
+
+> *Good prompts cut through noise. Great ones reveal decisions.*
+
+**✅ Example:**
+
+```
+Compare the pros and cons of hiring a freelance designer vs. using a design agency for a new SaaS product launch.
+Keep the tone professional but conversational.
+```
+
+**❌ Mistake:**
+
+```
+Should I hire a designer or an agency?
+```
+
+**🧠 Why It Works:**
+It doesn’t just ask for an answer — it asks for a structured evaluation.
+
+**🔁 Try It Yourself:**
+Ask:
+
+* What are the trade-offs between TikTok and YouTube for B2C brands?
+* List the top 3 reasons why X is better than Y — and when it’s not.
+
+---
+
+### 🧱 3. Structural Prompts
+
+> *Form isn’t decoration. It’s guidance.*
+
+**✅ Example:**
+
+```
+Create a comparison table between these 3 AI writing tools: Jasper, Copy.ai, and Notion AI.
+Include columns for price, integrations, strengths, and weaknesses.
+```
+
+**❌ Mistake:**
+
+```
+Which AI tool is best?
+```
+
+**🧠 Why It Works:**
+It turns chaos into clarity — with minimal guessing.
+
+**🔁 Try It Yourself:**
+Prompt it to:
+
+* Generate a blog post outline using the inverted pyramid format.
+* Break down this topic into a 3-level bullet hierarchy.
+
+---
+
+### 🪞 4. Reflective Prompts
+
+> *You don’t need a therapist. Just better questions.*
+
+**✅ Example:**
+
+```
+Act as a mindset coach. Ask me 5 powerful questions to help me clarify why I’m procrastinating writing my book.
+```
+
+**❌ Mistake:**
+
+```
+Why am I procrastinating?
+```
+
+**🧠 Why It Works:**
+It flips the role — from advice-giver to **question-asker**. Perfect for self-work.
+
+**🔁 Try It Yourself:**
+
+* “Help me reflect on how I respond to failure. Use coaching techniques.”
+* “Play the devil’s advocate to my current belief system.”
+
+---
+
+### 🔍 5. Explainer Prompts
+
+> *If it can’t teach, it shouldn’t talk.*
+
+**✅ Example:**
+
+```
+Explain blockchain like I’m a 5th grader using a pizza delivery analogy.
+```
+
+**❌ Mistake:**
+
+```
+What is blockchain?
+```
+
+**🧠 Why It Works:**
+A good explainer prompt forces **creative constraint** — which forces understanding.
+
+**🔁 Try It Yourself:**
+
+* “Explain Kubernetes using an airport analogy.”
+* “What is DITA? Use a metaphor involving recipe books.”
+
+---
+
+### 🤼‍♂️ 6. Socratic Prompts
+
+> *Great prompts don’t tell you what to think. They challenge what you assume.*
+
+**✅ Example:**
+
+```
+Take the role of Socrates. Challenge my belief that long work hours lead to better outcomes.
+Ask no more than 5 questions.
+```
+
+**❌ Mistake:**
+
+```
+Are long work hours good or bad?
+```
+
+**🧠 Why It Works:**
+It invites an interrogation — not a fact dump.
+
+**🔁 Try It Yourself:**
+
+* “Debate me on why attention spans are shrinking.”
+* “Challenge my assumption that GPT is just a copy machine.”
+
+---
+
+### 🎭 7. Role-Based Prompts
+
+> *You’re not asking a chatbot. You’re asking a character.*
+
+**✅ Example:**
+
+```
+You are a sarcastic UX designer reviewing my website for usability issues. Be brutally honest but useful.
+```
+
+**❌ Mistake:**
+
+```
+Review my website.
+```
+
+**🧠 Why It Works:**
+Roles change tone, context, expectations — and unlock creativity.
+
+**🔁 Try It Yourself:**
+
+* “You are a 10-year-old kid. Tell me what you don’t understand on this page.”
+* “You are Steve Jobs. Critique my pitch deck in 5 slides or less.”
+
+---
+
+Want to take this deeper? Fork this doc and:
+
+* Create your own examples
+* Add a personal prompt collection
+* Use it to onboard your team or teach others
+
+> ⚙️ *Prompting isn’t a trick. It’s a skill.*
+> And skills grow through patterns, play, and reflection.
+
+---
+
+✅ Ready to continue with Section 6 — “Prompting as Thinking”?
+Or want to go back and refine a previous section?
+Or pause here and fork this file as a standalone doc — `prompt-types.md`?
