@@ -2,44 +2,51 @@
 _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
 ---
-
 ## 📑 Table of Contents
 
-| #    | Section Title                                                                 | Anchor Link                                           |
-|------|--------------------------------------------------------------------------------|-------------------------------------------------------|
-| 0.0  | [🧭 Who This Is For — And How to Use It](#-who-this-is-for--and-how-to-use-it) | Introduction, audience types, prerequisites           |
-| 0.1  | [🧩 Prerequisites: What You Should Know (or Be Willing to Learn)](#-prerequisites-what-you-should-know-or-be-willing-to-learn) | Baseline understanding before diving in              |
+---
+
+### 🪜 Introductory Sections
+
+- [🧭 Who This Is For — And How to Use It](#-who-this-is-for--and-how-to-use-it)  
+- [🧩 Prerequisites: What You Should Know (or Be Willing to Learn)](#-prerequisites-what-you-should-know-or-be-willing-to-learn)  
 
 ---
 
-| #    | Main Chapters                                                                 | Anchor Link                                           |
-|------|--------------------------------------------------------------------------------|-------------------------------------------------------|
-| 1    | [📍 Welcome: This Is the Best Time to Study](#-welcome-this-is-the-best-time-to-study) | Sets urgency, purpose, tone                           |
-| 2    | [🧱 The AI Entry Point: Where Most People Begin](#-the-ai-entry-point-where-most-people-begin) | Describes first-use chaos and confusion               |
-| 3    | [🧠 Why Most People Misunderstand AI (And It's Not Their Fault)](#-why-most-people-misunderstand-ai-and-its-not-their-fault) | Human factors, trust, false confidence                |
-| 4    | [🔍 Front-End vs Back-End: What’s Really Happening](#-front-end-vs-back-end-whats-really-happening) | Behind the scenes of what users see vs actual process |
-| 5    | [🧰 The Architecture of a Prompt](#-the-architecture-of-a-prompt) | Breakdown: Intent, Context, Format, Constraints       |
-| 6    | [🎭 Prompt Patterns & Thinking Models](#-prompt-patterns--thinking-models)     | Introduces styles like roleplay, instructive, etc.    |
-| 7    | [🌐 Understanding AI’s Ecosystem (Not Just ChatGPT)](#-understanding-ais-ecosystem-not-just-chatgpt) | LLMs, hallucinations, feedback loops                  |
-| 8    | [⚠️ Human Competency vs AI Capability: A Dangerous Gap](#-human-competency-vs-ai-capability-a-dangerous-gap) | Digital literacy vs automation dependency             |
-| 9    | [📏 Rating the Response: What Makes an Output Good?](#-rating-the-response-what-makes-an-output-good) | Criteria + use cases + scoring models                 |
-| 10   | [🪞 Beyond Productivity: The Real Promise of AI is Reflection](#-beyond-productivity-the-real-promise-of-ai-is-reflection) | Closing: personal growth, awareness, ethics           |
+### 📘 Core Chapters
+
+1. [📍 Welcome: This Is the Best Time to Study](#-welcome-this-is-the-best-time-to-study)  
+2. [🧱 The AI Entry Point: Where Most People Begin](#-the-ai-entry-point-where-most-people-begin)  
+3. [🧠 Why Most People Misunderstand AI (And It's Not Their Fault)](#-why-most-people-misunderstand-ai-and-its-not-their-fault)  
+4. [🔍 Front-End vs Back-End: What’s Really Happening](#-front-end-vs-back-end-whats-really-happening)  
+5. [🧰 The Architecture of a Prompt](#-the-architecture-of-a-prompt)  
+6. [🎭 Prompt Patterns & Thinking Models](#-prompt-patterns--thinking-models)  
+7. [🌐 Understanding AI’s Ecosystem (Not Just ChatGPT)](#-understanding-ais-ecosystem-not-just-chatgpt)  
+8. [⚠️ Human Competency vs AI Capability: A Dangerous Gap](#-human-competency-vs-ai-capability-a-dangerous-gap)  
+9. [📏 Rating the Response: What Makes an Output Good?](#-rating-the-response-what-makes-an-output-good)  
+10. [🪞 Beyond Productivity: The Real Promise of AI is Reflection](#-beyond-productivity-the-real-promise-of-ai-is-reflection)  
 
 ---
 
-| #    | Bonus Modules / Practical Exercises                                           | Anchor Link                                           |
-|------|--------------------------------------------------------------------------------|-------------------------------------------------------|
-| 11   | [🎯 Role-Based Prompting: Real-World Scenarios](#-role-based-prompting-real-world-scenarios) | Role-plays: marketers, educators, musicians, etc.     |
-| 12   | [🧪 Prompt Dissection Lab](#-prompt-dissection-lab)                            | Compare good vs poor prompts with explanations        |
-| 13   | [📚 Free Tools, Games, and Learning Resources](#-free-tools-games-and-learning-resources) | External resources for interactive learning           |
-| 14   | [🔓 Bonus: Using AI as a Personal Therapist or Philosopher](#-bonus-using-ai-as-a-personal-therapist-or-philosopher) | Philosophical one-on-one dialogue experiments         |
+### 🛠️ Practical Labs & Real-World Use Cases
+
+11. [🎯 Role-Based Prompting: Real-World Scenarios](#-role-based-prompting-real-world-scenarios)  
+12. [🧪 Prompt Dissection Lab](#-prompt-dissection-lab)  
 
 ---
 
-| #    | Final Sections                                                               | Anchor Link                                           |
-|------|-------------------------------------------------------------------------------|-------------------------------------------------------|
-| 15   | [🧵 Appendix: Terms, Glossary, and Quick Cheats](#-appendix-terms-glossary-and-quick-cheats) | Definitions and key takeaways                        |
-| 16   | [📌 Resources + Credits + Your Next Steps](#-resources--credits--your-next-steps) | Links, attributions, and how to go deeper             |
+### 💡 Extended Learning & Reflection
+
+13. [📚 Free Tools, Games, and Learning Resources](#-free-tools-games-and-learning-resources)  
+14. [🔓 Using AI as a Personal Philosopher or Therapist](#-using-ai-as-a-personal-philosopher-or-therapist)  
+
+---
+
+### 🧾 Appendices & Closing
+
+15. [🧵 Glossary & Quick Cheats](#-glossary--quick-cheats)  
+16. [📌 Resources, Credits & Your Next Steps](#-resources-credits--your-next-steps)  
+
 ---
 
 ## 🧭 Who This Is For — And How to Use It
