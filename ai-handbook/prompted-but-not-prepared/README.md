@@ -1158,6 +1158,119 @@ Want to take this deeper? Fork this doc and:
 
 ---
 
-✅ Ready to continue with Section 6 — “Prompting as Thinking”?
-Or want to go back and refine a previous section?
-Or pause here and fork this file as a standalone doc — `prompt-types.md`?
+# Section 6: Prompt Patterns & Thinking Models
+
+> *The way you ask is the way you think.*
+> AI doesn't just answer. It **reflects**.
+
+---
+
+## 🧠 Why This Matters
+
+Prompts are not magic spells. They're mirrors.
+Each one tells a story about how your mind works, what you prioritize, and what you're overlooking.
+
+In this chapter, we’ll:
+
+* Break down common **prompt patterns**
+* Reveal what they imply about your **thinking style**
+* Introduce alternatives to expand your range
+
+This isn't just prompt engineering. This is **self-discovery through syntax**.
+
+---
+
+## 🧩 Common Prompt Patterns
+
+| Prompt Type     | What It Sounds Like                | Mental Habit It Reveals            | When It Works Best                                         |
+| --------------- | ---------------------------------- | ---------------------------------- | ---------------------------------------------------------- |
+| **Instructive** | "Tell me how to..."                | Seeks clarity, linearity           | For **clear tasks** with expected outputs                  |
+| **Exploratory** | "What are different ways to..."    | Curious, divergent thinking        | When you want **creative options** or **brainstorms**      |
+| **Role-based**  | "Act like a UX researcher..."      | Context-switching, empathy         | When framing **scenarios** or **personas**                 |
+| **Contrarian**  | "What would a critic say about..." | Critical analysis, healthy doubt   | For **stress-testing ideas** or uncovering **blind spots** |
+| **Analogical**  | "How is this like electricity?"    | Systems thinking, abstract mapping | To draw **insightful comparisons** and see **patterns**    |
+
+---
+
+## 🧬 Pattern Reflection Prompts
+
+Try this:
+
+```markdown
+1. Which of these prompt styles do I default to?
+2. When do I find myself stuck — and which style might unlock that stuckness?
+3. What would happen if I flipped my usual approach?
+```
+
+> 🔁 *Your thinking evolves when your prompting expands.*
+
+---
+
+## 🎭 Role-Playing Prompts: A Closer Look
+
+Let’s dissect one prompt:
+
+> "You’re a time-strapped CMO trying to explain generative AI to a 7-year-old. Make it short, fun, and rhyming."
+
+**Pattern in play:** Role-based + Constraint-based + Analogical
+
+**Why it works:**
+
+* Forces simplification (child’s perspective)
+* Adds creative tension (rhyme + brevity)
+* Bakes in empathy (time-strapped, overworked)
+
+Now compare it to:
+
+> "Explain generative AI in simple terms."
+
+🟡 Functional. But not memorable.
+🔵 Which one do you think *you’d remember* — or share?
+
+---
+
+## 🛠️ Tool Tip: Prompt Pattern Library (Build Your Own)
+
+Start a personal "Prompt Pattern Log".
+Every time a prompt works unusually well, save it and tag:
+
+* Type (e.g. role-based)
+* Context used
+* Unexpected outcome
+
+> Over time, this becomes your **thinking archive**, not just a prompt list.
+
+---
+
+## 🔍 Reflect
+
+> Think of a problem you're facing right now.
+>
+> Try framing it in 3 different prompt styles:
+>
+> * One instructive
+> * One role-based
+> * One analogical
+>
+> What changed?
+
+---
+
+## 🔗 Bonus Resource:
+
+🎮 Try [PromptBase Playground](https://promptbase.com/playground) — a safe space to test prompt variants and see how different styles affect outputs.
+
+---
+
+## ✅ Key Takeaway
+
+Prompting isn’t typing. It’s **thinking in public**.
+The better you understand your mental defaults, the more intentionally you can guide the AI.
+
+Next up: let's zoom out.
+Because you’re not just dealing with ChatGPT.
+
+You’re stepping into an **entire ecosystem.**
+
+→ [Go to Section 7: Understanding AI's Ecosystem](#)
+
