@@ -32,14 +32,14 @@ flowchart TD
     B --> C{Do you understand the response?}
 
     C -- "No" --> D[Break it down into smaller parts]
-    D --> E[Ask: "What does this mean?"]
+    D --> E[Ask what the response means]
     E --> F[Clarify your intent or assumptions]
     F --> G[Rephrase the question]
     G --> H[Ask AI again]
     H --> C
 
-    C -- "Yes" --> I[Ask: "Why is it saying this?"]
-    I --> J[Ask: "How can I verify this?"]
+    C -- "Yes" --> I[Ask why the AI gave that answer]
+    I --> J[Ask how to verify or cross-check it]
     J --> K[Add follow-up prompt or next task]
     K --> L[Proceed with next step confidently]
 
