@@ -2,29 +2,37 @@
 _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
 ---
+
 ## 📑 Table of Contents
 
----
+<details>
+<summary>🪜 Introductory Sections</summary>
 
-### 🪜 Introductory Sections
+* [Who This Is For — And How to Use It](#who-this-is-for--and-how-to-use-it)
 
-- [🧭 Who This Is For — And How to Use It](#-who-this-is-for--and-how-to-use-it)  
-- [🧩 Prerequisites: What You Should Know (or Be Willing to Learn)](#-prerequisites-what-you-should-know-or-be-willing-to-learn)  
+  * [Who This Guide Is For](#who-this-guide-is-for)
+  * [What You Don't Need](#what-you-dont-need)
+  * [What You Will Learn](#what-you-will-learn)
+  * [How to Use This Guide](#how-to-use-this-guide)
+  * [Final Ritual](#final-ritual)
+* [Prerequisites: What You Should Know (or Be Willing to Learn)](#prerequisites-what-you-should-know-or-be-willing-to-learn)
+
+</details>
 
 ---
 
 ### 📘 Core Chapters
 
-1. [📍 Welcome: This Is the Best Time to Study](#-welcome-this-is-the-best-time-to-study)  
-2. [🧱 The AI Entry Point: Where Most People Begin](#-the-ai-entry-point-where-most-people-begin)  
-3. [🧠 Why Most People Misunderstand AI (And It's Not Their Fault)](#-why-most-people-misunderstand-ai-and-its-not-their-fault)  
-4. [🔍 Front-End vs Back-End: What’s Really Happening](#-front-end-vs-back-end-whats-really-happening)  
-5. [🧰 The Architecture of a Prompt](#-the-architecture-of-a-prompt)  
-6. [🎭 Prompt Patterns & Thinking Models](#-prompt-patterns--thinking-models)  
-7. [🌐 Understanding AI’s Ecosystem (Not Just ChatGPT)](#-understanding-ais-ecosystem-not-just-chatgpt)  
-8. [⚠️ Human Competency vs AI Capability: A Dangerous Gap](#-human-competency-vs-ai-capability-a-dangerous-gap)  
-9. [📏 Rating the Response: What Makes an Output Good?](#-rating-the-response-what-makes-an-output-good)  
-10. [🪞 Beyond Productivity: The Real Promise of AI is Reflection](#-beyond-productivity-the-real-promise-of-ai-is-reflection)  
+1. [Welcome: This Is the Best Time to Study](#welcome-this-is-the-best-time-to-study)
+2. [The AI Entry Point: Where Most People Begin](#the-ai-entry-point-where-most-people-begin)
+3. [Why Most People Misunderstand AI (And It's Not Their Fault)](#why-most-people-misunderstand-ai-and-its-not-their-fault)
+4. [Front-End vs Back-End: What’s Really Happening](#front-end-vs-back-end-whats-really-happening)
+5. [The Architecture of a Prompt](#the-architecture-of-a-prompt)
+6. [Prompt Patterns and Thinking Models](#prompt-patterns-and-thinking-models)
+7. [Understanding AI’s Ecosystem (Not Just ChatGPT)](#understanding-ais-ecosystem-not-just-chatgpt)
+8. [Human Competency vs AI Capability: A Dangerous Gap](#human-competency-vs-ai-capability-a-dangerous-gap)
+9. [Rating the Response: What Makes an Output Good](#rating-the-response-what-makes-an-output-good)
+10. [Beyond Productivity: The Real Promise of AI is Reflection](#beyond-productivity-the-real-promise-of-ai-is-reflection)
 
 ---
 
