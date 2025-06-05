@@ -1166,7 +1166,7 @@ Want to take this deeper? Fork this doc and:
 
 ---
 
-# Section 6: Prompt Patterns & Thinking Models
+# Prompt Patterns & Thinking Models
 
 > *The way you ask is the way you think.*
 > AI doesn't just answer. It **reflects**.
