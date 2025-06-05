@@ -1,7 +1,45 @@
-
 # Prompted, But Not Prepared  
-_An open-source Change Comms Handbook for Humanity’s AI Wake-Up Call_
+_An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
+---
+
+## 📑 Table of Contents
+
+| #    | Section Title                                                                 | Anchor Link                                           |
+|------|--------------------------------------------------------------------------------|-------------------------------------------------------|
+| 0.0  | [🧭 Who This Is For — And How to Use It](#-who-this-is-for--and-how-to-use-it) | Introduction, audience types, prerequisites           |
+| 0.1  | [🧩 Prerequisites: What You Should Know (or Be Willing to Learn)](#-prerequisites-what-you-should-know-or-be-willing-to-learn) | Baseline understanding before diving in              |
+
+---
+
+| #    | Main Chapters                                                                 | Anchor Link                                           |
+|------|--------------------------------------------------------------------------------|-------------------------------------------------------|
+| 1    | [📍 Welcome: This Is the Best Time to Study](#-welcome-this-is-the-best-time-to-study) | Sets urgency, purpose, tone                           |
+| 2    | [🧱 The AI Entry Point: Where Most People Begin](#-the-ai-entry-point-where-most-people-begin) | Describes first-use chaos and confusion               |
+| 3    | [🧠 Why Most People Misunderstand AI (And It's Not Their Fault)](#-why-most-people-misunderstand-ai-and-its-not-their-fault) | Human factors, trust, false confidence                |
+| 4    | [🔍 Front-End vs Back-End: What’s Really Happening](#-front-end-vs-back-end-whats-really-happening) | Behind the scenes of what users see vs actual process |
+| 5    | [🧰 The Architecture of a Prompt](#-the-architecture-of-a-prompt) | Breakdown: Intent, Context, Format, Constraints       |
+| 6    | [🎭 Prompt Patterns & Thinking Models](#-prompt-patterns--thinking-models)     | Introduces styles like roleplay, instructive, etc.    |
+| 7    | [🌐 Understanding AI’s Ecosystem (Not Just ChatGPT)](#-understanding-ais-ecosystem-not-just-chatgpt) | LLMs, hallucinations, feedback loops                  |
+| 8    | [⚠️ Human Competency vs AI Capability: A Dangerous Gap](#-human-competency-vs-ai-capability-a-dangerous-gap) | Digital literacy vs automation dependency             |
+| 9    | [📏 Rating the Response: What Makes an Output Good?](#-rating-the-response-what-makes-an-output-good) | Criteria + use cases + scoring models                 |
+| 10   | [🪞 Beyond Productivity: The Real Promise of AI is Reflection](#-beyond-productivity-the-real-promise-of-ai-is-reflection) | Closing: personal growth, awareness, ethics           |
+
+---
+
+| #    | Bonus Modules / Practical Exercises                                           | Anchor Link                                           |
+|------|--------------------------------------------------------------------------------|-------------------------------------------------------|
+| 11   | [🎯 Role-Based Prompting: Real-World Scenarios](#-role-based-prompting-real-world-scenarios) | Role-plays: marketers, educators, musicians, etc.     |
+| 12   | [🧪 Prompt Dissection Lab](#-prompt-dissection-lab)                            | Compare good vs poor prompts with explanations        |
+| 13   | [📚 Free Tools, Games, and Learning Resources](#-free-tools-games-and-learning-resources) | External resources for interactive learning           |
+| 14   | [🔓 Bonus: Using AI as a Personal Therapist or Philosopher](#-bonus-using-ai-as-a-personal-therapist-or-philosopher) | Philosophical one-on-one dialogue experiments         |
+
+---
+
+| #    | Final Sections                                                               | Anchor Link                                           |
+|------|-------------------------------------------------------------------------------|-------------------------------------------------------|
+| 15   | [🧵 Appendix: Terms, Glossary, and Quick Cheats](#-appendix-terms-glossary-and-quick-cheats) | Definitions and key takeaways                        |
+| 16   | [📌 Resources + Credits + Your Next Steps](#-resources--credits--your-next-steps) | Links, attributions, and how to go deeper             |
 ---
 
 ## 🧭 Who This Is For — And How to Use It
@@ -433,7 +471,139 @@ Can you help me reflect on how I’ve misunderstood you? Give me 3 things you of
 You were just never told what to prepare for.*
 
 ---
-## #4 The Architecture of a Prompt — Understand the Parts, Understand the Power
+
+## #3 Front-End vs Back-End — What’s Really Happening
+
+> 🧠 *You see a reply.  
+But under the hood, a storm of probabilities just passed you by.*
+
+---
+
+Most people interact with AI on the **front-end** — a neat little text box and a blinking cursor.  
+What they miss is the real magic: the **back-end** where meaning is modeled, not just mirrored.
+
+If you don’t understand how the back-end works — even roughly —  
+you’ll blame the tool for mistakes *you* made in the input.
+
+---
+
+## 🖼️ Visual Analogy
+
+Imagine you’re ordering at a drive-thru.
+
+- The **front-end** is the speaker where you place your order.
+- The **back-end** is the chaotic kitchen interpreting it, mixing sauces, flipping patties, and hoping you meant “no pickles” literally.
+
+Now replace that kitchen with a **neural net** trained on billions of words and patterns — and that’s what’s cooking your AI response.
+
+---
+
+## ⚙️ What’s the Front-End?
+
+The **Front-End** is:
+- What you type
+- What the model types back
+- Buttons, styles, code snippets, markdown previews, interface settings
+
+It’s *what you see*.
+
+But AI isn’t *doing* the work there. It’s just *delivering* it there.
+
+---
+
+## 🧠 What’s the Back-End?
+
+The **Back-End** is where:
+- Your text gets **tokenized** (chopped into parts)
+- The model evaluates the **probability** of the next likely token
+- The system scans through a **context window** of your prompt + prior messages
+- It forms a coherent response by **predicting**, not **understanding**
+
+Let’s be clear:
+
+> 🤖 AI doesn’t “know” what it’s saying.  
+It’s just *really, really good* at guessing what should come next — based on patterns.
+
+---
+
+## 🔍 Why It Matters
+
+Understanding this gap helps you:
+
+| If You’re a... | You’ll Gain... |
+|----------------|----------------|
+| **Marketer** | Better prompt sequencing, tone control, and brand-safe outputs |
+| **Writer** | Confidence in editing AI’s draft instead of over-prompting |
+| **Designer/Strategist** | Clarity on multimodal input/output and prompt-to-visual mapping |
+| **Developer** | Insights into token limits, API latency, and system instructions |
+| **Educator/Coach** | Safer, more guided exploration for students using AI |
+| **Everyday User** | A sense of how to “talk” to AI without frustration or fluff |
+
+---
+
+## 🛠️ Tool Tip: "Token" ≠ Word
+
+A token is a **chunk** — not always a whole word.  
+For example:
+
+```
+"unbelievable" → ["un", "believ", "able"]
+"dog" → ["dog"]
+```
+
+That’s why you may hit token limits faster than expected.  
+Models like GPT-4 have context limits (~128k tokens in some versions).  
+That’s the memory window it uses to “think.”
+
+---
+
+## 💡 Think Break: It’s Not Smart — It’s Patterned
+
+Ask yourself:
+
+> *Am I expecting it to “get” me — or did I give it what it needs to predict me?*
+
+You’ll get better results when you:
+- Treat the AI like a mirror with a memory — not a mind
+- Revisit what the *last few exchanges* were — because they matter
+- Reset the thread if you feel drift — memory impacts pattern
+
+---
+
+## 🧪 Prompt Experiment
+
+Try this 2-step experiment:
+
+1. In a new thread, say:
+```
+Who won the cricket world cup in 2011?
+```
+
+2. Now ask:
+```
+Who was the coach at that time?
+```
+
+Then restart the thread and ask:
+```
+Who was the coach of the winning team of the 2011 Cricket World Cup?
+```
+
+> ✨ You'll notice the second thread works better — because it has **complete context** in one go.
+
+---
+
+## 🧩 Closing Thought
+
+**Front-end** fluency is style.  
+**Back-end** awareness is strategy.
+
+> The more you understand how the kitchen works,  
+the better your orders — and your outcomes.
+
+---
+
+## #5 The Architecture of a Prompt — Understand the Parts, Understand the Power
 
 > 💬 *You’re not bad at prompting.
 > You’ve just never seen what a good one is made of.*
