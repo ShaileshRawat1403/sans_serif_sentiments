@@ -15,7 +15,7 @@ _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
 ### 📘 Core Chapters
 
-1. [📍 Welcome: This Is the Best Time to Study](1#-welcome-this-is-the-best-time-to-study)  
+1. [📍 Welcome: This Is the Best Time to Study](#1-welcome-this-is-the-best-time-to-study)  
 2. [🧱 The AI Entry Point: Where Most People Begin](#-the-ai-entry-point-where-most-people-begin)  
 3. [🧠 Why Most People Misunderstand AI (And It's Not Their Fault)](#-why-most-people-misunderstand-ai-and-its-not-their-fault)  
 4. [🔍 Front-End vs Back-End: What’s Really Happening](#-front-end-vs-back-end-whats-really-happening)  
