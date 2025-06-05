@@ -1281,7 +1281,7 @@ You’re stepping into an **entire ecosystem.**
 
 ---
 
-## 🌐 Understanding AI’s Ecosystem — Not Just ChatGPT
+## Understanding AI’s Ecosystem — Not Just ChatGPT
 
 > _AI isn’t a tool. It’s terrain. And if you only explore one trail, you’ll mistake it for the whole map._
 
