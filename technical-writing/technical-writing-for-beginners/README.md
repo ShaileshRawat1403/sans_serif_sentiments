@@ -1,6 +1,5 @@
 # 📘 Technical Writing for Beginners  
-**A human-first guide to documentation, clarity, and career paths no one talks about enough.**
-
+*A guide to understanding technology, documenting what matters, and contributing to clarity in a world drowning in noise.*
 ---
 
 ## 👋 Welcome
