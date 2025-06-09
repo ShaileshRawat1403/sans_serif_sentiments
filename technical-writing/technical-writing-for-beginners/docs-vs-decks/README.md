@@ -1,4 +1,4 @@
-## 📄 Chapter: `06-docs-vs-decks.md`
+## 📄 Chapter: `docs-vs-decks.md`
 
 **Title:** *Docs vs Decks*
 **Subtitle:** *Why clarity is built in documents — and eroded in slide shows.*
@@ -16,7 +16,7 @@ To help beginners understand:
 
 ---
 
-## ✅ 1. Introduction
+## ✅ Introduction
 
 > *Decks sell the dream. Docs prevent the nightmare.*
 
@@ -31,7 +31,7 @@ This chapter explores why technical writing demands a different mindset than pre
 
 ---
 
-## 🧠 2. Docs vs Decks: A Foundational Comparison
+## 🧠 Docs vs Decks: A Foundational Comparison
 
 | Feature  | Deck                      | Document                              |
 | -------- | ------------------------- | ------------------------------------- |
@@ -44,7 +44,7 @@ This chapter explores why technical writing demands a different mindset than pre
 
 ---
 
-## 📄 3. Why Docs Matter More Than Decks (In Real Work)
+## 📄 Why Docs Matter More Than Decks (In Real Work)
 
 * A deck tells you *what* we’re doing. A doc explains *how* and *why*.
 * A deck gets you buy-in. A doc keeps the project alive after people leave the room.
@@ -63,7 +63,7 @@ In tech and product environments:
 
 ---
 
-## ⚖️ 4. Why Writers Must Advocate for Documentation
+## ⚖️ Why Writers Must Advocate for Documentation
 
 Many teams default to decks because they’re faster and more visual.
 But decks:
@@ -82,7 +82,7 @@ Docs, on the other hand:
 
 ---
 
-## 🧰 5. Real-World Tools to Bridge Both Worlds
+## 🧰 Real-World Tools to Bridge Both Worlds
 
 | Tool                                       | Purpose                                                                |
 | ------------------------------------------ | ---------------------------------------------------------------------- |
@@ -98,7 +98,7 @@ Docs, on the other hand:
 
 ---
 
-## 🚫 6. What to Watch Out for in Slide-First Cultures
+## 🚫 What to Watch Out for in Slide-First Cultures
 
 | Problem              | When You Only Use Decks                            |
 | -------------------- | -------------------------------------------------- |
@@ -111,7 +111,7 @@ If you're a writer, push to *start with a doc, not a deck.*
 
 ---
 
-## 🔁 7. When Decks + Docs *Work Together*
+## 🔁 When Decks + Docs *Work Together*
 
 This isn’t about killing decks. It’s about knowing when each works:
 
@@ -125,7 +125,7 @@ This isn’t about killing decks. It’s about knowing when each works:
 
 ---
 
-## ✅ 8. Recap Table
+## ✅ Recap Table
 
 | Element  | Deck            | Document        |
 | -------- | --------------- | --------------- |
@@ -139,12 +139,12 @@ This isn’t about killing decks. It’s about knowing when each works:
 
 ---
 
-## 📘 9. What’s Next
+## 📘 What’s Next
 
 We’ve now covered the *why* and the *what*. Next, you’ll actually write your first task-based technical doc.
 
 > *Because clarity doesn’t come from a clever sentence. It comes from structured help, built for humans under pressure.*
 
-Coming up: `07-how-to-write-a-howto.md`
+Coming up: `how-to-write-a-howto.md`
 
 ---
