@@ -1,3 +1,4 @@
+---
 title: "What Is a DAW? A Comprehensive Beginner's Guide"
 description: "An in-depth introduction to Digital Audio Workstations, exploring practical uses, analogies, context, and resources for various creative professionals and hobbyists."
 last_updated: 2025-06-10
