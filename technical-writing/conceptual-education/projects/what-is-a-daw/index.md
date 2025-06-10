@@ -28,7 +28,7 @@ last_updated: 2025-06-10
 
 ## Overview
 
-This comprehensive guide provides a detailed introduction to Digital Audio Workstations (DAWs) for beginners. It covers the essential aspects of what a DAW is, who can benefit from using one, the key components and their functions, typical workflows across various creative fields, practical steps to get started, and guidance on choosing the right DAW. While the perspective here is informed by the use of DAWs in guitar-focused post-production, the aim is to provide a generally helpful foundation for anyone beginning their journey with these powerful tools.
+This comprehensive guide provides a detailed introduction to Digital Audio Workstations (DAWs) for beginners. It covers the essential aspects of what a DAW is, who can benefit from using one, the key components and their functions, typical workflows across various creative fields, practical steps to get started, and guidance on choosing the right DAW. Whether you're a budding musician, aspiring podcaster, sound design enthusiast, or simply curious about the world of digital audio production, this guide aims to provide you with the foundational knowledge to begin your journey.
 
 ## Prerequisites
 
