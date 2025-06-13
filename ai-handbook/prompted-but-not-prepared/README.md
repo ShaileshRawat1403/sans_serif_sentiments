@@ -1,4 +1,4 @@
-`# Prompted, But Not Prepared  
+# Prompted, But Not Prepared  
 _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
 ---
