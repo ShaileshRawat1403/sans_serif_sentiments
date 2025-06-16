@@ -43,7 +43,7 @@ No noise. No scrambling. Just consistent, contextual communication that builds t
 
 > Think of this as your communication control tower. Every team, message, and moment is routed through a system built for clarity.
 
-### 1. Strategic Messaging Layer
+### Strategic Messaging Layer
 
 **What we say. How we say it. Why we say it. When we say it.**
 
@@ -72,7 +72,7 @@ Intent → Audience → Message Framing → Channel Strategy → Launch Copy →
 
 ---
 
-### 2. Change Translation Layer
+### Change Translation Layer
 
 **Turning decisions into digestible, empathetic communication.**
 
@@ -110,7 +110,7 @@ Why → What → When → How → Support → Feedback Loop
 
 ---
 
-### 3. Content Enablement Layer
+### Content Enablement Layer
 
 **Equipping teams to act on strategy with confidence and consistency.**
 
@@ -141,7 +141,7 @@ This is where strategy meets scale. It’s not just what’s being said, but whe
 
 ---
 
-### 4. Governance & Workflow
+### Governance & Workflow
 
 **Avoid confusion. Eliminate bottlenecks. Maintain control.**
 
@@ -166,7 +166,7 @@ Even great content fails if no one knows who owns it or when it's ready.
 
 ---
 
-### 5. Metrics & Postmortems
+### Metrics & Postmortems
 
 **What gets measured gets improved.**
 
