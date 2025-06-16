@@ -3,38 +3,23 @@
 *Your single source of truth for strategic messaging, change translation, and content enablement.*
 
 ---
+## 📑 Table of Contents
 
-📑 Table of Contents
-
-✅ Why This Exists
-
-📚 System Architecture
-
-1. Strategic Messaging Layer
-
-2. Change Translation Layer
-
-3. Content Enablement Layer
-
-4. Governance & Workflow
-
-5. Metrics & Postmortems
-
-✨ Our Philosophy in Practice: Flavour + Function
-
-1. Defining the Terms (The What)
-
-2. Explaining the Synergy (The Why)
-
-3. Making It Practical (The How)
-
-🧩 Quick Reference Cheatsheet
-
-🧠 Cognitive Principles (Behind the Why)
-
-🚨 Writing for When Things Break
-
-📌 Final Notes
+1. [Why This Exists](#why-this-exists)
+2. [System Architecture](#system-architecture)
+   - [Strategic Messaging Layer](#strategic-messaging-layer)
+   - [Change Translation Layer](#change-translation-layer)
+   - [Content Enablement Layer](#content-enablement-layer)
+   - [Governance & Workflow](#governance--workflow)
+   - [Metrics & Postmortems](#metrics--postmortems)
+3. [Our Philosophy in Practice: Flavour + Function](#our-philosophy-in-practice-flavour--function)
+   - [Defining the Terms (The What)](#defining-the-terms-the-what)
+   - [Explaining the Synergy (The Why)](#explaining-the-synergy-the-why)
+   - [Making It Practical (The How)](#making-it-practical-the-how)
+4. [Quick Reference Cheatsheet](#quick-reference-cheatsheet)
+5. [Cognitive Principles (Behind the Why)](#cognitive-principles-behind-the-why)
+6. [Writing for When Things Break](#writing-for-when-things-break)
+7. [Final Notes](#final-notes)
 
 ## ✅ Why This Exists
 
