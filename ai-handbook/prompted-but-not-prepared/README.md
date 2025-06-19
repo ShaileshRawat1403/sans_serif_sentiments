@@ -32,7 +32,7 @@ _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 8. [⚠️ Human Competency vs AI Capability — A Dangerous Gap to Ignore](#human-competency-vs-ai-capability--a-dangerous-gap-to-ignore)  
 9. [📏 Rating the Response: What Makes an Output Good?](#rating-the-response--what-makes-an-output-good)  
 10. [🪞 Beyond Productivity: The Real Promise of AI is Reflection](#beyond-productivity--the-real-promise-of-ai-is-reflection)  
-11. [TL;DR: "Prompted, But Not Prepared"](#📌-tldr--prompted-but-not-prepared)
+11. [📌 TL;DR — "Prompted, But Not Prepared"](#-tldr--prompted-but-not-prepared)
 ---
 
 ### 🛠️ Practical Labs & Real-World Use Cases
