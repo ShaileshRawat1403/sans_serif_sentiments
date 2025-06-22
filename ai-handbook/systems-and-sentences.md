@@ -980,7 +980,7 @@ This is the foundational philosophy behind everything:
 This framework feeds directly into the structure of **Systems & Sentences**.  
 It's the logic beneath the language.
 
-➡️ _Explore the full guide: [Flavor and Function →](#)_
+➡️ _Explore the writing system: [Flavor & Function →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/fnf/flavor-and-function.md)_)_
 
 ---
 
@@ -997,7 +997,8 @@ Built for those who feel overwhelmed by confident answers and shallow prompts.
 
 This guide shares the same reader-first, friction-rich style—aimed at those who want **understanding, not automation.**
 
-➡️ _Explore the AI guide: [Prompted But Not Prepared →](#)](https://github.com/ShaileshRawat1403/sans_serif_sentiments/tree/main/ai-handbook/prompted-but-not-prepared)__ 
+➡️ _Explore the AI guide: [Prompted But Not Prepared →]
+(https://github.com/ShaileshRawat1403/sans_serif_sentiments/tree/main/ai-handbook/prompted-but-not-prepared)__ 
 
 ---
 
