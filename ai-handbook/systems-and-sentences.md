@@ -1012,7 +1012,7 @@ A system for writing **change communication** with clarity, psychology, and prec
 
 The **FnF rhythm** and **interpretive roles** introduced here are used to craft communication that invites—not imposes—change.
 
-➡️ _Explore change comms: [This Might Change Everything →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/change-comms/this-might-change-everything/README.md)_
+➡️ _Explore change comms: [This Might Change Everything →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/change-communications%2Fthis-might-change-everything%2FREADME.md)_
 
 ---
 
