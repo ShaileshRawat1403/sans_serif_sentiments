@@ -997,7 +997,7 @@ Built for those who feel overwhelmed by confident answers and shallow prompts.
 
 This guide shares the same reader-first, friction-rich style—aimed at those who want **understanding, not automation.**
 
-➡️ _Explore the AI guide: [Prompted But Not Prepared →](#)_
+➡️ _Explore the AI guide: [Prompted But Not Prepared →](#)](https://github.com/ShaileshRawat1403/sans_serif_sentiments/tree/main/ai-handbook/prompted-but-not-prepared)__ 
 
 ---
 
