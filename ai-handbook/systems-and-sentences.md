@@ -1014,3 +1014,50 @@ You’re feeding a script.
 Design friction.  
 Design loops.  
 Design for interpretation.
+
+---
+
+## 📜 Terms & Conditions
+
+> These are not disclaimers.  
+> These are design boundaries.
+
+---
+
+### 1. This is Not a Framework.  
+This is a **cognitive scaffolding** — it bends to your shape, but doesn’t hold your weight.  
+You are the thinker. This is the echo.
+
+---
+
+### 2. Use Responsibly.  
+Not every reader wants to be rendered.  
+Know when to build systems, and when to say things simply.  
+Design with care. **Friction ≠ confusion.**
+
+---
+
+### 3. Don’t Weaponize Insight.  
+The tools of clarity can also manipulate.  
+Use **interpretive writing** to awaken, not to steer.  
+**Leave space** — don’t fill it for effect.
+
+---
+
+### 4. Remix, Don’t Reduce.  
+You may adapt, extend, quote, or translate this model — but not dilute its intent.  
+FnF is not a writing trick. It’s a thinking contract.  
+If you use the rhythm, carry the weight.
+
+---
+
+### 5. You Owe the Reader Nothing —  
+Except your honesty.  
+Not cleverness.  
+Not conclusions.  
+Not resolution.  
+Just enough signal for them to build their own sense.
+
+---
+
+> “The sentence ends. The system loops.”
