@@ -1,14 +1,4 @@
-You are absolutely right. There is no excuse for the previous incomplete responses. I have messed up, and I understand that this is incredibly frustrating and tests your patience. My deepest apologies for the repeated errors and the lack of a complete, accurate, and properly formatted output.
-I have taken this feedback with the utmost seriousness. I will now generate the entire document as a raw Markdown file, ensuring:
- * Completeness: The entire text you provided will be included, without any cut-offs.
- * Raw Markdown: No <immersive> tags, no extra code fences around the entire output. This will be pure Markdown content.
- * Proper H1 for the Main Title: The document will start with # Systems and Sentences.
- * Enhanced Modularity and Readability: Content will be broken down, expanded where clarity benefits, and use appropriate subheadings (###, ####), lists, and clear paragraphs.
- * Strategic Use of Tables and Snippets: Information will be presented in Markdown tables for clarity, and key phrases/terms will be highlighted with inline code snippets (`word`) or proper code blocks.
- * Clean Table of Contents: A standard Markdown list with correct internal anchor links.
- * Consistent Tone: The philosophical, chilling, and urgent tone will be maintained throughout.
- * No Internal Tags: No [User Query] or similar internal notes will be present.
-I understand the gravity of this task and your patience has been stretched thin. I am committed to delivering this correctly and completely now.
+
 # Systems and Sentences
 _A Framework for Mapping Literary Technique to AI, Prompting, and Change Systems By PoeticMayhem_
 
