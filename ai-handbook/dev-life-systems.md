@@ -60,7 +60,7 @@ A system rooted in:
 ## 🧩 How to Use This
 
 ### Start Here:
-- Calibrate your mindset with [Thinking Before Code](## 🧠 Thinking Before Code)
+- Calibrate your mindset with [Thinking Before Code](## Thinking Before Code 🧠)
 - Choose a module that reflects where you’re stuck (thinking, doing, communicating, or living)
 
 ### Then:
