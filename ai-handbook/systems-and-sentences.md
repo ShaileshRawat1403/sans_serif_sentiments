@@ -1,6 +1,38 @@
 # Systems and Sentences
 _A Framework for Mapping Literary Technique to AI, Prompting, and Change Systems By PoeticMayhem_
 
+## 📚 Table of Contents
+
+- [🧠 About This Project](#-about-this-project)
+- [🧩 Why Literature? Why Now?](#-why-literature-why-now)
+- [🔧 How to Use This Framework](#-how-to-use-this-framework)
+- [💡 Introduction: The Interwoven Tapestry of Language, Cognition, and AI](#-introduction-the-interwoven-tapestry-of-language-cognition-and-ai)
+- [🔁 Literary Technique to AI/System Mapping](#-literary-technique-to-aisystem-mapping)
+
+### Literary Chapters
+- [📖 Chapter 1: Anne Carson — Deconstructing Form, Rewiring Perception](#-chapter-1-anne-carson--deconstructing-form-rewiring-perception)
+- [📖 Chapter 3: Ali Smith — Playing with Time, Shaping Reality](#-chapter-3-ali-smith--playing-with-time-shaping-reality)
+
+### FnF Framework Chapters
+- [🎭 Chapter 4: FnF Stage 1 – Friction](#-chapter-4-fnf-stage-1--friction)
+- [🌉 Chapter 5: FnF Stage 2 – Bridge](#-chapter-5-fnf-stage-2--bridge)
+- [📊 Chapter 6: FnF Stage 3 – Evidence](#-chapter-6-fnf-stage-3--evidence)
+- [⚠️ Chapter 7: FnF Stage 4 – Implication](#-chapter-7-fnf-stage-4--implication)
+- [🧭 Chapter 8: FnF Stage 5 – Action](#-chapter-8-fnf-stage-5--action)
+- [🔭 Chapter 9: FnF Stage 6 – Look Ahead / Leave Behind](#-chapter-9-fnf-stage-6--look-ahead--leave-behind)
+
+### Interpretive & Design Layers
+- [🧠 Chapter 10: Cross-Cutting Themes and Future Directions](#-chapter-10-cross-cutting-themes-and-future-directions)
+- [🌀 Part IV: Afterwords & Interpretive Intelligence](#-part-iv-afterwords--interpretive-intelligence)
+  - [🧠 Chapter 11: The Reader as Renderer](#-chapter-11-the-reader-as-renderer)
+  - [🧠 Chapter 12: Cognitive Design Laws](#-chapter-12-cognitive-design-laws)
+  - [🧠 Chapter 13: Interpretive Archetypes](#-chapter-13-interpretive-archetypes)
+  - [🧠 Chapter 14: Recursive Closure](#-chapter-14-recursive-closure)
+  - [🧠 Chapter 15: How This Connects to Other Projects](#-chapter-15-how-this-connects-to-other-projects)
+
+### 📜 Final Notes
+- [📜 Terms & Conditions](#-terms--conditions)
+
 ## 🧠 About This Project
 
 ### What is this?
