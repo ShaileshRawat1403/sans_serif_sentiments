@@ -980,7 +980,7 @@ This is the foundational philosophy behind everything:
 This framework feeds directly into the structure of **Systems & Sentences**.  
 It's the logic beneath the language.
 
-➡️ _Explore the writing system: [Flavor & Function →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/fnf/flavor-and-function.md)_)_
+➡️ _Explore the writing system: [Flavor & Function →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/fnf/flavor-and-function.md)_
 
 ---
 
@@ -1012,7 +1012,7 @@ A system for writing **change communication** with clarity, psychology, and prec
 
 The **FnF rhythm** and **interpretive roles** introduced here are used to craft communication that invites—not imposes—change.
 
-➡️ _Explore the Change Comms series: [This Might Change Everything →](#)_
+➡️ _Explore change comms: [This Might Change Everything →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/blob/main/change-comms/this-might-change-everything/README.md)_
 
 ---
 
