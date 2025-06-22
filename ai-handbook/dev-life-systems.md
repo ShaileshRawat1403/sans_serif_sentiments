@@ -1,4 +1,4 @@
-# 🧠 Dev Life Systems
+w# 🧠 Dev Life Systems
 
 > _“You’re not just coding a product. You’re coding your perception of time, sanity, and scale.”_
 
@@ -60,7 +60,7 @@ A system rooted in:
 ## 🧩 How to Use This
 
 ### Start Here:
-- Calibrate your mindset with [Thinking Before Code](#thinking-before-code-)
+- Calibrate your mindset with [Thinking Before Code](#-thinking-before-code-)
 - Choose a module that reflects where you’re stuck (thinking, doing, communicating, or living)
 
 ### Then:
