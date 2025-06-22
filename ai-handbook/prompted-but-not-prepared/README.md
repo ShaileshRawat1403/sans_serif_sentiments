@@ -1808,8 +1808,7 @@ The secret? Be a *better* asker and *tougher* reviewer.
 ### 🌍 Explore Further
 
 - 📘 *“The Paradox of Choice”* — why more info ≠ better outcomes  
-- 🎧 Podcast: *How to Think Clearly in Noisy Environments*  
-- 🫧 Minimal words. Maximum intent. (coming soon on [PruningMyPothos.com](https://pruningmypothos.com))  
+- 🫧 Minimal words. Maximum intent. (on [PruningMyPothos.com](https://pruningmypothos.com))  
 - 🪞 Bonus: Take your best AI prompt. Show it to a friend.  
   Ask: _“Would this make sense without me explaining it?”_
 
