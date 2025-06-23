@@ -324,7 +324,7 @@ This shift:
 [← Back to Chapter 1](01-why-voice-now.md)  
 [Next → Chapter 3: Why Text Prompts Limit Thought (and Voice Sets It Free)](03-text-vs-voice-cognition.md)
 
-# ❓Why Text Prompts Limit Thought (and Voice Sets It Free)
+# ❓Why Text Prompts Limit Thought
 
 > _"We don’t speak in bullet points.  
 We speak in breaths."_  
