@@ -25,7 +25,7 @@ Welcome to the companion guide for navigating the future of **voice-based AI int
 
 | Chapter | Title |
 |--------|-------|
-| 1 | [Why Voice Prompts, and Why Now?](voice-ai-prompting-guide.md#why-voice-prompts-and-why-now) |
+| 1 | [Why Voice Prompts, and Why Now?](voice-ai-prompting-guide.md #why-voice-prompts-and-why-now) |
 | 2 | [How Did We Get Here (CLI → GUI → VUI)](#chapter-2-how-did-we-get-here-cli--gui--vui) |
 | 3 | [Why Text Prompts Limit Thought](#chapter-3-why-text-prompts-limit-thought) |
 | 4 | [How Voice Enables Cognitive Design](#chapter-4-how-voice-enables-cognitive-design) |
