@@ -4,7 +4,7 @@
 
 ## 📑 Table of Contents
 
-- [Welcome to ImmutableInk](#welcome-to-immutableink)
+- [Welcome to ImmutableInk](#-welcome-to-immutableink)
 - [What is ImmutableInk?](#what-is-immutableink)
 - [What Makes ImmutableInk Different?](#what-makes-immutableink-different)
 - [Who Should Use This Documentation?](#who-should-use-this-documentation)
