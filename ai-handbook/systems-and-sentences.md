@@ -6,7 +6,7 @@ _A Framework for Mapping Literary Technique to AI, Prompting, and Change Systems
 - [🧠 About This Project](#-about-this-project)
 - [🧩 Why Literature? Why Now?](#-why-literature-why-now)
 - [🔧 How to Use This Framework](#-how-to-use-this-framework)
-- [💡 Introduction: The Interwoven Tapestry of Language, Cognition, and AI](#-introduction-the-interwoven-tapestry-of-language-cognition-and-ai)
+- [💡 Introduction: How Language, Thinking, and AI are all Connected](#-introduction-how-language-thinking-and-ai-are-all-connected)
 - [🔁 Literary Technique to AI/System Mapping](#-literary-technique-to-aisystem-mapping)
 
 ### Literary Chapters
@@ -102,7 +102,7 @@ Because today’s challenges in AI and change communication require:
 
 ---
 
-## 💡 Introduction: The Interwoven Tapestry of Language, Cognition, and AI
+## 💡 Introduction: How Language, Thinking, and AI are all Connected.
 
 ### What’s the idea?
 Language isn’t just how we express thoughts. It’s how we structure systems. And literature — especially the kind that resists convention — already mimics what AI tries to do: model meaning, simulate context, handle contradiction.
