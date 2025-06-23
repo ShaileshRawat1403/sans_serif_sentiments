@@ -103,7 +103,7 @@ The next UI is not graphical — it’s **relational**.
 
 ---
 
-[Next → How Did We Get Here? (CLI → GUI → TUI → VUI)](02-evolution-of-interfaces.md)
+[🔝 Back to TOC](../../README.md#table-of-contents)
 
 # ❓How Did We Get Here?  
 ## From Command Lines to Conversations: The Interface Evolution We Forgot
