@@ -175,7 +175,7 @@ The next UI is not graphical — it’s **relational**.
 
 ---
 
-[Next → How Did We Get Here? (CLI → GUI → TUI → VUI)](02-evolution-of-interfaces.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓How Did We Get Here?  
 ## From Command Lines to Conversations: The Interface Evolution We Forgot
@@ -321,8 +321,7 @@ This shift:
 
 ---
 
-[← Back to Chapter 1](01-why-voice-now.md)  
-[Next → Chapter 3: Why Text Prompts Limit Thought (and Voice Sets It Free)](03-text-vs-voice-cognition.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓Why Text Prompts Limit Thought
 
@@ -455,8 +454,7 @@ As these integrate into LLMs:
 
 ---
 
-[← Back to Chapter 2](02-evolution-of-interfaces.md)  
-[Next → Chapter 4: How Voice Enables Cognitive Design, Not Just Convenience](04-cognitive-design-voice.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓How Voice Enables Cognitive Design, Not Just Convenience
 
@@ -595,8 +593,7 @@ Cognitive design means **working with the mind’s rhythm**, not against it.
 
 ---
 
-[← Back to Chapter 3](03-text-vs-voice-cognition.md)  
-[Next → Chapter 5: Where Will Voice Prompting Matter Most? (IT, Non-IT, and Personal Use)](05-voice-use-cases.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓Where Will Voice Prompting Matter Most?  
 ## From DevOps to Dinner Tables: The Ubiquity of Voice AI
@@ -737,8 +734,7 @@ Not because it's faster — but because it’s *more forgiving*.
 
 ---
 
-[← Back to Chapter 4](04-cognitive-design-voice.md)  
-[Next → Chapter 6: Can AI Understand How We Say Things — Not Just What We Say?](06-emotion-in-voice-prompts.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓Can AI Understand *How* We Say Things — Not Just *What* We Say?
 
@@ -933,8 +929,7 @@ That’s where we’re headed.
 
 ---
 
-[← Back to Chapter 5](05-voice-use-cases.md)  
-[Next → Chapter 7: Is Voice the Missing Link in Multimodal AI?](07-voice-in-multimodal-systems.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓Is Voice the Missing Link in Multimodal AI?  
 ## Why Speaking Might Be the Key to Seeing, Understanding, and Doing
@@ -1109,8 +1104,7 @@ That’s what voice enables:
 
 ---
 
-[← Back to Chapter 6](06-emotion-in-voice-prompts.md)  
-[Next → Chapter 8: Human Competency vs AI Capability — A Dangerous Gap to Ignore](08-human-ai-gap.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓Human Competency vs AI Capability — A Dangerous Gap to Ignore  
 ## Why Voice Tools Are Advancing Faster Than We’re Ready For
@@ -1294,8 +1288,7 @@ Or have I just trained the tool?
 
 ---
 
-[← Back to Chapter 7](07-voice-in-multimodal-systems.md)  
-[Next → Chapter 9: Rating the Response — What Makes an Output Actually Good?](09-quality-checks-for-voice-ai.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓Rating the Response — What Makes an Output Actually Good?
 
@@ -1460,8 +1453,7 @@ That’s the difference between **reaction** and **real resonance**.
 
 ---
 
-[← Back to Chapter 8](08-human-ai-gap.md)  
-[Next → Chapter 10: Beyond Productivity — The Real Promise of Voice AI is Reflection](10-voice-and-reflection.md)
+[🔝 Back to TOC](#table-of-contents)
 
 # ❓Beyond Productivity — The Real Promise of Voice AI is Reflection  
 ## From Output to Insight: When Voice Technology Becomes a Mirror
@@ -1625,7 +1617,8 @@ but for sense-making.**
 
 ---
 
-[← Back to Chapter 9](09-quality-checks-for-voice-ai.md)  
+[🔝 Back to TOC](#table-of-contents)
+  
 [🏁 End of Wiki → Download the Full Guide](README.md#full-guide)
 
 
