@@ -1,4 +1,4 @@
-w# 🧠 Dev Life Systems
+# 🧠 Dev Life Systems
 
 > _“You’re not just coding a product. You’re coding your perception of time, sanity, and scale.”_
 
