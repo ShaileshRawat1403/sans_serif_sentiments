@@ -12,15 +12,15 @@
 - [Key Capabilities at a Glance](#key-capabilities-at-a-glance)
 - [Prerequisites Before You Start](#prerequisites-before-you-start)
 - [What to Do Next](#what-to-do-next)
-- [Core Concepts & System Architecture](#core-concepts--system-architecture)
+- [Core Concepts and System Architecture](#core-concepts-and-system-architecture)
 - [Roles, Use Cases, and Core Features](#roles-use-cases-and-core-features)
 - [Product Features](#product-features)
 - [Executive Summary](#executive-summary)
 - [Getting Started with ImmutableInk](#getting-started-with-immutableink)
 - [Role-Based Workflows](#role-based-workflows)
-- [Installation & Setup](#installation--setup)
+- [Installation and Setup](#installation-and-setup)
 - [Document Lifecycle in Practice](#document-lifecycle-in-practice)
-- [Integrations & Extensibility](#integrations--extensibility)
+- [Integrations and Extensibility](#integrations-and-extensibility)
 
 ---
 
