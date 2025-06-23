@@ -28,7 +28,7 @@ Welcome to the companion guide for navigating the future of **voice-based AI int
 | 1 | [Why Voice Prompts, and Why Now?](#why-voice-prompts-and-why-now) |
 | 2 | [How Did We Get Here?](#how-did-we-get-here) |
 | 3 | [Why Text Prompts Limit Thought](#why-text-prompts-limit-thought) |
-| 4 | [How Voice Enables Cognitive Design](#how-voice-enables-cognitive-design) |
+| 4 | [How Voice Enables Cognitive Design, Not Just Convenience](##how-voice-enables-cognitive-design-not-just-convenience) |
 | 5 | [Where Voice Prompting Matters Most](#where-voice-prompting-matters-most) |
 | 6 | [Can AI Understand How We Say Things?](#can-ai-understand-how-we-say-things) |
 | 7 | [Voice in Multimodal Systems](#voice-in-multimodal-systems) |
