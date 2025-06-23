@@ -25,16 +25,16 @@ Welcome to the companion guide for navigating the future of **voice-based AI int
 
 | Chapter | Title |
 |--------|-------|
-| 1 | [Why Voice Prompts, and Why Now?](-voice-ai-prompting-guide.md#why-voice-prompts-and-why-now) |
-| 2 | [How Did We Get Here? (CLI → GUI → VUI)](voice-ai-prompting-guide.md#how-did-we-get-here-cli-gui-vui) |
-| 3 | [Why Text Prompts Limit Thought](voice-ai-prompting-guide.md#why-text-prompts-limit-thought) |
-| 4 | [How Voice Enables Cognitive Design](voice-ai-prompting-guide.md#how-voice-enables-cognitive-design) |
-| 5 | [Where Voice Prompting Matters Most](voice-ai-prompting-guide.md#where-voice-prompting-matters-most) |
-| 6 | [Can AI Understand How We Say Things?](voice-ai-prompting-guide.md#can-ai-understand-how-we-say-things) |
-| 7 | [Voice in Multimodal Systems](voice-ai-prompting-guide.md#voice-in-multimodal-systems) |
-| 8 | [The Human–AI Competency Gap](voice-ai-prompting-guide.md#the-humanai-competency-gap) |
-| 9 | [What Makes a Response Actually Good?](voice-ai-prompting-guide.md#what-makes-a-response-actually-good) |
-| 10 | [Beyond Productivity — Voice as Reflection](voice-ai-prompting-guide.md#beyond-productivity-voice-as-reflection) |
+| 1 | [Why Voice Prompts, and Why Now?](voice-ai-prompting-guide.md#chapter-1-why-voice-prompts-and-why-now) |
+| 2 | [How Did We Get Here? (CLI → GUI → VUI)](voice-ai-prompting-guide.md#chapter-2-how-did-we-get-here-cli--gui--vui) |
+| 3 | [Why Text Prompts Limit Thought](voice-ai-prompting-guide.md#chapter-3-why-text-prompts-limit-thought) |
+| 4 | [How Voice Enables Cognitive Design](voice-ai-prompting-guide.md#chapter-4-how-voice-enables-cognitive-design) |
+| 5 | [Where Voice Prompting Matters Most](voice-ai-prompting-guide.md#chapter-5-where-voice-prompting-matters-most) |
+| 6 | [Can AI Understand How We Say Things?](voice-ai-prompting-guide.md#chapter-6-can-ai-understand-how-we-say-things) |
+| 7 | [Voice in Multimodal Systems](voice-ai-prompting-guide.md#chapter-7-voice-in-multimodal-systems) |
+| 8 | [The Human–AI Competency Gap](voice-ai-prompting-guide.md#chapter-8-the-humanai-competency-gap) |
+| 9 | [What Makes a Response Actually Good?](voice-ai-prompting-guide.md#chapter-9-what-makes-a-response-actually-good) |
+| 10 | [Beyond Productivity — Voice as Reflection](voice-ai-prompting-guide.md#chapter-10-beyond-productivity--voice-as-reflection) |
 
 ---
 
