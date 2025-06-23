@@ -103,7 +103,7 @@ The next UI is not graphical — it’s **relational**.
 
 ---
 
-[🔝 Back to TOC](../../README.md#table-of-contents)
+[🔝 Back to TOC](./README.md#table-of-contents)
 
 # ❓How Did We Get Here?  
 ## From Command Lines to Conversations: The Interface Evolution We Forgot
