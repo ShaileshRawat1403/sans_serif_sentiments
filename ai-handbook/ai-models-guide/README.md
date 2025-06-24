@@ -6,26 +6,26 @@
 
 ## 📑 Table of Contents
 
-* [What This Guide Covers](#what-this-guide-covers)
-* [Understanding AI Model Types](#understanding-ai-model-types)
+- [What This Guide Covers](#what-this-guide-covers)
+- [Understanding AI Model Types](#understanding-ai-model-types)
 
-  * [Foundation Models](#foundation-models)
-  * [Language Models (LLMs)](#language-models-llms)
-  * [Multimodal Models](#multimodal-models)
-  * [Fine-Tuned Models](#fine-tuned-models)
-* [The What, Why, and How of Model Architectures](#the-what-why-and-how-of-model-architectures)
+  - [Foundation Models](#foundation-models)
+  - [Language Models (LLMs)](#language-models-llms)
+  - [Multimodal Models](#multimodal-models)
+  - [Fine-Tuned Models](#fine-tuned-models)
+- [The What, Why, and How of Model Architectures](#the-what-why-and-how-of-model-architectures)
 
-  * [Transformers](#transformers)
-  * [RNNs and LSTMs](#rnns-and-lstms)
-  * [Diffusion Models](#diffusion-models)
-* [Comparing Major AI Models in the Market](#comparing-major-ai-models-in-the-market)
-* [Choosing the Right Model for the Right Task](#choosing-the-right-model-for-the-right-task)
-* [Model Deployment Types](#model-deployment-types)
-* [Performance vs Speed Tradeoffs](#performance-vs-speed-tradeoffs)
-* [Tooling & Ecosystem Overview](#tooling--ecosystem-overview)
-* [Limitations & Ethical Considerations](#limitations--ethical-considerations)
-* [🧠 Think Break: Your AI Toolkit](#think-break-your-ai-toolkit)
-* [Final Thoughts: The Human in the Loop](#final-thoughts-the-human-in-the-loop)
+  - [Transformers](#transformers)
+  - [RNNs and LSTMs](#rnns-and-lstms)
+  - [Diffusion Models](#diffusion-models)
+- [Comparing Major AI Models in the Market](#comparing-major-ai-models-in-the-market)
+- [Choosing the Right Model for the Right Task](#choosing-the-right-model-for-the-right-task)
+- [Model Deployment Types](#model-deployment-types)
+- [Performance vs Speed Tradeoffs](#performance-vs-speed-tradeoffs)
+- [Tooling & Ecosystem Overview](#tooling--ecosystem-overview)
+- [Limitations & Ethical Considerations](#limitations--ethical-considerations)
+- [🧠 Think Break: Your AI Toolkit](#think-break-your-ai-toolkit)
+- [Final Thoughts: The Human in the Loop](#final-thoughts-the-human-in-the-loop)
 
 ---
 
