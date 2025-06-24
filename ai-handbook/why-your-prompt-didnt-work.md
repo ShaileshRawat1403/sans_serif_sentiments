@@ -7,7 +7,7 @@ A diagnostic handbook for prompt crafters, content designers, and thoughtful AI 
 ## 📑 Table of Contents
 
 1. [🧠 Who This Is For](#-who-this-is-for)
-2. [⚙️ Prerequisites to Use This Guide Well(#-prerequisites-to-use-this-guide-well)
+2. [⚙️ Prerequisites to Use This Guide Well](#-prerequisites-to-use-this-guide-well)
 
 ---
 
