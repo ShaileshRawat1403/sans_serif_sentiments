@@ -6,9 +6,8 @@ A diagnostic handbook for prompt crafters, content designers, and thoughtful AI 
 
 ## 📑 Table of Contents
 
-1. [📍 Why Your Prompt Didn’t Work — and How to Fix It](#-why-your-prompt-didnt-work--and-how-to-fix-it)
-2. [🧠 Who This Is For](#-who-this-is-for)
-3. [⚙️ Prerequisites to Use This Guide Well](#️-prerequisites-to-use-this-guide-well)
+1. [🧠 Who This Is For](#-who-this-is-for)
+2. [⚙️ Prerequisites to Use This Guide Well](#️-prerequisites-to-use-this-guide-well)
 
 ---
 
