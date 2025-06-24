@@ -6,14 +6,14 @@
 
 ## 📑 Table of Contents
 
-- [🧭 What This Guide Covers](#what-this-guide-covers)
-- [Understanding AI Model Types](#understanding-ai-model-types)
+- [What This Guide Covers](#-what-this-guide-covers)
+- [Understanding AI Model Types](#-understanding-ai-model-types)
 
-  - [Foundation Models](#foundation-models)
-  - [Language Models (LLMs)](#language-models-llms)
-  - [Multimodal Models](#multimodal-models)
-  - [Fine-Tuned Models](#fine-tuned-models)
-- [The What, Why, and How of Model Architectures](#the-what-why-and-how-of-model-architectures)
+  - [Foundation Models](#-foundation-models)
+  - [Language Models (LLMs)](#-language-models-llms)
+  - [Multimodal Models](#-multimodal-models)
+  - [Fine-Tuned Models](#-fine-tuned-models)
+- [The What, Why, and How of Model Architectures](#-the-what-why-and-how-of-model-architectures)
 
   - [Transformers](#transformers)
   - [RNNs and LSTMs](#rnns-and-lstms)
