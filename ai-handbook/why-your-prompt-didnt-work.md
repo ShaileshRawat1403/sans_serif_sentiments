@@ -6,29 +6,32 @@ A diagnostic handbook for prompt crafters, content designers, and thoughtful AI 
 
 ## 📑 Table of Contents
 
-1. [Overview: Who This Is For](#who-this-is-for)
-2. [How to Use This Guide](#how-to-use-this-guide)
+1. [📍 Why Your Prompt Didn’t Work — and How to Fix It](#-why-your-prompt-didnt-work--and-how-to-fix-it)
+2. [🧠 Who This Is For](#-who-this-is-for)
+3. [⚙️ Prerequisites to Use This Guide Well](#️-prerequisites-to-use-this-guide-well)
 
 ---
 
 ### 🧠 Diagnostic Sections
 
-3. [“AI didn’t follow my instructions”](#-pain-point-ai-didnt-follow-my-instructions)
-4. [“The output was wrong or outdated”](#-pain-point-the-output-was-wrong-or-outdated)
-5. [“I gave it feedback — and it didn’t improve”](#-pain-point-i-gave-it-feedback--and-it-didnt-improve)
-6. [“The output was too long or too short — even though I specified the length”](#-pain-point-the-output-was-too-long-or-too-short--even-though-i-specified-the-length)
-7. [“I assumed it would know what I meant — but it totally misunderstood the task”](#-pain-point-i-assumed-it-would-know-what-i-meant--but-it-totally-misunderstood-the-task)
-8. [“The output was okay… but it felt generic or forgettable”](#-pain-point-the-output-was-okay-but-it-felt-generic-or-forgettable)
-9. [“It followed the format — but still felt off somehow”](#-pain-point-it-followed-the-format--but-still-felt-off-somehow)
-10. [“I did everything right… but it still doesn’t feel right”](#-pain-point-i-did-everything-right-but-it-still-doesnt-feel-right)
+4. [🔍 Pain Point: “AI didn’t follow my instructions.”](#-pain-point-ai-didnt-follow-my-instructions)
+5. [🔍 Pain Point: “The tone sounded robotic or corporate.”](#-pain-point-the-tone-sounded-robotic-or-corporate)
+6. [🔍 Pain Point: “I gave it so much input… and it still missed the point.”](#-pain-point-i-gave-it-so-much-input-and-it-still-missed-the-point)
+7. [🔍 Pain Point: “It gave a safe answer instead of something insightful.”](#-pain-point-it-gave-a-safe-answer-instead-of-something-insightful)
+8. [🔍 Pain Point: “I gave it feedback — and it didn’t improve.”](#-pain-point-i-gave-it-feedback--and-it-didnt-improve)
+9. [🔍 Pain Point: “The output was too long or too short — even though I specified the length.”](#-pain-point-the-output-was-too-long-or-too-short--even-though-i-specified-the-length)
+10. [🔍 Pain Point: “I assumed it would know what I meant — but it totally misunderstood the task.”](#-pain-point-i-assumed-it-would-know-what-i-meant--but-it-totally-misunderstood-the-task)
+11. [🔍 Pain Point: “The output was okay… but it felt generic or forgettable.”](#-pain-point-the-output-was-okay-but-it-felt-generic-or-forgettable)
+12. [🔍 Pain Point: “It followed the format — but still felt off somehow.”](#-pain-point-it-followed-the-format--but-still-felt-off-somehow)
+13. [🔍 Pain Point: “I did everything right… but it still doesn’t feel right.”](#-pain-point-i-did-everything-right-but-it-still-doesnt-feel-right)
 
 ---
 
 ### 🧰 What’s Next?
 
-11. [Suggested Fixes by Pattern](#suggested-fixes-by-pattern)
-12. [Tools & Resources](#tools--resources)
-13. [Contribute Your Own Prompt Failures](#contribute-your-own-prompt-failures)
+14. [✅ Suggested Fixes by Pattern](#-suggested-fixes-by-pattern)
+15. [🧭 Tools & Resources](#-tools--resources)
+16. [📬 Contribute Your Own Prompt Failures](#-contribute-your-own-prompt-failures)
 
 ---
 
