@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents
 
-- [What This Guide Covers](#what-this-guide-covers)
+- [🧭 What This Guide Covers](#what-this-guide-covers)
 - [Understanding AI Model Types](#understanding-ai-model-types)
 
   - [Foundation Models](#foundation-models)
