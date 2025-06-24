@@ -4,6 +4,34 @@ A diagnostic handbook for prompt crafters, content designers, and thoughtful AI 
 
 ---
 
+## 📑 Table of Contents
+
+1. [Overview: Who This Is For](#overview-who-this-is-for)
+2. [How to Use This Guide](#how-to-use-this-guide)
+
+---
+
+### 🧠 Diagnostic Sections
+
+3. [“AI didn’t follow my instructions”](#-pain-point-ai-didnt-follow-my-instructions)
+4. [“The output was wrong or outdated”](#-pain-point-the-output-was-wrong-or-outdated)
+5. [“I gave it feedback — and it didn’t improve”](#-pain-point-i-gave-it-feedback--and-it-didnt-improve)
+6. [“The output was too long or too short — even though I specified the length”](#-pain-point-the-output-was-too-long-or-too-short--even-though-i-specified-the-length)
+7. [“I assumed it would know what I meant — but it totally misunderstood the task”](#-pain-point-i-assumed-it-would-know-what-i-meant--but-it-totally-misunderstood-the-task)
+8. [“The output was okay… but it felt generic or forgettable”](#-pain-point-the-output-was-okay-but-it-felt-generic-or-forgettable)
+9. [“It followed the format — but still felt off somehow”](#-pain-point-it-followed-the-format--but-still-felt-off-somehow)
+10. [“I did everything right… but it still doesn’t feel right”](#-pain-point-i-did-everything-right-but-it-still-doesnt-feel-right)
+
+---
+
+### 🧰 What’s Next?
+
+11. [Suggested Fixes by Pattern](#suggested-fixes-by-pattern)
+12. [Tools & Resources](#tools--resources)
+13. [Contribute Your Own Prompt Failures](#contribute-your-own-prompt-failures)
+
+---
+
 ## 🧠 Who This Is For
 
 This guide is for:
