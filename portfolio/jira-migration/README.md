@@ -77,4 +77,35 @@ While the technical switch is manageable, the core challenge is **behavioral** �
 
 ---
 
+# 🚀 JIRA Migration Documentation Suite
+
+This project simulates a real-world internal rollout of **JIRA** as a unified project management platform across a growing enterprise.
+
+It demonstrates:
+- Internal communications planning
+- Change management messaging
+- Technical writing and user enablement
+- Strategic document sequencing
+
+🔗 Each section includes raw documents + strategy commentary.
+
+---
+
+📁 Structure:
+
+1. `0_manifesto/` → Project overview & goals  
+2. `1_strategy/` → Communication planning  
+3. `2_announcement/` → Internal memo and poster  
+4. `3_faq-support/` → FAQs and stakeholder mappings  
+5. `4_training-guides/` → How-tos, use cases  
+6. `5_feedback-reflection/` → Reflection docs  
+7. `6_assets/` → Slack copy, visuals
+
+---
+
+👋 Built by [Shailesh (PoeticMayhem)](https://pruningmypothos.com)  
+🛠️ Tools used: Confluence, GitHub, Trello, Notion
+
+---
+
 *Last updated: 2025-06-25*
