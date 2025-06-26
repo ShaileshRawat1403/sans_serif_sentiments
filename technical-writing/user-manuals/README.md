@@ -6,7 +6,7 @@ last_updated: 2025-05-26
 
 # User Manuals
 
-Here you’ll find in-depth guides that walk you step by step through hardware setups and software configurations.
+Here you’ll find guides that walk you step by step through hardware setups and software configurations.
 
 ## Projects
 
