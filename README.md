@@ -26,11 +26,11 @@ About **work**, **language**, **systems**, and the strange space in between wher
 You’ll find:
 
 * Raw documentation
-* Communicative strategy
-* AI use cases
+* Communication strategy
+* Change Translation - AI - use cases
 * Technical writing principles
 * Change communication frameworks
-* And a thread tying it all together: how not to lose **intention** in the race for information.
+* And a thread tying it all together: how not to lose **intention** in the race for _information_.
 
 ***
 
