@@ -1,4 +1,4 @@
-## 📄 Chapter: `docs-vs-decks.md`
+## 📄 `docs-vs-decks.md`
 
 **Title:** *Docs vs Decks*
 **Subtitle:** *Why clarity is built in documents — and eroded in slide shows.*
