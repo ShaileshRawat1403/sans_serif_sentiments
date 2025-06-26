@@ -1,4 +1,4 @@
-## 📄 Chapter: `writing-principles.md`
+## 📄 `writing-principles.md`
 
 **Title suggestion:** *How to Write So People Don’t Hate You*
 **Alternate Title:** *Writing That Helps, Not Hurts*
