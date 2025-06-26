@@ -145,6 +145,4 @@ We’ve now covered the *why* and the *what*. Next, you’ll actually write your
 
 > *Because clarity doesn’t come from a clever sentence. It comes from structured help, built for humans under pressure.*
 
-Coming up: `how-to-write-a-howto.md`
-
 ---
