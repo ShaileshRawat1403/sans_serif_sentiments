@@ -1,4 +1,4 @@
-## 📄 Chapter: `how-to-write-a-how-to.md`
+## 📄 `how-to-write-a-how-to.md`
 
 **Title:** *How to Write a How-To*  
 **Subtitle:** *A step-by-step walkthrough for writing your first usable doc.*
