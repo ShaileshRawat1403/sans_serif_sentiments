@@ -4,35 +4,6 @@
 
 _A living framework for calm, clear, human-first documentation._
 
-## 📑 Table of Contents
-
-1. [Purpose of This Guide](./#1-purpose-of-this-guide)
-2. [Tone & Voice](./#2-tone--voice)
-3. [Structure & Hierarchy](./#3-structure--hierarchy)
-4. [Emphasis Rules](./#4-emphasis-rules)
-5. [Language & Word Choice](./#5-language--word-choice)
-6. [Layout Patterns](./#6-layout-patterns)
-7. [Content Philosophy](./#7-content-philosophy)
-8. [Markdown & Commit Style](./#8-markdown--commit-style)
-9. [Accessibility & Inclusivity](./#9-accessibility--inclusivity)
-10. [Localization & Translation](./#10-localization--translation)
-11. [Linking & Cross-Referencing](./#11-linking--cross-referencing)
-12. [Code & Command Snippets](./#12-code--command-snippets)
-13. [Admonitions & Callouts](./#13-admonitions--callouts)
-14. [Asset Management](./#14-asset-management)
-15. [Tables, Lists & Layouts](./#15-tables-lists--layouts)
-16. [Terminology & Glossary](./#16-terminology--glossary)
-17. [Doc Versioning & Changelogs](./#17-doc-versioning--changelogs)
-18. [Review & Feedback Process](./#18-review--feedback-process)
-19. [Automation & Tooling](./#19-automation--tooling)
-20. [SEO & Discoverability](./#20-seo--discoverability)
-21. [Living Documentation](./#21-living-documentation)
-22. [AI-Assisted Writing](./#22-ai-assisted-writing)
-23. [Multi-Format Output](./#23-multi-format-output)
-24. [Evolution Rules](./#24-evolution-rules)
-
-***
-
 ***
 
 ## 1. Purpose of This Guide
