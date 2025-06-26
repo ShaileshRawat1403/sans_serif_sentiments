@@ -4,7 +4,7 @@ icon: door-open
 
 # Before You Read, Know Why I Wrote
 
-taI’ve worn many hats over the years — marketer, communicator, strategist, information developer.\
+I’ve worn many hats over the years — marketer, communicator, strategist, information developer.\
 But the head beneath has always been the same: a writer trying to make sense of change.
 
 {% hint style="success" %}
