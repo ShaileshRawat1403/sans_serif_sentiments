@@ -271,7 +271,6 @@ Ask someone unfamiliar with the product to follow your doc. Watch where they hes
 
 Now that you’ve written your first how-to, it’s time to **build your portfolio** — and showcase what you’ve learned.
 
-Coming up next: `08-building-your-portfolio.md`  
 > Because showing your work is the best way to prove you can help — especially when you’re just getting started.
 
 ---
