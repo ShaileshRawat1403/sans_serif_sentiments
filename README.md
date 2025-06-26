@@ -1,7 +1,7 @@
 ---
 icon: feather-pointed
 cover: .gitbook/assets/mysil.png
-coverY: 187.47161066048668
+coverY: 307.7265353418308
 layout:
   cover:
     visible: true
