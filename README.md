@@ -54,9 +54,11 @@ You’ll find:
 
 #### What This Is Not
 
+{% hint style="danger" %}
 ❌ It’s not productivity porn.\
 ❌ It’s not a polished thought-leadership feed.\
 ❌ It’s not “I figured it out so you don’t have to.”
+{% endhint %}
 
 I _didn’t_ figure it out.\
 I’m just documenting what I’ve understood — **so far**.
