@@ -1,4 +1,4 @@
-## 📄 Chapter: `05-getting-started.md`
+# 📄 getting-started.md`
 
 **Title:** *How to Start in Technical Writing (Without a Tech Job)*
 **Subtitle:** *Learn, write, and prove your skill — without waiting for permission.*
