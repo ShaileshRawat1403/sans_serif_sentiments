@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # sans\_serif\_sentiments
 
 A curated personal portfolio of technical writing and marketing documentation projects by Shailesh Rawat.
