@@ -138,6 +138,4 @@ Now that you’ve started building your skill and your proof — let’s talk ab
 
 > One builds trust. The other often breaks it.
 
-Up next: `docs-vs-marketing`
-
 ---
