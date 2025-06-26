@@ -4,62 +4,67 @@ hidden: true
 
 # sans\_serif\_sentiments
 
-A curated personal portfolio of technical writing and marketing documentation projects by Shailesh Rawat.
+## Sans Serif Sentiments
 
 **Simple words. Sincere intent.**
 
-***
+{% hint style="info" %}
+A symbolic _space for slowing down_, asking better questions, and confronting the discomfort we’ve outsourced to tools.
 
-## Sections
-
-### Technical Writing
-
-This section showcases step-by-step guides, user manuals, and style systems crafted for real users.\
-[Explore Technical Writing →](technical-writing/index.md)
-
-### Marketing
-
-This section highlights content strategies, campaign case studies, and brand storytelling frameworks.\
-[Explore Marketing →](marketing/index.md)
-
-## Templates & Tools
-
-Practical assets to jumpstart your own documentation:
-
-* > 📎 Uses principles from our - [🎨 Style Guide](style-guide/index.md)
-
-(Coming Soon)
-
-* [✅ Checklists →](templates-and-tools/checklists/)
-* [✍️ Markdown starter kits →](templates-and-tools/markdown-starter-kits/)
-* [🎯 Voice & tone sliders →](templates-and-tools/voice-and-tone-sliders/)
-* [🧭 Content decision maps →](templates-and-tools/content-decision-maps/)
+Because clarity doesn’t come from sounding smart.\
+It comes from caring enough to strip away the fluff.
+{% endhint %}
 
 ***
 
-## Navigation
+```
+Sans_Serif_Sentiments:
+```
 
-1. Choose a section above.
-2. Read its overview.
-3. Dive into individual project folders under `projects/`.
-
-***
-
-## Contribution & Feedback
-
-This is a living, collaborative hub. To get involved:
-
-* **Open an issue** for bugs or suggestions
-* **Submit a pull request** with fixes or new content
-* **Join the discussion** to share ideas and best practices
-
-Thank you for making this resource more reliable and accessible for everyone.
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;background-color:blue;">The absence. The quiet. The space where meaning isn’t overpowered by noise.</mark></td><td><a href=".gitbook/assets/san.png">san.png</a></td></tr><tr><td align="center"><mark style="color:red;background-color:red;">The excess. The embellishment. The things we add to impress, but not always to inform.</mark></td><td><a href=".gitbook/assets/serif.png">serif.png</a></td></tr><tr><td align="center"><mark style="background-color:green;">What’s left when the distractions are gone. The residue of real intent.</mark></td><td><a href=".gitbook/assets/senti.png">senti.png</a></td></tr></tbody></table>
 
 ***
 
-### Backstory
+#### Why This Page Exists
 
-Curious why this project exists in the first place?\
-Read the satirical-but-true origin story here - the [README file →](<README (1).md>)
+This is more than a design choice or a writing aesthetic.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+**Sans Serif Sentiments** is a call to:
+
+* **Commit to Purpose** → Not just what we say, but _why_ we say it.
+* **Audit Assumptions** → Strip the bias, question the default, honor the context.
+* **Write Responsibly** → Not to impress. Not to perform. But to translate experience into meaning.
+* **Preserve Meaning** → When the flash fades, only truth sticks.
+
+***
+
+#### You Don’t Need a Prompt. You Need a Pause.
+
+Most content today begins in a rush — powered by templates, trends, or tech.
+
+But this space resists that urge. This is a place to:
+
+* Slow down before you write.
+* Question before you summarize.
+* Observe before you optimize.
+
+Here, clarity is an ethic.
+
+And words are not decoration — they are **decisions**.
+
+***
+
+#### Who This Is For
+
+Anyone who:
+
+* Writes for clarity, not just clicks
+* Documents change instead of decorating it
+* Believes language can shape better systems, not just smoother interfaces
+
+Whether you’re a writer, strategist, developer, researcher, or curious human —\
+**Welcome.**
+
+Let’s commit clarity. And fork the fluff.
+
+— _Shailesh (Poetic<mark style="color:red;">M</mark>ayhem)_
