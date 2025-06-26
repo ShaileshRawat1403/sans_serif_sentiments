@@ -17,11 +17,9 @@ It comes from caring enough to strip away the fluff.
 
 ***
 
-```
-Sans_Serif_Sentiments:
-```
+### _`Sans_Serif_Sentiments`_
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;background-color:blue;">The absence. The quiet. The space where meaning isn’t overpowered by noise.</mark></td><td><a href=".gitbook/assets/san.png">san.png</a></td></tr><tr><td align="center"><mark style="color:red;background-color:red;">The excess. The embellishment. The things we add to impress, but not always to inform.</mark></td><td><a href=".gitbook/assets/serif.png">serif.png</a></td></tr><tr><td align="center"><mark style="background-color:green;">What’s left when the distractions are gone. The residue of real intent.</mark></td><td><a href=".gitbook/assets/senti.png">senti.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;background-color:blue;">The absence. The quiet.  The space where meaning isn’t overpowered by noise.</mark></td><td><a href=".gitbook/assets/san.png">san.png</a></td></tr><tr><td align="center"><mark style="color:red;background-color:red;">The excess. The embellishment. The things we add to impress, but not always to inform.</mark></td><td><a href=".gitbook/assets/serif.png">serif.png</a></td></tr><tr><td align="center"><mark style="background-color:green;">What’s left when the distractions are gone. The residue of real intent.</mark></td><td><a href=".gitbook/assets/senti.png">senti.png</a></td></tr></tbody></table>
 
 ***
 
