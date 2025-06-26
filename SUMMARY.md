@@ -28,7 +28,7 @@
     * [🧠 AI Interaction Flowchart](ai-handbook/prompted-but-not-prepared/prompt-pause-proceed/README.md)
     * [voice-ai-prompt-guide](ai-handbook/prompted-but-not-prepared/voice-ai-prompt-guide/README.md)
       * [voice-ai-prompt-guide](ai-handbook/prompted-but-not-prepared/voice-ai-prompt-guide/voice-ai-prompt-guide.md)
-* [README.md](change-communications/README.md)
+* [change-comms](change-communications/README.md)
   * [Anatomy of Change Communication](change-communications/anatomy-of-change-communication/README.md)
   * [🧠 Communication Intelligence System](change-communications/communications-core/README.md)
   * [This Might Change Everything](change-communications/this-might-change-everything/README.md)
