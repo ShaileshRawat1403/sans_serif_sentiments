@@ -1,3 +1,7 @@
+---
+icon: solar-system
+---
+
 # Systems and Sentences
 
 _A Framework for Mapping Literary Technique to AI, Prompting, and Change Systems By PoeticMayhem_

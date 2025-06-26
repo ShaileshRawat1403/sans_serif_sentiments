@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# 🎨 Style Guide for sans-serif-sentiments
+# 🎨 Style Guide
 
 **Version 1.0 • 2025-05-19**
 

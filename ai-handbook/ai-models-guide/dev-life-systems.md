@@ -65,7 +65,7 @@ A system rooted in:
 
 #### Start Here:
 
-* Calibrate your mindset with [Thinking Before Code](dev-life-systems.md#thinking-before-code-)
+* Calibrate your mindset with [Thinking Before Code](dev-life-systems.md#thinking-before-code)
 * Choose a module that reflects where you’re stuck (thinking, doing, communicating, or living)
 
 #### Then:
@@ -124,9 +124,9 @@ dev-life-systems.md
 
 ### 🔗 Related Systems
 
-➡️ [_Flavor & Function – Writing as a system_](../fnf/flavor-and-function.md)\
-➡️ [_Prompted But Not Prepared – The AI Gap Handbook_](prompted-but-not-prepared/)\
-➡️ [_This Might Change Everything – Change Comms Toolkit_](../change-communications/this-might-change-everything/)
+➡️ [_Flavor & Function – Writing as a system_](../../fnf/flavor-and-function.md)\
+➡️ [_Prompted But Not Prepared – The AI Gap Handbook_](../prompted-but-not-prepared/)\
+➡️ [_This Might Change Everything – Change Comms Toolkit_](../../change-communications/this-might-change-everything/)
 
 ***
 
