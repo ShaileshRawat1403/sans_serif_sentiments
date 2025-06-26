@@ -1,5 +1,5 @@
 ---
-hidden: true
+icon: user-ninja
 ---
 
 # sans\_serif\_sentiments

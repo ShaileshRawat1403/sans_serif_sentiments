@@ -91,7 +91,7 @@ Welcome to a documentation hub that values your intelligence, time, and goals.
 
 ***
 
-{% code title="the beginning of the End" overflow="wrap" fullWidth="false" %}
+{% code title="The beginning of the End" overflow="wrap" fullWidth="false" %}
 ```
 from kit-kit to git-git
 ```
@@ -173,7 +173,9 @@ So be kind with your forks.
 
 ***
 
-> "The scariest gap isn't skill. It's the ~~**THINKING**~~ GAP." \~ _`PoeticMayhem`_
+> "The scariest gap isn't skill. It's the ~~**THINKING**~~ GAP."&#x20;
+>
+> \~ _Poetic<mark style="color:red;">M</mark>ayhem_
 
 _Version control isn’t just for code._\
 &#xNAN;_&#x49;t’s for clarity._\

@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Before You Read, Know Why I Wrote](README.md)
+* [sans\_serif\_sentiments](index.md)
 * [PoeticMayhem: README](<README (1).md>)
 * [GitHub Contribution Guide for Writers](contribution-guide.md)
-* [sans\_serif\_sentiments](index.md)
 * [ai-handbook](ai-handbook/README.md)
   * [dev-life-systems](ai-handbook/dev-life-systems.md)
   * [✍️ Flavor & Function](ai-handbook/flavor-and-function.md)
