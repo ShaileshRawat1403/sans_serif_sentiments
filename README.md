@@ -4,13 +4,16 @@ icon: door-open
 
 # Before You Read, Know Why I Wrote
 
-I’ve worn many hats over the years — marketer, communicator, strategist, information developer.\
+taI’ve worn many hats over the years — marketer, communicator, strategist, information developer.\
 But the head beneath has always been the same: a writer trying to make sense of change.
 
 {% hint style="success" %}
-This isn't just a project.\
-It’s a reflection.\
-Of everything I questioned, absorbed, struggled with, and tried to explain — to myself first, and now to you.
+This isn't just a project. It’s a reflection.\
+Of everything I experienced, _questioned_, _absorbed_,&#x20;
+
+_**struggled**_**&#x20;with**, and tried to explain — to myself first,&#x20;
+
+and now am sharing with you.
 {% endhint %}
 
 ***
@@ -38,7 +41,7 @@ You’ll find:
 ❌ It’s not “I figured it out so you don’t have to.”
 
 I _didn’t_ figure it out.\
-I’m just documenting what I’ve understood — so far.
+I’m just documenting what I’ve understood — **so far**.
 
 ***
 
@@ -68,9 +71,11 @@ You’ll spot contradictions, messy edits, missing parts.\
 They’re not bugs — they’re the actual texture of learning.
 {% endhint %}
 
-And if something looks unfinished or oddly placed…\
-&#xNAN;_&#x49;gnore it._\
-<i class="fa-flower">:flower:</i>**Ignorance is bliss — when it’s for the mess.**
+{% hint style="info" %}
+If something looks unfinished or oddly placed…\
+&#xNAN;_**Ignore it.**_\
+<i class="fa-flower">:flower:</i><mark style="color:green;">**Ignorance is bliss — when it’s for the mess.**</mark>
+{% endhint %}
 
 ***
 
@@ -78,18 +83,41 @@ And if something looks unfinished or oddly placed…\
 
 If something here speaks to you:
 
-* 📌 Bookmark the page — reflection doesn’t need a deadline.
-* 🔁 Share it with someone navigating a similar mess.
-* 💬 Or just drop me a note — I’m always learning from how others see the same story.
+* [x] 📌 Bookmark the page — reflection doesn’t need a deadline.
+* [x] 🔁 Share it with someone navigating a similar mess.
+* [x] 💬 Or just drop me a note — I’m always learning from how others see the same story.
 
+{% stepper %}
+{% step %}
+### **Start Anywhere:**&#x20;
+
+Initiate your journey from any point.
+{% endstep %}
+
+{% step %}
+### **Fork What You Need:** .
+
+Take and adapt what is necessary.
+{% endstep %}
+
+{% step %}
+### **Question What You Don’t:**&#x20;
+
+Don’t just read it.\
+&#xNAN;_**Pause**. **Think**. **Ask** what doesn’t add up._
+{% endstep %}
+{% endstepper %}
+
+#### The Ulterior Motive (_every-one has one_)
+
+{% hint style="success" %}
+If something makes sense — maybe even better sense than you expected — then this page has done its job.
+{% endhint %}
+
+{% hint style="success" %}
 And if this repo helps me find the next opportunity where work feels this honest — then sharing it was worth it.
-
-* **Start Anywhere:** Initiate your journey from any point.
-* **Fork What You Need:** Take and adapt what is necessary.
-* **Question What You Don’t:** Challenge and scrutinize what seems unclear.
-
-And if something makes sense — maybe even better sense than you expected — then this page has done its job.
+{% endhint %}
 
 > _P.S. This doc lives in_ [_GitHub too_](https://github.com/ShaileshRawat1403/sans_serif_sentiments) _— and yes, a 🌟 there always means something._
 
-— Shailesh (PoeticMayhem)
+— _Shailesh_
