@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [PoeticMayhem: README](README.md)
 * [GitHub Contribution Guide for Writers](contribution-guide.md)
 * [sans\_serif\_sentiments](index.md)
 * [ai-handbook](ai-handbook/README.md)
