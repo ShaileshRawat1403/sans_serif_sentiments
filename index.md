@@ -31,10 +31,39 @@ This is more than a design choice or a writing aesthetic.
 
 **Sans Serif Sentiments** is a call to:
 
-* **Commit to Purpose** → Not just what we say, but _why_ we say it.
-* **Audit Assumptions** → Strip the bias, question the default, honor the context.
-* **Write Responsibly** → Not to impress. Not to perform. But to translate experience into meaning.
-* **Preserve Meaning** → When the flash fades, only truth sticks.
+{% stepper %}
+{% step %}
+**Commit to Purpose**&#x20;
+
+{% hint style="success" %}
+→ Not just what we say, but _why_ we say it.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+**Audit Assumptions**&#x20;
+
+{% hint style="success" %}
+→ Strip the bias, question the default, honor the context.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+**Write Responsibly**&#x20;
+
+{% hint style="success" %}
+→ Not to impress. Not to perform. But to translate experience into meaning.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+**Preserve Meaning**&#x20;
+
+{% hint style="success" %}
+→ When the flash fades, only truth sticks.
+{% endhint %}
+{% endstep %}
+{% endstepper %}
 
 ***
 
@@ -44,9 +73,9 @@ Most content today begins in a rush — powered by templates, trends, or tech.
 
 But this space resists that urge. This is a place to:
 
-* Slow down before you write.
-* Question before you summarize.
-* Observe before you optimize.
+* [ ] <mark style="color:green;">Slow down before you write.</mark>
+* [ ] <mark style="color:green;">Question before you summarize.</mark>
+* [ ] <mark style="color:green;">Observe before you optimize.</mark>
 
 Here, clarity is an ethic.
 
