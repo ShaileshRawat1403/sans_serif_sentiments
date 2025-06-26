@@ -135,7 +135,7 @@ Or reflect before you write:
 
 ---
 
-# 🧠 1. Thinking Before Code
+# 🧠 Thinking Before Code
 
 > _“Good code solves problems. Great code questions them first.”_
 
