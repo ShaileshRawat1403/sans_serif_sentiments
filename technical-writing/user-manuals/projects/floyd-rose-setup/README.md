@@ -1,2 +1,0 @@
-# floyd-rose-setup
-
