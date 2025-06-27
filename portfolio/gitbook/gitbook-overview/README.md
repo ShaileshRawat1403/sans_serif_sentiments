@@ -1,75 +1,76 @@
 # ⚙️ GitBook Setup Guide
 
-Use this guide to create your GitBook account, configure your workspace, and manage user access. Complete this setup before creating documentation spaces.
+Use this guide to create your GitBook account, configure your workspace, and manage access for collaborators. Complete this setup before creating your first documentation space.
 
 ---
 
 ## 🔍 Overview
 
-GitBook uses a workspace model where multiple documentation spaces can be created, shared, and managed. Each workspace is tied to your user identity or team.
+GitBook uses a **workspace model** to organize documentation. Each workspace can contain multiple spaces (projects), and each space can be made private or public. Workspaces are ideal for teams or individual creators who want to manage documentation in a structured environment.
 
 ---
 
 ## ✅ Prerequisites
 
-- A working email address or Google account
+Make sure you have:
+
+- A valid email address or Google/GitHub account
 - A modern web browser (Chrome, Firefox, or Edge)
 
 ---
 
-## 🔐 Step 1: Sign Up or Log In
+## 🔐 Sign In to GitBook
 
-1. Go to [https://gitbook.com](https://gitbook.com)
-2. Click **Sign in** (top right)
-3. Choose one of the following:
-   - **Continue with Google**
-   - **Continue with GitHub**
-   - **Continue with email**
-4. Complete the sign-up flow and verify your email if prompted
+- Navigate to [https://gitbook.com](https://gitbook.com)  
+- Select **Sign in** from the top navigation  
+- Choose your preferred login method:  
+  - **Continue with Google**  
+  - **Continue with GitHub**  
+  - **Continue with email**
+- Follow the authentication prompts  
+- If using email, verify your account via the confirmation link  
 
-> 📘 Tip: GitBook does not require installation. Everything runs in your browser.
-
----
-
-## 🧭 Step 2: Create or Access Your Workspace
-
-1. After login, GitBook will prompt you to join or create a workspace
-2. Enter a workspace name (e.g., `YourTeamDocs`)
-3. Choose a **Personal** or **Team** plan (free plans are available)
-4. Click **Create workspace**
-
-You will be redirected to the workspace dashboard.
+> 🟢 GitBook is browser-based. No installation is required.
 
 ---
 
-## 👥 Step 3: Manage Members and Permissions
+## 🧭 Create or Access a Workspace
 
-1. In the top-left corner, select your workspace name  
-2. Click **Workspace settings**
-3. Navigate to the **Members** tab  
-4. Click **Invite members**  
-5. Enter email addresses and select role:
-   - **Viewer** — can read documentation
-   - **Editor** — can write and update documentation
-   - **Admin** — full access to settings and users
-
-> 📘 Roles can be changed later from the Members tab.
+- After logging in, GitBook prompts you to create or join a workspace  
+- Enter a name for your workspace (e.g., `team-docs` or `myportfolio`)  
+- Choose whether this is a **Personal** or **Team** workspace  
+- Click **Create workspace** to proceed  
+- Access the workspace dashboard where you can start creating documentation spaces
 
 ---
 
-## 🧾 Outcome
+## 👥 Manage Members and Access Levels
 
-After completing this guide, you will have:
+- Select your workspace name from the top-left workspace selector  
+- Go to **Workspace settings**  
+- Open the **Members** tab  
+- Use the **Invite members** button to add team members via email  
+- Assign roles during invitation:
+  - **Viewer** – can read published content  
+  - **Editor** – can write and edit content  
+  - **Admin** – can manage workspace and settings
 
-- A GitBook account
-- A configured personal or team workspace
-- Team members added with appropriate roles
-- Access to create documentation spaces
+> 🟡 You can update roles later by revisiting the **Members** tab.
+
+---
+
+## ✅ Result
+
+After completing this setup:
+
+- Your GitBook account is active  
+- You have created and accessed a workspace  
+- Your team (if applicable) has been invited with the appropriate permissions  
 
 ---
 
 ## ➕ Next Steps
 
-- [Getting Started Guide →](./gitbook-getting-started.md): Create and publish your first space  
-- [Editor Guide →](./gitbook-editor-guide.md): Learn to write and format content in GitBook  
-- [Glossary →](./gitbook-glossary.md): Review key GitBook terms and roles
+- [Getting Started →](./gitbook-getting-started.md): Learn how to create your first documentation space  
+- [Editor Guide →](./gitbook-editor-guide.md): Write and format pages using the GitBook editor  
+- [Glossary →](./gitbook-glossary.md): Familiarize yourself with GitBook terminology
