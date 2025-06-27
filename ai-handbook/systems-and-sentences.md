@@ -40,7 +40,7 @@ _A Framework for Mapping Literary Technique to AI, Prompting, and Change Systems
 
 ### 📜 Final Notes
 
-* [📜 Terms & Conditions](systems-and-sentences.md#-terms--conditions)
+* [📜 Terms & Conditions](systems-and-sentences.md#terms-and-conditions)
 
 ## 🧠 About This Project
 
