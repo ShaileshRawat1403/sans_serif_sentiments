@@ -1,27 +1,27 @@
-# 🧾 GitBook Documentation Glossary
+# 📘 GitBook Glossary
 
-A quick-reference glossary to help you understand key terms and concepts used across the GitBook platform.
+A quick-reference guide to help you understand the most common terms and components in the GitBook documentation suite. Each term includes a plain-language definition and links to relevant guides for hands-on learning.
 
 | Term | Definition | Related Guide |
-|------|------------|---------------|
-| **Space** | A collaborative workspace where your documentation lives. Each space contains pages and collections. | [Getting Started](../gitbook-getting-started/gitbook-getting-started.md) |
-| **Page** | The basic unit of content in a GitBook space. Pages can be nested hierarchically. | [Editor Guide](../gitbook-editor-guide/gitbook-editor-guide.md) |
-| **Block** | A structural element (text, image, code, callout, etc.) used to build content on a page. | [Editor Guide](../gitbook-editor-guide/gitbook-editor-guide.md) |
-| **Collection** | A way to group related content pages within a space. Supports multi-level organization. | [Editor Guide](../gitbook-editor-guide/gitbook-editor-guide.md) |
-| **Sidebar** | A navigational structure shown on the left. Built using the space’s structure configuration. | [Setup Guide](../gitbook-setup-guide/gitbook-setup-guide.md) |
-| **Publishing** | The act of making your documentation visible publicly or privately. | [Getting Started](../gitbook-getting-started/gitbook-getting-started.md) |
-| **Custom Domain** | Your own branded domain (e.g. docs.yoursite.com) mapped to a GitBook site. | [Setup Guide](../gitbook-setup-guide/gitbook-setup-guide.md) |
-| **Workspace** | Your organization-level environment in GitBook. Hosts multiple spaces and members. | [Setup Guide](../gitbook-setup-guide/gitbook-setup-guide.md) |
-| **Embed** | Adding dynamic or static media (YouTube, Figma, Miro, etc.) into your documentation. | [Editor Guide](../gitbook-editor-guide/gitbook-editor-guide.md) |
-| **Link Card** | A visual preview of a linked GitBook page or external site, rendered automatically. | [Editor Guide](../gitbook-editor-guide/gitbook-editor-guide.md) |
-| **Markdown Mode** | A focused writing environment that supports Git-flavored Markdown and keyboard shortcuts. | [Reference Guide](../gitbook-writing-modes-reference/gitbook-writing-modes-reference.md) |
-| **Visual Mode** | A drag-and-drop, block-based interface for composing content with rich formatting. | [Reference Guide](../gitbook-writing-modes-reference/gitbook-writing-modes-reference.md) |
-| **Search** | GitBook's intelligent in-space and cross-space content search functionality. | [Overview](../gitbook-overview/gitbook-overview.md) |
-| **Publishing Status** | Indicates whether a space is in draft, private, or public mode. | [Troubleshooting](../gitbook-troubleshooting/gitbook-troubleshooting.md) |
-| **Broken Links** | Invalid or missing links in your content that can affect navigation and credibility. | [Troubleshooting](../gitbook-troubleshooting/gitbook-troubleshooting.md) |
-| **Version Control** | GitBook supports limited content history and workspace-level versioning (not full Git). | [Overview](../gitbook-overview/gitbook-overview.md) |
+|------|------------|----------------|
+| **Space** | A top-level container for documentation. Each space can hold multiple pages and version branches. | [Get Started](../gitbook-getting-started/README.md) |
+| **Page** | The basic unit of content in GitBook, like a chapter or article. Pages are organized inside spaces. | [Editor Guide](../gitbook-editor-guide/README.md) |
+| **Blocks** | Content sections (text, image, code, etc.) used to build pages visually using the GitBook editor. | [Editor Guide](../gitbook-editor-guide/README.md#blocks) |
+| **Sidebar** | A navigational panel that helps users browse through pages within a space. Can be customized. | [Setup Guide](../gitbook-setup-guide/README.md) |
+| **Publishing** | Making your space visible online. GitBook allows scheduled or instant publishing. | [Setup Guide](../gitbook-setup-guide/README.md#publishing-your-docs) |
+| **Integrations** | GitBook can connect to tools like GitHub, Slack, and others for collaborative workflows. | [Setup Guide](../gitbook-setup-guide/README.md#integrations) |
+| **Custom Domain** | You can host your GitBook space on a custom domain (e.g. docs.yourcompany.com). | [Setup Guide](../gitbook-setup-guide/README.md#custom-domains) |
+| **Editor** | A WYSIWYG interface for creating and structuring content without writing raw Markdown. | [Editor Guide](../gitbook-editor-guide/README.md) |
+| **Markdown Mode** | Switch between visual editor and Markdown for advanced formatting control. | [Writing Modes](../gitbook-writing-modes-reference/README.md) |
+| **Reusable Blocks** | Save content snippets and reuse them across multiple pages/spaces. | [Editor Guide](../gitbook-editor-guide/README.md#reusable-blocks) |
+| **AI Assistant** | GitBook offers an AI assistant to help generate, summarize, or edit content. | [Writing with AI](../gitbook-editor-guide/README.md#writing-with-gitbook-ai) |
+| **Version Control** | Manage different versions of your documentation through branching and publishing. | [Version Control](../gitbook-editor-guide/README.md#version-control) |
+| **Search** | GitBook includes an internal search engine to help users find content quickly. | [Search Setup](../gitbook-setup-guide/README.md#search-configuration) |
+| **Broken Links** | GitBook checks for internal link errors across all pages in a space. | [Troubleshooting](../gitbook-troubleshooting/README.md#broken-links) |
+| **Content Structure** | The hierarchy and layout of content, including pages, subpages, and navigation. | [Editor Guide](../gitbook-editor-guide/README.md#content-structure) |
 
 ---
 
-📌 *Refer to this glossary anytime for clarity while exploring or contributing to GitBook documentation.*
+🔎 **Not sure where to start?**  
+Head to the [Overview Guide](../gitbook-overview/README.md) or [Get Started](../gitbook-getting-started/README.md) page to begin your journey.
 
