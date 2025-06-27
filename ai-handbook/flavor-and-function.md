@@ -1,3 +1,10 @@
+---
+icon: garlic
+cover: >-
+  https://images.unsplash.com/photo-1508614999368-9260051292e5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxncmFkaWVudHxlbnwwfHx8fDE3NTA5MzM2OTh8MA&ixlib=rb-4.1.0&q=85
+coverY: 0
+---
+
 # Flavor & Function
 
 _A writing rhythm for people who think before they speak. And still want to be heard._
