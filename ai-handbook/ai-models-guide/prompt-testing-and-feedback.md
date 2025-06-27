@@ -1,3 +1,7 @@
+---
+icon: bug-slash
+---
+
 # Prompt Testing and Model Feedback Loops
 
 _How to Refine, Reuse, and Retrain Without Repeating the Same Mistakes_

@@ -1,3 +1,7 @@
+---
+icon: star-sharp-half
+---
+
 # This Might Change Everything
 
 _A style and thinking system for change communication and content enablement in the AI era_

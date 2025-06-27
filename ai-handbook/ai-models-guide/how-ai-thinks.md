@@ -1,3 +1,7 @@
+---
+icon: train-track
+---
+
 # How AI Thinks (And How It Doesn’t)
 
 _A Guide to Understanding What’s Actually Happening Under the Hood_

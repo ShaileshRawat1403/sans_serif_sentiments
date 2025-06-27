@@ -1,3 +1,7 @@
+---
+icon: chess-knight
+---
+
 # Strategic Communications Template
 
 _Turn leadership ideas into meaningful, memorable communication—without losing clarity, credibility, or context._

@@ -1,3 +1,7 @@
+---
+icon: dev
+---
+
 # dev-life-systems
 
 ## 🧠 Dev Life Systems

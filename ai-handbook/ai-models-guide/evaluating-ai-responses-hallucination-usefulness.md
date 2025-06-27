@@ -1,3 +1,7 @@
+---
+icon: dna
+---
+
 # Evaluating AI Outputs: Hallucinations, Truth, and Usefulness
 
 _Why "Looks Right" Isn’t Good Enough in Enterprise AI_

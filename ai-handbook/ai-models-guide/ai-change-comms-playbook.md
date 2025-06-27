@@ -1,3 +1,7 @@
+---
+icon: rotate
+---
+
 # AI Change Communication Playbook
 
 _Helping Your Org Understand the Shift — Not Just the Software_

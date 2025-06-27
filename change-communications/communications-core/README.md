@@ -1,3 +1,7 @@
+---
+icon: brain-circuit
+---
+
 # Communication Intelligence System
 
 _Your single source of truth for strategic messaging, change translation, and content enablement._

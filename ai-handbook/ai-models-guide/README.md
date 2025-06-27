@@ -1,3 +1,7 @@
+---
+icon: octopus
+---
+
 # Understanding and Comparing AI Models
 
 _A Flavor + Function Guide to Modern AI Systems_

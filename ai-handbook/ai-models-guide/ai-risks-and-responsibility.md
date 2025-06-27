@@ -1,3 +1,7 @@
+---
+icon: skull
+---
+
 # Risks, Red Flags, and Responsible Use
 
 _What AI Can Break — and How to Build Safety Nets Before It Happens_

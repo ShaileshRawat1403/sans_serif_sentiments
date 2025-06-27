@@ -1,3 +1,7 @@
+---
+icon: language
+---
+
 # Change Translation Template
 
 _A framework to help you translate change into something people can understand, trust, and act on._

@@ -1,3 +1,7 @@
+---
+icon: pen-swirl
+---
+
 # Style Guide
 
 **Version 1.0 • 2025-05-19**

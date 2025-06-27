@@ -1,3 +1,7 @@
+---
+icon: microphone-lines-slash
+---
+
 # voice-ai-prompt-guide
 
 ## ❓Why Voice Prompts, and Why Now?

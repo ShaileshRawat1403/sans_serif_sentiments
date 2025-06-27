@@ -1,3 +1,7 @@
+---
+icon: arrows-to-circle
+---
+
 # Content Enablement Template
 
 _A practical scaffold for writing useful, usable, and relevant support content when change is in motion_

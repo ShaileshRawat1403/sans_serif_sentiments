@@ -1,3 +1,7 @@
+---
+icon: magnifying-glass-waveform
+---
+
 # AI Systems Glossary
 
 _A single source of truth for all key terms, concepts, and jargon used across our AI documentation series — written for clarity, grounded in context._

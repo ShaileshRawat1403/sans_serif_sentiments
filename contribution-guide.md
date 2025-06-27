@@ -1,20 +1,24 @@
+---
+icon: github
+---
+
 # GitHub Contribution Guide for Writers
 
 > A professional workflow and best practices documentation tailored for writers contributing to open-source projects on GitHub.
 
----
+***
 
 ## 📖 Table of Contents
 
-* [Understanding GitHub Terminology](#understanding-github-terminology)
-* [Recommended Workflow](#recommended-workflow)
-* [Best Practices for GitHub Contributions](#best-practices-for-github-contributions)
-* [Common Gaps and How to Avoid Them](#common-gaps-and-how-to-avoid-them)
-* [Essential Git Commands for Writers](#essential-git-commands-for-writers)
-* [Creating Professional Contributions](#creating-professional-contributions)
-* [Next Steps for Writers](#next-steps-for-writers)
+* [Understanding GitHub Terminology](contribution-guide.md#understanding-github-terminology)
+* [Recommended Workflow](contribution-guide.md#recommended-workflow)
+* [Best Practices for GitHub Contributions](contribution-guide.md#best-practices-for-github-contributions)
+* [Common Gaps and How to Avoid Them](contribution-guide.md#common-gaps-and-how-to-avoid-them)
+* [Essential Git Commands for Writers](contribution-guide.md#essential-git-commands-for-writers)
+* [Creating Professional Contributions](contribution-guide.md#creating-professional-contributions)
+* [Next Steps for Writers](contribution-guide.md#next-steps-for-writers)
 
----
+***
 
 ## Understanding GitHub Terminology
 
@@ -26,7 +30,7 @@
 | **Branch**            | Independent workspace for features or changes.             | Prevents disruption of stable content.                     |
 | **Pull Request (PR)** | A request to integrate your changes into the main project. | Enables code review and collaboration.                     |
 
----
+***
 
 ## Recommended Workflow
 
@@ -92,7 +96,6 @@ Local Branch → GitHub Fork Branch
 * Navigate to your fork.
 * Click **Compare & pull request**.
 * Provide clear descriptions:
-
   * Problem solved
   * Value added
   * Steps to verify
@@ -108,7 +111,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 * Address feedback promptly.
 * Maintain clear communication.
 
----
+***
 
 ## Best Practices for GitHub Contributions
 
@@ -126,7 +129,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 * Ignore requested changes.
 * Combine unrelated changes.
 
----
+***
 
 ## Common Gaps and How to Avoid Them
 
@@ -148,7 +151,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 
 **Solution:** Break contributions into smaller PRs.
 
----
+***
 
 ## Essential Git Commands for Writers
 
@@ -163,7 +166,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 | `git push origin [branch-name]` | Pushes changes                 |
 | `git status`                    | Checks changes                 |
 
----
+***
 
 ## Creating Professional Contributions
 
@@ -174,7 +177,7 @@ Ensure contributions are:
 * Purpose-driven (what, why, how clearly defined)
 * Collaborative (responsive to feedback)
 
----
+***
 
 ## Next Steps for Writers
 
@@ -182,7 +185,7 @@ Ensure contributions are:
 * **Document:** Clearly document contributions.
 * **Engage:** Participate actively in discussions.
 
----
+***
 
 ## Contribution Workflow Visual
 
@@ -198,10 +201,10 @@ G --> H[Maintainer Reviews]
 H --> I[Merge Changes]
 ```
 
----
+***
 
 ## Final Thoughts
 
 > "Effective open-source contributions are not just technical—they're fundamentally about clear communication and collaboration."
 
----
+***

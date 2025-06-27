@@ -1,3 +1,7 @@
+---
+icon: hands-asl-interpreting
+---
+
 # Voice Prompts and Conversational UX
 
 _Designing Natural Interactions for Humans — Not Just Commands for AI_

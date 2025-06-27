@@ -1,3 +1,7 @@
+---
+icon: layer-group
+---
+
 # Multimodal Models Explained
 
 _How AI Sees, Hears, and Talks in One Unified Brain_

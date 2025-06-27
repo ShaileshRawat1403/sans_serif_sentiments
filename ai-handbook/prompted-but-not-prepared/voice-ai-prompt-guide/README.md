@@ -1,3 +1,7 @@
+---
+icon: microphone-lines
+---
+
 # voice-ai-prompt-guide
 
 ## 🧠 Voice AI Prompting Guide

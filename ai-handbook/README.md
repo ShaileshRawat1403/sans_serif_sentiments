@@ -1,3 +1,7 @@
+---
+icon: microchip-ai
+---
+
 # ai-handbook
 
 ### 📜 Prologue — Before We Begin
