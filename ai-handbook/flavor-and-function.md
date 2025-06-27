@@ -11,16 +11,16 @@ _A writing rhythm for people who think before they speak. And still want to be h
 * [🧠 Why This Exists](flavor-and-function.md#why-this-exists)
 * [🤖 Using FnF With AI](flavor-and-function.md#part-2-using-fnf-with-ai)
   * [🛠️ Prompt Framework](flavor-and-function.md#prompt-framework-using-fnf)
-  * [📋 FnF Rewrite Example](flavor-and-function.md#-fnf-rewrite-example-ai--human-edit)
-  * [🧪 Output Audit](flavor-and-function.md#-output-audit-using-fnf)
-  * [🔁 Use Cases](flavor-and-function.md#-use-cases-where-fnf--ai-work-best)
-* [❓ FAQs + Common Misuses](flavor-and-function.md#-part-3-faqs--common-misuses)
+  * [📋 FnF Rewrite Example](flavor-and-function.md#fnf-rewrite-example-ai--human-edit)
+  * [🧪 Output Audit](flavor-and-function.md#output-audit-using-fnf)
+  * [🔁 Use Cases](flavor-and-function.md#use-cases-where-fnf--ai-work-best)
+* [❓ FAQs](flavor-and-function.md#faqs--common-misuses)
   * [Q1: Technical Docs?](flavor-and-function.md#q1-can-i-use-fnf-with-technical-documentation)
   * [Q2: No Stat or Story?](flavor-and-function.md#q2-what-if-i-dont-have-a-stat-or-story-for-the-evidence-step)
   * [Q3: Only 3 Steps?](flavor-and-function.md#q3-what-if-i-only-use-3-out-of-6-steps)
   * [Q4: Automate It?](flavor-and-function.md#q4-can-i-automate-this-with-ai)
   * [Q5: What FnF Is _Not_](flavor-and-function.md#q5-what-does-fnf-not-do)
-  * [🚫 Misuse Patterns](flavor-and-function.md#-common-misuses)
+  * [🚫 Misuse Patterns](flavor-and-function.md#common-misuses)
 
 ***
 
@@ -78,7 +78,7 @@ It’s built for:
 
 ***
 
-## 🤖 Part 2: Using FnF With AI
+## 🤖 Using FnF With AI
 
 _A rhythm is not a script. It’s a scaffold._
 
@@ -154,7 +154,7 @@ Once AI gives a draft, **ask these questions**:
 
 ***
 
-## ❓ Part 3: FAQs + Common Misuses
+## ❓FAQs + Common Misuses
 
 ***
 
