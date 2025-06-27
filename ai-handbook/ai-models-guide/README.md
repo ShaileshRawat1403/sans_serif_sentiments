@@ -1,33 +1,31 @@
-# 🧠 Understanding and Comparing AI Models
+# Understanding and Comparing AI Models
 
-*A Flavor + Function Guide to Modern AI Systems*
+_A Flavor + Function Guide to Modern AI Systems_
 
----
+***
 
 ## 📑 Table of Contents
 
-- [What This Guide Covers](#-what-this-guide-covers)
-- [Understanding AI Model Types](#-understanding-ai-model-types)
+* [What This Guide Covers](./#what-this-guide-covers)
+* [Understanding AI Model Types](./#understanding-ai-model-types)
+  * [Foundation Models](./#foundation-models)
+  * [Language Models (LLMs)](./#language-models-llms)
+  * [Multimodal Models](./#multimodal-models)
+  * [Fine-Tuned Models](./#fine-tuned-models)
+* [The What, Why, and How of Model Architectures](./#the-what-why-and-how-of-model-architectures)
+  * [Transformers](./#transformers)
+  * [RNNs and LSTMs](./#rnns-and-lstms)
+  * [Diffusion Models](./#diffusion-models)
+* [Comparing Major AI Models in the Market](./#comparing-major-ai-models-in-the-market)
+* [Choosing the Right Model for the Right Task](./#choosing-the-right-model-for-the-right-task)
+* [Model Deployment Types](./#model-deployment-types)
+* [Performance vs Speed Tradeoffs](./#performance-vs-speed-tradeoffs)
+* [Tooling & Ecosystem Overview](./#tooling-and-ecosystem-overview)
+* [Limitations & Ethical Considerations](./#limitations-and-ethical-considerations)
+* [🧠 Think Break: Your AI Toolkit](./#think-break-your-ai-toolkit)
+* [Final Thoughts: The Human in the Loop](./#final-thoughts-the-human-in-the-loop)
 
-  - [Foundation Models](#-foundation-models)
-  - [Language Models (LLMs)](#-language-models-llms)
-  - [Multimodal Models](#-multimodal-models)
-  - [Fine-Tuned Models](#-fine-tuned-models)
-- [The What, Why, and How of Model Architectures](#-the-what-why-and-how-of-model-architectures)
-
-  - [Transformers](#transformers)
-  - [RNNs and LSTMs](#rnns-and-lstms)
-  - [Diffusion Models](#diffusion-models)
-- [Comparing Major AI Models in the Market](#comparing-major-ai-models-in-the-market)
-- [Choosing the Right Model for the Right Task](#choosing-the-right-model-for-the-right-task)
-- [Model Deployment Types](#model-deployment-types)
-- [Performance vs Speed Tradeoffs](#performance-vs-speed-tradeoffs)
-- [Tooling & Ecosystem Overview](#tooling--ecosystem-overview)
-- [Limitations & Ethical Considerations](#limitations--ethical-considerations)
-- [🧠 Think Break: Your AI Toolkit](#think-break-your-ai-toolkit)
-- [Final Thoughts: The Human in the Loop](#final-thoughts-the-human-in-the-loop)
-
----
+***
 
 ## 🧭 What This Guide Covers
 
@@ -40,7 +38,7 @@ This guide helps you:
 
 We blend technical explanations with **real-world use cases**, **L\&D reflections**, and **ethical guidance**—so you learn not just what the models do, but how to make sense of them.
 
----
+***
 
 ## 🧠 Understanding AI Model Types
 
@@ -52,7 +50,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **Example Analogy:** A foundation model is like a university graduate — broad knowledge, not yet specialized.
 
----
+***
 
 ### ✍️ Language Models (LLMs)
 
@@ -64,7 +62,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **L\&D Tip:** Ask different LLMs the same question and compare tone, depth, and hallucination risk.
 
----
+***
 
 ### 🎨 Multimodal Models
 
@@ -74,7 +72,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **Example Use:** Upload a diagram + ask questions about it + get a textual summary.
 
----
+***
 
 ### 🧪 Fine-Tuned Models
 
@@ -84,7 +82,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **Tool Example:** Custom GPTs (OpenAI), RAG-enabled agents (LangChain).
 
----
+***
 
 ## 🧱 The What, Why, and How of Model Architectures
 
@@ -96,7 +94,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **Visual Metaphor:** Reading a whole book at once instead of word-by-word.
 
----
+***
 
 ### 🔁 RNNs and LSTMs
 
@@ -106,7 +104,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **When to Use:** Low-power applications, limited memory footprint.
 
----
+***
 
 ### 🌫️ Diffusion Models
 
@@ -116,7 +114,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **Analogy:** Like recovering a photo from an erased sketch, step-by-step.
 
----
+***
 
 ## 📊 Comparing Major AI Models in the Market
 
@@ -128,7 +126,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 | **LLaMA 3**       | Open-source, private deployment         | No UI out-of-the-box              | Great for custom applications                |
 | **Mistral 7B/8x** | Modular design (MoE), efficient compute | Lower polish in out-of-box UX     | Tiny yet powerful open models                |
 
----
+***
 
 ## 🧩 Choosing the Right Model for the Right Task
 
@@ -141,7 +139,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 | Code generation          | GPT-4o, Claude Sonnet, StarCoder | Trained on code repositories          |
 | Custom enterprise tools  | Mixtral, Cohere, Claude 3 Haiku  | Light, fast, embeddable               |
 
----
+***
 
 ## 📦 Model Deployment Types
 
@@ -149,28 +147,25 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 **Example:** ChatGPT, Claude, Gemini
 
-**Pros:** Easy to use, no infra needed
-**Cons:** Costs can rise, latency, privacy concerns
+**Pros:** Easy to use, no infra needed **Cons:** Costs can rise, latency, privacy concerns
 
----
+***
 
 ### 🧰 2. Self-Hosted or On-Prem
 
 **Example:** LLaMA, Mistral
 
-**Pros:** Secure, no external data transfer
-**Cons:** Needs GPUs, setup complexity
+**Pros:** Secure, no external data transfer **Cons:** Needs GPUs, setup complexity
 
----
+***
 
 ### 🪶 3. Edge & Lightweight
 
 **Example:** Phi-3, TinyLLaMA
 
-**Pros:** Mobile-ready, cheap inference
-**Cons:** Weaker reasoning, limited context
+**Pros:** Mobile-ready, cheap inference **Cons:** Weaker reasoning, limited context
 
----
+***
 
 ## ⚖️ Performance vs Speed Tradeoffs
 
@@ -184,7 +179,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 > Imagine you’re designing an AI assistant for customer service. Is speed or accuracy more important? What tradeoffs can your users tolerate?
 
----
+***
 
 ## 🧩 Tooling & Ecosystem Overview
 
@@ -196,7 +191,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 | OpenAI Plugins    | Third-party task integrations | ChatGPT Pro        |
 | Gemini Extensions | Data fetch, app integrations  | Google Suite       |
 
----
+***
 
 ## 🧠 Think Break: Your AI Toolkit
 
@@ -209,7 +204,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 >
 > Which **combination of models or tools** would you use? Sketch a plan.
 
----
+***
 
 ## 🚫 Limitations & Ethical Considerations
 
@@ -220,7 +215,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 > ⚠️ **Tip:** Use AI to **augment**, not replace. Always review high-risk outputs.
 
----
+***
 
 ## 🧍 Final Thoughts: The Human in the Loop
 
@@ -234,4 +229,4 @@ Always ask:
 * What patterns is it missing?
 * Am I guiding the model — or being guided by it?
 
----
+***

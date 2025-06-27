@@ -1,31 +1,30 @@
-# 🔧 Fine-Tuning and Custom Models
+# Fine-Tuning and Custom Models
 
-*How to Train AI to Work Like It’s on Your Team, Not Just in the Cloud*
+_How to Train AI to Work Like It’s on Your Team, Not Just in the Cloud_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why This Guide Exists](#why-this-guide-exists)
-* [What Is Fine-Tuning?](#what-is-fine-tuning)
-* [How Fine-Tuning Differs from Prompt Engineering](#how-fine-tuning-differs-from-prompt-engineering)
-* [Types of Model Customization](#types-of-model-customization)
+* [Why This Guide Exists](fine-tuning-guide.md#why-this-guide-exists)
+* [What Is Fine-Tuning?](fine-tuning-guide.md#what-is-fine-tuning)
+* [How Fine-Tuning Differs from Prompt Engineering](fine-tuning-guide.md#how-fine-tuning-differs-from-prompt-engineering)
+* [Types of Model Customization](fine-tuning-guide.md#types-of-model-customization)
+  * [Full Fine-Tuning](fine-tuning-guide.md#full-fine-tuning)
+  * [Instruction Tuning](fine-tuning-guide.md#instruction-tuning)
+  * [LoRA (Low-Rank Adaptation)](fine-tuning-guide.md#lora-low-rank-adaptation)
+  * [Retrieval-Augmented Generation (RAG)](fine-tuning-guide.md#retrieval-augmented-generation-rag)
+* [Choosing the Right Customization Method](fine-tuning-guide.md#choosing-the-right-customization-method)
+* [Popular Tools for Fine-Tuning](fine-tuning-guide.md#popular-tools-for-fine-tuning)
+* [Fine-Tuning in Practice: Use Cases](fine-tuning-guide.md#fine-tuning-in-practice-use-cases)
+* [Risks, Limits, and Ethical Considerations](fine-tuning-guide.md#risks-limits-and-ethical-considerations)
+* [Reflection Activity: Build a Fine-Tune Strategy](fine-tuning-guide.md#reflection-activity-build-a-fine-tune-strategy)
+* [Interactive Design Checklist](fine-tuning-guide.md#interactive-design-checklist)
+* [Sample File Structure for Fine-Tune Projects](fine-tuning-guide.md#sample-file-structure-for-fine-tune-projects)
+* [Evaluation and Feedback Loops](fine-tuning-guide.md#evaluation-and-feedback-loops)
+* [Visual: Human-in-the-Loop Workflow](fine-tuning-guide.md#visual-human-in-the-loop-workflow)
 
-  * [Full Fine-Tuning](#full-fine-tuning)
-  * [Instruction Tuning](#instruction-tuning)
-  * [LoRA (Low-Rank Adaptation)](#lora-low-rank-adaptation)
-  * [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
-* [Choosing the Right Customization Method](#choosing-the-right-customization-method)
-* [Popular Tools for Fine-Tuning](#popular-tools-for-fine-tuning)
-* [Fine-Tuning in Practice: Use Cases](#fine-tuning-in-practice-use-cases)
-* [Risks, Limits, and Ethical Considerations](#risks-limits-and-ethical-considerations)
-* [Reflection Activity: Build a Fine-Tune Strategy](#reflection-activity-build-a-fine-tune-strategy)
-* [Interactive Design Checklist](#interactive-design-checklist)
-* [Sample File Structure for Fine-Tune Projects](#sample-file-structure-for-fine-tune-projects)
-* [Evaluation and Feedback Loops](#evaluation-and-feedback-loops)
-* [Visual: Human-in-the-Loop Workflow](#visual-human-in-the-loop-workflow)
-
----
+***
 
 ## 🧭 Why This Guide Exists
 
@@ -40,7 +39,7 @@ Out of the box, it doesn’t know your:
 
 This guide helps you go beyond prompts. It teaches you how to **build smarter, tailored AI experiences** using fine-tuning and lightweight adaptation techniques.
 
----
+***
 
 ## 🧠 What Is Fine-Tuning?
 
@@ -50,7 +49,7 @@ Fine-tuning is the process of **retraining a model on your specific data**, so i
 
 You’re not building a new model from scratch — just shaping a pre-trained one.
 
----
+***
 
 ## ⚖️ How Fine-Tuning Differs from Prompt Engineering
 
@@ -64,7 +63,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 > 💡 Tip: Start with prompt engineering. Only fine-tune when patterns repeat or scale requires consistency.
 
----
+***
 
 ## 🧩 Types of Model Customization
 
@@ -94,7 +93,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 > 🔍 RAG is like giving ChatGPT access to your intranet.
 
----
+***
 
 ## 🧠 Choosing the Right Customization Method
 
@@ -106,7 +105,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 | Train on proprietary data     | Full fine-tune             | No external dependency, custom behavior |
 | Local or offline use          | LoRA + open model          | Secure, compliant, lightweight          |
 
----
+***
 
 ## 🛠️ Popular Tools for Fine-Tuning
 
@@ -118,7 +117,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 | Google Vertex AI   | Enterprise + regulated sectors | Scalable fine-tune pipelines      |
 | Replicate + Ollama | Local LLMs and micro-tunes     | Great for dev testing + PoCs      |
 
----
+***
 
 ## 🧾 Fine-Tuning in Practice: Use Cases
 
@@ -149,7 +148,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 > 🎯 Even with fine-tuning, **human oversight is mandatory**. Always review high-impact outputs.
 
----
+***
 
 ## ⚠️ Risks, Limits, and Ethical Considerations
 
@@ -161,7 +160,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 > ✋ Use fine-tuning for **repetition, compliance, and scale** — not for novelty or sensitive judgment.
 
----
+***
 
 ## 🧠 Reflection Activity: Build a Fine-Tune Strategy
 
@@ -180,7 +179,7 @@ Then:
 * Define evaluation criteria (clarity, accuracy, voice)
 * Propose a hybrid approach: fine-tune + RAG fallback
 
----
+***
 
 ## ✅ Interactive Design Checklist
 
@@ -194,7 +193,7 @@ Use this checklist before deciding to fine-tune or customize a model:
 * [ ] Do we require **offline or internal deployment**?
 * [ ] Do we need the model to **reference evolving content** (→ RAG)?
 
----
+***
 
 ## 🗂️ Sample File Structure for Fine-Tune Projects
 
@@ -218,7 +217,7 @@ fine-tune-project/
 
 > 🔍 Keep rejected examples — they’re just as valuable in helping models **avoid errors**.
 
----
+***
 
 ## 📏 Evaluation and Feedback Loops
 
@@ -243,7 +242,7 @@ After fine-tuning, don’t stop at “it works.” Build a feedback loop:
 | Factual Accuracy | 10/10  | 10    | All figures matched doc |
 | Response Speed   | <2s    | 1.8s  | Within threshold        |
 
----
+***
 
 ## 🧠 Visual: Human-in-the-Loop Workflow
 
@@ -265,8 +264,8 @@ After fine-tuning, don’t stop at “it works.” Build a feedback loop:
 
 > 🔄 Don’t treat fine-tuning as a one-off project. It’s a cycle of growth.
 
----
+***
 
-📘 Next in Series: [AI + Enterprise Workflows](./enterprise-ai-integration.md)
+📘 Next in Series: [AI + Enterprise Workflows](enterprise-ai-integration.md)
 
----
+***

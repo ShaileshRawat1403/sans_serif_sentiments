@@ -1,26 +1,27 @@
-# 🔄 Change Translation Template  
-*A framework to help you translate change into something people can understand, trust, and act on.*
+# Change Translation Template
 
----
+_A framework to help you translate change into something people can understand, trust, and act on._
+
+***
 
 ## ❓ Why This Template Exists
 
-> Most change fails not because it’s wrong, but because it’s *untranslatable*.
+> Most change fails not because it’s wrong, but because it’s _untranslatable_.
 
-We use words like “alignment,” “strategic shift,” or “reimagining the experience”...  
-But nobody knows what *that actually means* to them.
+We use words like “alignment,” “strategic shift,” or “reimagining the experience”...\
+But nobody knows what _that actually means_ to them.
 
-This template helps you do one thing well:  
+This template helps you do one thing well:\
 **Translate the organizational change into the individual’s experience.**
 
-It won’t inspire.  
+It won’t inspire.\
 It’ll help people realize.
 
----
+***
 
 ## ✍️ The Template
 
-Use this to write internal memos, announcements, or internal articles about *what’s changing* and *why it matters*—without confusing people or triggering panic.
+Use this to write internal memos, announcements, or internal articles about _what’s changing_ and _why it matters_—without confusing people or triggering panic.
 
 ```
 ## 🔄 What’s Changing
@@ -42,13 +43,13 @@ Use this to write internal memos, announcements, or internal articles about *wha
 [Invite feedback, questions, or concerns. Name the channel/person.]
 ```
 
----
+***
 
 ## 🧵 Real-World Example
 
 Let’s say your company is shifting to a 4-day workweek pilot.
 
----
+***
 
 ### ❌ Typical Comms:
 
@@ -56,11 +57,11 @@ Let’s say your company is shifting to a 4-day workweek pilot.
 
 🙄 Sounds nice. Says nothing. Leaves people wondering:
 
-- Will I be paid less?
-- Who decides my schedule?
-- Will this affect client deadlines?
+* Will I be paid less?
+* Who decides my schedule?
+* Will this affect client deadlines?
 
----
+***
 
 ### ✅ Translation Using This Template:
 
@@ -89,43 +90,44 @@ We’ve seen signs of burnout and declining focus. We want to test if fewer days
 Drop anonymous questions [here] or join the #4DWW Slack channel for open discussion.
 ```
 
----
+***
 
 ## 🧠 When To Use This Template
 
-- When launching a change that affects **roles, teams, goals, or tools**
-- When internal reactions are likely to vary across functions
-- When you're tired of generic vision decks that go nowhere
-- When you want people to trust the *why* before following the *what*
+* When launching a change that affects **roles, teams, goals, or tools**
+* When internal reactions are likely to vary across functions
+* When you're tired of generic vision decks that go nowhere
+* When you want people to trust the _why_ before following the _what_
 
----
+***
 
 ## 💡 Why It Works
 
-| Section | Why It Helps |
-|---------|--------------|
-| “What’s Changing” | Clarity calms speculation |
-| “Why It’s Happening” | Builds emotional relevance |
-| “What It Means For You” | Ties the message to the reader’s reality |
-| “What’s Staying the Same” | Protects against panic by anchoring stability |
-| “What Happens Next” | Shows progress path, avoids paralysis |
-| “How To Ask or Contribute” | Converts anxiety into conversation |
+| Section                    | Why It Helps                                  |
+| -------------------------- | --------------------------------------------- |
+| “What’s Changing”          | Clarity calms speculation                     |
+| “Why It’s Happening”       | Builds emotional relevance                    |
+| “What It Means For You”    | Ties the message to the reader’s reality      |
+| “What’s Staying the Same”  | Protects against panic by anchoring stability |
+| “What Happens Next”        | Shows progress path, avoids paralysis         |
+| “How To Ask or Contribute” | Converts anxiety into conversation            |
 
----
+***
 
 ## ✅ TL;DR
 
-Change communication often skips the translation layer.  
+Change communication often skips the translation layer.\
 This template **restores that layer**—where doubt turns to understanding.
 
 Use this when:
-- You’re introducing something new or disruptive  
-- You don’t want to “sell” change, but help it sink in  
-- You want people to feel informed, not imposed upon
 
----
+* You’re introducing something new or disruptive
+* You don’t want to “sell” change, but help it sink in
+* You want people to feel informed, not imposed upon
 
-> Want to contribute? Fork this file and add your real-world use case.  
-> Or check out the [Strategic Comms Template →](./strategic-comms-template.md)
+***
 
----
+> Want to contribute? Fork this file and add your real-world use case.\
+> Or check out the [Strategic Comms Template →](strategic-comms-template.md)
+
+***

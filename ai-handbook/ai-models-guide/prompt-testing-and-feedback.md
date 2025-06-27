@@ -1,25 +1,24 @@
-# 🧪 Prompt Testing and Model Feedback Loops
+# Prompt Testing and Model Feedback Loops
 
-*How to Refine, Reuse, and Retrain Without Repeating the Same Mistakes*
+_How to Refine, Reuse, and Retrain Without Repeating the Same Mistakes_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why Prompt Testing Is Not Optional](#why-prompt-testing-is-not-optional)
-* [What Makes a Prompt Testable?](#what-makes-a-prompt-testable)
-* [Types of Prompt Testing](#types-of-prompt-testing)
+* [Why Prompt Testing Is Not Optional](prompt-testing-and-feedback.md#why-prompt-testing-is-not-optional)
+* [What Makes a Prompt Testable?](prompt-testing-and-feedback.md#what-makes-a-prompt-testable)
+* [Types of Prompt Testing](prompt-testing-and-feedback.md#types-of-prompt-testing)
+  * [Manual Testing](prompt-testing-and-feedback.md#manual-testing)
+  * [Structured A/B Testing](prompt-testing-and-feedback.md#structured-ab-testing)
+  * [Regression Testing](prompt-testing-and-feedback.md#regression-testing)
+* [Prompt Versioning and Change Tracking](prompt-testing-and-feedback.md#prompt-versioning-and-change-tracking)
+* [Creating Feedback Loops That Actually Improve Models](prompt-testing-and-feedback.md#creating-feedback-loops-that-actually-improve-models)
+* [Using Metrics Without Gaming the System](prompt-testing-and-feedback.md#using-metrics-without-gaming-the-system)
+* [Reflection Activity: Run a Prompt Evaluation Sprint](prompt-testing-and-feedback.md#reflection-activity-run-a-prompt-evaluation-sprint)
+* [Visual Aids: Prompt Testing Frameworks](prompt-testing-and-feedback.md#visual-aids-prompt-testing-frameworks)
 
-  * [Manual Testing](#manual-testing)
-  * [Structured A/B Testing](#structured-ab-testing)
-  * [Regression Testing](#regression-testing)
-* [Prompt Versioning and Change Tracking](#prompt-versioning-and-change-tracking)
-* [Creating Feedback Loops That Actually Improve Models](#creating-feedback-loops-that-actually-improve-models)
-* [Using Metrics Without Gaming the System](#using-metrics-without-gaming-the-system)
-* [Reflection Activity: Run a Prompt Evaluation Sprint](#reflection-activity-run-a-prompt-evaluation-sprint)
-* [Visual Aids: Prompt Testing Frameworks](#visual-aids-prompt-testing-frameworks)
-
----
+***
 
 ## 🧭 Why Prompt Testing Is Not Optional
 
@@ -33,7 +32,7 @@ Most enterprise prompts evolve over time. Yet teams:
 
 You need testable prompts, traceable versions, and responsive feedback systems.
 
----
+***
 
 ## ❓ What Makes a Prompt Testable?
 
@@ -46,7 +45,7 @@ A good prompt is:
 
 > You’re not just testing wording — you’re testing **task translation** into AI-readable intent.
 
----
+***
 
 ## 🧪 Types of Prompt Testing
 
@@ -57,7 +56,7 @@ A good prompt is:
 
 **Use case:** Small team piloting legal clause summaries
 
----
+***
 
 ### 🧪 Structured A/B Testing
 
@@ -66,12 +65,12 @@ A good prompt is:
 
 **Use case:** Marketing drafts with tone variation
 
-```text
+```
 Prompt A: “Write in formal B2B voice.”
 Prompt B: “Write like a friendly advisor.”
 ```
 
----
+***
 
 ### 🧪 Regression Testing
 
@@ -80,7 +79,7 @@ Prompt B: “Write like a friendly advisor.”
 
 **Use case:** Post-upgrade test of RAG-powered chatbot
 
----
+***
 
 ## 🔁 Prompt Versioning and Change Tracking
 
@@ -100,7 +99,7 @@ Just like code, prompts need:
 
 > A good prompt log = fewer repeated failures.
 
----
+***
 
 ## 📣 Creating Feedback Loops That Actually Improve Models
 
@@ -118,7 +117,7 @@ Just like code, prompts need:
 
 > The fastest way to improve AI performance? Improve how you speak to it.
 
----
+***
 
 ## 📏 Using Metrics Without Gaming the System
 
@@ -137,7 +136,7 @@ Avoid:
 
 > Metrics are mirrors. If you distort them, you won’t see the flaws you need to fix.
 
----
+***
 
 ## 🧠 Reflection Activity: Run a Prompt Evaluation Sprint
 
@@ -159,13 +158,13 @@ Document:
 
 > Make prompt testing a monthly ritual. Your AI ROI will grow exponentially.
 
----
+***
 
 ## 🧩 Visual Aids: Prompt Testing Frameworks
 
 ### Prompt QA Lifecycle (End-to-End)
 
-```text
+```
 [Prompt Draft]
    ↓
 [Test Inputs Run]
@@ -181,7 +180,7 @@ Document:
 
 ### A/B Testing Flow
 
-```text
+```
 [Input Dataset]
    ↓
 [A → Prompt 1]   [B → Prompt 2]
@@ -191,8 +190,8 @@ Document:
 [Winner Promoted / Logged]
 ```
 
----
+***
 
-📘 Next in Series: [Training Your Team to Use AI Consistently](./training-your-team.md)
+📘 Next in Series: [Training Your Team to Use AI Consistently](training-your-team.md)
 
----
+***

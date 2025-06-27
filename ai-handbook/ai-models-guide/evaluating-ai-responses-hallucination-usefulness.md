@@ -1,23 +1,23 @@
-# 🎯 Evaluating AI Outputs: Hallucinations, Truth, and Usefulness
+# Evaluating AI Outputs: Hallucinations, Truth, and Usefulness
 
-*Why "Looks Right" Isn’t Good Enough in Enterprise AI*
+_Why "Looks Right" Isn’t Good Enough in Enterprise AI_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why This Chapter Matters](#why-this-chapter-matters)
-* [What Are Hallucinations?](#what-are-hallucinations)
-* [Types of AI Output Failures](#types-of-ai-output-failures)
-* [The Spectrum: From Useful to Dangerous](#the-spectrum-from-useful-to-dangerous)
-* [How to Design Evaluation Criteria](#how-to-design-evaluation-criteria)
-* [The Human Review Loop](#the-human-review-loop)
-* [Scorecards, Logs, and Continuous Tuning](#scorecards-logs-and-continuous-tuning)
-* [Examples: Output Rating Across Departments](#examples-output-rating-across-departments)
-* [Reflection Activity: Audit Your Own Output](#reflection-activity-audit-your-own-output)
-* [Visual Aids: Output Evaluation Flow](#visual-aids-output-evaluation-flow)
+* [Why This Chapter Matters](evaluating-ai-responses-hallucination-usefulness.md#why-this-chapter-matters)
+* [What Are Hallucinations?](evaluating-ai-responses-hallucination-usefulness.md#what-are-hallucinations)
+* [Types of AI Output Failures](evaluating-ai-responses-hallucination-usefulness.md#types-of-ai-output-failures)
+* [The Spectrum: From Useful to Dangerous](evaluating-ai-responses-hallucination-usefulness.md#the-spectrum-from-useful-to-dangerous)
+* [How to Design Evaluation Criteria](evaluating-ai-responses-hallucination-usefulness.md#how-to-design-evaluation-criteria)
+* [The Human Review Loop](evaluating-ai-responses-hallucination-usefulness.md#the-human-review-loop)
+* [Scorecards, Logs, and Continuous Tuning](evaluating-ai-responses-hallucination-usefulness.md#scorecards-logs-and-continuous-tuning)
+* [Examples: Output Rating Across Departments](evaluating-ai-responses-hallucination-usefulness.md#examples-output-rating-across-departments)
+* [Reflection Activity: Audit Your Own Output](evaluating-ai-responses-hallucination-usefulness.md#reflection-activity-audit-your-own-output)
+* [Visual Aids: Output Evaluation Flow](evaluating-ai-responses-hallucination-usefulness.md#visual-aids-output-evaluation-flow)
 
----
+***
 
 ## 🧭 Why This Chapter Matters
 
@@ -26,7 +26,7 @@ AI doesn’t “know” truth. It predicts the next word. And that prediction mi
 * Biased
 * Misleading
 * Factually incorrect
-* Or just *too confident to question*
+* Or just _too confident to question_
 
 > In enterprise use, an AI’s biggest threat isn’t failure — it’s false confidence.
 
@@ -36,7 +36,7 @@ This chapter helps you design **robust evaluation strategies** that:
 * Rate usefulness, not just correctness
 * Make human-AI collaboration sustainable
 
----
+***
 
 ## ❓ What Are Hallucinations?
 
@@ -54,7 +54,7 @@ Common causes:
 * Lack of access to ground truth
 * Overfitting during training
 
----
+***
 
 ## ⚠️ Types of AI Output Failures
 
@@ -69,13 +69,13 @@ Common causes:
 
 > Every AI failure is a feedback opportunity — if you’re tracking it.
 
----
+***
 
 ## 🌈 The Spectrum: From Useful to Dangerous
 
 Visualize AI outputs as a spectrum:
 
-```text
+```
 [✅ Useful & Accurate] — [🤔 Plausible but Misleading] — [❌ Wrong or Risky]
 ```
 
@@ -83,7 +83,7 @@ Visualize AI outputs as a spectrum:
 
 You need **graded response categories**, not binary pass/fail.
 
----
+***
 
 ## 🛠️ How to Design Evaluation Criteria
 
@@ -96,7 +96,7 @@ Use the 4Cs Framework:
 
 **Rating scale (per output):**
 
-```text
+```
 Score 1–5:
 1 = Broken
 2 = Needs Rework
@@ -107,7 +107,7 @@ Score 1–5:
 
 > The goal isn’t perfection — it’s predictable usefulness.
 
----
+***
 
 ## 🔄 The Human Review Loop
 
@@ -125,7 +125,7 @@ Design review stages like you would QA in code:
 
 > Build cross-functional trust by showing you catch and learn from AI mistakes.
 
----
+***
 
 ## 📈 Scorecards, Logs, and Continuous Tuning
 
@@ -143,7 +143,7 @@ Design review stages like you would QA in code:
 * Track retried prompts + final selected version
 * Highlight hallucination vs misalignment
 
----
+***
 
 ## 🧪 Examples: Output Rating Across Departments
 
@@ -171,7 +171,7 @@ Prompt: "Create objection-handling doc for competitor Y."
 * ❌ Factual Base: 2 (fabricated competitor features)
 * 📌 Action: Use RAG on product wiki
 
----
+***
 
 ## 🧠 Reflection Activity: Audit Your Own Output
 
@@ -188,13 +188,13 @@ Then:
 * Add constraints if needed
 * Build a checklist for future reviewers
 
----
+***
 
 ## 📊 Visual Aids: Output Evaluation Flow
 
 ### ⚙️ Output QA Process (Human-in-the-Loop)
 
-```text
+```
 [Prompt + Context]
      ↓
 [AI Response]
@@ -208,7 +208,7 @@ Then:
 
 ### 📉 Spectrum Radar Map (Risk vs Usefulness)
 
-```text
+```
 Y-Axis: Risk (Low → High)
 X-Axis: Usefulness (Low → High)
 
@@ -220,8 +220,8 @@ Bottom Left: ❌ Reject & log
 
 > Make hallucinations boring by making evaluation routine.
 
----
+***
 
-📘 Next in Series: [Prompt Testing and Model Feedback Loops](./prompt-testing-and-feedback.md)
+📘 Next in Series: [Prompt Testing and Model Feedback Loops](prompt-testing-and-feedback.md)
 
----
+***

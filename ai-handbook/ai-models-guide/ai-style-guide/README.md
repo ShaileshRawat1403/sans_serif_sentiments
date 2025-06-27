@@ -1,22 +1,22 @@
 # 🕋️ The AI Style Guide
 
-*Making Sure AI Sounds Like You — Not a Robot Writing a Resume*
+_Making Sure AI Sounds Like You — Not a Robot Writing a Resume_
 
----
+***
 
 ## 📁 Table of Contents
 
-* [Why Style Consistency Matters in AI Outputs](#why-style-consistency-matters-in-ai-outputs)
-* [What a Style Guide for AI Should Include](#what-a-style-guide-for-ai-should-include)
-* [Common Problems in AI-Generated Tone](#common-problems-in-ai-generated-tone)
-* [Setting the Default Voice: Style Rules and Examples](#setting-the-default-voice-style-rules-and-examples)
-* [When to Change the Tone (and When Not To)](#when-to-change-the-tone-and-when-not-to)
-* [Checklist: Make Your Prompts Style-Smart](#checklist-make-your-prompts-style-smart)
-* [Downloadable Templates + Quick Prompts](#downloadable-templates--quick-prompts)
-* [Reflection Activity: Style Calibration Exercise](#reflection-activity-style-calibration-exercise)
-* [External Resources](#external-resources)
+* [Why Style Consistency Matters in AI Outputs](./#why-style-consistency-matters-in-ai-outputs)
+* [What a Style Guide for AI Should Include](./#what-a-style-guide-for-ai-should-include)
+* [Common Problems in AI-Generated Tone](./#common-problems-in-ai-generated-tone)
+* [Setting the Default Voice: Style Rules and Examples](./#setting-the-default-voice-style-rules-and-examples)
+* [When to Change the Tone (and When Not To)](./#when-to-change-the-tone-and-when-not-to)
+* [Checklist: Make Your Prompts Style-Smart](./#checklist-make-your-prompts-style-smart)
+* [Downloadable Templates + Quick Prompts](./#downloadable-templates--quick-prompts)
+* [Reflection Activity: Style Calibration Exercise](./#reflection-activity-style-calibration-exercise)
+* [External Resources](./#external-resources)
 
----
+***
 
 ## 🧠 Why Style Consistency Matters in AI Outputs
 
@@ -30,7 +30,7 @@ Inconsistent tone leads to:
 
 Your AI model is a **collaborator** — not a ghostwriter. You still need to teach it how you speak.
 
----
+***
 
 ## 📘️ What a Style Guide for AI Should Include
 
@@ -45,7 +45,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 > 💡 Style guides shouldn’t be long. They should be **used.**
 
----
+***
 
 ## ⚠️ Common Problems in AI-Generated Tone
 
@@ -55,7 +55,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 * **Too Much Formality** — “Kindly find the attached document herein...”
 * **Over-apology** — “Sorry, but I’m just an AI...”
 
----
+***
 
 ## 🗣️ Setting the Default Voice: Style Rules and Examples
 
@@ -87,7 +87,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 > “Thanks for flagging this! We’re on it — and we’ll update you by EOD.”
 
----
+***
 
 ## 🎯 When to Change the Tone (and When Not To)
 
@@ -101,7 +101,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 > 🎤 Rule of Thumb: Tone shifts for **context**, not **personality swings.**
 
----
+***
 
 ## ✅ Checklist: Make Your Prompts Style-Smart
 
@@ -113,7 +113,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 > Prompts aren’t magic. They’re style settings in disguise.
 
----
+***
 
 ## 🛠️ Downloadable Templates + Quick Prompts
 
@@ -130,25 +130,24 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 * “Turn this into a conversational style with bullets.”
 * “Translate this internal update into our house voice.”
 
----
+***
 
 ## 🧠 Reflection Activity: Style Calibration Exercise
 
 1. Take a recent AI-generated message.
 2. Compare it to your company’s recent comms.
 3. Ask:
-
    * Does it sound like us?
    * Would our customer trust this tone?
    * What would we change if a person wrote it?
 4. Rewrite the message with your tone rules.
-5. Feed both into the AI with this prompt:
+5.  Feed both into the AI with this prompt:
 
-   > “Learn our style from this comparison. Now apply it to future messages.”
+    > “Learn our style from this comparison. Now apply it to future messages.”
 
 > 🧪 Treat tone like a design system — test, tune, and templatize.
 
----
+***
 
 ## 📄 External Resources
 
@@ -159,6 +158,6 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 * [Voice and Tone by Buffer](https://buffer.com/resources/voice-and-tone-guide/)
 * [Hemingway App (for clarity checking)](https://hemingwayapp.com/)
 
----
+***
 
-📘️ Next in Series: [AI Change Communication Playbook](./ai-change-comms-playbook.md)
+📘️ Next in Series: [AI Change Communication Playbook](../ai-change-comms-playbook.md)

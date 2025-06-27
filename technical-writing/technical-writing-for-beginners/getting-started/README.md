@@ -1,9 +1,8 @@
-# 📄 getting-started.md`
+# getting-started
 
-**Title:** *How to Start in Technical Writing (Without a Tech Job)*
-**Subtitle:** *Learn, write, and prove your skill — without waiting for permission.*
+**Title:** _How to Start in Technical Writing (Without a Tech Job)_ **Subtitle:** _Learn, write, and prove your skill — without waiting for permission._
 
----
+***
 
 ## 🪜 Purpose of This Chapter
 
@@ -16,11 +15,11 @@ To help beginners who feel like outsiders:
 
 This is your **activation chapter** — real, doable, and honest.
 
----
+***
 
 ## ✅ 1. Introduction
 
-> *You don’t need permission to get started. You need curiosity, consistency, and something to explain.*
+> _You don’t need permission to get started. You need curiosity, consistency, and something to explain._
 
 If you’ve ever thought:
 
@@ -35,9 +34,9 @@ You can start right now by doing what technical writers actually do:
 * Understand it deeply
 * Write it down clearly
 
----
+***
 
-## 🙅‍♂️ 2. What You *Don’t* Need
+## 🙅‍♂️ 2. What You _Don’t_ Need
 
 Let’s bust some myths.
 
@@ -54,7 +53,7 @@ What you really need:
 * Curiosity to understand how things work
 * The ability to structure and explain clearly
 
----
+***
 
 ## 🧠 3. Learn the Basics (Without Overwhelm)
 
@@ -66,7 +65,7 @@ What you really need:
 | **Clarity & Structure**    | Writing people can actually use          | Hemingway, Grammarly, Readable.com |
 | **Basic Product Thinking** | You need to know what you're documenting | Use free tools and real interfaces |
 
----
+***
 
 ## ✍️ 4. Start Writing Practice Projects
 
@@ -82,7 +81,7 @@ Here are 5 no-permission-needed ways to get started:
 
 🧠 Tip: Pick one product or process and go deep. Re-explaining something simple is the best practice you can get.
 
----
+***
 
 ## 📁 5. Build a Simple Portfolio
 
@@ -105,7 +104,7 @@ my-tech-writing-samples/
 
 That shows **thinking**, not just writing.
 
----
+***
 
 ## 🎯 6. Practice With Purpose
 
@@ -118,7 +117,7 @@ Don’t just write — write with intention:
 
 And remember: **writing it once is not the goal.** Explaining it clearly is.
 
----
+***
 
 ## 🧩 7. Where to Learn More (for Free)
 
@@ -130,12 +129,12 @@ And remember: **writing it once is not the goal.** Explaining it clearly is.
 | Write the Docs                | Events, Slack group, job board, community |
 | Tech writing blogs            | Learn from those already in the field     |
 
----
+***
 
 ## 📘 8. What’s Next
 
-Now that you’ve started building your skill and your proof — let’s talk about what makes documentation *different* from marketing content.
+Now that you’ve started building your skill and your proof — let’s talk about what makes documentation _different_ from marketing content.
 
 > One builds trust. The other often breaks it.
 
----
+***

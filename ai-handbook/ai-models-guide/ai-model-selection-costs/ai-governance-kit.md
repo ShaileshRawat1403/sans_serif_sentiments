@@ -1,27 +1,26 @@
-# 📘 Your AI Governance Starter Pack
+# Your AI Governance Starter Pack
 
-*Because Scaling Without Guardrails Is a Shortcut to Failure*
+_Because Scaling Without Guardrails Is a Shortcut to Failure_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why AI Governance Matters](#why-ai-governance-matters)
-* [What Governance Looks Like at Different Scales](#what-governance-looks-like-at-different-scales)
-* [Governance Roles: Who Owns What](#governance-roles-who-owns-what)
-* [Core Governance Components](#core-governance-components)
-* [Prompt and Output Logging Best Practices](#prompt-and-output-logging-best-practices)
-* [Approval Workflows for Sensitive Use Cases](#approval-workflows-for-sensitive-use-cases)
-* [Audit Trails and Risk Classifications](#audit-trails-and-risk-classifications)
-* [Checklists, Templates, and Documentation](#checklists-templates-and-documentation)
-* [Reflection Activity: Draft Your Governance Charter](#reflection-activity-draft-your-governance-charter)
+* [Why AI Governance Matters](ai-governance-kit.md#why-ai-governance-matters)
+* [What Governance Looks Like at Different Scales](ai-governance-kit.md#what-governance-looks-like-at-different-scales)
+* [Governance Roles: Who Owns What](ai-governance-kit.md#governance-roles-who-owns-what)
+* [Core Governance Components](ai-governance-kit.md#core-governance-components)
+* [Prompt and Output Logging Best Practices](ai-governance-kit.md#prompt-and-output-logging-best-practices)
+* [Approval Workflows for Sensitive Use Cases](ai-governance-kit.md#approval-workflows-for-sensitive-use-cases)
+* [Audit Trails and Risk Classifications](ai-governance-kit.md#audit-trails-and-risk-classifications)
+* [Checklists, Templates, and Documentation](ai-governance-kit.md#checklists-templates-and-documentation)
+* [Reflection Activity: Draft Your Governance Charter](ai-governance-kit.md#reflection-activity-draft-your-governance-charter)
 
----
+***
 
 ## 🧱 Why AI Governance Matters
 
-> You wouldn’t let just anyone send an email on behalf of the CEO.
-> Why let unreviewed AI outputs go straight to your customers?
+> You wouldn’t let just anyone send an email on behalf of the CEO. Why let unreviewed AI outputs go straight to your customers?
 
 AI governance ensures that:
 
@@ -33,7 +32,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 > ⚖️ A strong governance system makes experimentation safer — and success repeatable.
 
----
+***
 
 ## 🪜 What Governance Looks Like at Different Scales
 
@@ -47,7 +46,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 > Your AI governance must scale **with** your usage — not after it.
 
----
+***
 
 ## 🧑‍⚖️ Governance Roles: Who Owns What
 
@@ -61,7 +60,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 > Governance is not just IT’s job. It’s everyone’s accountability model.
 
----
+***
 
 ## 🧩 Core Governance Components
 
@@ -75,7 +74,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 | Red Flag Reporting Flow   | Escalation path for recurring misuse or bugs       |
 | Disclosure Standards      | Clarifies where AI output must be labeled          |
 
----
+***
 
 ## 🧾 Prompt and Output Logging Best Practices
 
@@ -88,7 +87,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 > Prompt logs tell a story. Make sure it’s one your org is proud to share.
 
----
+***
 
 ## ✅ Approval Workflows for Sensitive Use Cases
 
@@ -101,13 +100,12 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 > If your org has brand guidelines for writing, why not for prompting?
 
----
+***
 
 ## 🔍 Audit Trails and Risk Classifications
 
 * Track all AI-related work leading to a published asset
 * Classify risks as:
-
   * Low (internal only, low exposure)
   * Medium (client-facing, reviewed)
   * High (external, legal implication)
@@ -116,7 +114,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 > Your AI work needs version control just like your product releases.
 
----
+***
 
 ## 🧰 Checklists, Templates, and Documentation
 
@@ -142,7 +140,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 * Common red flags playbook
 * Output hall of shame (anonymized, educational)
 
----
+***
 
 ## 🧠 Reflection Activity: Draft Your Governance Charter
 
@@ -164,6 +162,6 @@ Then:
 
 > 🧩 Good governance isn’t static. It evolves with your team’s maturity.
 
----
+***
 
-📘 Next in Series: [The AI Style Guide](./ai-style-guide.md)
+📘 Next in Series: [The AI Style Guide](../ai-style-guide/)

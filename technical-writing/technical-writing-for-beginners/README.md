@@ -1,4 +1,4 @@
-# 📘 Technical Writing for Beginners
+# Technical Writing for Beginners
 
 _A guide to understanding technology, documenting what matters, and contributing to clarity in a world drowning in noise._
 

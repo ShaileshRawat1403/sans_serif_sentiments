@@ -27,14 +27,14 @@ _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 1. [📍 Welcome: This Is the Best Time to Study](./#welcome-this-is-the-best-time-to-study)
 2. [🧱 The AI Entry Point: Where Most People Begin](./#the-ai-entry-point-where-most-people-begin)
 3. [🧠 Why Most People Misunderstand AI (And It's Not Their Fault)](./#why-most-people-misunderstand-ai-and-its-not-their-fault)
-4. [🔍 Front-End vs Back-End: What’s Really Happening](./#front-end-vs-back-end--whats-really-happening)
-5. [🧰 The Architecture of a Prompt — Understand the Parts, Understand the Power](./#the-architecture-of-a-prompt--understand-the-parts-understand-the-power))
-6. [🎭 Prompt Patterns & Thinking Models](./#prompt-patterns--thinking-models)
-7. [🌐 Understanding AI’s Ecosystem — Not Just ChatGPT](./#understanding-ais-ecosystem--not-just-chatgpt)
-8. [⚠️ Human Competency vs AI Capability — A Dangerous Gap to Ignore](./#human-competency-vs-ai-capability--a-dangerous-gap-to-ignore)
-9. [📏 Rating the Response: What Makes an Output Good?](./#rating-the-response--what-makes-an-output-good)
-10. [🪞 Beyond Productivity: The Real Promise of AI is Reflection](./#beyond-productivity--the-real-promise-of-ai-is-reflection)
-11. [📌 TL;DR — "Prompted, But Not Prepared"](./#tldr--prompted-but-not-prepared)
+4. [🔍 Front-End vs Back-End: What’s Really Happening](./#front-end-vs-back-end-whats-really-happening)
+5. [🧰 The Architecture of a Prompt — Understand the Parts, Understand the Power](./#the-architecture-of-a-prompt-understand-the-parts-understand-the-power))
+6. [🎭 Prompt Patterns & Thinking Models](./#prompt-patterns-and-thinking-models)
+7. [🌐 Understanding AI’s Ecosystem — Not Just ChatGPT](./#understanding-ais-ecosystem-not-just-chatgpt)
+8. [⚠️ Human Competency vs AI Capability — A Dangerous Gap to Ignore](./#human-competency-vs-ai-capability-a-dangerous-gap-to-ignore)
+9. [📏 Rating the Response: What Makes an Output Good?](./#rating-the-response-what-makes-an-output-good)
+10. [🪞 Beyond Productivity: The Real Promise of AI is Reflection](./#beyond-productivity-the-real-promise-of-ai-is-reflection)
+11. [📌 TL;DR — "Prompted, But Not Prepared"](./#tl-dr-prompted-but-not-prepared)
 
 ***
 

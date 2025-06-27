@@ -1,23 +1,23 @@
-# 🖼️ Multimodal Models Explained
+# Multimodal Models Explained
 
-*How AI Sees, Hears, and Talks in One Unified Brain*
+_How AI Sees, Hears, and Talks in One Unified Brain_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why This Guide Exists](#why-this-guide-exists)
-* [What Are Multimodal Models?](#what-are-multimodal-models)
-* [Why Multimodality Matters](#why-multimodality-matters)
-* [How Multimodal AI Actually Works](#how-multimodal-ai-actually-works)
-* [Model Design: Early, Late, and Cross Attention Fusion](#model-design-early-late-and-cross-attention-fusion)
-* [Popular Multimodal Models Compared](#popular-multimodal-models-compared)
-* [Real-World Use Cases by Input Type](#real-world-use-cases-by-input-type)
-* [Limits and Misconceptions](#limits-and-misconceptions)
-* [L\&D Tip: Building Your Multimodal Thinking Muscle](#landd-tip-building-your-multimodal-thinking-muscle)
-* [Reflection Activity: Seeing Through the Model’s Eyes](#reflection-activity-seeing-through-the-models-eyes)
+* [Why This Guide Exists](multimodal-models.md#why-this-guide-exists)
+* [What Are Multimodal Models?](multimodal-models.md#what-are-multimodal-models)
+* [Why Multimodality Matters](multimodal-models.md#why-multimodality-matters)
+* [How Multimodal AI Actually Works](multimodal-models.md#how-multimodal-ai-actually-works)
+* [Model Design: Early, Late, and Cross Attention Fusion](multimodal-models.md#model-design-early-late-and-cross-attention-fusion)
+* [Popular Multimodal Models Compared](multimodal-models.md#popular-multimodal-models-compared)
+* [Real-World Use Cases by Input Type](multimodal-models.md#real-world-use-cases-by-input-type)
+* [Limits and Misconceptions](multimodal-models.md#limits-and-misconceptions)
+* [L\&D Tip: Building Your Multimodal Thinking Muscle](multimodal-models.md#landd-tip-building-your-multimodal-thinking-muscle)
+* [Reflection Activity: Seeing Through the Model’s Eyes](multimodal-models.md#reflection-activity-seeing-through-the-models-eyes)
 
----
+***
 
 ## 🧭 Why This Guide Exists
 
@@ -38,7 +38,7 @@ This guide breaks down what that really means, how it works, and how to use it r
 > * Design for accessibility
 > * Teach and collaborate more effectively
 
----
+***
 
 ## 🧠 What Are Multimodal Models?
 
@@ -58,7 +58,7 @@ They don’t just translate modes (image → caption). They **combine** them int
 
 These models ingest these forms and **fuse them into a shared context**.
 
----
+***
 
 ## 🌐 Why Multimodality Matters
 
@@ -92,7 +92,7 @@ The future of:
 
 > **L\&D Insight:** Most learners retain better when given both visual + verbal cues. AI is moving the same way.
 
----
+***
 
 ## 🔍 How Multimodal AI Actually Works
 
@@ -112,7 +112,7 @@ Then:
 
 > ⚙️ **Tip:** GPT-4o and Gemini do this in real-time — meaning image, voice, and text fuse before response.
 
----
+***
 
 ## 🧠 Model Design: Early, Late, and Cross Attention Fusion
 
@@ -137,7 +137,7 @@ There are three common fusion strategies:
 
 > **Example:** Ask GPT-4o to describe a meme — it uses cross attention to relate the caption to the image punchline.
 
----
+***
 
 ## 🧪 Popular Multimodal Models Compared
 
@@ -148,7 +148,7 @@ There are three common fusion strategies:
 | **Claude 3 Opus** | Text, Image               | Accurate with charts + diagrams      | No real audio or video input |
 | **Grok 1.5V**     | Text, Image               | Good for screenshots                 | Lacks multimodal fluency     |
 
----
+***
 
 ## 🧾 Real-World Use Cases by Input Type
 
@@ -177,7 +177,7 @@ There are three common fusion strategies:
 
 > ⚡ **Pro Tip:** Use multimodal prompts in steps. First observe, then ask. Don’t rush the fusion.
 
----
+***
 
 ## 🚫 Limits and Misconceptions
 
@@ -191,19 +191,18 @@ There are three common fusion strategies:
 
 > 🧠 It’s not a cyborg. It’s a **blender for input types** — and only as good as the signal you feed it.
 
----
+***
 
 ## 🎓 L\&D Tip: Building Your Multimodal Thinking Muscle
 
 * When designing prompts, ask yourself:
-
   * What information lives in **text**?
   * What information is **visual** but unwritten?
   * What **temporal or tonal clues** come from audio?
 
 > Try: “Explain this photo like you’re teaching a class” — see what details show up vs what’s missed.
 
----
+***
 
 ## 🧠 Reflection Activity: Seeing Through the Model’s Eyes
 
@@ -217,8 +216,8 @@ Ask:
 4. How could a misleading input break it?
 5. Try adding a contradicting caption — does it question it?
 
----
+***
 
-📘 Next in Series: [Fine-Tuning and Custom Models](./fine-tuning-guide.md)
+📘 Next in Series: [Fine-Tuning and Custom Models](fine-tuning-guide.md)
 
----
+***

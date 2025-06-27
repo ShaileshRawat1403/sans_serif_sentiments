@@ -1,28 +1,27 @@
-# 🏢 AI + Enterprise Workflows
+# AI + Enterprise Workflows
 
-*How to Seamlessly Embed AI Into Your Org Without Breaking What Works*
+_How to Seamlessly Embed AI Into Your Org Without Breaking What Works_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why AI Integration Needs a Playbook](#why-ai-integration-needs-a-playbook)
-* [What We Mean by 'Workflow'](#what-we-mean-by-workflow)
-* [Types of Enterprise AI Integrations](#types-of-enterprise-ai-integrations)
+* [Why AI Integration Needs a Playbook](ai-enterprise-workflows.md#why-ai-integration-needs-a-playbook)
+* [What We Mean by 'Workflow'](ai-enterprise-workflows.md#what-we-mean-by-workflow)
+* [Types of Enterprise AI Integrations](ai-enterprise-workflows.md#types-of-enterprise-ai-integrations)
+  * [Standalone Assistants](ai-enterprise-workflows.md#standalone-assistants)
+  * [Embedded Smart Fields](ai-enterprise-workflows.md#embedded-smart-fields)
+  * [Trigger-Based Automation](ai-enterprise-workflows.md#trigger-based-automation)
+  * [Co-Pilot Interfaces](ai-enterprise-workflows.md#co-pilot-interfaces)
+* [Common Enterprise Use Cases](ai-enterprise-workflows.md#common-enterprise-use-cases)
+* [System Mapping: Where Does AI Plug In?](ai-enterprise-workflows.md#system-mapping-where-does-ai-plug-in)
+* [Roles and Permissions: Who Sees What, When?](ai-enterprise-workflows.md#roles-and-permissions-who-sees-what-when)
+* [Data Flow Diagrams & Lifecycle](ai-enterprise-workflows.md#data-flow-diagrams--lifecycle)
+* [Change Management Tips for AI Rollouts](ai-enterprise-workflows.md#change-management-tips-for-ai-rollouts)
+* [Reflection Activity: Map Your AI Entry Points](ai-enterprise-workflows.md#reflection-activity-map-your-ai-entry-points)
+* [Visual Aids: Sample Workflows & Logic](ai-enterprise-workflows.md#visual-aids-sample-workflows-and-logic)
 
-  * [Standalone Assistants](#standalone-assistants)
-  * [Embedded Smart Fields](#embedded-smart-fields)
-  * [Trigger-Based Automation](#trigger-based-automation)
-  * [Co-Pilot Interfaces](#co-pilot-interfaces)
-* [Common Enterprise Use Cases](#common-enterprise-use-cases)
-* [System Mapping: Where Does AI Plug In?](#system-mapping-where-does-ai-plug-in)
-* [Roles and Permissions: Who Sees What, When?](#roles-and-permissions-who-sees-what-when)
-* [Data Flow Diagrams & Lifecycle](#data-flow-diagrams--lifecycle)
-* [Change Management Tips for AI Rollouts](#change-management-tips-for-ai-rollouts)
-* [Reflection Activity: Map Your AI Entry Points](#reflection-activity-map-your-ai-entry-points)
-* [Visual Aids: Sample Workflows & Logic](#visual-aids-sample-workflows--logic)
-
----
+***
 
 ## 🔍 Why AI Integration Needs a Playbook
 
@@ -34,7 +33,7 @@ Throwing GPT into Slack or Notion isn’t “integration.” It’s experimentat
 
 > A good AI integration plan protects the org while enhancing performance. No trust, no traction.
 
----
+***
 
 ## 🔧 What We Mean by “Workflow”
 
@@ -44,8 +43,7 @@ A workflow is more than a task list. It’s a:
 * Chain of value creation or decision-making
 * Repeatable pattern across a team, department, or org
 
-**AI’s job in a workflow isn’t to replace people.**
-It’s to:
+**AI’s job in a workflow isn’t to replace people.** It’s to:
 
 * Reduce friction
 * Support accuracy
@@ -54,7 +52,7 @@ It’s to:
 
 > Think of AI not as a teammate, but a power tool. It needs training, limits, and integration.
 
----
+***
 
 ## 🧩 Types of Enterprise AI Integrations
 
@@ -98,7 +96,7 @@ It’s to:
 
 > 🧠 Use the simplest model of integration that gets the job done reliably. Complexity = fragility.
 
----
+***
 
 ## 📊 Common Enterprise Use Cases
 
@@ -113,7 +111,7 @@ It’s to:
 
 > These patterns are not static. AI maturity grows from standalone to embedded to fully autonomous augmentation.
 
----
+***
 
 ## 🧭 System Mapping: Where Does AI Plug In?
 
@@ -125,13 +123,13 @@ Mapping AI entry points requires:
 
 **A basic system map looks like this:**
 
-```text
+```
 [Input] → [AI Intervention Point] → [Review or Action] → [Storage or Notification]
 ```
 
 > Map where people pause, wait, recheck, or rewrite — that’s your first candidate for AI.
 
----
+***
 
 ## 🔐 Roles and Permissions: Who Sees What, When?
 
@@ -143,7 +141,7 @@ Role-aware AI means:
 
 **Quick permission model:**
 
-```text
+```
 [Admin] → Sees prompts + results + source logs
 [Manager] → Sees results + rationale
 [User] → Sees summary/suggestion only
@@ -151,7 +149,7 @@ Role-aware AI means:
 
 Don’t let AI shortcut your security architecture.
 
----
+***
 
 ## 🔁 Data Flow Diagrams & Lifecycle
 
@@ -177,7 +175,7 @@ Visualizing how data moves through an AI-enabled workflow improves:
 
 > Add checkpoints, alerts, and logs for auditability.
 
----
+***
 
 ## 📣 Change Management Tips for AI Rollouts
 
@@ -189,7 +187,7 @@ Visualizing how data moves through an AI-enabled workflow improves:
 
 **Bonus:** Turn first AI pilot into a success story → Present across teams
 
----
+***
 
 ## 🧠 Reflection Activity: Map Your AI Entry Points
 
@@ -208,13 +206,13 @@ Then:
 
 > Even a single AI-suggested field can save 15–30% task time. Start there.
 
----
+***
 
 ## 🧩 Visual Aids: Sample Workflows & Logic
 
 ### 1. Contract Review Co-Pilot (Legal Team)
 
-```text
+```
 [Upload Contract] 
    ↓
 [Clause Extraction] 
@@ -228,7 +226,7 @@ Then:
 
 ### 2. Customer Ticket Classification
 
-```text
+```
 [New Ticket] 
    ↓
 [AI Classifies Urgency + Sentiment] 
@@ -242,15 +240,15 @@ Then:
 
 ### 3. Marketing Draft Generation Flow
 
-```text
+```
 [Product Brief] + [Target Persona] →
   AI Drafts Social Copy →
     Human Refines + Approves →
       Scheduled via Campaign Tool
 ```
 
----
+***
 
-📘 Next in Series: [Evaluating AI Outputs: Hallucinations, Truth, and Usefulness](./rating-ai-responses.md)
+📘 Next in Series: [Evaluating AI Outputs: Hallucinations, Truth, and Usefulness](../rating-ai-responses.md)
 
----
+***

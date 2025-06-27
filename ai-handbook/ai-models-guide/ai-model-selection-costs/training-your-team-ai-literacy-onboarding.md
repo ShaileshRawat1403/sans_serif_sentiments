@@ -1,22 +1,22 @@
-# 🧑‍🏫 Training Your Team to Use AI Consistently
+# Training Your Team to Use AI Consistently
 
-*Because Prompt Power Means Nothing Without People Prepared to Use It*
+_Because Prompt Power Means Nothing Without People Prepared to Use It_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why AI Training Needs Structure](#why-ai-training-needs-structure)
-* [What AI Training Is (and Isn’t)](#what-ai-training-is-and-isnt)
-* [The 5 Layers of AI Literacy](#the-5-layers-of-ai-literacy)
-* [Common Team Personas and Their Struggles](#common-team-personas-and-their-struggles)
-* [Designing AI Onboarding Programs](#designing-ai-onboarding-programs)
-* [What to Include in Training Modules](#what-to-include-in-training-modules)
-* [Good, Bad, and Ugly Examples of Team AI Use](#good-bad-and-ugly-examples-of-team-ai-use)
-* [Toolkits, Templates, and Resources](#toolkits-templates-and-resources)
-* [Reflection Activity: Build a Role-Based AI Guide](#reflection-activity-build-a-role-based-ai-guide)
+* [Why AI Training Needs Structure](training-your-team-ai-literacy-onboarding.md#why-ai-training-needs-structure)
+* [What AI Training Is (and Isn’t)](training-your-team-ai-literacy-onboarding.md#what-ai-training-is-and-isnt)
+* [The 5 Layers of AI Literacy](training-your-team-ai-literacy-onboarding.md#the-5-layers-of-ai-literacy)
+* [Common Team Personas and Their Struggles](training-your-team-ai-literacy-onboarding.md#common-team-personas-and-their-struggles)
+* [Designing AI Onboarding Programs](training-your-team-ai-literacy-onboarding.md#designing-ai-onboarding-programs)
+* [What to Include in Training Modules](training-your-team-ai-literacy-onboarding.md#what-to-include-in-training-modules)
+* [Good, Bad, and Ugly Examples of Team AI Use](training-your-team-ai-literacy-onboarding.md#good-bad-and-ugly-examples-of-team-ai-use)
+* [Toolkits, Templates, and Resources](training-your-team-ai-literacy-onboarding.md#toolkits-templates-and-resources)
+* [Reflection Activity: Build a Role-Based AI Guide](training-your-team-ai-literacy-onboarding.md#reflection-activity-build-a-role-based-ai-guide)
 
----
+***
 
 ## 🧭 Why AI Training Needs Structure
 
@@ -30,8 +30,7 @@ Companies often:
 
 Outcome? Low trust. High misuse. Zero measurable impact.
 
-**Training isn’t just about how to use AI.**
-It’s about:
+**Training isn’t just about how to use AI.** It’s about:
 
 * What to use it for
 * When not to use it
@@ -40,7 +39,7 @@ It’s about:
 
 > ⚠️ AI literacy is now as fundamental as digital literacy was in the 2000s. Without a playbook, teams play roulette.
 
----
+***
 
 ## ❓ What AI Training Is (and Isn’t)
 
@@ -60,7 +59,7 @@ It’s about:
 
 > 🎯 AI training is culture change in disguise. The best programs train habits, not hacks.
 
----
+***
 
 ## 🧠 The 5 Layers of AI Literacy
 
@@ -74,7 +73,7 @@ It’s about:
 
 > AI literacy is **stacked**, not siloed. Each level enhances the previous, not replaces it.
 
----
+***
 
 ## 🧍‍♂️ Common Team Personas and Their Struggles
 
@@ -89,7 +88,7 @@ It’s about:
 
 > 📌 Train the behavior behind the prompt. Bad mental models create bad output — no matter how good the interface is.
 
----
+***
 
 ## 🧰 Designing AI Onboarding Programs
 
@@ -111,7 +110,7 @@ It’s about:
 * Slack channel for feedback/bugs
 * Monthly prompt showcase (best, weirdest, most helpful)
 
----
+***
 
 ## 🧾 What to Include in Training Modules
 
@@ -138,7 +137,7 @@ It’s about:
 * Short videos with before/after examples
 * Postmortem debrief sessions using AI output
 
----
+***
 
 ## 🧮 Good, Bad, and Ugly: Real Examples
 
@@ -152,7 +151,7 @@ It’s about:
 * Specific instruction
 * Useful, editable output
 
----
+***
 
 ### 🟡 BAD: Legal User Copying Entire Contract
 
@@ -164,7 +163,7 @@ It’s about:
 * No tone or risk thresholds
 * High risk of missed nuance
 
----
+***
 
 ### 🔴 UGLY: HR User Asking for Interview Feedback
 
@@ -178,7 +177,7 @@ It’s about:
 
 > 🧯 Ugly usage isn’t always about the result. It’s about the risk exposure.
 
----
+***
 
 ## 🧰 Toolkits, Templates, and Resources
 
@@ -201,7 +200,7 @@ It’s about:
 * [AI Literacy from UNESCO](https://en.unesco.org/artificial-intelligence)
 * [AI Risk Playbook – Partnership on AI](https://partnershiponai.org)
 
----
+***
 
 ## 🧠 Reflection Activity: Build a Role-Based AI Guide
 
@@ -225,8 +224,8 @@ Then:
 
 > 🎓 Treat your AI training like a living curriculum. Update it when the tools update.
 
----
+***
 
-📘 Next in Series: [AI Model Selection and Cost Optimization](./ai-model-selection-and-costs.md)
+📘 Next in Series: [AI Model Selection and Cost Optimization](../ai-model-selection-and-costs.md)
 
----
+***

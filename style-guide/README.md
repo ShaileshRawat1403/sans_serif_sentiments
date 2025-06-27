@@ -1,4 +1,4 @@
-# 🎨 Style Guide
+# Style Guide
 
 **Version 1.0 • 2025-05-19**
 

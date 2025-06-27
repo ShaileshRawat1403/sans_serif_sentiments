@@ -24,9 +24,9 @@ A diagnostic handbook for prompt crafters, content designers, and thoughtful AI 
 8. [🔍 Pain Point: “I gave it feedback — and it didn’t improve.”](why-your-prompt-didnt-work.md#pain-point-i-gave-it-feedback-and-it-didnt-improve)
 9. [🔍 Pain Point: “The output was too long or too short — even though I specified the length.”](why-your-prompt-didnt-work.md#pain-point-the-output-was-too-long-or-too-short-even-though-i-specified-the-length)
 10. [🔍 Pain Point: “I assumed it would know what I meant — but it totally misunderstood the task.”](why-your-prompt-didnt-work.md#pain-point-i-assumed-it-would-know-what-i-meant-but-it-totally-misunderstood-the-task)
-11. [🔍 Pain Point: “The output was okay… but it felt generic or forgettable.”](why-your-prompt-didnt-work.md#-pain-point-the-output-was-okay-but-it-felt-generic-or-forgettable)
-12. [🔍 Pain Point: “It followed the format — but still felt off somehow.”](why-your-prompt-didnt-work.md#-pain-point-it-followed-the-format--but-still-felt-off-somehow)
-13. [🔍 Pain Point: “I did everything right… but it still doesn’t feel right.”](why-your-prompt-didnt-work.md#-pain-point-i-did-everything-right-but-it-still-doesnt-feel-right)
+11. [🔍 Pain Point: “It It followed the format — but still felt off somehow."](why-your-prompt-didnt-work.md#pain-point-it-followed-the-format-but-still-felt-off-somehow)
+12. [🔍 Pain Point: “It followed the format — but still felt off somehow.”](why-your-prompt-didnt-work.md#pain-point-it-followed-the-format-but-still-felt-off-somehow)
+13. [🔍 Pain Point: “I did everything right… but it still doesn’t feel right.”](why-your-prompt-didnt-work.md#pain-point-i-did-everything-right...-but-it-still-doesnt-feel-right)
 
 ***
 

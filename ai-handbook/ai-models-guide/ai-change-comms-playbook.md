@@ -1,22 +1,22 @@
-# 🧭 AI Change Communication Playbook
+# AI Change Communication Playbook
 
-*Helping Your Org Understand the Shift — Not Just the Software*
+_Helping Your Org Understand the Shift — Not Just the Software_
 
----
+***
 
 ## 📁 Table of Contents
 
-* [Why AI Change Needs Communication](#why-ai-change-needs-communication)
-* [The Role of Communication in AI Rollouts](#the-role-of-communication-in-ai-rollouts)
-* [Audience Segments to Consider](#audience-segments-to-consider)
-* [Common Misunderstandings to Address](#common-misunderstandings-to-address)
-* [Messaging Pillars for Change Communication](#messaging-pillars-for-change-communication)
-* [Template: AI Rollout Comms Map](#template-ai-rollout-comms-map)
-* [Checklist: AI Change Messaging Review](#checklist-ai-change-messaging-review)
-* [Reflection Activity: Craft Your Org’s Change Story](#reflection-activity-craft-your-orgs-change-story)
-* [Novel Ideas to Elevate Change Comms](#novel-ideas-to-elevate-change-comms)
+* [Why AI Change Needs Communication](ai-change-comms-playbook.md#why-ai-change-needs-communication)
+* [The Role of Communication in AI Rollouts](ai-change-comms-playbook.md#the-role-of-communication-in-ai-rollouts)
+* [Audience Segments to Consider](ai-change-comms-playbook.md#audience-segments-to-consider)
+* [Common Misunderstandings to Address](ai-change-comms-playbook.md#common-misunderstandings-to-address)
+* [Messaging Pillars for Change Communication](ai-change-comms-playbook.md#messaging-pillars-for-change-communication)
+* [Template: AI Rollout Comms Map](ai-change-comms-playbook.md#template-ai-rollout-comms-map)
+* [Checklist: AI Change Messaging Review](ai-change-comms-playbook.md#checklist-ai-change-messaging-review)
+* [Reflection Activity: Craft Your Org’s Change Story](ai-change-comms-playbook.md#reflection-activity-craft-your-orgs-change-story)
+* [Novel Ideas to Elevate Change Comms](ai-change-comms-playbook.md#novel-ideas-to-elevate-change-comms)
 
----
+***
 
 ## 🧠 Why AI Change Needs Communication
 
@@ -30,7 +30,7 @@ Most AI adoption plans fail because:
 
 Communication is not the cherry on top — it's the oven. It's what bakes the change.
 
----
+***
 
 ## 🗣️ The Role of Communication in AI Rollouts
 
@@ -42,7 +42,7 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 
 > You’re not selling AI. You’re narrating a shift.
 
----
+***
 
 ## 👥 Audience Segments to Consider
 
@@ -54,7 +54,7 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 | Compliance & Legal      | Guardrails, auditability, usage limits  |
 | Customers (if external) | Brand trust, ethical use, safety stance |
 
----
+***
 
 ## ❗ Common Misunderstandings to Address
 
@@ -65,7 +65,7 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 | "One good prompt = gold" | Prompting is iterative, not magical                                   |
 | "We don’t need training" | Training enables safe, repeatable, high-value use                     |
 
----
+***
 
 ## 🎯 Messaging Pillars for Change Communication
 
@@ -106,7 +106,7 @@ Open loops for:
 * Prompt-rating rubrics
 * Improvement ideas
 
----
+***
 
 ## 🗺️ Template: AI Rollout Comms Map
 
@@ -117,7 +117,7 @@ Open loops for:
 | Post-Launch | Support adoption and feedback | LMS, Q\&A sessions | "Your prompts matter — help us improve the prompt library."   |
 | Ongoing     | Celebrate, refine, evolve     | Newsletters, 1:1s  | "Here’s what worked, what’s next, and who’s helping lead it." |
 
----
+***
 
 ## ✅ Checklist: AI Change Messaging Review
 
@@ -129,7 +129,7 @@ Open loops for:
 
 > Don’t just update people. Upgrade their understanding.
 
----
+***
 
 ## 🧠 Reflection Activity: Craft Your Org’s Change Story
 
@@ -148,7 +148,7 @@ Then:
 
 > 📣 Change comms aren’t one-off updates. They’re ongoing invitations.
 
----
+***
 
 ## 🌟 Novel Ideas to Elevate Change Comms
 
@@ -164,7 +164,7 @@ Create a shared space where teams submit a “prompt they loved” — with cont
 
 ### 🔄 Reverse Q\&A Series
 
-Instead of leaders answering questions, let frontline teams ask *each other*: “What did you learn about using AI this week?”
+Instead of leaders answering questions, let frontline teams ask _each other_: “What did you learn about using AI this week?”
 
 > Create a habit of storytelling from the bottom-up.
 
@@ -182,6 +182,6 @@ Internal audio updates (5–10 mins) where teams share wins, experiments, or fai
 
 Use Miro, Canva, or even printed whiteboards to visually map prompts, AI outputs, decision paths, and outcomes. Great for visual learners and exec briefings.
 
----
+***
 
-📘 Next in Series: [Conversational UX and Voice Prompts](./voice-prompts-and-conversational-ux.md)
+📘 Next in Series: [Conversational UX and Voice Prompts](voice-prompts-and-conversational-ux.md)

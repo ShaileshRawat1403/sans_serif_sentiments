@@ -1,4 +1,4 @@
-# 🧠 FnF — Flavor and Function Framework
+# FnF — Flavor and Function Framework
 
 _A style guide for writing with depth, clarity, and psychological precision_\
 Version: Reflective 2025 Edition\

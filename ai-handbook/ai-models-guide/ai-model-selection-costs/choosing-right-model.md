@@ -1,28 +1,27 @@
-# 🎯 Choosing the Right AI for the Job
+# Choosing the Right AI for the Job
 
-*A Decision-Making Guide for Writers, Analysts, Strategists & Builders*
+_A Decision-Making Guide for Writers, Analysts, Strategists & Builders_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why This Guide Exists](#why-this-guide-exists)
-* [What “Right AI” Really Means](#what-right-ai-really-means)
-* [Matching Model Strengths to Human Roles](#matching-model-strengths-to-human-roles)
-* [Choosing Based on Input Type](#choosing-based-on-input-type)
-* [Choosing Based on Output Quality](#choosing-based-on-output-quality)
-* [Speed vs Depth: What Do You Prioritize?](#speed-vs-depth-what-do-you-prioritize)
-* [Reflective Checklist](#reflective-checklist)
-* [Think Break: AI as a Teammate](#think-break-ai-as-a-teammate)
+* [Why This Guide Exists](choosing-right-model.md#why-this-guide-exists)
+* [What “Right AI” Really Means](choosing-right-model.md#what-right-ai-really-means)
+* [Matching Model Strengths to Human Roles](choosing-right-model.md#matching-model-strengths-to-human-roles)
+* [Choosing Based on Input Type](choosing-right-model.md#choosing-based-on-input-type)
+* [Choosing Based on Output Quality](choosing-right-model.md#choosing-based-on-output-quality)
+* [Speed vs Depth: What Do You Prioritize?](choosing-right-model.md#speed-vs-depth-what-do-you-prioritize)
+* [Reflective Checklist](choosing-right-model.md#reflective-checklist)
+* [Think Break: AI as a Teammate](choosing-right-model.md#think-break-ai-as-a-teammate)
 
----
+***
 
 ## 🔍 Why This Guide Exists
 
 With so many AI models claiming to “do it all,” how do you know which one to actually use?
 
-This guide is not about benchmarks or hype.
-It’s about **fit.**
+This guide is not about benchmarks or hype. It’s about **fit.**
 
 * Fit for your role
 * Fit for the task
@@ -30,12 +29,11 @@ It’s about **fit.**
 
 Whether you’re a **marketer**, **designer**, **researcher**, or **team lead**, this document helps you think clearly and choose wisely.
 
----
+***
 
 ## 🤖 What “Right AI” Really Means
 
-There is no “best” AI.
-Only:
+There is no “best” AI. Only:
 
 * Best for writing fast
 * Best for interpreting visuals
@@ -49,7 +47,7 @@ Think of models like teammates:
 * Some give safe, corporate answers
 * Others are bold but chaotic
 
----
+***
 
 ## 👥 Matching Model Strengths to Human Roles
 
@@ -62,7 +60,7 @@ Think of models like teammates:
 | Customer Support | Fast, helpful replies  | Claude Haiku, Mistral         | Lightweight, reliable         |
 | Designer         | Image + copy + tone    | GPT-4o, Gemini                | Vision-text crossover         |
 
----
+***
 
 ## 🧾 Choosing Based on Input Type
 
@@ -74,7 +72,7 @@ Think of models like teammates:
 | Document Upload | Claude 3 Opus            | Handles large PDFs            |
 | Spreadsheet     | Gemini (Sheets ext), GPT | Table parsing + summarization |
 
----
+***
 
 ## 🧾 Choosing Based on Output Quality
 
@@ -85,7 +83,7 @@ Think of models like teammates:
 | Structured Content    | GPT-4o, Claude       | Uses headings, formatting       |
 | Long-form Summaries   | Claude, Gemini       | Great for 100k+ tokens          |
 
----
+***
 
 ## 🐇 Speed vs Depth: What Do You Prioritize?
 
@@ -98,7 +96,7 @@ Think of models like teammates:
 
 > ⚖️ Tip: Don't pick speed over accuracy for legal, compliance, or public-facing outputs.
 
----
+***
 
 ## ✅ Reflective Checklist
 
@@ -111,11 +109,9 @@ Before choosing an AI:
 * [ ] Does it require **context memory** (chat history, long files)?
 * [ ] Will it need **brand voice** or tone adaptation?
 
-If 3+ of these matter → you likely need Claude Opus or GPT-4o.
-If speed + cost is your blocker → use Claude Haiku or Mistral.
-If vision/audio is key → GPT-4o or Gemini.
+If 3+ of these matter → you likely need Claude Opus or GPT-4o. If speed + cost is your blocker → use Claude Haiku or Mistral. If vision/audio is key → GPT-4o or Gemini.
 
----
+***
 
 ## 🧠 Think Break: AI as a Teammate
 
@@ -128,11 +124,10 @@ If vision/audio is key → GPT-4o or Gemini.
 > * Suggests follow-up actions
 > * Writes a recap email
 >
-> Which model(s) would you assign?
-> How would you evaluate their response?
+> Which model(s) would you assign? How would you evaluate their response?
 
----
+***
 
-🎓 Next in Series: [How AI Thinks (And How It Doesn’t)](./how-ai-thinks.md)
+🎓 Next in Series: [How AI Thinks (And How It Doesn’t)](../how-ai-thinks.md)
 
----
+***

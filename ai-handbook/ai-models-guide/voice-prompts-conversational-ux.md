@@ -1,22 +1,22 @@
-# 🗣️ Voice Prompts and Conversational UX
+# Voice Prompts and Conversational UX
 
-*Designing Natural Interactions for Humans — Not Just Commands for AI*
+_Designing Natural Interactions for Humans — Not Just Commands for AI_
 
----
+***
 
 ## 📁 Table of Contents
 
-* [What Is Conversational UX (And Why It Matters)](#what-is-conversational-ux-and-why-it-matters)
-* [How Voice Prompts Differ from Text Prompts](#how-voice-prompts-differ-from-text-prompts)
-* [Designing for Natural Conversations](#designing-for-natural-conversations)
-* [Common Pitfalls in Voice-Driven AI UX](#common-pitfalls-in-voice-driven-ai-ux)
-* [Prompt Structures for Better Voice Inputs](#prompt-structures-for-better-voice-inputs)
-* [Examples: Good vs Bad Voice Prompts](#examples-good-vs-bad-voice-prompts)
-* [Testing and Calibrating Voice UX](#testing-and-calibrating-voice-ux)
-* [Reflection Activity: Voice Audit Sprint](#reflection-activity-voice-audit-sprint)
-* [Resources and Toolkits](#resources-and-toolkits)
+* [What Is Conversational UX (And Why It Matters)](voice-prompts-conversational-ux.md#what-is-conversational-ux-and-why-it-matters)
+* [How Voice Prompts Differ from Text Prompts](voice-prompts-conversational-ux.md#how-voice-prompts-differ-from-text-prompts)
+* [Designing for Natural Conversations](voice-prompts-conversational-ux.md#designing-for-natural-conversations)
+* [Common Pitfalls in Voice-Driven AI UX](voice-prompts-conversational-ux.md#common-pitfalls-in-voice-driven-ai-ux)
+* [Prompt Structures for Better Voice Inputs](voice-prompts-conversational-ux.md#prompt-structures-for-better-voice-inputs)
+* [Examples: Good vs Bad Voice Prompts](voice-prompts-conversational-ux.md#examples-good-vs-bad-voice-prompts)
+* [Testing and Calibrating Voice UX](voice-prompts-conversational-ux.md#testing-and-calibrating-voice-ux)
+* [Reflection Activity: Voice Audit Sprint](voice-prompts-conversational-ux.md#reflection-activity-voice-audit-sprint)
+* [Resources and Toolkits](voice-prompts-conversational-ux.md#resources-and-toolkits)
 
----
+***
 
 ## 🧠 What Is Conversational UX (And Why It Matters)
 
@@ -30,7 +30,7 @@ Voice is:
 
 > 🗣️ A good voice experience feels like help — not a quiz.
 
----
+***
 
 ## 🔄 How Voice Prompts Differ from Text Prompts
 
@@ -48,27 +48,20 @@ Voice requires:
 * Repeatable formats
 * Anticipation of misunderstanding
 
----
+***
 
 ## 🎨 Designing for Natural Conversations
 
 To make AI feel conversational:
 
-* **Start with a warm opener**
-  → "Hey there, what are you working on today?"
-
-* **Use follow-ups instead of long forms**
-  → Break into back-and-forth prompts
-
-* **Acknowledge previous input**
-  → "You mentioned needing a draft — should I use the same tone as last time?"
-
-* **Repeat or rephrase if unsure**
-  → "Just to confirm — do you want a summary or an outline?"
+* **Start with a warm opener** → "Hey there, what are you working on today?"
+* **Use follow-ups instead of long forms** → Break into back-and-forth prompts
+* **Acknowledge previous input** → "You mentioned needing a draft — should I use the same tone as last time?"
+* **Repeat or rephrase if unsure** → "Just to confirm — do you want a summary or an outline?"
 
 > 🤖 Good AI doesn’t just generate — it converses, confirms, and clarifies.
 
----
+***
 
 ## ⚠️ Common Pitfalls in Voice-Driven AI UX
 
@@ -84,7 +77,7 @@ Fix by:
 * Using natural filler phrases
 * Implementing soft failbacks
 
----
+***
 
 ## 🏗️ Prompt Structures for Better Voice Inputs
 
@@ -110,7 +103,7 @@ Then:
 
 > "So you’d like a \[type] in a \[tone] voice — shall I begin?"
 
----
+***
 
 ## 🧪 Examples: Good vs Bad Voice Prompts (Flavor + Function)
 
@@ -124,7 +117,7 @@ Then:
 
 > "Alright, what are we summarizing today — a meeting, a doc, or a wall of chaos?"
 
----
+***
 
 ### 🔍 Use Case: Getting Customer Feedback
 
@@ -136,7 +129,7 @@ Then:
 
 > "Mind sharing how that went? The good, the bad, or the glitchy — we want it all."
 
----
+***
 
 ### ✍️ Use Case: Preparing a Daily Brief
 
@@ -148,7 +141,7 @@ Then:
 
 > "What’s on your plate today? Think: Must-do, could-wait, and might-explode."
 
----
+***
 
 ### 💬 Use Case: Clarifying Input Tone
 
@@ -162,7 +155,7 @@ Then:
 
 > 🧠 Great voice prompts respect confusion. They anticipate real human moods — not perfect behavior.
 
----
+***
 
 ## 🧪 Testing and Calibrating Voice UX
 
@@ -181,7 +174,7 @@ Tools:
 * Whisper (OpenAI), Mozilla DeepSpeech
 * User testing with playback reviews
 
----
+***
 
 ## 🔍 Reflection Activity: Voice Audit Sprint
 
@@ -190,18 +183,16 @@ Run a 30-minute audit of your product’s voice UX:
 1. Pick 3 common user journeys.
 2. Simulate them by voice.
 3. Record how often you felt:
-
    * Confused
    * Interrupted
    * Surprised (good or bad)
 4. List where clarification or warmth was missing.
 5. Rewrite 3 key voice prompts with:
-
    * Human opener
    * Confirmation step
    * Personalized close
 
----
+***
 
 ## 📚 Resources and Toolkits
 
@@ -212,6 +203,6 @@ Run a 30-minute audit of your product’s voice UX:
 * [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech)
 * [BBC Voice + Tone Guidelines](https://bbc.github.io/gel/guidelines/voice-and-tone/)
 
----
+***
 
-📘 Next in Series: [Risks, Red Flags, and Responsible Use](./ai-risks-responsibility.md)
+📘 Next in Series: [Risks, Red Flags, and Responsible Use](ai-risks-responsibility.md)

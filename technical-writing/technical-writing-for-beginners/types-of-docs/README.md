@@ -1,8 +1,8 @@
-# 🧰 What Technical Writers Really Do (and How They Do It)
+# What Technical Writers Really Do (and How They Do It)
 
-*Tasks, tools, and traits you don’t see in the job description.*
+_Tasks, tools, and traits you don’t see in the job description._
 
----
+***
 
 ## 🧠 Why This Chapter Matters
 
@@ -14,7 +14,7 @@ Technical writing isn't just about "writing." It's about:
 
 This chapter explores the **real roles** tech writers play, the **tools** they use, and the **skills** that make them successful — especially in teams where documentation can be the difference between onboarding or offboarding a customer.
 
----
+***
 
 ## 🧢 The Many Hats of a Technical Writer
 
@@ -30,7 +30,7 @@ This chapter explores the **real roles** tech writers play, the **tools** they u
 | 👁 Reviewer              | Pretend to be the user — break flows, spot confusion, highlight gaps         |
 | 🧹 Maintainer            | Keep docs accurate, pruned, and version-aligned with releases                |
 
----
+***
 
 ## 🛠 Tools of the Trade
 
@@ -65,13 +65,13 @@ You won’t need all of these on day one — but knowing what exists helps you g
 * **Loom / ScreenRec** – Record workflows to understand intent
 * **Grammarly / Vale / Hemingway** – Writing quality, consistency, linting
 
----
+***
 
 ## 🧠 Skills That Matter (More Than You Think)
 
 | Skill            | Why It’s Crucial                                                      |
 | ---------------- | --------------------------------------------------------------------- |
-| Curiosity        | You're often the first to say "wait — how does this *actually* work?" |
+| Curiosity        | You're often the first to say "wait — how does this _actually_ work?" |
 | Empathy          | You write for users in confusion, not celebration                     |
 | Systems Thinking | Helps structure information clearly and logically                     |
 | Clarity          | Every word counts. Overexplaining is just underthinking.              |
@@ -80,11 +80,11 @@ You won’t need all of these on day one — but knowing what exists helps you g
 
 > You’re not writing a novel. You’re designing a map out of confusion.
 
----
+***
 
 ## 🌀 Where Documentation Fits: SDLC & PDLC
 
-> *So… when do tech writers get involved?*
+> _So… when do tech writers get involved?_
 
 In short: **everywhere.** But too often, **too late.**
 
@@ -101,7 +101,7 @@ Understanding the **Software Development Life Cycle (SDLC)** and **Product Devel
 
 📌 We'll go deeper into SDLC & PDLC in an upcoming chapter.
 
----
+***
 
 ## 🤐 What They Don’t Tell You (But You’ll Definitely Do)
 
@@ -119,7 +119,7 @@ You’ll become the person who:
 * Documents what others forgot to mention
 * Saves users from yelling at their screens
 
----
+***
 
 ## ✅ Quick Recap Table
 
@@ -132,16 +132,16 @@ You’ll become the person who:
 | Reviewer   | Test usability       | Internal UAT, feedback | Precision        |
 | Maintainer | Track changes        | Git, Confluence        | Diligence        |
 
----
+***
 
 ## 📘 Up Next
 
-You now know what tech writers *really* do. But *how* do they write in a way that actually helps users — not just sounds smart?
+You now know what tech writers _really_ do. But _how_ do they write in a way that actually helps users — not just sounds smart?
 
 In the next chapter, we explore:
 
 > **Writing Principles That Make Docs Useful (Not Just Polished)**
 
----
+***
 
-> *“Documentation isn't how you show off what you know. It's how you help others know what to do.”*
+> _“Documentation isn't how you show off what you know. It's how you help others know what to do.”_

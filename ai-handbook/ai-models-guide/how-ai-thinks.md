@@ -1,22 +1,22 @@
-# 🧠 How AI Thinks (And How It Doesn’t)
+# How AI Thinks (And How It Doesn’t)
 
-*A Guide to Understanding What’s Actually Happening Under the Hood*
+_A Guide to Understanding What’s Actually Happening Under the Hood_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why This Guide Matters](#why-this-guide-matters)
-* [What Does It Mean for AI to Think](#what-does-it-mean-for-ai-to-think)
-* [How Generative AI Works The Mental Model](#how-generative-ai-works-the-mental-model)
-* [Prediction Not Understanding](#prediction-not-understanding)
-* [Where It Fails Common Breakdowns](#where-it-fails-common-breakdowns)
-* [Types of Reasoning System vs Semantic Memory](#types-of-reasoning-system-vs-semantic-memory)
-* [Reflection Activity Decoding a Bots Thought Process](#reflection-activity-decoding-a-bots-thought-process)
-* [Human vs AI Misunderstanding the Misunderstanding](#human-vs-ai-misunderstanding-the-misunderstanding)
-* [The Ethical Trap Trusting Coherence Over Truth](#the-ethical-trap-trusting-coherence-over-truth)
+* [Why This Guide Matters](how-ai-thinks.md#why-this-guide-matters)
+* [What Does It Mean for AI to Think](how-ai-thinks.md#what-does-it-mean-for-ai-to-think)
+* [How Generative AI Works The Mental Model](how-ai-thinks.md#how-generative-ai-works-the-mental-model)
+* [Prediction Not Understanding](how-ai-thinks.md#prediction-not-understanding)
+* [Where It Fails Common Breakdowns](how-ai-thinks.md#where-it-fails-common-breakdowns)
+* [Types of Reasoning System vs Semantic Memory](how-ai-thinks.md#types-of-reasoning-system-vs-semantic-memory)
+* [Reflection Activity Decoding a Bots Thought Process](how-ai-thinks.md#reflection-activity-decoding-a-bots-thought-process)
+* [Human vs AI Misunderstanding the Misunderstanding](how-ai-thinks.md#human-vs-ai-misunderstanding-the-misunderstanding)
+* [The Ethical Trap Trusting Coherence Over Truth](how-ai-thinks.md#the-ethical-trap-trusting-coherence-over-truth)
 
----
+***
 
 ## 🧭 Why This Guide Matters
 
@@ -29,7 +29,7 @@ Understanding what’s really happening helps you:
 * Use prompts more effectively
 * Explain it to stakeholders, not just engineers
 
----
+***
 
 ## 💭 What Does It Mean for AI to Think
 
@@ -42,16 +42,15 @@ Let’s reframe thinking as:
 * Making connections
 * Producing an action or response
 
-AI does the **last part extremely well.** But the **middle steps are not conscious.**
-It predicts likely tokens — not truth, not intent.
+AI does the **last part extremely well.** But the **middle steps are not conscious.** It predicts likely tokens — not truth, not intent.
 
----
+***
 
 ## 🧠 How Generative AI Works The Mental Model
 
 Generative AI can feel like magic — but it’s math. Understanding the mechanics gives you the power to prompt better, detect flaws earlier, and explain outcomes clearly.
 
----
+***
 
 ### 📌 The What:
 
@@ -59,7 +58,7 @@ Generative AI models are statistical machines. They don’t think — they **pre
 
 > **Example:** Given the phrase: "The sun rises in the..." → It predicts “east” not because it knows astronomy, but because that’s the most likely token to follow.
 
----
+***
 
 ### 🧰 The How:
 
@@ -72,7 +71,7 @@ It works using four core layers:
 
 > ⚙️ **Transformer architecture** is the backbone. It enables non-sequential, parallel attention. Think of it as scanning a paragraph all at once rather than word-by-word.
 
----
+***
 
 ### 🧠 Mental Model: Predictive Word Composer
 
@@ -84,7 +83,7 @@ Imagine:
 
 It’s part logic, part language, but **no lived meaning** — only mapped probabilities.
 
----
+***
 
 ### 🧪 What It’s NOT Doing:
 
@@ -92,7 +91,7 @@ It’s part logic, part language, but **no lived meaning** — only mapped proba
 * It doesn’t have memory beyond what’s fed in (unless architected to retain it).
 * It doesn’t “understand” your intent unless structured in prompt.
 
-> **L\&D Tip:** Always ask: *What part of this is it repeating?* and *What part is it recomposing?*
+> **L\&D Tip:** Always ask: _What part of this is it repeating?_ and _What part is it recomposing?_
 
 ### The What:
 
@@ -109,15 +108,13 @@ It uses:
 
 ### The Analogy:
 
-> Imagine a hyper-fast autocomplete trained on the entire internet.
-> It’s guessing what you want based on what others have said — not what you mean.
+> Imagine a hyper-fast autocomplete trained on the entire internet. It’s guessing what you want based on what others have said — not what you mean.
 
----
+***
 
 ## ❗ Prediction Not Understanding
 
-AI doesn't “understand” Paris is in France.
-It knows:
+AI doesn't “understand” Paris is in France. It knows:
 
 * The word "Paris" often co-occurs with "France"
 * Travel guides, Wikipedia, and blogs follow that pattern
@@ -130,7 +127,7 @@ That’s different from a human knowing:
 
 > ⚠️ Tip: Treat every response like a confident intern. Polished, fast, but not always right.
 
----
+***
 
 ## 🔍 Where It Fails Common Breakdowns
 
@@ -141,7 +138,7 @@ That’s different from a human knowing:
 | Shallow Reasoning | It misses edge cases, nuance             | “Just delete the table” (wrong database!) |
 | Confused Context  | It forgets part of your prompt           | Refers to the wrong section of a document |
 
----
+***
 
 ## 🧬 Types of Reasoning System vs Semantic Memory
 
@@ -153,7 +150,7 @@ That’s different from a human knowing:
 
 > AI “fakes” episodic and planning memory using tokens — but it has no sense of time, place, or consequence.
 
----
+***
 
 ## 🎯 Reflection Activity Decoding a Bots Thought Process
 
@@ -169,7 +166,7 @@ Ask yourself:
 3. Does it use the right examples — or just popular ones?
 4. What’s missing from a human perspective?
 
----
+***
 
 ## 🧍 Human vs AI Misunderstanding the Misunderstanding
 
@@ -179,10 +176,9 @@ We often:
 * Confuse formatting with logic
 * Believe alignment equals empathy
 
-> AI isn’t “polite.” It’s trained to be safe.
-> AI isn’t “clever.” It’s statistically compelling.
+> AI isn’t “polite.” It’s trained to be safe. AI isn’t “clever.” It’s statistically compelling.
 
----
+***
 
 ## ⚖️ The Ethical Trap Trusting Coherence Over Truth
 
@@ -198,11 +194,10 @@ But they may be:
 * Culturally biased
 * Designed to “agree with you”
 
-**Don’t reward clarity over correctness.**
-Your users may not spot the difference.
+**Don’t reward clarity over correctness.** Your users may not spot the difference.
 
----
+***
 
-📘 Next in Series: [Multimodal Models Explained](./multimodal-models.md)
+📘 Next in Series: [Multimodal Models Explained](multimodal-models.md)
 
----
+***

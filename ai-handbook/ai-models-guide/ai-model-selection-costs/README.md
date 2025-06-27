@@ -1,24 +1,24 @@
-# 🤖 AI Model Selection and Cost Optimization
+# AI Model Selection and Cost Optimization
 
-*How to Choose the Right Brain Without Breaking the Bank*
+_How to Choose the Right Brain Without Breaking the Bank_
 
----
+***
 
 ## 📑 Table of Contents
 
-* [Why Model Selection Matters](#why-model-selection-matters)
-* [What Makes One Model Different from Another](#what-makes-one-model-different-from-another)
-* [Model Types and Use Cases](#model-types-and-use-cases)
-* [Evaluating Accuracy, Cost, and Latency](#evaluating-accuracy-cost-and-latency)
-* [When to Switch Models Mid-Project](#when-to-switch-models-mid-project)
-* [Architecture: Open vs Closed, API vs On-Prem](#architecture-open-vs-closed-api-vs-on-prem)
-* [Understanding Token Costs and Response Length](#understanding-token-costs-and-response-length)
-* [The Hidden Costs: Governance, Logging, Risk](#the-hidden-costs-governance-logging-risk)
-* [Model Decision Matrix Template](#model-decision-matrix-template)
-* [Reflection Activity: Map Your Model Match](#reflection-activity-map-your-model-match)
-* [Sources and References](#sources-and-references)
+* [Why Model Selection Matters](./#why-model-selection-matters)
+* [What Makes One Model Different from Another](./#what-makes-one-model-different-from-another)
+* [Model Types and Use Cases](./#model-types-and-use-cases)
+* [Evaluating Accuracy, Cost, and Latency](./#evaluating-accuracy-cost-and-latency)
+* [When to Switch Models Mid-Project](./#when-to-switch-models-mid-project)
+* [Architecture: Open vs Closed, API vs On-Prem](./#architecture-open-vs-closed-api-vs-on-prem)
+* [Understanding Token Costs and Response Length](./#understanding-token-costs-and-response-length)
+* [The Hidden Costs: Governance, Logging, Risk](./#the-hidden-costs-governance-logging-risk)
+* [Model Decision Matrix Template](./#model-decision-matrix-template)
+* [Reflection Activity: Map Your Model Match](./#reflection-activity-map-your-model-match)
+* [Sources and References](./#sources-and-references)
 
----
+***
 
 ## 🧠 Why Model Selection Matters
 
@@ -39,7 +39,7 @@ When choosing an AI model for your org:
 | Open Model     | Flexibility, transparency  | More dev effort, risk         |
 | Fine-tuned     | Domain precision           | Maintenance + monitoring load |
 
----
+***
 
 ## 🧬 What Makes One Model Different from Another
 
@@ -50,9 +50,9 @@ When choosing an AI model for your org:
 5. **Latency** – Speed to respond (important for UI-based experiences)
 6. **API Features** – Streaming, tool calling, JSON mode, system instructions, etc.
 
-> Choose the *right-sized model* for the *right problem*. Don’t use a flamethrower to light a candle.
+> Choose the _right-sized model_ for the _right problem_. Don’t use a flamethrower to light a candle.
 
----
+***
 
 ## 🎯 Model Types and Use Cases
 
@@ -70,7 +70,7 @@ When choosing an AI model for your org:
 * Legal Drafting: Claude 3 Opus with RAG
 * Internal Knowledge Base: Mistral + Retrieval
 
----
+***
 
 ## 📊 Evaluating Accuracy, Cost, and Latency
 
@@ -81,9 +81,9 @@ When choosing an AI model for your org:
 
 **Cost (per 1K tokens):**
 
-* GPT-3.5: \~\$0.0015 input / \$0.002 output
-* GPT-4-Turbo: \~\$0.01 input / \$0.03 output
-* Claude Opus: \~\$0.015 input / \$0.075 output
+* GPT-3.5: \~$0.0015 input / $0.002 output
+* GPT-4-Turbo: \~$0.01 input / $0.03 output
+* Claude Opus: \~$0.015 input / $0.075 output
 
 **Latency:**
 
@@ -91,9 +91,9 @@ When choosing an AI model for your org:
 * Claude 3 Opus: \~4–6 seconds
 * Gemini 1.5 Pro: \~3–4 seconds
 
-> Benchmark models *in context*, not in isolation. A good legal model might be slow but precise — perfect for risk docs.
+> Benchmark models _in context_, not in isolation. A good legal model might be slow but precise — perfect for risk docs.
 
----
+***
 
 ## 🔄 When to Switch Models Mid-Project
 
@@ -105,13 +105,13 @@ When choosing an AI model for your org:
 
 **Tip:** Use a routing system:
 
-```text
+```
 [Prompt Type] → [Model A]
 [Long Prompt or File Input] → [Model B]
 [Quick Draft or Reply] → [Model C]
 ```
 
----
+***
 
 ## 🏗️ Architecture: Open vs Closed, API vs On-Prem
 
@@ -125,7 +125,7 @@ When choosing an AI model for your org:
 
 > ✅ Start with API-first, evaluate migration to open stack based on maturity.
 
----
+***
 
 ## 💸 Understanding Token Costs and Response Length
 
@@ -146,7 +146,7 @@ A “token” is roughly:
 
 **Tool:** Try [OpenAI Tokenizer](https://platform.openai.com/tokenizer) to preview cost.
 
----
+***
 
 ## 🔍 The Hidden Costs: Governance, Logging, Risk
 
@@ -163,7 +163,7 @@ A “token” is roughly:
 
 > The real cost of AI is what happens after the model responds.
 
----
+***
 
 ## 🧮 Model Decision Matrix Template
 
@@ -179,13 +179,12 @@ A “token” is roughly:
 
 > ✅ Decision: Use Model C for internal tools, Model B for high-risk content.
 
----
+***
 
 ## 🧠 Reflection Activity: Map Your Model Match
 
 1. Choose a task (e.g., contract redlining, summarizing Slack threads)
 2. Identify what matters most:
-
    * Accuracy
    * Cost
    * Latency
@@ -197,7 +196,7 @@ A “token” is roughly:
 
 > 💡 Hint: There’s rarely a “perfect” model — there’s only a context-aware choice.
 
----
+***
 
 📚 Sources and References
 
@@ -221,6 +220,6 @@ Partnership on AI – Responsible AI Frameworks
 
 All data accurate as of June 2025. Model costs and features may evolve — always refer to vendor documentation for current information.
 
----
+***
 
-📘 Next in Series: [Risks, Red Flags, and Responsible Use](./ai-risks-and-guardrails.md)
+📘 Next in Series: [Risks, Red Flags, and Responsible Use](../ai-risks-and-guardrails.md)
