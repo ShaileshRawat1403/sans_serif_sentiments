@@ -1,55 +1,57 @@
-# 📘 GitBook Documentation Set
+# 📘 GitBook Documentation Suite
 
-Explore this beginner-to-intermediate documentation module focused on **GitBook** — a modern, collaborative platform for writing and publishing technical content.
+This documentation suite provides structured, user-focused guidance for working with **GitBook** — a modern platform for writing, organizing, and publishing documentation collaboratively.
 
-Use these guides to understand GitBook, set it up quickly, and make the most of its writing features. Follow clear steps, learn essential terms, and troubleshoot common issues — all in one place.
-
----
-
-## 🗂️ Included Documents
-
-| File | Type | What You’ll Learn |
-|------|------|--------------------|
-| `what-is-gitbook.md` | Concept Explainer | Understand what GitBook is and why it’s useful |
-| `how-to-create-your-first-gitbook-space.md` | How-To Guide | Create a GitBook space and publish your first page |
-| `gitbook-authentication-and-workspace-setup.md` | Setup Guide | Set up your account, log in, and organize your workspace |
-| `using-gitbook-editor.md` | Feature Guide | Use the GitBook editor to write and format content |
-| `gitbook-markdown-vs-blocks.md` | Reference | Compare writing in Markdown vs. Blocks |
-| `why-is-my-gitbook-page-not-publishing.md` | Troubleshooting | Fix common publishing problems |
-| `gitbook-terms-explained.md` | Glossary | Learn key GitBook terms in simple language |
-| `README.md` | Overview | Understand what this doc set includes and how to use it |
+Each file in this suite represents a core document type commonly used in enterprise environments. The goal is to help users adopt GitBook quickly while demonstrating clear, effective technical writing across multiple formats.
 
 ---
 
-## 🎯 Why Use This Set
+## 🗂️ Documentation Index
 
-- Review clear, structured technical writing examples  
-- Learn how to start using GitBook confidently  
-- Follow real-world documentation formats: guides, explainers, references, and more  
-- Understand how to document a tool that’s already helping thousands of users
-
----
-
-## 👥 Who Should Use This
-
-- Writers and creators looking to publish structured content  
-- Teams moving away from traditional tools like Confluence or Notion  
-- Developers and product teams sharing internal or public docs  
-- First-time GitBook users who want to set up and write fast
+| File | Document Type | Description |
+|------|----------------|-------------|
+| `gitbook-overview.md` | **Overview** | Understand what GitBook is, who uses it, and how it compares to other tools |
+| `gitbook-getting-started.md` | **Getting Started Guide** | Create your first GitBook space and publish a basic page |
+| `gitbook-setup-guide.md` | **Setup Guide** | Set up your GitBook account, configure workspaces, and manage permissions |
+| `gitbook-editor-guide.md` | **User Guide** | Use the GitBook editor to write, structure, and format content |
+| `gitbook-writing-modes-reference.md` | **Reference Guide** | Compare Markdown and Block-based editing modes in GitBook |
+| `gitbook-troubleshooting.md` | **Troubleshooting Guide** | Diagnose and resolve common issues related to publishing and access |
+| `gitbook-glossary.md` | **Glossary** | Review essential GitBook terminology and platform-specific terms |
+| `README.md` | **Index / Summary** | Overview of the documentation module and how to navigate it |
 
 ---
 
-## ⚙️ What to Expect
+## 🎯 Documentation Objectives
 
-- Written in clean Markdown  
-- Follows a user-first, task-based structure  
-- Uses imperative language for clarity and action  
-- Screenshots and visual references included where relevant  
-- Organized by documentation type for easy navigation
+- Enable new users to adopt GitBook confidently  
+- Provide step-by-step, action-oriented guidance  
+- Use enterprise-standard documentation formats and tone  
+- Demonstrate effective technical writing across concept, procedure, reference, and troubleshooting content
 
 ---
 
-## 🔗 Explore GitBook
+## 👥 Intended Audience
 
-- [Visit GitBook](https://www.gitbook.com/)  
-- [Browse GitBook Docs](https://docs.gitbook.com/)
+This suite is ideal for:
+
+- **Technical writers** working with SaaS products or internal tools  
+- **Engineering or product teams** documenting software, APIs, or workflows  
+- **Organizations** seeking alternatives to Confluence, Notion, or Docs-as-Code solutions  
+- **Individuals** exploring GitBook for personal knowledge bases or public documentation
+
+---
+
+## 🧾 Authoring Standards
+
+- 📄 Written in Markdown  
+- 🧭 Uses clear headings, step-by-step instructions, and scannable layouts  
+- 🗣️ Follows an imperative, active voice  
+- ✅ Structured for consistency across all documentation types  
+- 🖼️ Includes screenshot placeholders and diagram references where needed
+
+---
+
+## 🔗 External Resources
+
+- [GitBook Website](https://www.gitbook.com/)  
+- [Official GitBook Documentation](https://docs.gitbook.com/)
