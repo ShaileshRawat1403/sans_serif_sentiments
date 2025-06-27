@@ -1,126 +1,29 @@
-# ⚙️ GitBook Setup Guide
+# 📚 GitBook Glossary
 
-Use this guide to set up your GitBook account, configure a workspace, and manage member access. Follow these steps before you begin creating documentation spaces.
+*A shared vocabulary to help you confidently navigate GitBook features and workflows.*
 
----
-
-## 🔍 Overview
-
-GitBook organizes content into **workspaces**, which can hold multiple documentation spaces (projects).  
-Workspaces are ideal for solo use, small teams, or large-scale documentation hubs.  
-
-Each user logs in, enters a workspace, and creates or collaborates on content.  
-The following sections will help you complete your initial setup.
+This glossary ensures you're not just using GitBook — you're understanding it. Each entry includes a plain-language definition and a direct link to where the concept is practically used in our documentation suite.
 
 ---
 
-## ✅ Prerequisites
-
-Make sure you have:
-
-- A working email address or Google/GitHub account  
-- A modern browser (Chrome, Firefox, or Edge)  
-- Internet connectivity  
-
----
-
-## 🔐 Sign In to GitBook
-
-- Go to [https://gitbook.com](https://gitbook.com)  
-- Select **Sign in** from the top-right navigation  
-- Choose a sign-in method: Google, GitHub, or email  
-- Complete the login flow and verify your account (if prompted)
-
-> 🖼️  
-> ![GitBook sign-in page with login options](images/gitbook-signin-screen.png)  
-> *The GitBook login screen allows single sign-on (SSO) via Google or GitHub.*
+| Term | Description | Related Guide |
+|------|-------------|---------------|
+| **Space** | A workspace for organizing pages and documentation within GitBook. | [Getting Started →](../gitbook-getting-started/README.md) |
+| **Page** | A single document inside a space, built using the GitBook editor. | [Editor Guide →](../gitbook-editor-guide/README.md) |
+| **Block** | The core unit in GitBook’s editor—can be text, image, callout, etc. | [Editor Guide →](../gitbook-editor-guide/README.md#using-blocks) |
+| **Sidebar** | The navigational panel for accessing and arranging content. | [Setup Guide →](../gitbook-setup-guide/README.md#configure-sidebar) |
+| **Cover Page** | A branded landing page shown when users first visit your space. | [Setup Guide →](../gitbook-setup-guide/README.md#customize-cover-page) |
+| **Publishing** | Making a space or page publicly viewable on the web. | [Getting Started →](../gitbook-getting-started/README.md#publish-your-space) |
+| **Collections** | Groups of content like articles or modules, bundled under a topic. | [Editor Guide →](../gitbook-editor-guide/README.md#organize-content) |
+| **Versioning** | The ability to manage multiple versions of documentation. | [Writing Modes Reference →](../gitbook-writing-modes-reference/README.md) |
+| **Sync** | Connecting GitBook with GitHub or GitLab to manage docs as code. | [Setup Guide →](../gitbook-setup-guide/README.md#connect-github-or-gitlab) |
+| **Embed** | Integrating third-party content like videos, widgets, or tools. | [Editor Guide →](../gitbook-editor-guide/README.md#embed-content) |
+| **Theme** | The visual design of your documentation site. | [Setup Guide →](../gitbook-setup-guide/README.md#customize-theme) |
+| **Changelog** | A log of updates or changes, often automated or synced. | [Overview →](../gitbook-overview/README.md#track-changes) |
+| **Integrations** | External services that can be linked to enhance functionality. | [Setup Guide →](../gitbook-setup-guide/README.md#enable-integrations) |
+| **Markdown Mode** | Raw writing format for advanced users or synced repos. | [Writing Modes →](../gitbook-writing-modes-reference/README.md#markdown-mode) |
 
 ---
 
-## 🧭 Create a New Workspace
-
-- After signing in, GitBook prompts you to create or join a workspace  
-- Enter a **workspace name** (e.g., `team-docs` or `portfolio-space`)  
-- Choose between:
-  - **Personal workspace** — for individual use  
-  - **Team workspace** — for shared access with collaborators  
-- Click **Create workspace**
-
-> 🖼️  
-> ![Create workspace screen with name and team options](images/gitbook-create-workspace.png)  
-> *Choose between a personal or team-based workspace. You can always rename it later.*
-
----
-
-### 🗂️ Workspace Structure Diagram (Optional)
-
-```plaintext
-+------------------------+
-|     GitBook Account    |
-+------------------------+
-           |
-           v
-+------------------------+
-|      Workspace (e.g.,  |
-|    team-docs)          |
-+------------------------+
-           |
-     +-----+-----+
-     |           |
-     v           v
-+--------+   +--------+
-| Space 1|   | Space 2|
-| Docs   |   | Design |
-+--------+   +--------+
-```
-
-> 🗺️ This structure allows you to manage multiple documentation projects from a single workspace.
-
----
-
-## 👥 Invite Team Members
-
-- From your dashboard, click on your workspace name (top-left)  
-- Go to **Workspace Settings**  
-- Open the **Members** tab  
-- Select **Invite members**  
-- Add emails and assign roles:
-  - **Viewer** — can view but not edit  
-  - **Editor** — can write and update content  
-  - **Admin** — full access, including member and space controls  
-
-> 🖼️  
-> ![Invite members modal with roles dropdown](images/gitbook-invite-members.png)  
-> *Invite collaborators and assign access levels. Use email invites to add teammates.*
-
----
-
-## 📤 Ready to Publish?
-
-When you create a public space, GitBook may prompt you to publish it immediately or later.  
-Choose the option that matches your workflow.
-
-> 🖼️  
-> ![GitBook publishing options: Publish now vs. Publish later](images/gitbook-publish-options.png)  
-> *Publishing a space starts your trial. Select “Publish later” to stay in draft mode.*
-
----
-
-## ✅ Setup Complete
-
-You have now:
-
-- Signed into GitBook  
-- Created a workspace  
-- Configured basic settings  
-- Invited collaborators (if needed)  
-- Explored your publishing options  
-
----
-
-## ➕ Next Steps
-
-- [Get Started →](./gitbook-getting-started.md): Create your first space and publish a page  
-- [Use the Editor →](./gitbook-editor-guide.md): Learn to format and structure content  
-- [Explore the Glossary →](./gitbook-glossary.md): Understand key GitBook terms
+🧠 Want to suggest a term? Submit a pull request or raise an issue in the repository.
 
