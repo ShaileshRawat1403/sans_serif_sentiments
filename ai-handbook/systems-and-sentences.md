@@ -8,35 +8,35 @@ _A Framework for Mapping Literary Technique to AI, Prompting, and Change Systems
 
 ## 📚 Table of Contents
 
-* [🧠 About This Project](systems-and-sentences.md#-about-this-project)
-* [🧩 Why Literature? Why Now?](systems-and-sentences.md#-why-literature-why-now)
-* [🔧 How to Use This Framework](systems-and-sentences.md#-how-to-use-this-framework)
-* [💡 Introduction: How Language, Thinking, and AI are all Connected](systems-and-sentences.md#-introduction-how-language-thinking-and-ai-are-all-connected)
-* [🔁 Literary Technique to AI/System Mapping](systems-and-sentences.md#-literary-technique-to-aisystem-mapping)
+* [🧠 About This Project](systems-and-sentences.md#about-this-project)
+* [🧩 Why Literature? Why Now?](systems-and-sentences.md#why-literature-why-now)
+* [🔧 How to Use This Framework](systems-and-sentences.md#how-to-use-this-framework)
+* [💡 Introduction: How Language, Thinking, and AI are all Connected](systems-and-sentences.md#introduction-how-language-thinking-and-ai-are-all-connected)
+* [🔁 Literary Technique to AI/System Mapping](systems-and-sentences.md#literary-technique-to-ai-system-mapping)
 
 ### Literary Chapters
 
-* [📖 Chapter 1: Anne Carson — Deconstructing Form, Rewiring Perception](systems-and-sentences.md#-chapter-1-anne-carson--deconstructing-form-rewiring-perception)
-* [📖 Chapter 3: Ali Smith — Playing with Time, Shaping Reality](systems-and-sentences.md#-chapter-3-ali-smith--playing-with-time-shaping-reality)
+* [📖 Anne Carson — Deconstructing Form, Rewiring Perception](systems-and-sentences.md#anne-carson-deconstructing-form-rewiring-perception)
+* [📖 Ali Smith — Playing with Time, Shaping Reality](systems-and-sentences.md#ali-smith-playing-with-time-shaping-reality)
 
 ### FnF Framework Chapters
 
-* [🎭 Chapter 4: FnF Stage 1 – Friction](systems-and-sentences.md#-chapter-4-fnf-stage-1--friction)
-* [🌉 Chapter 5: FnF Stage 2 – Bridge](systems-and-sentences.md#-chapter-5-fnf-stage-2--bridge)
-* [📊 Chapter 6: FnF Stage 3 – Evidence](systems-and-sentences.md#-chapter-6-fnf-stage-3--evidence)
-* [⚠️ Chapter 7: FnF Stage 4 – Implication](systems-and-sentences.md#-chapter-7-fnf-stage-4--implication)
-* [🧭 Chapter 8: FnF Stage 5 – Action](systems-and-sentences.md#-chapter-8-fnf-stage-5--action)
-* [🔭 Chapter 9: FnF Stage 6 – Look Ahead / Leave Behind](systems-and-sentences.md#-chapter-9-fnf-stage-6--look-ahead--leave-behind)
+* [🎭 Stage 1 – Friction](systems-and-sentences.md#stage-1-friction)
+* [🌉 Stage 2 – Bridge](systems-and-sentences.md#stage-2-bridge)
+* [📊 Stage 3 – Evidence](systems-and-sentences.md#stage-3-evidence)
+* [⚠️ Stage 4 – Implication](systems-and-sentences.md#stage-4-implication)
+* [🧭 Stage 5 – Action](systems-and-sentences.md#stage-5-action)
+* [🔭 Stage 6 – Look Ahead / Leave Behind](systems-and-sentences.md#stage-6-look-ahead-leave-behind)
 
 ### Interpretive & Design Layers
 
-* [🧠 Chapter 10: Cross-Cutting Themes and Future Directions](systems-and-sentences.md#-chapter-10-cross-cutting-themes-and-future-directions)
-* [🌀 Part IV: Afterwords & Interpretive Intelligence](systems-and-sentences.md#-part-iv-afterwords--interpretive-intelligence)
-  * [🧠 Chapter 11: The Reader as Renderer](systems-and-sentences.md#-chapter-11-the-reader-as-renderer)
-  * [🧠 Chapter 12: Cognitive Design Laws](systems-and-sentences.md#-chapter-12-cognitive-design-laws)
-  * [🧠 Chapter 13: Interpretive Archetypes](systems-and-sentences.md#-chapter-13-interpretive-archetypes)
-  * [🧠 Chapter 14: Recursive Closure](systems-and-sentences.md#-chapter-14-recursive-closure)
-  * [🧠 Chapter 15: How This Connects to Other Projects](systems-and-sentences.md#-chapter-15-how-this-connects-to-other-projects)
+* [🧠 Cross-Cutting Themes and Future Directions](systems-and-sentences.md#cross-cutting-themes-and-future-directions)
+* [🌀 Afterwords & Interpretive Intelligence](systems-and-sentences.md#afterwords-and-interpretive-intelligence)
+  * [🧠 The Reader as Renderer](systems-and-sentences.md#the-reader-as-renderer)
+  * [🧠 Cognitive Design Laws](systems-and-sentences.md#cognitive-design-laws)
+  * [🧠 Interpretive Archetypes](systems-and-sentences.md#interpretive-archetypes)
+  * [🧠 Recursive Closure](systems-and-sentences.md#recursive-closure)
+  * [🧠 How This Connects to Other Projects](systems-and-sentences.md#how-this-connects-to-other-projects)
 
 ### 📜 Final Notes
 
@@ -157,7 +157,7 @@ By reading like a system architect. By writing like a prompt designer. And by tr
 
 ***
 
-## 📖 Chapter 1: Anne Carson — Deconstructing Form, Rewiring Perception
+## 📖 Anne Carson — Deconstructing Form, Rewiring Perception
 
 ### What’s the focus?
 
@@ -173,7 +173,7 @@ When you write prompts—or design outputs—that echo Carson’s patterns, you�
 
 ***
 
-### 🔀 Technique 1: Genre Collapse
+### 🔀 Method: Genre Collapse
 
 **FnF Stage:** Friction → Bridge → Evidence → Implication
 
@@ -192,7 +192,7 @@ In practice, genre collapse teaches AI designers to resist rigid output expectat
 
 ***
 
-### 🔁 Technique 2: Recursion
+### 🔁 Method: Recursion
 
 **FnF Stage:** Bridge → Evidence → Action → Look Ahead
 
@@ -211,7 +211,7 @@ Recursive prompts nudge the AI toward self-awareness—not in the sentient sense
 
 ***
 
-### 😵 Technique 3: Discomfort
+### 😵 Method: Discomfort
 
 **FnF Stage:** Friction → Evidence → Implication
 
@@ -248,7 +248,7 @@ Discomfort is where growth lives. A well-designed prompt can introduce productiv
 
 ***
 
-## 📖 Chapter 3: Ali Smith — Playing with Time, Shaping Reality
+## 📖 Ali Smith — Playing with Time, Shaping Reality
 
 ### What’s the focus?
 
@@ -264,7 +264,7 @@ Smith’s approach maps directly to non-linear prompting, adaptive structuring, 
 
 ***
 
-### ⏳ Technique 1: Temporal Play
+### ⏳ Method: Temporal Play
 
 **FnF Stage:** Friction → Bridge → Implication → Look Ahead
 
@@ -283,7 +283,7 @@ Temporal play helps design AI that reasons not just chronologically—but conseq
 
 ***
 
-### 🧱 Technique 2: Structure Variance
+### 🧱 Method: Structure Variance
 
 **FnF Stage:** Bridge → Evidence → Action
 
@@ -302,7 +302,7 @@ AI isn’t just about what it says—but how. Structure variance teaches us to b
 
 ***
 
-### 🗣️ Technique 3: Dialogue / Ambiguity
+### 🗣️ Method: Dialogue / Ambiguity
 
 **FnF Stage:** Friction → Evidence → Implication → Action
 
@@ -339,7 +339,9 @@ Ambiguity is not failure. It’s fidelity to complexity. Use prompts that surfac
 
 ***
 
-## 🎭 Chapter 4: FnF Stage 1 – Friction
+## 🎭 The FnF Framework- Flavor + Function
+
+## Stage 1 – Friction
 
 **The Art of Cognitive Dissonance**
 
@@ -406,7 +408,7 @@ Friction isn’t noise. It’s a deliberate short-circuit — so the mind rerout
 
 ***
 
-## 🌉 Chapter 5: FnF Stage 2 – Bridge
+## 🌉 Stage 2 – Bridge
 
 **Intentional Framing and Reorientation**
 
@@ -472,7 +474,7 @@ It’s about stabilizing the path toward it.
 
 \--+
 
-## 📊 Chapter 6: FnF Stage 3 – Evidence
+## 📊 Stage 3 – Evidence
 
 **Grounding Insights in Reality**
 
@@ -539,7 +541,7 @@ It’s a mirror the audience can see themselves in.
 
 ***
 
-## ⚠️ Chapter 7: FnF Stage 4 – Implication
+## ⚠️ Stage 4 – Implication
 
 **Revealing What's at Stake**
 
@@ -607,7 +609,7 @@ Surface hidden costs. Forecast outcomes. Use cause-effect language. Create contr
 Implication transforms insight into urgency.\
 It turns ideas into decisions.
 
-## 🧭 Chapter 8: FnF Stage 5 – Action
+## 🧭 Stage 5 – Action
 
 **Designing for Response, Not Reaction**
 
@@ -675,7 +677,7 @@ Don’t just list “tips.” Offer concrete, tailored instructions. Include ref
 Action isn’t just a CTA.\
 It’s proof you trust the reader to move with you.
 
-## 🔭 Chapter 9: FnF Stage 6 – Look Ahead / Leave Behind
+## 🔭 Stage 6 – Look Ahead / Leave Behind
 
 **Resonating Beyond Resolution**
 
@@ -743,7 +745,7 @@ It’s the part of your writing that walks away with them.
 
 ***
 
-## 🧠 Chapter 10: Cross-Cutting Themes and Future Directions
+## 🧠 Cross-Cutting Themes and Future Directions
 
 **Making the Invisible Framework Visible**
 
@@ -823,13 +825,13 @@ It gives you **more interesting problems** to think through.
 
 ***
 
-## 🌀 Part IV: Afterwords & Interpretive Intelligence
+## 🌀 Afterwords & Interpretive Intelligence
 
 _What holds this system together—when no one's watching._
 
 ***
 
-## 🧠 Chapter 11: The Reader as Renderer
+## 🧠 The Reader as Renderer
 
 **Interpretation isn’t passive—it’s participatory cognition**
 
@@ -885,7 +887,7 @@ It builds the muscle AI cannot replicate: **meaning forged under friction.**
 
 ***
 
-## 🧠 Chapter 12: Cognitive Design Laws
+## 🧠 Cognitive Design Laws
 
 **Unspoken rules that guide reader-powered systems**
 
@@ -958,7 +960,7 @@ start here. Let these laws become your invisible grid.
 
 ***
 
-## 🧠 Chapter 13: Interpretive Archetypes
+## 🧠 Interpretive Archetypes
 
 **The roles we assume while making meaning**
 
@@ -974,7 +976,7 @@ It’s a **functional diagnostic**: How are you using what you’re reading?
 
 ***
 
-### 🧱 1. The Builder
+### 🧱 The Builder
 
 * **Primary Mode**: Application
 * **Focus**: What works
@@ -984,7 +986,7 @@ It’s a **functional diagnostic**: How are you using what you’re reading?
 
 ***
 
-### 🔍 2. The Reflector
+### 🔍 The Reflector
 
 * **Primary Mode**: Meaning-making
 * **Focus**: What it reveals
@@ -994,7 +996,7 @@ It’s a **functional diagnostic**: How are you using what you’re reading?
 
 ***
 
-### 🧠 3. The Critic
+### 🧠 The Critic
 
 * **Primary Mode**: Surface tension
 * **Focus**: What’s missing or assumed
@@ -1004,7 +1006,7 @@ It’s a **functional diagnostic**: How are you using what you’re reading?
 
 ***
 
-### 🌐 4. The Translator
+### 🌐 The Translator
 
 * **Primary Mode**: System-shifting
 * **Focus**: What it could become
@@ -1025,7 +1027,7 @@ That’s not just clarity. That’s **interpretive generosity**.
 
 ***
 
-## 🧠 Chapter 14: Recursive Closure
+## 🧠 Recursive Closure
 
 **This is not a summary. It’s a recursion point.**
 
@@ -1081,7 +1083,7 @@ You are now the renderer.
 
 ***
 
-## 🧠 Chapter 15: How This Connects to Other Projects
+## 🧠 How This Connects to Other Projects
 
 **This document isn’t a standalone. It’s a sibling.**
 
@@ -1090,7 +1092,7 @@ This chapter is your **crosswalk** to explore them.
 
 ***
 
-### 🔗 1. Flavor and Function Framework
+### 🔗 Flavor + Function Framework
 
 > _“Content isn’t copy. It’s cognitive architecture.”_
 
@@ -1103,7 +1105,7 @@ This is the foundational philosophy behind everything:
 This framework feeds directly into the structure of **Systems & Sentences**.\
 It's the logic beneath the language.
 
-➡️ _Explore the writing system:_ [_Flavor & Function →_](../fnf/flavor-and-function.md)
+➡️ _Explore the writing system:_ [_Flavor & Function →_](flavor-and-function.md)
 
 ***
 
@@ -1184,14 +1186,14 @@ Design for interpretation.
 
 ***
 
-### 1. This is Not a Framework.
+### This is Not a Cheat-Sheet.
 
 This is a **cognitive scaffolding** — it bends to your shape, but doesn’t hold your weight.\
 You are the thinker. This is the echo.
 
 ***
 
-### 2. Use Responsibly.
+### Use Responsibly.
 
 Not every reader wants to be rendered.\
 Know when to build systems, and when to say things simply.\
@@ -1199,7 +1201,7 @@ Design with care. **Friction ≠ confusion.**
 
 ***
 
-### 3. Don’t Weaponize Insight.
+### Don’t Weaponize Insight.
 
 The tools of clarity can also manipulate.\
 Use **interpretive writing** to awaken, not to steer.\
@@ -1207,7 +1209,7 @@ Use **interpretive writing** to awaken, not to steer.\
 
 ***
 
-### 4. Remix, Don’t Reduce.
+### Remix, Don’t Reduce.
 
 You may adapt, extend, quote, or translate this model — but not dilute its intent.\
 FnF is not a writing trick. It’s a thinking contract.\
@@ -1215,12 +1217,12 @@ If you use the rhythm, carry the weight.
 
 ***
 
-### 5. You Owe the Reader Nothing —
+### You Owe the Reader Nothing
 
-Except your honesty.\
-Not cleverness.\
-Not conclusions.\
-Not resolution.\
+Except your **honesty**.\
+&#xNAN;_&#x4E;ot_ _cleverness_.\
+&#xNAN;_&#x4E;ot conclusions._\
+&#xNAN;_&#x4E;ot resolution._\
 Just enough signal for them to build their own sense.
 
 ***

@@ -7,7 +7,7 @@ coverY: 0
 
 # Flavor & Function
 
-_A writing rhythm for people who think before they speak. And still want to be heard._
+> _A writing rhythm for people who think before they speak. And still want to be heard._
 
 ***
 
@@ -16,7 +16,7 @@ _A writing rhythm for people who think before they speak. And still want to be h
 * [📌 What Is This?](flavor-and-function.md#what-is-this)
 * [🌀 The Rhythm](flavor-and-function.md#the-rhythm)
 * [🧠 Why This Exists](flavor-and-function.md#why-this-exists)
-* [🤖 Using FnF With AI](flavor-and-function.md#part-2-using-fnf-with-ai)
+* [🤖 Using FnF With AI](flavor-and-function.md#using-fnf-with-ai)
   * [🛠️ Prompt Framework](flavor-and-function.md#prompt-framework-using-fnf)
   * [📋 FnF Rewrite Example](flavor-and-function.md#fnf-rewrite-example-ai--human-edit)
   * [🧪 Output Audit](flavor-and-function.md#output-audit-using-fnf)
@@ -70,7 +70,7 @@ You don’t need all six in every piece. But **the rhythm helps you think**.
 Most content is either:
 
 * All flavor (emotional, vague, performance writing)
-* Or all function (dry, robotic, overstructured)
+* Or all function (dry, robotic, over-structured)
 
 FnF was born to **merge these two broken halves** —\
 So you can write with soul and structure.\

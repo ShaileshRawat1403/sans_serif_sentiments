@@ -1032,7 +1032,7 @@ You’ll see the second prompt doesn’t just guide content — it **filters cli
 
 ***
 
-## 🔍 Pain Point: “It followed the format — but still felt off somehow.”
+## 🔍 “It followed the format — but still felt off somehow.”
 
 ***
 
