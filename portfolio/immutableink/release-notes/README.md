@@ -18,7 +18,7 @@
 <a name="introduction-anchor"></a>
 ### Introduction
 
-Welcome to the ImmutableInk Release Notes. This document provides a summary of new features, enhancements, and bug fixes in recent versions of ImmutableInk. We are committed to continuously improving your experience and the capabilities of the platform.
+Welcome. This document provides a summary of new features, enhancements, and bug fixes in recent versions of ImmutableInk. We are committed to continuously improving your experience and the capabilities of the platform.
 
 For detailed instructions on using new features, refer to the [ImmutableInk User Guide](link-to-user-guide.md).
 
