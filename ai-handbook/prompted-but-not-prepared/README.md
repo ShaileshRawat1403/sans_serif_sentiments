@@ -14,13 +14,13 @@ _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
 <summary>🪜 Introductory Sections</summary>
 
-* [🧭 Who This Is For — And How to Use It](./#-who-this-is-for--and-how-to-use-it)
-  * [👥 Who This Guide Is For](./#-who-this-guide-is-for)
-  * [🧭 What You Don't Need](./#-what-you-dont-need)
-  * [🎯 What You Will Learn](./#-what-you-will-learn)
-  * [📘 How to Use This Guide](./#-how-to-use-this-guide)
-  * [🔁 Final Ritual](./#-final-ritual)
-* [🧩 Prerequisites: What You Should Know (or Be Willing to Learn)](./#-prerequisites-what-you-should-know-or-be-willing-to-learn)
+* [🧭 Who This Is For — And How to Use It](./#who-this-is-for-and-how-to-use-it)
+  * [👥 Who This Guide Is For](./#who-this-guide-is-for)
+  * [🧭 What You Don't Need](./#what-you-dont-need)
+  * [🎯 What You Will Learn](./#what-you-will-learn)
+  * [📘 How to Use This Guide](./#how-to-use-this-guide)
+  * [🔁 Final Ritual](./#a-final-ritual)
+* [🧩 Prerequisites: What You Should Know (or Be Willing to Learn)](./#prerequisites-what-you-should-know-or-be-willing-to-learn)
 
 </details>
 
@@ -44,7 +44,7 @@ _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
 ### 🛠️ Practical Labs & Real-World Use Cases
 
-11. [🎯 Role-Based Prompting: Real-World Scenarios](./#-role-based-prompting-real-world-scenarios)
+11. [🎯 Role-Based Prompting: Real-World Scenarios](./#id-7.-role-based-prompts)
 12. [🧪 Prompt Dissection Lab](./#-prompt-dissection-lab)
 
 ***
@@ -59,7 +59,7 @@ _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 ### 🧾 Appendices & Closing
 
 15. [🧵 Glossary & Quick Cheats](./#-glossary--quick-cheats)
-16. [📌 Resources, Credits & Your Next Steps](./#-resources-credits--your-next-steps)
+16. [📌 Resources, Credits & Your Next Steps](./#bonus-resource)
 
 ***
 
@@ -661,7 +661,7 @@ Use this not as a formula — but as a lens. Each part helps reduce friction bet
 
 ***
 
-## 1. 🎯 Intent — The Compass
+## 🎯 Intent — The Compass
 
 > Without intent, you’re not prompting. You’re fishing.
 
@@ -689,7 +689,7 @@ Take your last 3 prompts. Ask: “Did I actually say what I wanted to achieve?�
 
 ***
 
-## 2. 👥 Role — The Actor
+## 👥 Role — The Actor
 
 > AI is method acting. You choose the mask.
 
@@ -717,7 +717,7 @@ Next time you prompt, begin with: “You are a…” See how much sharper the re
 
 ***
 
-## 3. 🌍 Context — The Backstory
+## 🌍 Context — The Backstory
 
 > The AI isn’t psychic. It’s contextual.
 
@@ -745,7 +745,7 @@ List 3 facts the AI needs to know _before_ responding to your next prompt.
 
 ***
 
-## 4. 🖾 Format — The Frame
+## 🖾 Format — The Frame
 
 > Form is function when it comes to clarity.
 
@@ -779,7 +779,7 @@ Notice how the tone and value shift.
 
 ***
 
-## 5. ⛑ Constraints — The Guardrails
+## ⛑ Constraints — The Guardrails
 
 > The power of the prompt lies in its precision.
 
@@ -811,7 +811,7 @@ Add constraints to your next prompt:
 
 ***
 
-## 6. 🔁 Feedback Loop — The Conversation Continuum
+## 🔁 Feedback Loop — The Conversation Continuum
 
 > Prompts aren’t one-night stands. They’re relationships.
 
@@ -954,7 +954,7 @@ This section is your field guide to the **core families of prompts** — and how
 
 ***
 
-### 🖌️ 1. Creative Prompts
+### 🖌️ Creative Prompts
 
 > _Fuel the fog of blank pages._
 
@@ -981,7 +981,7 @@ Give me taglines.
 
 ***
 
-### 📊 2. Analytical Prompts
+### 📊 Analytical Prompts
 
 > _Good prompts cut through noise. Great ones reveal decisions._
 
@@ -1007,7 +1007,7 @@ Should I hire a designer or an agency?
 
 ***
 
-### 🧱 3. Structural Prompts
+### 🧱 Structural Prompts
 
 > _Form isn’t decoration. It’s guidance._
 
@@ -1033,7 +1033,7 @@ Which AI tool is best?
 
 ***
 
-### 🪞 4. Reflective Prompts
+### 🪞 Reflective Prompts
 
 > _You don’t need a therapist. Just better questions._
 
@@ -1058,7 +1058,7 @@ Why am I procrastinating?
 
 ***
 
-### 🔍 5. Explainer Prompts
+### 🔍 Explainer Prompts
 
 > _If it can’t teach, it shouldn’t talk._
 
@@ -1083,7 +1083,7 @@ What is blockchain?
 
 ***
 
-### 🤼‍♂️ 6. Socratic Prompts
+### 🤼‍♂️ Socratic Prompts
 
 > _Great prompts don’t tell you what to think. They challenge what you assume._
 
@@ -1109,7 +1109,7 @@ Are long work hours good or bad?
 
 ***
 
-### 🎭 7. Role-Based Prompts
+### 🎭 Role-Based Prompts
 
 > _You’re not asking a chatbot. You’re asking a character._
 
@@ -1325,13 +1325,7 @@ You didn’t get a worse answer — you got a different lens on the same questio
 
 ### 🎯 Reflection Activity
 
-| Step | What to Do                                                               |
-| ---- | ------------------------------------------------------------------------ |
-| 1    | Think of one task you do often using ChatGPT (e.g., writing summaries).  |
-| 2    | Try the _same prompt_ on Claude or Perplexity.                           |
-| 3    | Observe how the tone, depth, and structure change.                       |
-| 4    | Ask: Which one understood _your intent_ better — and why?                |
-| 5    | Repeat the same test on a visual tool like Gemini or DALL·E if relevant. |
+<table><thead><tr><th width="60.90234375" align="center">Step</th><th align="center">What to Do</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Think of one task you do often using ChatGPT (e.g., writing summaries).</td></tr><tr><td align="center">2</td><td align="center">Try the <em>same prompt</em> on Claude or Perplexity.</td></tr><tr><td align="center">3</td><td align="center">Observe how the tone, depth, and structure change.</td></tr><tr><td align="center">4</td><td align="center">Ask: Which one understood <em>your intent</em> better — and why?</td></tr><tr><td align="center">5</td><td align="center">Repeat the same test on a visual tool like Gemini or DALL·E if relevant.</td></tr></tbody></table>
 
 ***
 
@@ -1572,7 +1566,7 @@ Let’s break it down:
 
 ***
 
-### 🧩 5 Dimensions of a “Good” Output
+### 🧩 Dimensions of a “Good” Output
 
 You don’t need to be a data scientist to judge AI effectively.
 
@@ -1623,7 +1617,7 @@ Nope. Sometimes it’s just well-padded nonsense.
 
 ***
 
-#### ❌ 2. Being Impressed by Formatting
+#### ❌ Being Impressed by Formatting
 
 > _“It gave me 3 bullet points! It must be organized!”_
 
@@ -1666,7 +1660,7 @@ Sometimes, the format is clean but the content is **fluff**.
 
 ***
 
-#### ❌ 3. Copy-Pasting Without Reading
+#### ❌ Copy-Pasting Without Reading
 
 > _“Looks good, I’ll just send this.”_
 
@@ -1697,7 +1691,7 @@ This is the biggest sin. Especially at work.
 
 ***
 
-#### ❌ 4. Confusing Polished Language with Valid Insight
+#### ❌ Confusing Polished Language with Valid Insight
 
 > _“In a world driven by innovation, adaptability is the new currency.”_
 
@@ -2018,51 +2012,57 @@ Here’s what this guide covered, in brief:
 
 ***
 
-### 1. **Start Now. It’s Not Too Late.**
+{% stepper %}
+{% step %}
+### **Start Now. It’s Not Too Late.**
 
 This is the best time to learn AI — not when everyone becomes an “expert” by default.
 
-***
 
-### 2. **Everyone Starts at ChatGPT**
+{% endstep %}
+
+{% step %}
+### **Everyone Starts at ChatGPT**
 
 And that’s okay. But don’t stop there. Tools are just doors. Exploration is what matters.
+{% endstep %}
 
-***
-
-### 3. **You’re Not Dumb — The Design Is**
+{% step %}
+### **You’re Not Dumb — The Design Is**
 
 If AI feels confusing, it’s not your fault. Most platforms skip context and assume knowledge. Learn slowly. Ask deliberately.
+{% endstep %}
 
-***
-
-### 4. **Prompts Aren’t Commands — They’re Conversations**
+{% step %}
+### **Prompts Aren’t Commands — They’re Conversations**
 
 Learn to structure, clarify, and iterate. A good prompt is like a good brief — specific, curious, and open-ended.
+{% endstep %}
 
-***
-
-### 5. **Know the Backstage**
+{% step %}
+### **Know the Backstage**
 
 Front-end is the stage. Back-end is the puppeteer. Understand how context windows, memory, and token limits affect your results.
+{% endstep %}
 
-***
-
-### 6. **Prompt Patterns Are Power Moves**
+{% step %}
+### **Prompt Patterns Are Power Moves**
 
 Use repeatable strategies (role-playing, step-by-step breakdowns, comparisons) to shape your intent. Don’t wing it. Design it.
+{% endstep %}
 
-***
-
-### 7. **AI Is a Forest, Not a Tree**
+{% step %}
+### **AI Is a Forest, Not a Tree**
 
 Don’t fixate on ChatGPT. There’s Claude, Gemini, open-source LLMs, APIs, and multimodal models. Understand the landscape.
+{% endstep %}
 
-***
-
-### 8. **The Gap Between You and AI Isn’t IQ. It’s Intent.**
+{% step %}
+### **The Gap Between You and AI Isn’t IQ. It’s Intent.**
 
 The real danger isn’t AI replacing you — it’s you not realizing what you’ve stopped learning. Stay aware. Stay competent.
+{% endstep %}
+{% endstepper %}
 
 ***
 

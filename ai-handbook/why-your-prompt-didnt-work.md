@@ -17,16 +17,15 @@ A diagnostic handbook for prompt crafters, content designers, and thoughtful AI 
 
 ### 🧠 Diagnostic Sections
 
-4. [🔍 Pain Point: “AI didn’t follow my instructions.”](why-your-prompt-didnt-work.md#pain-point-ai-didnt-follow-my-instructions)
-5. [🔍 Pain Point: “The tone sounded robotic or corporate.”](why-your-prompt-didnt-work.md#pain-point-the-tone-sounded-robotic-or-corporate)
-6. [🔍 Pain Point: “I gave it so much input… and it still missed the point.”](why-your-prompt-didnt-work.md#pain-point-i-gave-it-so-much-input...-and-it-still-missed-the-point)
-7. [🔍 Pain Point: “It gave a safe answer instead of something insightful.”](why-your-prompt-didnt-work.md#pain-point-it-gave-a-safe-answer-instead-of-something-insightful)
-8. [🔍 Pain Point: “I gave it feedback — and it didn’t improve.”](why-your-prompt-didnt-work.md#pain-point-i-gave-it-feedback-and-it-didnt-improve)
-9. [🔍 Pain Point: “The output was too long or too short — even though I specified the length.”](why-your-prompt-didnt-work.md#pain-point-the-output-was-too-long-or-too-short-even-though-i-specified-the-length)
-10. [🔍 Pain Point: “I assumed it would know what I meant — but it totally misunderstood the task.”](why-your-prompt-didnt-work.md#pain-point-i-assumed-it-would-know-what-i-meant-but-it-totally-misunderstood-the-task)
-11. [🔍 Pain Point: “It It followed the format — but still felt off somehow."](why-your-prompt-didnt-work.md#pain-point-it-followed-the-format-but-still-felt-off-somehow)
-12. [🔍 Pain Point: “It followed the format — but still felt off somehow.”](why-your-prompt-didnt-work.md#pain-point-it-followed-the-format-but-still-felt-off-somehow)
-13. [🔍 Pain Point: “I did everything right… but it still doesn’t feel right.”](why-your-prompt-didnt-work.md#pain-point-i-did-everything-right...-but-it-still-doesnt-feel-right)
+4. [🔍 “AI didn’t follow my instructions.”](why-your-prompt-didnt-work.md#ai-didnt-follow-my-instructions)
+5. [🔍 “The tone sounded robotic or corporate.”](why-your-prompt-didnt-work.md#the-tone-sounded-robotic-or-corporate)
+6. [🔍 “I gave it so much input… and it still missed the point.”](why-your-prompt-didnt-work.md#i-gave-it-so-much-input...-and-it-still-missed-the-point)
+7. [🔍 “It gave a safe answer instead of something insightful.”](why-your-prompt-didnt-work.md#it-gave-a-safe-answer-instead-of-something-insightful)
+8. [🔍 “I gave it feedback — and it didn’t improve.”](why-your-prompt-didnt-work.md#i-gave-it-feedback-and-it-didnt-improve)
+9. [🔍 “The output was too long or too short — even though I specified the length.”](why-your-prompt-didnt-work.md#the-output-was-too-long-or-too-short-even-though-i-specified-the-length)
+10. [🔍 “I assumed it would know what I meant — but it totally misunderstood the task.”](why-your-prompt-didnt-work.md#i-assumed-it-would-know-what-i-meant-but-it-totally-misunderstood-the-task)
+11. [🔍 “It It followed the format — but still felt off somehow."](why-your-prompt-didnt-work.md#it-followed-the-format-but-still-felt-off-somehow)
+12. [🔍 “I did everything right… but it still doesn’t feel right.”](why-your-prompt-didnt-work.md#i-did-everything-right...-but-it-still-doesnt-feel-right)
 
 ***
 
@@ -69,7 +68,7 @@ Each section includes:
 
 ***
 
-## 🔍 Pain Point: “AI didn’t follow my instructions.”
+## 🔍 “AI didn’t follow my instructions.”
 
 ***
 
@@ -203,7 +202,7 @@ Why? Because **sequencing lets the system think**.
 
 ***
 
-## 🔍 Pain Point: “The tone sounded robotic or corporate.”
+## 🔍 “The tone sounded robotic or corporate.”
 
 ***
 
@@ -351,7 +350,7 @@ That’s not magic. That’s **casting the model**.
 
 ***
 
-## 🔍 Pain Point: “I gave it so much input… and it still missed the point.”
+## 🔍 “I gave it so much input… and it still missed the point.”
 
 ***
 
@@ -485,7 +484,7 @@ The second one doesn’t just _compress_ — it _interprets_.
 
 ***
 
-## 🔍 Pain Point: “It gave a safe answer instead of something insightful.”
+## 🔍 “It gave a safe answer instead of something insightful.”
 
 ***
 
@@ -617,7 +616,7 @@ You removed _responsibility_ from the model — and let it explore sides.
 
 ***
 
-## 🔍 Pain Point: “I gave it feedback — and it didn’t improve.”
+## 🔍 “I gave it feedback — and it didn’t improve.”
 
 ***
 
@@ -762,7 +761,7 @@ The second one performs because it builds memory through the prompt.
 
 ***
 
-## 🔍 Pain Point: “The output was too long or too short — even though I specified the length.”
+## 🔍 “The output was too long or too short — even though I specified the length.”
 
 ***
 
@@ -890,7 +889,7 @@ Precision lives in **format + intent**, not just word count.
 
 ***
 
-## 🔍 Pain Point: “I assumed it would know what I meant — but it totally misunderstood the task.”
+## 🔍 “I assumed it would know what I meant — but it totally misunderstood the task.”
 
 ***
 
@@ -1163,7 +1162,7 @@ It _moves_.
 
 ***
 
-## 🔍 Pain Point: “I did everything right… but it still doesn’t feel right.”
+## 🔍 “I did everything right… but it still doesn’t feel right.”
 
 ***
 
