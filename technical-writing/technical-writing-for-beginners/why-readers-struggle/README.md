@@ -23,7 +23,7 @@ One that most people don’t even know they need to make.
 
 ## 🔍 The Science Behind Reader Struggle
 
-### 🧩 1. The Curse of Knowledge
+### 🧩 The Curse of Knowledge
 
 > Once you know something, it’s hard to imagine not knowing it.
 
@@ -35,7 +35,7 @@ This bias is well-documented in cognitive psychology. When we become familiar wi
 
 ***
 
-### 🧠 2. Cognitive Load Theory
+### 🧠 Cognitive Load Theory
 
 The brain can only process a few new things at once. Overloading readers with:
 
@@ -49,7 +49,7 @@ The brain can only process a few new things at once. Overloading readers with:
 
 ***
 
-### 🔎 3. Scanning > Reading
+### 🔎 Scanning > Reading
 
 Most users **don’t read**. They scan.
 

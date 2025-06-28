@@ -1,11 +1,12 @@
-## 📄 `docs-vs-decks.md`
-
-**Title:** *Docs vs Decks*
-**Subtitle:** *Why clarity is built in documents — and eroded in slide shows.*
-
+---
+description: Why clarity is built in documents — and eroded in slide shows.
 ---
 
-## 🪜 Purpose of This Chapter
+# docs-vs-decks
+
+***
+
+### 🪜 Purpose of This Chapter
 
 To help beginners understand:
 
@@ -14,24 +15,23 @@ To help beginners understand:
 * How technical writers bring rigor, structure, and clarity where slides fall short
 * The role of documentation in decision-making, execution, and long-term value
 
----
+***
 
-## ✅ Introduction
+### ✅ Introduction
 
-> *Decks sell the dream. Docs prevent the nightmare.*
+> _Decks sell the dream. Docs prevent the nightmare._
 
-Slide decks and documents both communicate ideas — but in *entirely different ways*.
+Slide decks and documents both communicate ideas — but in _entirely different ways_.
 
-**Decks** are built to persuade.
-**Docs** are built to support.
+**Decks** are built to persuade. **Docs** are built to support.
 
 One is made to win consensus. The other is made to **stand up to scrutiny**.
 
 This chapter explores why technical writing demands a different mindset than presentation-making, and why you — as a writer — need to champion the **long-form clarity of documentation over the short-form dazzle of decks**.
 
----
+***
 
-## 🧠 Docs vs Decks: A Foundational Comparison
+### 🧠 Docs vs Decks: A Foundational Comparison
 
 | Feature  | Deck                      | Document                              |
 | -------- | ------------------------- | ------------------------------------- |
@@ -42,31 +42,28 @@ This chapter explores why technical writing demands a different mindset than pre
 | Risk     | Oversimplification        | Overcomplexity                        |
 | Outcome  | Agreement                 | Execution                             |
 
----
+***
 
-## 📄 Why Docs Matter More Than Decks (In Real Work)
+### 📄 Why Docs Matter More Than Decks (In Real Work)
 
-* A deck tells you *what* we’re doing. A doc explains *how* and *why*.
+* A deck tells you _what_ we’re doing. A doc explains _how_ and _why_.
 * A deck gets you buy-in. A doc keeps the project alive after people leave the room.
 * A deck can skip context. A doc can't afford to.
 
 In tech and product environments:
 
-> *Slides get applause. Docs get implemented.*
+> _Slides get applause. Docs get implemented._
 
 📌 **Examples:**
 
-* A feature roadmap slide = appealing promise.
-  → But the implementation doc = actual alignment and dependencies.
-* A user journey diagram in a deck = story.
-  → But the onboarding walkthrough doc = working reality.
+* A feature roadmap slide = appealing promise. → But the implementation doc = actual alignment and dependencies.
+* A user journey diagram in a deck = story. → But the onboarding walkthrough doc = working reality.
 
----
+***
 
-## ⚖️ Why Writers Must Advocate for Documentation
+### ⚖️ Why Writers Must Advocate for Documentation
 
-Many teams default to decks because they’re faster and more visual.
-But decks:
+Many teams default to decks because they’re faster and more visual. But decks:
 
 * Hide nuance
 * Flatten complexity
@@ -78,40 +75,40 @@ Docs, on the other hand:
 * Clarify
 * Document assumptions, edge cases, system behavior
 
-📢 Tip: When someone sends you a deck and asks for feedback — ask for the *doc behind it.* If it doesn’t exist, offer to draft one.
+📢 Tip: When someone sends you a deck and asks for feedback — ask for the _doc behind it._ If it doesn’t exist, offer to draft one.
 
----
+***
 
-## 🧰 Real-World Tools to Bridge Both Worlds
+### 🧰 Real-World Tools to Bridge Both Worlds
 
 | Tool                                       | Purpose                                                                |
 | ------------------------------------------ | ---------------------------------------------------------------------- |
 | **Notion**                                 | Turn ideas and brainstorms into shareable structured docs              |
 | **Confluence**                             | Official knowledge base, reference documentation for internal projects |
 | **Google Docs + Comments**                 | Collaborative editing and approval workflows                           |
-| **Mermaid.js / Lucidchart**                | Visuals for docs that *don’t need a deck*                              |
+| **Mermaid.js / Lucidchart**                | Visuals for docs that _don’t need a deck_                              |
 | **GitHub Wiki / Pages / MDX**              | For docs-as-code, version control, team visibility                     |
 | **Loom**                                   | Combine visuals + spoken explanation for walkthroughs                  |
 | **Typora / Obsidian / VS Code + Markdown** | Clean writing with structure, ideal for docs-first thinkers            |
 
-🧠 Use these tools to *translate* good ideas from decks into sustainable documentation.
+🧠 Use these tools to _translate_ good ideas from decks into sustainable documentation.
 
----
+***
 
-## 🚫 What to Watch Out for in Slide-First Cultures
+### 🚫 What to Watch Out for in Slide-First Cultures
 
 | Problem              | When You Only Use Decks                            |
 | -------------------- | -------------------------------------------------- |
 | Decisions don’t last | No written rationale or assumptions                |
 | Teams disagree later | No source of truth to revisit                      |
-| Docs come too late   | Written info added *after* key decisions were made |
+| Docs come too late   | Written info added _after_ key decisions were made |
 | Tech debt grows      | Because no one explained the “why” or tradeoffs    |
 
-If you're a writer, push to *start with a doc, not a deck.*
+If you're a writer, push to _start with a doc, not a deck._
 
----
+***
 
-## 🔁 When Decks + Docs *Work Together*
+### 🔁 When Decks + Docs _Work Together_
 
 This isn’t about killing decks. It’s about knowing when each works:
 
@@ -123,9 +120,9 @@ This isn’t about killing decks. It’s about knowing when each works:
 
 > Use decks to spark action. Use docs to guide it.
 
----
+***
 
-## ✅ Recap Table
+### ✅ Recap Table
 
 | Element  | Deck            | Document        |
 | -------- | --------------- | --------------- |
@@ -137,12 +134,12 @@ This isn’t about killing decks. It’s about knowing when each works:
 | Risk     | Oversell        | Overload        |
 | Outcome  | Agreement       | Execution       |
 
----
+***
 
-## 📘 What’s Next
+### 📘 What’s Next
 
-We’ve now covered the *why* and the *what*. Next, you’ll actually write your first task-based technical doc.
+We’ve now covered the _why_ and the _what_. Next, you’ll actually write your first task-based technical doc.
 
-> *Because clarity doesn’t come from a clever sentence. It comes from structured help, built for humans under pressure.*
+> _Because clarity doesn’t come from a clever sentence. It comes from structured help, built for humans under pressure._
 
----
+***

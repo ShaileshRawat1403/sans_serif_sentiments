@@ -16,22 +16,22 @@ icon: pencil-mechanical
 ### Installation Guides
 
 Step-by-step instructions for installing software and hardware without guesswork.\
-[Explore Installation Guides →](installation-guides/)
+[Explore Installation Guides →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/tree/main/portfolio/immutableink/installation-guide)
 
 ### User Manuals
 
 Comprehensive manuals that show you how to set up and use tools, devices, or systems in real time.\
-[Explore User Manuals →](user-manuals/)
+[Explore User Manuals →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/tree/main/portfolio/immutableink/user-guide)
 
 ### Conceptual Education
 
-Deep-dive guides to explain core concepts, terminology, and best practices for beginners.\
-[Explore Conceptual Education →](conceptual-education/)
+Deep-dive into core concepts, terminology, and best practices for beginners.\
+[Explore Conceptual Education →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/tree/main/technical-writing/technical-writing-for-beginners)
 
 ### Release Notes
 
 Structured notes on major product updates and changes, grouped by version.\
-[Explore Release Notes →](release-notes/)
+[Explore Release Notes →](https://github.com/ShaileshRawat1403/sans_serif_sentiments/tree/main/portfolio/immutableink/release-notes)
 
 ***
 

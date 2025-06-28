@@ -38,7 +38,7 @@ Each piece of content follows six modular stages — like scaffolding for though
 
 ## 🔧 Full Breakdown with What, Why, How, When
 
-### 🧱 1. Friction
+### 🧱 Friction
 
 > The soft resistance that makes a reader pause — not because it's loud, but because it’s _true_ in a way they didn’t expect.
 
@@ -58,7 +58,7 @@ Example:
 
 ***
 
-### 🌉 2. Bridge
+### 🌉 Bridge
 
 > Reorient the reader. Signal: “I’m not here to perform — I’m here to help you see.”
 
@@ -78,7 +78,7 @@ Example:
 
 ***
 
-### 📚 3. Evidence
+### 📚 Evidence
 
 > Make it real. Show how the issue plays out in systems, people, tools, culture.
 
@@ -98,7 +98,7 @@ Example:
 
 ***
 
-### ⚠️ 4. Implication
+### ⚠️ Implication
 
 > What’s at risk if nothing changes? What’s the hidden cost?
 
@@ -117,7 +117,7 @@ Example:
 
 ***
 
-### ✅ 5. Action
+### ✅  Action
 
 > Invite a small shift — a try, a lens, a reflection. Not a tip or task.
 
@@ -136,7 +136,7 @@ Example:
 
 ***
 
-### 👀 6. Look Ahead / Leave Behind
+### 👀 Look Ahead / Leave Behind
 
 > The final beat. A sentence that lingers.\
 > It could be poetic, unsettling, or circular — but never just a “wrap up.”
