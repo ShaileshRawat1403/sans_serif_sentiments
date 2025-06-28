@@ -1,4 +1,3 @@
-```markdown
 # ImmutableInk User Guide
 
 ## Table of Contents
@@ -538,4 +537,3 @@ This glossary provides definitions for key terms used throughout the ImmutableIn
 * **Sealing:** The process of finalizing a document's current state and recording its unique digital fingerprint (hash) and other relevant metadata onto the blockchain, making it tamper-evident and immutable.
 
 * **Web3 Wallet:** A software application or hardware device that allows users to interact with blockchain networks, manage cryptocurrency, and securely sign transactions (such as document approvals or seals in ImmutableInk).
-```
