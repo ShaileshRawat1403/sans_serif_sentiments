@@ -226,6 +226,6 @@ Bottom Left: ❌ Reject & log
 
 ***
 
-📘 Next in Series: [Prompt Testing and Model Feedback Loops](prompt-testing-and-feedback.md)
+📘 Explore: [Prompt Testing and Model Feedback Loops](prompt-testing-and-feedback.md)
 
 ***

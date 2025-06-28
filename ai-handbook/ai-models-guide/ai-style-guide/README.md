@@ -152,11 +152,12 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 ## 📄 External Resources
 
 * [Google Style Guide](https://developers.google.com/style)
-* [Mailchimp Content Style Guide](https://mailchimp.com/resources/mailchimp-content-style-guide/)
+* [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 * [The GOV.UK Style Guide](https://www.gov.uk/guidance/style-guide)
 * [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
-* [Voice and Tone by Buffer](https://buffer.com/resources/voice-and-tone-guide/)
+* [Voice and Tone by Buffer](https://buffer.com/resources/style-guide/)
 * [Hemingway App (for clarity checking)](https://hemingwayapp.com/)
+* [Salesforce Guide](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 
 ***
 

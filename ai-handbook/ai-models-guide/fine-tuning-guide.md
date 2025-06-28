@@ -270,6 +270,6 @@ After fine-tuning, don’t stop at “it works.” Build a feedback loop:
 
 ***
 
-📘 Next in Series: [AI + Enterprise Workflows](enterprise-ai-integration.md)
+📘 **Explore**: [AI + Enterprise Workflows](enterprise-ai-integration.md)
 
 ***

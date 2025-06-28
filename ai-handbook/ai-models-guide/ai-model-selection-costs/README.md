@@ -1,3 +1,7 @@
+---
+icon: hand-pointer
+---
+
 # AI Model Selection and Cost Optimization
 
 _How to Choose the Right Brain Without Breaking the Bank_
@@ -43,12 +47,12 @@ When choosing an AI model for your org:
 
 ## 🧬 What Makes One Model Different from Another
 
-1. **Size** – Larger models (GPT-4, Claude 3 Opus) = more parameters, better reasoning, higher cost
-2. **Training Data** – Some models trained on more recent data (Claude = up to Mar 2024)
-3. **Architecture** – Transformer vs Mixture of Experts (MoE) vs Hybrid
-4. **Context Window** – Determines how much info a model can remember per session
-5. **Latency** – Speed to respond (important for UI-based experiences)
-6. **API Features** – Streaming, tool calling, JSON mode, system instructions, etc.
+* **Size** – Larger models (GPT-4, Claude 3 Opus) = more parameters, better reasoning, higher cost
+* **Training Data** – Some models trained on more recent data (Claude = up to Mar 2024)
+* **Architecture** – Transformer vs Mixture of Experts (MoE) vs Hybrid
+* **Context Window** – Determines how much info a model can remember per session
+* **Latency** – Speed to respond (important for UI-based experiences)
+* **API Features** – Streaming, tool calling, JSON mode, system instructions, etc.
 
 > Choose the _right-sized model_ for the _right problem_. Don’t use a flamethrower to light a candle.
 
@@ -73,6 +77,59 @@ When choosing an AI model for your org:
 ***
 
 ## 📊 Evaluating Accuracy, Cost, and Latency
+
+### LLM Cost & Latency Comparison (2025)
+
+This document presents the most recent 2025 benchmark data on pricing and latency for major Large Language Models (LLMs), including OpenAI's GPT-4.5 and Google's Gemini 2.5 family. All sources are cited below.
+
+***
+
+### 💰 Token Cost (Per 1 Million Tokens)
+
+| Model                     | Input Cost | Output Cost | Source                                                                                                                                                                                         |
+| ------------------------- | ---------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GPT‑4.5**               | $75.00     | $150.00     | [Dirox](https://dirox.com/post/gemini-2-5-pro-a-comparative-analysis-against-its-ai-rivals-2025-landscape?utm_source=chatgpt.com)                                                              |
+| **Gemini 2.5 Pro**        | $1.25      | $10.00      | [Google Blog](https://blog.google/products/gemini/gemini-2-5-model-family-expands/?utm_source=chatgpt.com)                                                                                     |
+| **Gemini 2.5 Flash**      | $0.30      | $2.50       | [Business Insider](https://www.businessinsider.com/latest-google-gemini-2-5-flash-has-thinking-budget-2025-4?utm_source=chatgpt.com)                                                           |
+| **Gemini 2.5 Flash-Lite** | $0.10      | $0.40       | [TOI Tech](https://timesofindia.indiatimes.com/technology/tech-news/google-launches-its-most-cost-efficient-and-fastest-gemini-2-5-model-yet/articleshow/121914536.cms?utm_source=chatgpt.com) |
+
+***
+
+### ⚡ Latency and Performance (Time-to-First-Token / Throughput)
+
+| Model                     | Time to First Token (TTFT)    | Throughput            | Source                                                                                                                    |
+| ------------------------- | ----------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **GPT‑4.5**               | Not publicly disclosed        | Estimated moderate    | [Wikipedia](https://en.wikipedia.org/wiki/GPT-4.5?utm_source=chatgpt.com)                                                 |
+| **Gemini 2.5 Pro**        | \~38 sec                      | \~144 tokens/sec      | [Artificial Analysis](https://artificialanalysis.ai/models/gemini-2-5-pro?utm_source=chatgpt.com)                         |
+| **Gemini 2.5 Flash**      | \~2–3 sec                     | High throughput       | [Pieces Blog](https://pieces.app/blog/how-to-use-gpt-4o-gemini-1-5-pro-and-claude-3-5-sonnet-free?utm_source=chatgpt.com) |
+| **Gemini 2.5 Flash-Lite** | \~1 sec (sub-second possible) | Ultra-high throughput | [Google Developers Blog](https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/?utm_source=chatgpt.com)  |
+
+***
+
+### 🔍 Why GPT-4.5 Isn’t Part of Gemini Family
+
+GPT-4.5 is developed by OpenAI and is not affiliated with the Gemini model lineup from Google. These are entirely separate ecosystems:
+
+* **GPT-4.5** is positioned as a premium, high-accuracy model — best for enterprise and high-stakes reasoning.
+* **Gemini 2.5** models focus on a cost-performance balance:
+  * **Pro** for deep context and analysis
+  * **Flash** for interactive response
+  * **Flash-Lite** for real-time, low-latency tasks
+
+Each model serves different user needs and pricing tiers, which is why they aren’t listed in the same family or benchmarks.
+
+***
+
+### 📘 References
+
+* [Dirox: Gemini 2.5 vs GPT-4.5 Comparison](https://dirox.com/post/gemini-2-5-pro-a-comparative-analysis-against-its-ai-rivals-2025-landscape?utm_source=chatgpt.com)
+* [Google Blog: Gemini 2.5 Launch Details](https://blog.google/products/gemini/gemini-2-5-model-family-expands/?utm_source=chatgpt.com)
+* [TOI Tech: Fastest Gemini 2.5 Model Yet](https://timesofindia.indiatimes.com/technology/tech-news/google-launches-its-most-cost-efficient-and-fastest-gemini-2-5-model-yet/articleshow/121914536.cms?utm_source=chatgpt.com)
+* [Business Insider: Budget Model Flash-Lite](https://www.businessinsider.com/latest-google-gemini-2-5-flash-has-thinking-budget-2025-4?utm_source=chatgpt.com)
+* [Artificial Analysis: Gemini 2.5 Pro Performance](https://artificialanalysis.ai/models/gemini-2-5-pro?utm_source=chatgpt.com)
+* [Wikipedia: GPT-4.5](https://en.wikipedia.org/wiki/GPT-4.5?utm_source=chatgpt.com)
+* [Google Developer Blog: Gemini 2.5 Thinking Model](https://developers.googleblog.com/en/gemini-2-5-thinking-model-updates/?utm_source=chatgpt.com)
+* [Pieces Blog: Multi-LLM API Comparison](https://pieces.app/blog/how-to-use-gpt-4o-gemini-1-5-pro-and-claude-3-5-sonnet-free?utm_source=chatgpt.com)
 
 **Accuracy:**
 
@@ -222,4 +279,4 @@ All data accurate as of June 2025. Model costs and features may evolve — alway
 
 ***
 
-📘 Next in Series: [Risks, Red Flags, and Responsible Use](../ai-risks-and-guardrails.md)
+📘 **Explore**: [Risks, Red Flags, and Responsible Use](../ai-risks-and-guardrails.md)

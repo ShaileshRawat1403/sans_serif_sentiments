@@ -128,6 +128,6 @@ If 3+ of these matter → you likely need Claude Opus or GPT-4o. If speed + cost
 
 ***
 
-🎓 Next in Series: [How AI Thinks (And How It Doesn’t)](../how-ai-thinks.md)
+🎓 **Explore**: [How AI Thinks (And How It Doesn’t)](../how-ai-thinks.md)
 
 ***

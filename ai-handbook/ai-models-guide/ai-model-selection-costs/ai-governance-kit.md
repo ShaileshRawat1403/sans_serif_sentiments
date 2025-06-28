@@ -163,5 +163,3 @@ Then:
 > 🧩 Good governance isn’t static. It evolves with your team’s maturity.
 
 ***
-
-📘 Next in Series: [The AI Style Guide](../ai-style-guide/)

@@ -226,6 +226,6 @@ Then:
 
 ***
 
-📘 Next in Series: [AI Model Selection and Cost Optimization](../ai-model-selection-and-costs.md)
+📘 **Explore**: [AI Model Selection and Cost Optimization](../ai-model-selection-and-costs.md)
 
 ***

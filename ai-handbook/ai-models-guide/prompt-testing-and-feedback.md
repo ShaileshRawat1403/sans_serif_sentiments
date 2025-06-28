@@ -196,6 +196,4 @@ Document:
 
 ***
 
-📘 Next in Series: [Training Your Team to Use AI Consistently](training-your-team.md)
-
 ***

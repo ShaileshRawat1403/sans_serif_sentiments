@@ -21,12 +21,12 @@ It's a **thinking and clarity system** to help you ship better code, cleaner mes
 
 ### 🧭 Table of Contents
 
-* [📦 What Is This, Really?](dev-life-systems.md#-what-is-this-really)
-* [🌱 Why This Exists](dev-life-systems.md#-why-this-exists)
-* [🧩 How to Use This](dev-life-systems.md#-how-to-use-this)
-* [📘 Repo Overview: Full Section Map](dev-life-systems.md#-repo-overview-full-section-map)
-* [🔗 Related Systems](dev-life-systems.md#-related-systems)
-* [🚀 Let’s Begin](dev-life-systems.md#-lets-begin)
+* [📦 What Is This, Really?](dev-life-systems.md#what-is-this-really)
+* [🌱 Why This Exists](dev-life-systems.md#why-this-exists)
+* [🧩 How to Use This](dev-life-systems.md#how-to-use-this)
+* [📘 Repo Overview: Full Section Map](dev-life-systems.md#repo-overview-full-section-map)
+* [🔗 Related Systems](dev-life-systems.md#related-systems)
+* [🚀 Let’s Begin](dev-life-systems.md#lets-begin)
 
 ***
 
@@ -77,10 +77,6 @@ A system rooted in:
 * Use the prompts, templates, and mental models in your own workflow
 * Pair them with AI tools, journaling, or even team retros
 * Revisit this doc as your career — and cognition — evolves
-
-#### Bonus:
-
-* Want a weekly check-in? Jump to [Weekly Reflection Journal](dev-life-systems.md#weekly-dev-reflection)
 
 ***
 
@@ -139,8 +135,10 @@ dev-life-systems.md
 We start, not with code—but with friction.\
 👉 [Go to: Thinking Before Code →](dev-life-systems.md#thinking-before-code)
 
+{% hint style="info" %}
 Or reflect before you write:\
-👉 [Jump to: Weekly Dev Journal →](dev-life-systems.md#weekly-dev-reflection)
+👉 [Jump to: Weekly Dev Journal →](dev-life-systems.md#weekly-dev-reflection) (**WIP**)
+{% endhint %}
 
 **This isn’t a sprint. It’s a system.**
 
@@ -231,10 +229,6 @@ It’s a beacon.
 
 ***
 
-Next: [Ladders vs Loops →](dev-life-systems.md#ladders-vs-loops)
-
-***
-
 ### 📄 Ladders vs Loops: Thinking in Systems, Not Steps
 
 > _“Most code moves in steps. Most problems move in circles.”_
@@ -313,12 +307,8 @@ Prompt:
 Here’s how I see the flow:
 - [Steps]
 
-Can you help explore possible loop states, failure recursions, or revisit paths?”
+Can you help explore possible loop states, failure recursions, or revisit paths?
 ```
-
-***
-
-Next: [AI as Thought Partner →](dev-life-systems.md#ai-as-thought-partner)
 
 ***
 
@@ -407,10 +397,6 @@ What flaws or missed opportunities would show up?”
 
 ***
 
-Next: [Cognitive Design Laws →](dev-life-systems.md#cognitive-design-laws)
-
-***
-
 ### 📄 Cognitive Design Laws: How Minds Actually Use Systems
 
 > _“You’re not just designing code. You’re designing cognition.”_
@@ -448,7 +434,7 @@ By applying these laws, you build systems that **work with the brain**, not agai
 
 #### 🧪 How to Apply It
 
-**1. Friction Law**
+**Friction Law**
 
 **Make the first action obvious and low effort.**
 
@@ -458,7 +444,7 @@ By applying these laws, you build systems that **work with the brain**, not agai
 ❌ Long README before first line of code  
 ```
 
-**2. Echo Law**
+**Echo Law**
 
 **Repeat the right idea in multiple ways.**
 
@@ -468,7 +454,7 @@ By applying these laws, you build systems that **work with the brain**, not agai
 ❌ Only explain once in a kickoff call  
 ```
 
-**3. Assembly Law**
+**Assembly Law**
 
 **Expose the pieces needed for synthesis.**
 
@@ -478,7 +464,7 @@ By applying these laws, you build systems that **work with the brain**, not agai
 ❌ Assume readers will mentally map your file tree  
 ```
 
-**4. Recursion Law**
+**Recursion Law**
 
 **Design for re-entry, not perfect flow.**
 
@@ -499,11 +485,7 @@ By applying these laws, you build systems that **work with the brain**, not agai
 
 ***
 
-Next Chapter: [Doing During Code →](dev-life-systems.md#doing-during-code)
-
-***
-
-## 💻 2. Doing During Code
+## 💻 Doing During Code
 
 > _“Your function isn’t just outputting logic. It’s declaring intent.”_
 
@@ -549,7 +531,7 @@ Code by contract prevents **cognitive outsourcing** — where others have to gue
 
 #### 🛠️ How to Apply It
 
-**1. Start With Intent**
+**Step 1. Start With Intent**
 
 ```markdown
 // Good
@@ -567,7 +549,7 @@ function getUserProfile(userId) {
 }
 ```
 
-**2. Declare Assumptions and Failures**
+**Step 2. Declare Assumptions and Failures**
 
 ```markdown
 /**
@@ -577,7 +559,7 @@ function getUserProfile(userId) {
  */
 ```
 
-**3. Write Self-Documenting Logic**
+**Step 3. Write Self-Documenting Logic**
 
 ```js
 // ❌ Obscure
@@ -647,14 +629,14 @@ True debugging helps uncover:
 
 #### 🛠️ How to Apply It
 
-**1. Trace Back, Not Down**
+**Step 1. Trace Back, Not Down**
 
 ```markdown
 ❌ “Where is this breaking?”
 ✅ “What chain of logic led here — and why was it trusted?”
 ```
 
-**2. Document The Bug, Not Just the Fix**
+**Step 2. Document The Bug, Not Just the Fix**
 
 ```markdown
 // BAD: “Fixed null error”
@@ -665,7 +647,7 @@ commit: fix(user): handle deleted users gracefully
 context: some profiles were still referenced after deletion
 ```
 
-**3. Use the 3 Why Ladder**
+**Step 3. Use the 3 Why Ladder**
 
 ```markdown
 - Why did this error happen?
@@ -715,10 +697,6 @@ Can you simulate:
 
 ***
 
-Next: [Commit With Clarity →](dev-life-systems.md#commit-with-clarity)
-
-***
-
 ### 📄 Commit With Clarity: Messaging as Engineering
 
 > _“Every commit is a design decision — say it like you mean it.”_
@@ -759,7 +737,7 @@ Clear commits:
 
 #### 🛠️ How to Apply It
 
-**1. Use Conventional Commits (as a baseline)**
+**Step 1. Use Conventional Commits (as a baseline)**
 
 ```markdown
 feat(module): add payment retry logic  
@@ -767,7 +745,7 @@ fix(api): handle missing auth token
 chore(docs): update README with new config  
 ```
 
-**2. Add Context When It Matters**
+**Step 2. Add Context When It Matters**
 
 ```markdown
 ✅ fix(auth): add null check to avoid crash
@@ -777,7 +755,7 @@ context: crash occurred when user’s profile was not initialized
 includes theme context + localStorage persist
 ```
 
-**3. Write Like a Change, Not a Reflection**
+**Step 3. Write Like a Change, Not a Reflection**
 
 ```markdown
 ❌ “Tried fixing crash”  
@@ -820,10 +798,6 @@ Can you help:
 - Summarize the context clearly
 - Make it future-searchable?”
 ```
-
-***
-
-Next: [AI Copilot Templates →](dev-life-systems.md#ai-copilot-templates)
 
 ***
 
@@ -870,7 +844,7 @@ Scoped prompts give you:
 
 #### 🛠️ How to Apply It
 
-**1. Scaffolded Function Template**
+**Step 1. Scaffolded Function Template**
 
 ```markdown
 I need a function for:
@@ -888,7 +862,7 @@ Return:
 
 ***
 
-**2. Test Generator Template**
+**Step 2. Test Generator Template**
 
 ```markdown
 I have a function called [function name].
@@ -903,7 +877,7 @@ Use [testing framework]. Keep assertions clean.
 
 ***
 
-**3. Refactor With Reason**
+**Step 3. Refactor With Reason**
 
 ```markdown
 Here’s a block of code:
@@ -917,7 +891,7 @@ Can you:
 
 ***
 
-**4. Design Patterns Aid**
+**Step 4. Design Patterns Aid**
 
 ```markdown
 I’m solving [problem].
@@ -929,7 +903,7 @@ Explain why briefly. Optional: sample implementation.
 
 ***
 
-**5. Translate Logic**
+**Step 5. Translate Logic**
 
 ```markdown
 I have code in [language] that does [function].
@@ -953,11 +927,7 @@ Always:
 
 ***
 
-Up Next: [Communicating Beyond Code →](dev-life-systems.md#communicating-beyond-code)
-
-***
-
-## 🗣️ 3. Communicating Beyond Code
+## 🗣️ Communicating Beyond Code
 
 > _“If your code needs explanation — explain it well.”_
 
@@ -1015,7 +985,7 @@ FnF helps:
 
 #### 🛠️ How to Apply It
 
-**1. For README Sections**
+**For README Sections**
 
 ```markdown
 ❌ “This repo handles the payment system”
@@ -1025,7 +995,7 @@ FnF helps:
 ✅ “Getting Started: 2-min local run”
 ```
 
-**2. For PRs**
+**For PRs**
 
 ```markdown
 ## What Changed
@@ -1035,7 +1005,7 @@ Refactored cart logic to support multi-currency display
 Old logic failed on currency-switching. This aligns with global rollout goals.
 ```
 
-**3. For Dev Blogs or Docs**
+**For Dev Blogs or Docs**
 
 ```markdown
 Start with friction:
@@ -1071,10 +1041,6 @@ Help me:
 - Add a useful intro line
 - Reframe the title/action into a reader-friendly label”
 ```
-
-***
-
-Next: [Technical Decision-Making →](dev-life-systems.md#technical-decision-making)
 
 ***
 
@@ -1122,7 +1088,7 @@ But clear decision writing helps:
 
 #### 🛠️ How to Apply It
 
-**1. Use a Decision Memo Format (Lightweight)**
+**Step 1. Use a Decision Memo Format (Lightweight)**
 
 ```markdown
 ### 🧩 Decision
@@ -1146,7 +1112,7 @@ Balance of speed + simplicity for our near-term roadmap
 
 ***
 
-**2. Create a “Why This Exists” Header in Code Files**
+**Step 2. Create a “Why This Exists” Header in Code Files**
 
 ```js
 // Why this file:
@@ -1156,7 +1122,7 @@ Balance of speed + simplicity for our near-term roadmap
 
 ***
 
-**3. Avoid Passive “We Decided” Phrasing**
+**Step 3. Avoid Passive “We Decided” Phrasing**
 
 ```markdown
 ❌ “We decided to go with X.”
@@ -1175,10 +1141,6 @@ Can you help me:
 - Write it out using context/options/trade-offs/reason
 - Keep it skimmable and reusable in docs or PRs”
 ```
-
-***
-
-Next: [Handoff Systems →](dev-life-systems.md#handoff-systems)
 
 ***
 
@@ -1228,7 +1190,7 @@ Strong handoffs enable:
 
 #### 🛠️ How to Apply It
 
-**1. Add a “Handoff Context” Section in PRs**
+**Step 1. Add a “Handoff Context” Section in PRs**
 
 ```markdown
 ## 🔁 Handoff Context
@@ -1241,7 +1203,7 @@ Ask: "If I leave tomorrow, will this note help someone pick up?”
 
 ***
 
-**2. Code Comments for Handoff Hooks**
+**Step 2. Code Comments for Handoff Hooks**
 
 ```js
 // This temp override is for hotfix #92
@@ -1250,7 +1212,7 @@ Ask: "If I leave tomorrow, will this note help someone pick up?”
 
 ***
 
-**3. Include a “Next Steps” Footer**
+**Step 3. Include a “Next Steps” Footer**
 
 ```markdown
 ## 🧭 Next Steps
@@ -1290,10 +1252,6 @@ Help me write:
 - Highlight trade-offs and next steps
 - Mention who should be notified or involved”
 ```
-
-***
-
-Next: [Writing for Non-Devs →](dev-life-systems.md#writing-for-non-devs)
 
 ***
 
@@ -1344,7 +1302,7 @@ Clear writing prevents:
 
 #### 🛠️ How to Apply It
 
-**1. Rewrite Commit/PR Titles for Broader Clarity**
+**Step 1. Rewrite Commit/PR Titles for Broader Clarity**
 
 ```markdown
 ❌ “Refactor auth controller”
@@ -1352,7 +1310,7 @@ Clear writing prevents:
 ✅ “Streamlined login logic to reduce user login errors”
 ```
 
-**2. Use Outcomes as the Opening Line**
+**Step 2. Use Outcomes as the Opening Line**
 
 ```markdown
 ✅ “This update reduces failed payments during checkout by retrying token fetch.”
@@ -1361,7 +1319,7 @@ Not:
 ❌ “Updated StripeConfigManager and added retry logic.”
 ```
 
-**3. Map Tech to Biz Impact**
+**Step 3. Map Tech to Biz Impact**
 
 ```markdown
 Change: Switched image loader from X to Y  
@@ -1369,7 +1327,7 @@ Reason: Improved load time by ~25%
 Impact: Faster onboarding for mobile-first users
 ```
 
-**4. Use “Explain Like I Own the Feature”**
+**Step 4. Use “Explain Like I Own the Feature”**
 
 ```markdown
 Imagine the person reading funds your feature.
@@ -1395,11 +1353,7 @@ Help me:
 
 ***
 
-Up Next: [Existing Outside the Terminal →](dev-life-systems.md#existing-outside-terminal)
-
-***
-
-## 🧘 4. Existing Outside the Terminal
+## 🧘 Existing Outside the Terminal
 
 > _“You are not just a developer. You are a system running on borrowed energy.”_
 
@@ -1490,10 +1444,6 @@ Ask me:
 
 ***
 
-Next: [Dev Growth Compass →](dev-life-systems.md#dev-growth-compass)
-
-***
-
 ### 🧭 Dev Growth Compass: Navigating Beyond “Senior”
 
 > _“Your career is not a ladder. It’s a recursive function.”_
@@ -1541,7 +1491,7 @@ With a compass:
 
 #### 🛠️ How to Apply It
 
-**1. Define Your “Compasses” – Not Goals**
+**Step 1. Define Your “Compasses” – Not Goals**
 
 ```markdown
 🧠 Thinking:  
@@ -1562,7 +1512,7 @@ Am I learning anything beyond frameworks and syntax?
 
 ***
 
-**2. Audit Your Past Year with This Prompt**
+**Step 2. Audit Your Past Year with This Prompt**
 
 ```markdown
 "What did I grow into this year — that no title change captured?"
@@ -1578,7 +1528,7 @@ These are your **career force multipliers**.
 
 ***
 
-**3. Create a “Dev North Star” Card**
+**Step 3. Create a “Dev North Star” Card**
 
 ```markdown
 🧭 What do I want to be known for as a developer?  
@@ -1600,10 +1550,6 @@ Ask me:
 - What am I struggling to explain clearly?
 - What kind of dev do I want to become — regardless of title?”
 ```
-
-***
-
-Next: [Developer Routines →](dev-life-systems.md#developer-routines)
 
 ***
 
@@ -1832,13 +1778,13 @@ This primer helps you **shift from command → collaboration**.
 **🔄 The 3 Modes of Prompting**
 
 ```markdown
-1. 🧱 Scaffold
+🧱 Scaffold
 “Help me plan this feature with edge cases and structure.”
 
-2. 🔍 Critique
+🔍 Critique
 “Here’s what I wrote — what’s unclear, brittle, or over-abstracted?”
 
-3. 🧠 Refactor + Explain
+🧠 Refactor + Explain
 “Refactor this and explain the design decision trade-offs.”
 ```
 
@@ -1872,10 +1818,6 @@ This flips AI into **diagnostic mode**, not dictation mode.
 #### 🤖 Bonus: AI Doesn’t Have Intuition. You Do.
 
 Use AI to fill in possibilities — not make decisions for you.
-
-***
-
-Next: [Pair Dev Guide →](dev-life-systems.md#pair-dev-guide)
 
 ***
 
@@ -1961,10 +1903,6 @@ Can you:
 
 ***
 
-Next: [Clarity Checklist →](dev-life-systems.md#clarity-checklist)
-
-***
-
 ### 📄 Clarity Checklist
 
 > _“Before you merge, make sure you’ve translated.”_
@@ -2041,8 +1979,6 @@ Can you:
 ***
 
 ### ✅ You’re Ready to Ship Systems, Not Just Code
-
-Next: [LICENSE & CONTRIBUTING →](dev-life-systems.md#license--contributingmd)
 
 ***
 

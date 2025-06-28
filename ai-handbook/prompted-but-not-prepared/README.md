@@ -58,7 +58,7 @@ _An open-source wake-up guide to navigating AI’s mind—with yours intact._
 
 ### 🧾 Appendices & Closing
 
-15. [🧵 Glossary & Quick Cheats](./#-glossary--quick-cheats)
+15. [🧵 Glossary & Quick Cheats](../glossary.md)
 16. [📌 Resources, Credits & Your Next Steps](./#bonus-resource)
 
 ***

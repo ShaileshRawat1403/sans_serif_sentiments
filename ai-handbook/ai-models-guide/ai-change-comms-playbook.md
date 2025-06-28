@@ -73,13 +73,13 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 
 ## 🎯 Messaging Pillars for Change Communication
 
-### 1. **Permission, Not Pressure**
+### **Permission, Not Pressure**
 
 Give people room to explore and question — not just comply.
 
 > "You don’t have to be confident. Just curious."
 
-### 2. **Why This, Why Now?**
+### **Why This, Why Now?**
 
 Explain the shift in terms of context:
 
@@ -87,7 +87,7 @@ Explain the shift in terms of context:
 * Internal priorities
 * Learning opportunities
 
-### 3. **Practical, Not Promotional**
+### **Practical, Not Promotional**
 
 Don’t hype the tools. Show the workflows:
 
@@ -95,13 +95,13 @@ Don’t hype the tools. Show the workflows:
 * What it replaces (if anything)
 * What success looks like
 
-### 4. **Clarity Before Complexity**
+### **Clarity Before Complexity**
 
 Define terms. Show working examples. Acknowledge limitations.
 
 > Every rollout should come with a glossary.
 
-### 5. **Feedback Is a Feature**
+### **Feedback Is a Feature**
 
 Open loops for:
 
@@ -188,4 +188,4 @@ Use Miro, Canva, or even printed whiteboards to visually map prompts, AI outputs
 
 ***
 
-📘 Next in Series: [Conversational UX and Voice Prompts](voice-prompts-and-conversational-ux.md)
+📘 Explore: [Conversational UX and Voice Prompts](voice-prompts-and-conversational-ux.md)
