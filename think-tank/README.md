@@ -10,7 +10,7 @@ This Table of Contents is designed to be highly modular and fully functional, al
 
 ---
 
-## Crafting Humor: Your Guide to Making People Laugh
+## [Crafting Humor: Your Guide to Making People Laugh](#crafting-humor-your-guide-to-making-people-laugh)
 
 * ### [The Art of Satire: Pointing Out Flaws with Wit](#the-art-of-satire-pointing-out-flaws-with-wit)
     * [Machiavellian Satire: The Cunning Critique](#machiavellian-satire-the-cunning-critique)
@@ -62,7 +62,7 @@ This Table of Contents is designed to be highly modular and fully functional, al
 
 ---
 
-## Mastering the Message: Non-Comedic Writing Techniques
+## [Mastering the Message: Non-Comedic Writing Techniques](#mastering-the-message-non-comedic-writing-techniques)
 
 * ### [Telling Your Story: Powerful Narrative Techniques](#telling-your-story-powerful-narrative-techniques)
     * [Realism: Life As It Is](#realism-life-as-it-is)
