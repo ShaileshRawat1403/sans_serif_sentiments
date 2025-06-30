@@ -1,4 +1,4 @@
-# README: The Comprehensive Writing Style Catalog
+# Writing Style Catalog
 
 ---
 
