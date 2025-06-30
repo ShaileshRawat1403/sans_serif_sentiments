@@ -87,7 +87,7 @@
     * [projects](technical-writing/user-manuals/projects/README.md)
       * [floyd-rose-setup](technical-writing/user-manuals/projects/floyd-rose-setup/README.md)
         * [Floyd Rose Setup Guide](technical-writing/user-manuals/projects/floyd-rose-setup/floyd-rose-setup-guide.md)
-* [think-tank](think-tank/README.md)
+* [🧠 think-tank](think-tank/README.md)
   * [README](think-tank/readme.md)
   * [The Nuance Navigator](think-tank/the-nuance-navigator.md)
 * [portfolio](portfolio/README.md)
