@@ -7,7 +7,7 @@ icon: microchip-ai
 ### 📜 Prologue — Before We Begin
 
 > 🧠 _This isn’t a manual for machines._\
-> &#xNAN;_&#x49;t’s a wake-up call for the humans using them._
+_It’s a wake-up call for the humans using them._
 
 This handbook isn’t written for developers.\
 It’s not for prompt influencers.\
