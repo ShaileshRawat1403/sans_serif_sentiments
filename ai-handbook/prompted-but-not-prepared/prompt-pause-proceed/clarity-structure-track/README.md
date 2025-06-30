@@ -159,7 +159,7 @@ If yes — expect clarity in return.
 - [OpenAI Cookbook: Best Practices for Prompting](https://github.com/openai/openai-cookbook)
 - [Anthropic: Prompting Best Practices for Claude](https://docs.anthropic.com/claude/docs/prompting-best-practices)
 - [Nielsen Norman Group: UX Writing Principles](https://www.nngroup.com/articles/ux-writing/)
-- [Dan Shipper: Why Your Prompts Don’t Work](https://every.to/chain-of-thought/the-reason-your-prompts-don-t-work)
+- [Dan Shipper: Why Your Prompts Don’t Work](https://every.to/chain-of-thought)
 
 ---
 
