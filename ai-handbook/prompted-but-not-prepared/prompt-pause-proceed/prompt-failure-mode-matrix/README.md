@@ -125,7 +125,7 @@ Refine + Retry
 
 ## 📚 References & Resources
 
-- [OpenAI Cookbook: Prompt Engineering Best Practices](https://github.com/openai/openai-cookbook/blob/main/techniques-to-improve-reliability.md)
+- [OpenAI Cookbook: Prompt Engineering Best Practices](https://github.com/openai/openai-cookbook/blob/main/articles/how_to_work_with_large_language_models.md)
 - [Anthropic Prompting Guide (Claude)](https://docs.anthropic.com/claude/docs/prompting-best-practices)
 - [Google Developer Prompt Style Guide](https://developers.google.com/style/prompts)
 - [PromptingGuide.ai](https://www.promptingguide.ai)
