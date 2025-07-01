@@ -1,0 +1,114 @@
+.
+├── 00-foundations
+├── ai-guidebook
+│   ├── prompt-labs
+│   │   ├── clarity-structure-track
+│   │   │   └── README.md
+│   │   ├── literary-linguistic-track
+│   │   │   └── README.md
+│   │   └── multimodal-prompt-parsing
+│   │       └── README.md
+│   └── prompted
+│       └── README.md
+├── ai-handbook
+│   ├── 00-foundations
+│   │   └── README.md
+│   ├── 01-writing-with-ai
+│   │   └── README.md
+│   ├── 02-prompt-labs
+│   │   └── prompt-pause-proceed
+│   │       ├── clarity-structure-track
+│   │       ├── literary-linguistic-track
+│   │       └── multimodal-prompt-parsing
+│   └── 03-voice-prompting
+│       └── README.md
+├── assets
+│   ├── diagrams
+│   │   └── README.md
+│   └── images
+│       └── README.md
+├── change-communications
+│   └── README.md
+├── images
+│   └── README.md
+├── immutable-ink
+│   └── docs
+│       └── README.md
+├── index.md
+├── marketing
+│   ├── brand-storytelling
+│   │   ├── index.md
+│   │   └── projects
+│   │       └── busting-the-brand-with-buster-keaton
+│   ├── campaigns
+│   │   ├── index.md
+│   │   └── projects
+│   │       └── README.md
+│   ├── content-strategy
+│   │   ├── index.md
+│   │   └── projects
+│   │       └── README.md
+│   ├── index.md
+│   └── projects
+│       └── README.md
+├── meta
+│   ├── marketing-history
+│   │   └── README.md
+│   └── style-guide
+│       └── README.md
+├── portfolio
+│   ├── confluence
+│   │   └── README.md
+│   ├── gitbook
+│   │   └── README.md
+│   └── notion
+│       └── README.md
+├── proof-of-work
+│   ├── ai-usecases
+│   │   └── README.md
+│   ├── communications
+│   │   └── README.md
+│   ├── experiments
+│   │   └── README.md
+│   ├── marketing
+│   │   └── README.md
+│   └── technical-docs
+│       └── README.md
+├── README.md
+├── style-guide
+│   ├── index.md
+│   └── README.md
+├── technical-writing
+│   ├── conceptual-education
+│   │   ├── index.md
+│   │   └── projects
+│   │       ├── git-demystified
+│   │       └── what-is-a-daw
+│   ├── index.md
+│   ├── installation-guides
+│   │   ├── index.md
+│   │   └── projects
+│   │       └── getting-started-with-reaper
+│   ├── projects
+│   │   ├── cloud-storage
+│   │   │   └── README.md
+│   │   ├── reaper-install
+│   │   │   └── README.md
+│   │   └── style-guide
+│   │       └── README.md
+│   ├── release-notes
+│   │   ├── index.md
+│   │   └── reaper
+│   │       ├── README.md
+│   │       ├── v6.0.0.md
+│   │       ├── v7.0.0.md
+│   │       └── v7.1.0.md
+│   └── user-manuals
+│       ├── index.md
+│       └── projects
+│           └── floyd-rose-setup
+└── think-tank
+    └── meta-frameworks
+        └── README.md
+
+66 directories, 46 files

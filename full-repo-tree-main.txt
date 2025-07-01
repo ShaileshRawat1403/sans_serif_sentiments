@@ -1,0 +1,50 @@
+.
+├── 00-foundations
+├── assets
+│   ├── diagrams
+│   │   └── reaper-flowchart.mmd
+│   └── images
+│       └── reaper-flowchart.svg
+├── full-repo-tree-main.txt
+├── index.md
+├── LICENSE
+├── LICENSE_CC0.txt
+├── marketing
+│   ├── brand-storytelling
+│   │   ├── index.md
+│   │   └── projects
+│   │       └── busting-the-brand-with-buster-keaton
+│   ├── campaigns
+│   │   ├── index.md
+│   │   └── projects
+│   ├── content-strategy
+│   │   ├── index.md
+│   │   └── projects
+│   └── index.md
+├── md-file-tree.txt
+├── README.md
+├── style-guide
+│   └── index.md
+└── technical-writing
+    ├── conceptual-education
+    │   ├── index.md
+    │   └── projects
+    │       ├── git-demystified
+    │       └── what-is-a-daw
+    ├── index.md
+    ├── installation-guides
+    │   ├── index.md
+    │   └── projects
+    │       └── getting-started-with-reaper
+    ├── release-notes
+    │   ├── index.md
+    │   └── reaper
+    │       ├── v6.0.0.md
+    │       ├── v7.0.0.md
+    │       └── v7.1.0.md
+    └── user-manuals
+        ├── index.md
+        └── projects
+            └── floyd-rose-setup
+
+27 directories, 21 files
