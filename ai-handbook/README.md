@@ -6,7 +6,7 @@
 - [What This Handbook Is](#what-this-handbook-is)
 - [What This Is Not](#what-this-is-not)
 - [Why It Exists](#why-it-exists)
-- [The Scope (So We’re Clear)](#the-scope-so-we-re-clear)
+- [The Scope (So We’re Clear)](#the-scope-so-were-clear)
 - [Disclaimer](#disclaimer)
 - [What’s Inside](#whats-inside)
 - [Why This Exists](#why-this-exists)
