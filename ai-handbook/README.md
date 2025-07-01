@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Prologue — Before We Begin](#prologue--before-we-begin)
+- [Prologue — Before We Begin](#prologue-before-we-begin)
 - [What This Handbook Is](#what-this-handbook-is)
 - [What This Is Not](#what-this-is-not)
 - [Why It Exists](#why-it-exists)
