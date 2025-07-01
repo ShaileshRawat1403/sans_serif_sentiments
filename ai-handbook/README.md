@@ -2,17 +2,18 @@
 
 ## Table of Contents
 
-- [Prologue — Before We Begin](#-prologue-before-we-begin)
-- [What This Handbook Is](#what-this-handbook-is)
-- [What This Is Not](#what-this-is-not)
-- [Why It Exists](#why-it-exists)
-- [The Scope (So We’re Clear)](#the-scope-so-were-clear)
+- [Prologue before we begin](#prologue-before-we-begin)
+- [What this handbook is](#what-this-handbook-is)
+- [What this is not](#what-this-is-not)
+- [Why it exists](#why-it-exists)
+- [The scope so were clear](#the-scope-so-were-clear)
 - [Disclaimer](#disclaimer)
-- [What’s Inside](#whats-inside)
-- [Why This Exists](#why-this-exists)
-- [How to Use or Contribute](#how-to-use-or-contribute)
-- [Where This Fits](#where-this-fits)
-- [Tips or Notes](#tips-or-notes)
+- [Whats inside](#whats-inside)
+- [Why this exists](#why-this-exists)
+- [How to use or contribute](#how-to-use-or-contribute)
+- [Where this fits](#where-this-fits)
+- [Tips or notes](#tips-or-notes)
+
 
 ### 📜 Prologue — Before We Begin
 
