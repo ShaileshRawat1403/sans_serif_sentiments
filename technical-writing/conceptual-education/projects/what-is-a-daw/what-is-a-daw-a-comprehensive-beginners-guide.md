@@ -1,2 +1,3 @@
-# What Is a DAW? A Comprehensive Beginner's Guide
+# What Is a DAW? A Comprehensive Beginners Guide
+
 

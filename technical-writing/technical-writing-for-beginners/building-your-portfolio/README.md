@@ -1,10 +1,12 @@
 # Building Your Technical Writing Portfolio
 
+
 _Showcase your thinking, not just your output._
 
 ***
 
-## 🪜 Purpose of This Chapter
+##  Purpose of This Chapter
+
 
 To help beginners:
 
@@ -17,7 +19,8 @@ This chapter shows you how to **think like a documentation designer**, not just 
 
 ***
 
-## 🎯 Why a Portfolio Even Matters
+##  Why a Portfolio Even Matters
+
 
 You don’t need experience in a big tech company to prove your skill.
 
@@ -33,7 +36,8 @@ And it’s especially important when you're:
 
 ***
 
-## 🧱 What Makes a Strong Portfolio?
+##  What Makes a Strong Portfolio?
+
 
 A good portfolio doesn’t just say:
 
@@ -47,7 +51,8 @@ It shows:
 
 ***
 
-## 📂 Suggested Structure (Simple GitHub Setup)
+##  Suggested Structure (Simple GitHub Setup)
+
 
 ```bash
 technical-writing-portfolio/
@@ -70,7 +75,8 @@ technical-writing-portfolio/
 
 ***
 
-## 📘 What to Include
+##  What to Include
+
 
 | Section            | Purpose                                                                           |
 | ------------------ | --------------------------------------------------------------------------------- |
@@ -96,6 +102,7 @@ technical-writing-portfolio/
 
 ## ✍️ Sample Project Ideas
 
+
 You don’t need access to a product team.\
 You just need curiosity and structure.
 
@@ -111,7 +118,8 @@ You just need curiosity and structure.
 
 ***
 
-## 🛠 Tools to Use in Your Portfolio
+##  Tools to Use in Your Portfolio
+
 
 | Tool                         | Purpose                                |
 | ---------------------------- | -------------------------------------- |
@@ -125,7 +133,8 @@ You just need curiosity and structure.
 
 ***
 
-## 📋 What Recruiters or Hiring Managers Look For
+##  What Recruiters or Hiring Managers Look For
+
 
 | Trait               | How to Show It                           |
 | ------------------- | ---------------------------------------- |
@@ -138,7 +147,8 @@ You just need curiosity and structure.
 
 ***
 
-## 📢 Bonus: Document the Docs
+##  Bonus: Document the Docs
+
 
 📘 Create a file like `portfolio-explained.md` where you:
 
@@ -152,6 +162,7 @@ This **meta-layer** builds trust and shows you're not just writing — you're _t
 
 ## ✅ Portfolio Quality Checklist
 
+
 * [ ] Demonstrate more than one doc type (e.g., how-to, tutorial, API)?
 * [ ] Include at least one original and one rewritten doc?
 * [ ] Include a README that explains purpose and navigation?
@@ -161,7 +172,8 @@ This **meta-layer** builds trust and shows you're not just writing — you're _t
 
 ***
 
-## 🧭 Final Thought
+##  Final Thought
+
 
 > Your portfolio isn’t a gallery.\
 > It’s a proof-of-understanding machine.

@@ -1,9 +1,11 @@
-# 🧠 Prompting as a Thinking Loop  
+#  Prompting as a Thinking Loop  
+
 *A universal loop for thoughtful prompting — for humans and machines alike.*
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 - [🎯 The Core Loop: Prompting as a Thinking Process](#-the-core-loop-prompting-as-a-thinking-process)
 - [📚 How AI Understands Prompts: The Linguistic Breakdown](#-how-ai-understands-prompts-the-linguistic-breakdown)
@@ -17,7 +19,8 @@
 
 ---
 
-## 🎯 The Core Loop: Prompting as a Thinking Process
+##  The Core Loop: Prompting as a Thinking Process
+
 
 | **Stage**       | **Action**                                        | **Purpose**                                  |
 |-----------------|---------------------------------------------------|----------------------------------------------|
@@ -31,7 +34,8 @@
 
 ---
 
-## 📚 How AI Understands Prompts: The Linguistic Breakdown
+##  How AI Understands Prompts: The Linguistic Breakdown
+
 
 AI systems like GPT-4, Claude, and Gemini do not understand meaning the way humans do. Instead, they:
 
@@ -51,7 +55,8 @@ This makes the **literary and linguistic structure** of your prompt critical. He
 
 ---
 
-## 🧪 Why Linguistics & Literature Matter
+##  Why Linguistics & Literature Matter
+
 
 > Language is not just the tool. It is the *interface.*
 
@@ -72,7 +77,8 @@ That’s why literary tools aren’t extra — they are native.
 
 ---
 
-## 🔍 Supporting Research & Sources
+##  Supporting Research & Sources
+
 
 1. **OpenAI GPT-4 System Card (March 2023)**  
    > “GPT-4 is a large multimodal model … trained using publicly available and licensed datasets, including books, websites, and other text.”  
@@ -92,7 +98,8 @@ That’s why literary tools aren’t extra — they are native.
 
 ---
 
-## 🎓 TL;DR — Your Hypothesis Was Spot-On
+##  TL;DR - Your Hypothesis Was Spot-On
+
 
 ✅ Yes, AI **does interpret prompt structure linguistically**.  
 ✅ It relies on format, style, tone, guidance, and nuance cues.  
@@ -101,20 +108,23 @@ That’s why literary tools aren’t extra — they are native.
 
 ---
 
-## 🧪 Dual Tracks for Prompt Refinement
+##  Dual Tracks for Prompt Refinement
+
 
 We now branch into two guided tracks to develop mastery.
 
 ---
 
-### 🟦 Track 1: Clarity & Structure (For Everyone)
+###  Track 1: Clarity & Structure (For Everyone)
+
 
 **Best For:**  
 Writers, analysts, students, and professionals using AI to “get something done.”
 
 ---
 
-#### 🔧 What You’ll Practice:
+####  What Youll Practice:
+
 
 - **Scope Testing Prompts**  
   → “Explain this in 2 sentences for a beginner.”  
@@ -137,14 +147,16 @@ Writers, analysts, students, and professionals using AI to “get something done
 
 ---
 
-### 🟥 Track 2: Literary & Linguistic (For Writers & Thinkers)
+###  Track 2: Literary & Linguistic (For Writers & Thinkers)
+
 
 **Best For:**  
 Writers, educators, artists, deep thinkers, and prompt crafters.
 
 ---
 
-#### 🎨 What You’ll Practice:
+####  What Youll Practice:
+
 
 **💬 Rhetorical Device Prompts**
 - “Write a persuasive pitch using *pathos and kairos*.”
@@ -162,7 +174,8 @@ Writers, educators, artists, deep thinkers, and prompt crafters.
 
 ---
 
-## 🔗 What’s Next?
+##  Whats Next?
+
 
 We’ll now dive into each of the two tracks:
 

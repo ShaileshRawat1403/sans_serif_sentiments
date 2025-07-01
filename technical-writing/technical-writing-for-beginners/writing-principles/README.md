@@ -6,11 +6,13 @@ description: >-
 
 # writing-principles
 
+
 _Principles that make technical docs usable, not just polished._
 
 ***
 
-### 🪜 Purpose of This Chapter
+###  Purpose of This Chapter
+
 
 To help beginners:
 
@@ -25,6 +27,7 @@ This chapter should feel like both a **writing mindset shift** _and_ a **practic
 
 ### ✅ Introduction
 
+
 > “Good technical writing isn't about being smart. It's about being _invisible_ when someone needs help.”
 
 * Users read docs when they’re confused, stuck, or under pressure.
@@ -38,7 +41,8 @@ You are not a passive writer. You’re an **experience designer** with words.
 
 ***
 
-### 🧱 Core Writing Principles (With Examples)
+###  Core Writing Principles (With Examples)
+
 
 | Principle         | What It Means                                  | ❌ vs ✅ Example                                                                |
 | ----------------- | ---------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -51,7 +55,8 @@ You are not a passive writer. You’re an **experience designer** with words.
 
 ***
 
-### 🧠 How People _Actually_ Read Docs
+###  How People _Actually_ Read Docs
+
 
 Let’s get scientific.
 
@@ -73,7 +78,8 @@ Let’s get scientific.
 
 ***
 
-### 🧪 Tools to Help You Think Like a Reader
+###  Tools to Help You Think Like a Reader
+
 
 | Tool                                   | Purpose                                               |
 | -------------------------------------- | ----------------------------------------------------- |
@@ -89,6 +95,7 @@ Let’s get scientific.
 
 ### ⚠️ Common Writing Traps (And How to Escape Them)
 
+
 * **Trap:** Overexplaining obvious things ➤ **Fix:** Trim it. Let structure speak.
 * **Trap:** Writing like a marketer ➤ **Fix:** Cut fluff. Add facts.
 * **Trap:** Hiding bad news in footnotes ➤ **Fix:** Be upfront. Respect trust.
@@ -96,7 +103,8 @@ Let’s get scientific.
 
 ***
 
-### 📋 5 Golden Rules for Every Doc
+###  5 Golden Rules for Every Doc
+
 
 1. Start with the outcome: _What can the reader do after this?_
 2. Use numbered steps for tasks, bullets for options, tables for facts.
@@ -108,6 +116,7 @@ Let’s get scientific.
 
 ### ✅ Recap Table: Before vs After
 
+
 | Problem               | ❌ Bad Example                               | ✅ Better Example                                   |
 | --------------------- | ------------------------------------------- | -------------------------------------------------- |
 | **Vague Language**    | “Users may consider adjusting settings...”  | “To change the display, go to Settings > Display.” |
@@ -117,7 +126,8 @@ Let’s get scientific.
 
 ***
 
-### 📘 What’s Next
+###  Whats Next
+
 
 Now that you understand how to write _useful_ docs — we’ll move to:
 

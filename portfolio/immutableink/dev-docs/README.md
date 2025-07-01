@@ -1,6 +1,8 @@
 # ImmutableInk Developer Guide
 
+
 ## Table of Contents
+
 * [Introduction](#introduction-anchor)
 * [Getting Started for Developers](#getting-started-developers-anchor)
     * [Prerequisites](#prerequisites-dev-anchor)
@@ -39,6 +41,7 @@
 <a name="introduction-anchor"></a>
 ### Introduction
 
+
 This guide provides comprehensive information for developers and system integrators who wish to interact with ImmutableInk programmatically. Learn how to leverage ImmutableInk's API and webhooks to integrate with your existing applications, automate document workflows, and build custom solutions.
 
 ---
@@ -46,10 +49,12 @@ This guide provides comprehensive information for developers and system integrat
 <a name="getting-started-developers-anchor"></a>
 ### Getting Started for Developers
 
+
 Begin your integration journey with ImmutableInk by setting up your development environment and making your first API call.
 
 <a name="prerequisites-dev-anchor"></a>
 #### Prerequisites
+
 
 Before you start, ensure you have:
 
@@ -62,6 +67,7 @@ Before you start, ensure you have:
 <a name="authentication-dev-anchor"></a>
 #### Authentication
 
+
 ImmutableInk API requests are authenticated using an API Key provided in the request headers.
 
 1.  **Obtain your API Key:** Log in to your ImmutableInk workspace, navigate to **Settings** > **API Access**, and generate a new API Key.
@@ -73,6 +79,7 @@ ImmutableInk API requests are authenticated using an API Key provided in the req
 
 <a name="first-api-call-anchor"></a>
 #### Make Your First API Call
+
 
 Test your setup by retrieving a list of your accessible documents.
 
@@ -126,11 +133,13 @@ Content-Type: application/json
 
 ### Core Concepts for Developers
 
+
 Understanding these fundamental concepts will help you effectively utilize the ImmutableInk API.
 
 \<a name="architecture-overview-anchor"\>\</a\>
 
 #### ImmutableInk Architecture Overview
+
 
 ImmutableInk's architecture separates the user-facing application from the underlying blockchain integrity layer. The API acts as the primary interface for programmatic interaction with document creation, review, sealing, and verification. All integrity-related operations (hashing, signing, blockchain anchoring) are handled securely by the ImmutableInk backend services, abstracting the blockchain complexity from your integration.
 
@@ -155,6 +164,7 @@ ImmutableInk's architecture separates the user-facing application from the under
 
 #### Understanding Hashes and Signatures
 
+
   * **Document Hash:** Every version of a document submitted to ImmutableInk generates a unique cryptographic hash (a "digital fingerprint"). This hash changes if even a single character in the document content is altered.
   * **Digital Signatures:** When a document is sealed or reviewed, ImmutableInk securely associates digital signatures from the relevant users. These signatures are cryptographically linked to the document's hash and the blockchain record, providing non-repudiation.
   * **Integrity Verification:** The API provides endpoints to verify a document's integrity by re-hashing its current content and comparing it against the sealed hash on the blockchain.
@@ -162,6 +172,7 @@ ImmutableInk's architecture separates the user-facing application from the under
 \<a name="data-models-anchor"\>\</a\>
 
 #### Data Models
+
 
 ImmutableInk API uses standard JSON objects to represent resources. Key data models you will interact with include:
 
@@ -192,6 +203,7 @@ ImmutableInk API uses standard JSON objects to represent resources. Key data mod
 
 ### API Reference
 
+
 This section provides detailed specifications for ImmutableInk's REST API endpoints.
 
 **Base URL:** `https://api.immutableink.com/api/v1` (Note: This is a placeholder, replace with actual base URL).
@@ -203,11 +215,13 @@ This section provides detailed specifications for ImmutableInk's REST API endpoi
 
 #### Documents API
 
+
 Manage your ImmutableInk documents.
 
 \<a name="create-document-api-anchor"\>\</a\>
 
 ##### Create a Document
+
 
 `POST /documents`
 
@@ -242,6 +256,7 @@ Creates a new document in draft status.
 
 ##### Get Document Details
 
+
 `GET /documents/{id}`
 
 Retrieves the details of a specific document by its ID.
@@ -270,6 +285,7 @@ Retrieves the details of a specific document by its ID.
 \<a name="update-document-content-api-anchor"\>\</a\>
 
 ##### Update Document Content
+
 
 `PUT /documents/{id}`
 
@@ -308,6 +324,7 @@ Updates the title or content of an existing document. Only allowed if the docume
 
 ##### Submit for Review
 
+
 `POST /documents/{id}/submit-for-review`
 
 Submits a document for review. Requires the document to be in `draft` status.
@@ -342,6 +359,7 @@ Submits a document for review. Requires the document to be in `draft` status.
 
 ##### Seal a Document
 
+
 `POST /documents/{id}/seal`
 
 Seals a document on the blockchain. Requires the document to be in `ready_to_seal` status (all reviews completed).
@@ -369,6 +387,7 @@ Seals a document on the blockchain. Requires the document to be in `ready_to_sea
 \<a name="verify-document-integrity-api-anchor"\>\</a\>
 
 ##### Verify Document Integrity
+
 
 `GET /documents/{id}/verify-integrity`
 
@@ -405,11 +424,13 @@ Verifies the integrity of a sealed document.
 
 #### Reviews API
 
+
 Manage document reviews programmatically.
 
 \<a name="approve-review-api-anchor"\>\</a\>
 
 ##### Approve a Review
+
 
 `POST /reviews/{id}/approve`
 
@@ -445,6 +466,7 @@ Approves a specific review.
 
 ##### Reject a Review
 
+
 `POST /reviews/{id}/reject`
 
 Rejects a specific review.
@@ -477,6 +499,7 @@ Rejects a specific review.
 
 #### Users API (Read-Only)
 
+
 Retrieve user information.
 
 *Note: User creation and management are typically handled via the ImmutableInk Administration API or UI for security reasons.*
@@ -484,6 +507,7 @@ Retrieve user information.
 \<a name="users-api-anchor"\>\</a\>
 
 ##### Get User Details
+
 
 `GET /users/{id}`
 
@@ -513,11 +537,13 @@ Retrieves the details of a specific user by their ID.
 
 ### Webhooks
 
+
 ImmutableInk webhooks enable you to receive real-time notifications about events in your ImmutableInk workspace directly in your applications.
 
 \<a name="register-webhook-anchor"\>\</a\>
 
 #### Register a Webhook Endpoint
+
 
 `POST /webhooks`
 
@@ -551,6 +577,7 @@ Registers a new webhook endpoint to receive event notifications.
 
 #### Event Types
 
+
 ImmutableInk sends notifications for the following event types:
 
   * `document.created`: A new document is created.
@@ -565,6 +592,7 @@ ImmutableInk sends notifications for the following event types:
 \<a name="webhook-payload-anchor"\>\</a\>
 
 #### Webhook Payload Structure
+
 
 Webhook payloads are JSON objects containing details about the event. All payloads include:
 
@@ -593,6 +621,7 @@ Webhook payloads are JSON objects containing details about the event. All payloa
 
 #### Verify Webhook Signatures
 
+
 For security, ImmutableInk signs each webhook request with a secret you provide during webhook registration. You should verify this signature on your server to ensure the payload is authentic and has not been tampered with.
 
 1.  ImmutableInk includes a `X-ImmutableInk-Signature` header in each webhook request.
@@ -607,6 +636,7 @@ For security, ImmutableInk signs each webhook request with a secret you provide 
 \<a name="error-codes-anchor"\>\</a\>
 
 ### Error Codes and Handling
+
 
 ImmutableInk API uses standard HTTP status codes to indicate the success or failure of an API request. Detailed error information is provided in the JSON response body.
 
@@ -643,6 +673,7 @@ Content-Type: application/json
 
 ### Rate Limiting
 
+
 To ensure fair usage and system stability, ImmutableInk API applies rate limits to requests.
 
   * **Default Limit:** 100 requests per minute per API Key.
@@ -657,6 +688,7 @@ Implement exponential backoff or a token bucket algorithm in your client applica
 
 ### SDKs and Libraries
 
+
 ImmutableInk provides official and community-contributed SDKs to simplify interaction with our API. These SDKs handle authentication, request signing, and response parsing, allowing you to focus on your application's logic.
 
   * **Python SDK:** [Link to Python SDK GitHub/documentation](https://www.google.com/search?q=%23) (Placeholder)
@@ -667,6 +699,7 @@ ImmutableInk provides official and community-contributed SDKs to simplify intera
 \<a name="best-practices-integration-anchor"\>\</a\>
 
 ### Best Practices for Integration
+
 
 Follow these recommendations for robust and efficient integration with ImmutableInk:
 
@@ -683,6 +716,7 @@ Follow these recommendations for robust and efficient integration with Immutable
 
 ### Related Documentation
 
+
 For more information on ImmutableInk:
 
   * [ImmutableInk User Guide](https://www.google.com/search?q=link-to-user-guide.md): Get started with the ImmutableInk web application.
@@ -695,6 +729,7 @@ For more information on ImmutableInk:
 \<a name="key-terms-dev-anchor"\>\</a\>
 
 ### Key Terms (Developer)
+
 
 This glossary defines technical terms relevant to integrating with the ImmutableInk API:
 

@@ -1,11 +1,13 @@
 # ✍️ GitBook Editor Guide
 
+
 Use this guide to write, format, and structure content using GitBook's built-in editor.  
 Whether you're drafting internal documentation or publishing public-facing help guides, the GitBook editor provides a flexible, accessible authoring experience.
 
 ---
 
-## 🧭 Overview
+##  Overview
+
 
 The GitBook editor supports two writing modes:
 
@@ -16,7 +18,8 @@ You can switch between these modes anytime from the page settings.
 
 ---
 
-## 🧱 Use the Block Editor
+##  Use the Block Editor
+
 
 To start writing:
 
@@ -41,7 +44,8 @@ To move a block, hover over the left edge and drag it using the handle.
 
 ---
 
-## 📝 Use the Markdown Editor
+##  Use the Markdown Editor
+
 
 If you prefer writing with syntax, switch to **Markdown mode**:
 
@@ -68,7 +72,8 @@ Markdown supports:
 
 ---
 
-## 🗂️ Structure and Organize Pages
+## ️ Structure and Organize Pages
+
 
 - Use the **sidebar** to manage hierarchy  
 - Click **“+ New page”** to create a new doc  
@@ -82,7 +87,8 @@ Markdown supports:
 
 ---
 
-## 🛠️ Common Editor Actions
+## ️ Common Editor Actions
+
 
 | Action | How to Do It |
 |--------|--------------|
@@ -95,7 +101,8 @@ Markdown supports:
 
 ---
 
-## 🔁 Switch Between Modes
+##  Switch Between Modes
+
 
 - Open page settings (**•••**)  
 - Select **Switch to Markdown** or **Switch to Blocks**  
@@ -110,6 +117,7 @@ Markdown supports:
 
 ## ✅ Outcome
 
+
 After completing this guide, you should be able to:
 
 - Write content using both block and markdown editors  
@@ -120,6 +128,7 @@ After completing this guide, you should be able to:
 ---
 
 ## ➕ Next Steps
+
 
 - [Compare Writing Modes →](./gitbook-writing-modes-reference.md)  
 - [Fix Publishing Errors →](./gitbook-troubleshooting.md)

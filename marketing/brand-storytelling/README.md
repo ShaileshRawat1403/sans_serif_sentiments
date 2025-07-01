@@ -1,5 +1,6 @@
 # Brand Storytelling
 
+
 > Marketing isn’t about shouting louder. It’s about **saying something worth remembering**—in a voice that feels unmistakably yours.
 
 This section explores the craft of branding through storytelling—not by parroting frameworks, but by examining the moments, metaphors, and meaning that stick.
@@ -10,7 +11,9 @@ From silent film stars who sold nothing yet built empires, to modern marketing s
 
 ## Projects
 
-### 🔹 [Busting the Brand with Buster Keaton](./projects/busting-the-brand-with-buster-keaton.md)
+
+###  [Busting the Brand with Buster Keaton](./projects/busting-the-brand-with-buster-keaton.md)
+
 *What a silent film star taught me about branding in a world that won’t shut up*
 
 A deep dive into brand wisdom drawn from a man who said nothing, yet said it all. Lessons on authenticity, adaptability, timing, simplicity, and more—told through the chaotic brilliance of Buster Keaton’s slapstick mastery.
@@ -18,6 +21,7 @@ A deep dive into brand wisdom drawn from a man who said nothing, yet said it all
 ---
 
 ## Coming Soon
+
  
 - `se7en-sins-of-marketing.md`   
 - `onlydesi-details-matter.md`  

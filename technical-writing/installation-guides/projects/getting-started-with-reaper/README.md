@@ -1,5 +1,6 @@
 # Getting Started with REAPER
 
+
 A complete, beginner-focused guide to installing and configuring REAPER—the lightweight, flexible, and powerful digital audio workstation.
 
 <p align="center">
@@ -14,6 +15,7 @@ A complete, beginner-focused guide to installing and configuring REAPER—the li
 
 ## Why This Guide Exists
 
+
 REAPER updates often, but installation steps stay consistent. This guide covers:
 
 - **Download** REAPER  
@@ -27,6 +29,7 @@ Version-specific notes are included where they matter.
 
 ## System Requirements
 
+
 | Platform    | Requirements                                                                 |
 |-------------|-------------------------------------------------------------------------------|
 | **Windows** | • Windows 7 or later (32- or 64-bit)<br>• ~20 MB free disk space<br>• (Optional) ASIO-compatible audio interface |
@@ -37,6 +40,7 @@ Version-specific notes are included where they matter.
 ---
 
 ## Download REAPER
+
 
 1. Go to [reaper.fm](https://reaper.fm).  
 2. Click **Download REAPER**.  
@@ -50,10 +54,13 @@ Version-specific notes are included where they matter.
 
 ## Install REAPER
 
+
 ### Windows
+
 
 ```bash
 # Run the installer
+
 ./REAPER_installer.exe
 ```
 
@@ -65,8 +72,10 @@ Version-specific notes are included where they matter.
 
 ### macOS
 
+
 ```bash
 # Mount and install
+
 open REAPER.dmg
 cp -R /Volumes/REAPER/REAPER.app /Applications/
 ```
@@ -80,6 +89,7 @@ cp -R /Volumes/REAPER/REAPER.app /Applications/
 ---
 
 ## Configure Audio Settings
+
 
 1. Launch REAPER.  
 2. Navigate to **Options → Preferences → Audio → Device**.
@@ -97,6 +107,7 @@ cp -R /Volumes/REAPER/REAPER.app /Applications/
 
 ## Understand Theme & Layout
 
+
 REAPER 7’s default theme introduces:
 
 - Floating track controls  
@@ -110,6 +121,7 @@ REAPER 7’s default theme introduces:
 
 ## Troubleshooting
 
+
 | Issue                     | Solution                                              |
 |---------------------------|-------------------------------------------------------|
 | No audio output           | Check **Preferences → Audio → Device** settings       |
@@ -121,13 +133,15 @@ REAPER 7’s default theme introduces:
 
 ## Version-Specific Notes
 
+
 - [REAPER v6.0.0 Release Notes](../../../release-notes/reaper/v6.0.0.md)  
 - [REAPER v7.0.0 Release Notes](../../../release-notes/reaper/v7.0.0.md)  
 - [REAPER v7.1.0 Release Notes](../../../release-notes/reaper/v7.1.0.md)  
 
 ---
 
-## What’s Next
+## Whats Next
+
 
 1. **Insert** a new track: _Track → Insert new track_  
 2. **Drag** an audio file into the timeline  

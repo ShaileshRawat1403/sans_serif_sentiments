@@ -4,11 +4,13 @@ icon: bug-slash
 
 # Prompt Testing and Model Feedback Loops
 
+
 _How to Refine, Reuse, and Retrain Without Repeating the Same Mistakes_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why Prompt Testing Is Not Optional](prompt-testing-and-feedback.md#why-prompt-testing-is-not-optional)
 * [What Makes a Prompt Testable?](prompt-testing-and-feedback.md#what-makes-a-prompt-testable)
@@ -24,7 +26,8 @@ _How to Refine, Reuse, and Retrain Without Repeating the Same Mistakes_
 
 ***
 
-## 🧭 Why Prompt Testing Is Not Optional
+##  Why Prompt Testing Is Not Optional
+
 
 Most enterprise prompts evolve over time. Yet teams:
 
@@ -40,6 +43,7 @@ You need testable prompts, traceable versions, and responsive feedback systems.
 
 ## ❓ What Makes a Prompt Testable?
 
+
 A good prompt is:
 
 * **Consistent** — same input yields predictably useful output
@@ -51,9 +55,11 @@ A good prompt is:
 
 ***
 
-## 🧪 Types of Prompt Testing
+##  Types of Prompt Testing
 
-### 🖐️ Manual Testing
+
+### ️ Manual Testing
+
 
 * Run prompt with multiple known inputs
 * Review outputs by domain expert
@@ -62,7 +68,8 @@ A good prompt is:
 
 ***
 
-### 🧪 Structured A/B Testing
+###  Structured A/B Testing
+
 
 * Two prompt variants tested on same input batch
 * Metrics: usefulness, clarity, length, hallucination
@@ -76,7 +83,8 @@ Prompt B: “Write like a friendly advisor.”
 
 ***
 
-### 🧪 Regression Testing
+###  Regression Testing
+
 
 * Re-running prompts after model or system changes
 * Ensures outputs don’t degrade or shift unpredictably
@@ -85,7 +93,8 @@ Prompt B: “Write like a friendly advisor.”
 
 ***
 
-## 🔁 Prompt Versioning and Change Tracking
+##  Prompt Versioning and Change Tracking
+
 
 Just like code, prompts need:
 
@@ -105,15 +114,18 @@ Just like code, prompts need:
 
 ***
 
-## 📣 Creating Feedback Loops That Actually Improve Models
+##  Creating Feedback Loops That Actually Improve Models
+
 
 ### For Non-Fine-Tuned Models:
+
 
 * Create internal scorecards
 * Flag weak outputs for prompt refactor
 * Use common fail types to redesign prompt structure
 
 ### For Fine-Tuned or RAG Models:
+
 
 * Feed bad outputs into retraining set
 * Improve retrieval precision (re-ranking, source trimming)
@@ -123,7 +135,8 @@ Just like code, prompts need:
 
 ***
 
-## 📏 Using Metrics Without Gaming the System
+##  Using Metrics Without Gaming the System
+
 
 Track:
 
@@ -142,7 +155,8 @@ Avoid:
 
 ***
 
-## 🧠 Reflection Activity: Run a Prompt Evaluation Sprint
+##  Reflection Activity: Run a Prompt Evaluation Sprint
+
 
 Choose 3 high-traffic prompts your team uses.
 
@@ -164,9 +178,11 @@ Document:
 
 ***
 
-## 🧩 Visual Aids: Prompt Testing Frameworks
+##  Visual Aids: Prompt Testing Frameworks
+
 
 ### Prompt QA Lifecycle (End-to-End)
+
 
 ```
 [Prompt Draft]
@@ -183,6 +199,7 @@ Document:
 ```
 
 ### A/B Testing Flow
+
 
 ```
 [Input Dataset]

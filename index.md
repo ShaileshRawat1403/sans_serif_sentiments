@@ -4,7 +4,9 @@ icon: user-ninja
 
 # sans\_serif\_sentiments
 
+
 ## Sans Serif Sentiments
+
 
 **Simple words. Sincere intent.**
 
@@ -19,11 +21,13 @@ It comes from caring enough to strip away the fluff.
 
 ### _sans\_serif\_sentiments - the philosophy_
 
+
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;background-color:blue;">The absence. The quiet.  The space where meaning isn’t overpowered by noise.</mark></td><td><a href=".gitbook/assets/san.png">san.png</a></td></tr><tr><td align="center"><mark style="color:red;background-color:red;">The excess. The embellishment. The things we add to impress, but not always to inform.</mark></td><td><a href=".gitbook/assets/serif.png">serif.png</a></td></tr><tr><td align="center"><mark style="background-color:green;">What’s left when the distractions are gone. The residue of real intent.</mark></td><td><a href=".gitbook/assets/senti.png">senti.png</a></td></tr></tbody></table>
 
 ***
 
 #### Why This Page Exists
+
 
 This is more than a design choice or a writing aesthetic.
 
@@ -65,7 +69,8 @@ This is more than a design choice or a writing aesthetic.
 
 ***
 
-#### You Don’t Need a Prompt. You Need a Pause.
+#### You Dont Need a Prompt. You Need a Pause.
+
 
 Most content today begins in a rush — powered by templates, trends, or tech.
 
@@ -82,6 +87,7 @@ And words are not decoration — they are **decisions**.
 ***
 
 #### Who This Is For
+
 
 Anyone who:
 

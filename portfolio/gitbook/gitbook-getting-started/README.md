@@ -1,11 +1,13 @@
-# 🚀 Getting Started with GitBook
+#  Getting Started with GitBook
+
 
 Use this guide to create your first documentation space in GitBook, add a page, and publish it.  
 This is the next step after configuring your account and workspace.
 
 ---
 
-## 📌 Overview
+##  Overview
+
 
 A **space** in GitBook is a standalone project that contains one or more pages of documentation.  
 Spaces can be public or private, and they can be structured into sections and subpages for clarity.
@@ -16,6 +18,7 @@ This guide helps you create a new space and publish your first document.
 
 ## ✅ Prerequisites
 
+
 - A GitBook account  
 - Access to your workspace  
 - Editor or Admin role assigned  
@@ -24,7 +27,8 @@ This guide helps you create a new space and publish your first document.
 
 ---
 
-## 📁 Create a New Space
+##  Create a New Space
+
 
 - From your workspace dashboard, locate the **+ New space** button  
 - Click it to open the space creation modal  
@@ -40,7 +44,8 @@ This guide helps you create a new space and publish your first document.
 
 ---
 
-## 📄 Add Your First Page
+##  Add Your First Page
+
 
 - Your space will open with a blank sidebar and welcome prompt  
 - Click **“+ New page”**  
@@ -55,7 +60,8 @@ This guide helps you create a new space and publish your first document.
 
 ---
 
-## 🌍 Publish Your Page
+##  Publish Your Page
+
 
 - Click **Publish** in the top-right corner  
 - Confirm your space’s visibility (Public or Private)  
@@ -70,6 +76,7 @@ This guide helps you create a new space and publish your first document.
 
 ## ✅ Outcome
 
+
 After completing this guide, you will have:
 
 - Created a new space in your workspace  
@@ -80,13 +87,15 @@ After completing this guide, you will have:
 
 ## ➕ Next Steps
 
+
 - [Use the Editor →](./gitbook-editor-guide.md): Learn formatting and layout tools  
 - [Compare Editing Modes →](./gitbook-writing-modes-reference.md): Decide between Markdown and Blocks  
 - [Explore the Glossary →](./gitbook-glossary.md): Get familiar with GitBook terms
 
 ---
 
-## 🔗 Related Docs
+##  Related Docs
+
 
 - [Overview →](./gitbook-overview.md)  
 - [Setup Guide →](./gitbook-setup-guide.md)

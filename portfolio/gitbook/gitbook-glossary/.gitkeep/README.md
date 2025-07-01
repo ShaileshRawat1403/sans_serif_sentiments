@@ -1,4 +1,5 @@
-# 📘 GitBook Glossary
+#  GitBook Glossary
+
 
 A quick-reference guide to help you understand the most common terms and components in the GitBook documentation suite. Each term includes a plain-language definition and links to relevant guides for hands-on learning.
 

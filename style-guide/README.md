@@ -4,6 +4,7 @@ icon: pen-swirl
 
 # Style Guide
 
+
 **Version 1.0 • 2025-05-19**
 
 _A living framework for calm, clear, human-first documentation._
@@ -11,6 +12,7 @@ _A living framework for calm, clear, human-first documentation._
 ***
 
 ## 1. Purpose of This Guide
+
 
 > A style guide is not just about formatting—it's about trust.\
 > This document exists to create a **shared voice**, a **clear standard**, and a **reliable starting point** for anyone contributing to sans-serif-sentiments.
@@ -27,6 +29,7 @@ This isn’t about rules. It’s about rhythm.
 
 ## 2. Tone & Voice
 
+
 _Calm, clear, sincere—never robotic._
 
 Your writing should feel like a conversation with someone who’s:
@@ -35,7 +38,8 @@ Your writing should feel like a conversation with someone who’s:
 * Knowledgeable but not preachy
 * Friendly but not trying too hard
 
-### 🎯 What We Aim For
+###  What We Aim For
+
 
 | Trait       | What It Means                                                            |
 | ----------- | ------------------------------------------------------------------------ |
@@ -49,11 +53,13 @@ Your writing should feel like a conversation with someone who’s:
 
 ### ❌ Cold, Robotic
 
+
 ```markdown
 To proceed with installation, users are advised to verify system prerequisites prior to continuing.
 ```
 
 ### ✅ Calm + Human
+
 
 ```markdown
 Before you install, check if your system meets the requirements.  
@@ -64,11 +70,13 @@ It takes 30 seconds and saves frustration later.
 
 ### ❌ Corporate & Vague
 
+
 ```markdown
 Our platform leverages AI capabilities to enhance synergies across verticals.
 ```
 
 ### ✅ Sincere + Clear
+
 
 ```markdown
 We use AI to help teams work faster and with fewer manual tasks.
@@ -78,11 +86,13 @@ We use AI to help teams work faster and with fewer manual tasks.
 
 ### ❌ Friendly but Overdone
 
+
 ```markdown
 Hey there, champ! 😎 Ready to install some software?! Let’s crush it! 💥
 ```
 
 ### ✅ Friendly and Respectful
+
 
 ```markdown
 Let’s get you set up. This guide takes about 3 minutes to follow.
@@ -97,13 +107,15 @@ Let’s get you set up. This guide takes about 3 minutes to follow.
 
 ## 3. Structure & Hierarchy
 
+
 _When and how to use headings and whitespace._
 
 Your doc should feel like a conversation with chapters—not a cluttered note.
 
 ***
 
-### 📐 Use heading levels to guide the eye:
+###  Use heading levels to guide the eye:
+
 
 | Markdown  | Purpose                                  |
 | --------- | ---------------------------------------- |
@@ -119,35 +131,49 @@ Your doc should feel like a conversation with chapters—not a cluttered note.
 
 ### ❌ Cluttered Heading Use
 
+
 ```markdown
 # How it Works
+
 ## Setup
+
 ### Token
+
 #### Details
+
 ### Login
+
 ### Interface
+
 ```
 
 ### ✅ Clear Hierarchy
 
+
 ```markdown
 # How It Works
 
+
 ## 1. Setup
 
+
 ### Generate a Token  
+
 Explain what it does and why it’s needed.
 
 ### Log In  
+
 Describe what users should expect.
 
 ## 2. Using the Interface  
+
 Quick intro before listing features.
 ```
 
 ***
 
-### 📌 🔢 Numbering Style Guidelines
+###   Numbering Style Guidelines
+
 
 * ✅ Use numbers in the TOC for scanning and structure
 * ❌ Do not include numbering in actual document headings (`##`).
@@ -175,7 +201,8 @@ Quick intro before listing features.
 
 ***
 
-### 📌 📝 Leading Sentences Guidelines
+###   Leading Sentences Guidelines
+
 
 * ✅ Always start a new section or procedural list with a brief intro sentence that explains **why** the reader is here.
 * ❌ Avoid jumping straight into steps without context.
@@ -192,7 +219,8 @@ Quick intro before listing features.
 
 ***
 
-### 📌 🔗 Heading Consistency & Parallelism
+###   Heading Consistency & Parallelism
+
 
 * ✅ Write related headings in the same grammatical form (e.g., all imperatives: “Install,” “Configure,” “Verify”).
 * ❌ Don’t mix styles like “Installing the Tool” with “Setup Instructions.”
@@ -209,7 +237,8 @@ Quick intro before listing features.
 
 ***
 
-### 🔁 Good vs Bad Examples Summary Table
+###  Good vs Bad Examples Summary Table
+
 
 | ❌ Don’t Do This                                      | ✅ Do This Instead                                                     |
 | ---------------------------------------------------- | --------------------------------------------------------------------- |
@@ -222,7 +251,8 @@ Quick intro before listing features.
 
 ***
 
-## 📏 Whitespace = Breathing Room
+##  Whitespace = Breathing Room
+
 
 Use whitespace like punctuation. It slows the scroll and helps the eye.
 
@@ -230,14 +260,17 @@ Use whitespace like punctuation. It slows the scroll and helps the eye.
 
 ### ❌ Wall of Text
 
+
 ```markdown
 To install the CLI tool, go to the website and download the installer. After that, run the installer and follow the setup wizard. Finally, verify the installation by typing `tool --version` in the terminal.
 ```
 
 ### ✅ Structured & Skimmable
 
+
 ````markdown
 ### Install the CLI Tool
+
 
 1. Go to the [Downloads page](#)
 2. Run the installer
@@ -257,7 +290,8 @@ tool --version
 
 ---
 
-### 🧼 Use whitespace like punctuation
+###  Use whitespace like punctuation
+
 
 - One thought = one paragraph  
 - Use bullets or tables instead of dense text  
@@ -268,6 +302,7 @@ tool --version
 ---
 
 ## 4. Emphasis Rules  
+
 _Use emphasis to guide—not distract._
 
 Use `**bold**` and `*italic*` intentionally. Don’t shout. Don’t decorate.
@@ -282,11 +317,13 @@ Use `**bold**` and `*italic*` intentionally. Don’t shout. Don’t decorate.
 ---
 
 ### ❌ Overdone & Distracting
+
 ```markdown
 **IMPORTANT**: You MUST click the **FINAL** button at the **END** of the page.
 ````
 
 ### ✅ Balanced and Focused
+
 
 ```markdown
 Click the **Final** button at the end of the page.  
@@ -297,11 +334,13 @@ This step completes the setup.
 
 ### ❌ Emphasizing full sentences
 
+
 ```markdown
 **You should always check the version before upgrading.**
 ```
 
 ### ✅ Use emphasis _within_ the sentence
+
 
 ```markdown
 You should always check the **version** before upgrading.
@@ -313,9 +352,11 @@ You should always check the **version** before upgrading.
 
 ## 5. Language & Word Choice
 
+
 _Preferred words, banned jargon._
 
 ### ✅ Use simple, common words:
+
 
 | Bad                  | Better                  |
 | -------------------- | ----------------------- |
@@ -328,6 +369,7 @@ _Preferred words, banned jargon._
 
 ### ❌ Avoid these patterns:
 
+
 * "It is recommended that…" → say “We recommend…”
 * “At your earliest convenience…” → say “When you’re ready”
 * “Endeavor to…” → just… don’t.
@@ -336,11 +378,13 @@ _Preferred words, banned jargon._
 
 ### ❌ Vague, bloated
 
+
 ```markdown
 Our solution facilitates synergistic workflows across multiple platforms.
 ```
 
 ### ✅ Specific, human
+
 
 ```markdown
 Our tool helps teams work together across different apps—without switching tabs.
@@ -350,11 +394,13 @@ Our tool helps teams work together across different apps—without switching tab
 
 ### ❌ Legalese-style
 
+
 ```markdown
 Users are advised to initiate credential verification upon initial login.
 ```
 
 ### ✅ Human-first
+
 
 ```markdown
 When you log in for the first time, we’ll ask you to verify your account.
@@ -366,33 +412,41 @@ When you log in for the first time, we’ll ask you to verify your account.
 
 ## 6. Layout Patterns
 
+
 _Common structures for different doc types._
 
 Use these reusable layouts to speed up writing and bring consistency across docs.
 
-### 📦 Setup Guide
+###  Setup Guide
+
 
 ```markdown
 ## Getting Started
 
+
 > What this guide helps you do in under 5 minutes.
 
 ### Step 1: Install XYZ  
+
 Brief one-line description.
 
 ### Step 2: Configure XYZ  
+
 Break it into 2–3 bullets if needed.
 
 ### Step 3: Verify  
+
 Show how success looks.
 ```
 
 ***
 
-### 📘 How-To Guide
+###  How-To Guide
+
 
 ```markdown
 ## How to Do One Specific Thing
+
 
 > What this does and why it’s useful.
 
@@ -405,10 +459,12 @@ Show how success looks.
 
 ***
 
-### 🧠 Concept/Overview Doc
+###  Concept/Overview Doc
+
 
 ```markdown
 ## What is [Concept]?
+
 
 > Short, calm, non-salesy definition
 
@@ -423,6 +479,7 @@ Show how success looks.
 
 ## 7. Content Philosophy
 
+
 _Empathy-led, human-first writing._
 
 We don’t write to look smart.\
@@ -432,14 +489,16 @@ This guide exists to protect that principle.
 
 ***
 
-### 💭 Why This Philosophy Matters
+###  Why This Philosophy Matters
+
 
 Documentation is the _first real conversation_ between your product and your user.\
 If that conversation is cold, robotic, or overloaded—they walk away.
 
 ***
 
-### 🎯 What We Believe
+###  What We Believe
+
 
 | Principle                             | What It Means                                                        |
 | ------------------------------------- | -------------------------------------------------------------------- |
@@ -453,11 +512,13 @@ If that conversation is cold, robotic, or overloaded—they walk away.
 
 ### ❌ A Typical, Surface-Level Doc
 
+
 ```markdown
 The installation process requires you to download the binary, extract it, and modify your PATH variable accordingly.
 ```
 
 ### ✅ A Human-First Rewrite
+
 
 ```markdown
 To install the tool:
@@ -475,11 +536,13 @@ Not sure what "PATH" means? No worries—[we’ll explain it here](#what-is-path
 
 ### ❌ Corporate Legalese
 
+
 ```markdown
 This integration utilizes proprietary methods to ensure optimal connectivity across environments.
 ```
 
 ### ✅ Sans-Serif Sentiments Style
+
 
 ```markdown
 We built this integration to be reliable, fast, and easy to connect—no matter your environment.
@@ -491,6 +554,7 @@ We built this integration to be reliable, fast, and easy to connect—no matter 
 
 ## ✅ TL;DR
 
+
 * People don’t read docs because they _want_ to. They read them because they’re stuck.
 * We don’t waste their time trying to sound impressive—we respect it by being helpful.
 * Empathy isn’t a “nice-to-have”—it’s our UX strategy in writing.
@@ -501,6 +565,7 @@ We built this integration to be reliable, fast, and easy to connect—no matter 
 
 ## 8. Markdown & Commit Style
 
+
 _The backbone of formatting clarity._
 
 Markdown is the shared language of your documentation.\
@@ -509,6 +574,7 @@ Used well, it brings structure and calm. Used carelessly, it creates chaos.
 ***
 
 ### ✅ Markdown Guidelines
+
 
 | Task        | Rule                                        |
 | ----------- | ------------------------------------------- |
@@ -525,6 +591,7 @@ Used well, it brings structure and calm. Used carelessly, it creates chaos.
 
 ### ❗ Common Markdown Mistakes to Avoid
 
+
 | Mistake                      | Better Approach                                              |
 | ---------------------------- | ------------------------------------------------------------ |
 | Mixing `*` and `-` in lists  | Stick with `-` for all unordered items                       |
@@ -534,7 +601,8 @@ Used well, it brings structure and calm. Used carelessly, it creates chaos.
 
 ***
 
-### 🧠 When to Use Inline vs Block Code
+###  When to Use Inline vs Block Code
+
 
 | Use Case                                | Use This                                   |
 | --------------------------------------- | ------------------------------------------ |
@@ -547,6 +615,7 @@ Use inline when referencing, block when teaching.
 ***
 
 ### ✅ Commit Message Style
+
 
 We use **conventional commit prefixes** for clarity and changelog generation:
 
@@ -564,7 +633,8 @@ chore: update dependencies
 
 ***
 
-### 💬 Why It Matters
+###  Why It Matters
+
 
 Your commit history is not just a log—it’s a **narrative**.\
 Clear messages help:
@@ -578,6 +648,7 @@ Clear messages help:
 ***
 
 ## 9. Accessibility & Inclusivity
+
 
 _Alt-text, plain language, and respect for real-world readers._
 
@@ -593,7 +664,8 @@ That includes:
 
 ***
 
-### 🧭 Core Principles
+###  Core Principles
+
 
 | Principle                               | What It Means                                       |
 | --------------------------------------- | --------------------------------------------------- |
@@ -607,6 +679,7 @@ That includes:
 
 ### ❌ Inaccessible Example
 
+
 ```markdown
 Hey! Click here to learn more! 🎉
 
@@ -614,6 +687,7 @@ Hey! Click here to learn more! 🎉
 ```
 
 ### ✅ Inclusive Rewrite
+
 
 ```markdown
 Want a deeper explanation? [Read the API example guide](../examples/remapped-api.md)
@@ -625,7 +699,8 @@ Want a deeper explanation? [Read the API example guide](../examples/remapped-api
 
 ***
 
-### 🛠 Tools That Help
+###  Tools That Help
+
 
 * [Hemingway Editor](https://hemingwayapp.com/) – Simplify complex sentences
 * [WAVE Accessibility Tool](https://wave.webaim.org/) – Audit contrast, alt text, etc.
@@ -633,7 +708,8 @@ Want a deeper explanation? [Read the API example guide](../examples/remapped-api
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Add alt text that makes sense out of context
 * Write like your reader has one eye on the clock and one hand on their toddler
@@ -647,6 +723,7 @@ Want a deeper explanation? [Read the API example guide](../examples/remapped-api
 
 ## 10. Localization & Translation
 
+
 _Placeholder syntax, tone shifts, and global awareness._
 
 Good docs speak many languages—even when they’re only written in one.
@@ -656,7 +733,8 @@ It starts with writing that’s clear, culture-neutral, and easy to adapt.
 
 ***
 
-### 🌍 Key Practices for Localization-Friendly Writing
+###  Key Practices for Localization-Friendly Writing
+
 
 | Practice                                        | Why It Matters                                       |
 | ----------------------------------------------- | ---------------------------------------------------- |
@@ -670,12 +748,14 @@ It starts with writing that’s clear, culture-neutral, and easy to adapt.
 
 ### ❌ Bad for Translation
 
+
 ```markdown
 You’ve nailed it—time to kick things off! 🎉  
 Click “Go” and let’s roll!
 ```
 
 ### ✅ Localization-Friendly Version
+
 
 ```markdown
 You're ready to begin.  
@@ -686,7 +766,8 @@ Click **Go** to start the process.
 
 ***
 
-### 🧩 Placeholder Format
+###  Placeholder Format
+
 
 When writing text that will include dynamic values (e.g., usernames, file paths), use clear and localizable syntax:
 
@@ -705,7 +786,8 @@ Welcome, $username! Your file is in $path
 
 ***
 
-### 🛠 Helpful Tools
+###  Helpful Tools
+
 
 * [Phrase](https://phrase.com) – Translation management platform
 * [Crowdin](https://crowdin.com) – Collaborative localization for docs
@@ -713,7 +795,8 @@ Welcome, $username! Your file is in $path
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Write for translation by writing clearly
 * Avoid wordplay and ambiguity
@@ -726,13 +809,15 @@ Welcome, $username! Your file is in $path
 
 ## 11. Linking & Cross-Referencing
 
+
 _Teaching users how to navigate like pros._
 
 A good link is like a guidepost. It’s clear, descriptive, and helps the reader move forward confidently—without friction or confusion.
 
 ***
 
-### 🔗 Link Types & Formats
+###  Link Types & Formats
+
 
 | Type               | Format                          | Example                                        |
 | ------------------ | ------------------------------- | ---------------------------------------------- |
@@ -746,6 +831,7 @@ A good link is like a guidepost. It’s clear, descriptive, and helps the reader
 
 ### ❌ Poor Linking Practices
 
+
 ```markdown
 Click [here](https://example.com) to continue.
 
@@ -755,6 +841,7 @@ Follow this link to [go back](#).
 ```
 
 ### ✅ Clean, Descriptive Links
+
 
 ```markdown
 To view our API setup process, [read the Setup Guide](../docs/api-setup.md).
@@ -766,13 +853,16 @@ Want to jump ahead? [Skip to Troubleshooting](#troubleshooting)
 
 ***
 
-### 📌 Internal Anchors: How They Work
+###  Internal Anchors: How They Work
+
 
 GitHub automatically creates an anchor link for every heading.
 
 ```markdown
 ## How to Install → becomes → #how-to-install
+
 ## FAQ & Troubleshooting → #faq--troubleshooting
+
 ```
 
 Rules:
@@ -791,7 +881,8 @@ Rules:
 
 ***
 
-### 🧠 Best Practices
+###  Best Practices
+
 
 * ✅ Link nouns, not verbs:\
   ❌ `Click here to learn more` → ✅ `Learn more about [markdown formatting]`
@@ -807,6 +898,7 @@ Rules:
 
 ## 12. Code & Command Snippets
 
+
 _Highlight with clarity, not clutter._
 
 Code blocks aren’t just for developers—they’re clarity boosters.\
@@ -814,7 +906,8 @@ Done right, they make your docs feel helpful, visual, and skimmable.
 
 ***
 
-### 📦 Code Block Guidelines
+###  Code Block Guidelines
+
 
 | Rule                                | ✅ Do This                          |
 | ----------------------------------- | ---------------------------------- |
@@ -828,6 +921,7 @@ Done right, they make your docs feel helpful, visual, and skimmable.
 
 ### ❌ Poorly Formatted Example
 
+
 ```markdown
 To install, run the command below:
 
@@ -838,14 +932,17 @@ npm start
 
 ### ✅ Structured, Clear Version
 
+
 ````markdown
 ## Install the Package
+
 
 ```bash
 npm install my-package
 ````
 
 ## Run the App
+
 
 ```bash
 npm start
@@ -858,6 +955,7 @@ npm start
 ---
 
 ### ❌ Unlabeled, Unreadable JSON
+
 ```markdown
 ````
 
@@ -867,6 +965,7 @@ npm start
 ```
 
 ### ✅ Properly Labeled JSON Block
+
 
 ```json
 {
@@ -879,6 +978,7 @@ npm start
 
 ### ✅ Inline Code Best Practices
 
+
 Use inline code (with single backticks) for:
 
 * Filenames: `` `config.yaml` ``
@@ -889,7 +989,8 @@ Use inline code (with single backticks) for:
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 | ❌ Don't                      | ✅ Do                                 |
 | ---------------------------- | ------------------------------------ |
@@ -904,6 +1005,7 @@ Use inline code (with single backticks) for:
 
 ## 13. Admonitions & Callouts
 
+
 _⚠️ warnings, 💡 tips, ✅ examples._
 
 Documentation isn’t just about **telling**—it’s about **guiding**.\
@@ -917,7 +1019,8 @@ Admonitions (also called "callouts") help readers:
 
 ***
 
-### 🎯 Types of Admonitions We Use
+###  Types of Admonitions We Use
+
 
 | Type        | Emoji    | Use It When…                                   |
 | ----------- | -------- | ---------------------------------------------- |
@@ -928,9 +1031,11 @@ Admonitions (also called "callouts") help readers:
 
 ***
 
-### 💡 How to Format
+###  How to Format
+
 
 #### ✅ Basic Markdown
+
 
 Use blockquotes with emojis + bold labels:
 
@@ -941,6 +1046,7 @@ Use blockquotes with emojis + bold labels:
 ```
 
 #### ✅ GitHub-Flavored Markdown (advanced)
+
 
 If using a static site generator (like Docusaurus or MkDocs), you can use custom containers:
 
@@ -958,12 +1064,14 @@ Never expose your API key in public repos.
 
 ### ❌ Flat and Forgettable
 
+
 ```markdown
 Be careful not to delete your database.
 You can use dry-run to test it first.
 ```
 
 ### ✅ Structured & Supportive
+
 
 ```markdown
 > ⚠️ **Warning:** Running this will erase all data in the `prod` environment.
@@ -973,7 +1081,8 @@ You can use dry-run to test it first.
 
 ***
 
-### 🧠 When to Use Them
+###  When to Use Them
+
 
 * ✅ If the reader might mess it up, use a **warning**
 * ✅ If there’s a faster path, use a **tip**
@@ -985,7 +1094,8 @@ You can use dry-run to test it first.
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Use callouts like a mentor: kind, honest, and clear.
 * Don’t write “gotchas” after the fact—guide before the fall.
@@ -994,6 +1104,7 @@ You can use dry-run to test it first.
 ***
 
 ## 14. Asset Management
+
 
 _Folder conventions, image specs, and the hidden art of staying organized._
 
@@ -1004,7 +1115,8 @@ Let’s not do that.
 
 ***
 
-### 📁 Folder Structure
+###  Folder Structure
+
 
 All static assets—images, icons, charts, downloadable files—go here:
 
@@ -1023,7 +1135,8 @@ Use lowercase folder and file names, with hyphens instead of spaces: ✅ `api-fl
 
 ***
 
-### 🌄 Image Guidelines
+###  Image Guidelines
+
 
 | Rule        | What To Do                                                                          |
 | ----------- | ----------------------------------------------------------------------------------- |
@@ -1037,11 +1150,13 @@ Use lowercase folder and file names, with hyphens instead of spaces: ✅ `api-fl
 
 ### ❌ Bad Practice
 
+
 ```markdown
 ![img1](../docs/random_assets/finalfinal2.PNG)
 ```
 
 ### ✅ Better
+
 
 ```markdown
 ![User selecting a date range in the dashboard](../../assets/images/date-filter-ui.png)
@@ -1052,7 +1167,8 @@ Use lowercase folder and file names, with hyphens instead of spaces: ✅ `api-fl
 
 ***
 
-### 📦 Embeddable Files
+###  Embeddable Files
+
 
 If you’re including downloads (PDFs, templates, etc.), place them under `/assets/downloads/`.
 
@@ -1068,7 +1184,8 @@ Avoid:
 
 ***
 
-### 🧠 Why This Matters
+###  Why This Matters
+
 
 * Images without structure = broken links later
 * Large files = slow docs
@@ -1078,7 +1195,8 @@ Avoid:
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Use `/assets/` with clear subfolders (`images`, `downloads`, `diagrams`)
 * Optimize every image—don’t dump raw screenshots
@@ -1089,6 +1207,7 @@ Avoid:
 
 ## 15. Tables, Lists & Layouts
 
+
 _When to use which—and why your formatting matters._
 
 Users don’t read docs like a novel.\
@@ -1097,7 +1216,8 @@ Your structure should _support that behavior—not fight it_.
 
 ***
 
-### 📋 When to Use a List
+###  When to Use a List
+
 
 Use **bulleted lists** when:
 
@@ -1129,7 +1249,9 @@ Use **numbered lists** when:
 
 ### ❌ Common Mistakes in Bullet Lists
 
-#### 🚫 Mixed formats
+
+####  Mixed formats
+
 
 ```markdown
 - Clone the repo
@@ -1149,7 +1271,8 @@ Run the dev server after that
 
 ***
 
-#### 🚫 Rambly, paragraph-length bullets
+####  Rambly, paragraph-length bullets
+
 
 ```markdown
 - First, you’re going to want to make sure your environment is set up correctly, which means checking Node version, Python path, and also ensuring that you have Git installed and configured properly.
@@ -1166,7 +1289,8 @@ Run the dev server after that
 
 ***
 
-#### 🚫 Inconsistent grammar or tone
+####  Inconsistent grammar or tone
+
 
 ```markdown
 - Creates the token  
@@ -1187,7 +1311,8 @@ Run the dev server after that
 
 ***
 
-### 📐 When to Use a Table
+###  When to Use a Table
+
 
 Use a **table** when:
 
@@ -1210,6 +1335,7 @@ Use a **table** when:
 
 ### ❌ Overdone Table
 
+
 ```markdown
 | Step | Instruction                                                                 |
 |------|-----------------------------------------------------------------------------|
@@ -1221,6 +1347,7 @@ Use a **table** when:
 ```markdown
 ### To set up:
 
+
 1. Go to the [download page](#)  
 2. Download the installer  
 3. Run the installer and follow prompts
@@ -1228,12 +1355,14 @@ Use a **table** when:
 
 ***
 
-### 🧱 Visual Layout Patterns (Micro-Layouts)
+###  Visual Layout Patterns (Micro-Layouts)
+
 
 Think in **building blocks**:
 
 ```markdown
 ## Heading  
+
 > Intro sentence (optional)  
 - List or short paragraph  
 - Optional tip or callout  
@@ -1247,7 +1376,8 @@ Don’t:
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Lists are for flow. Tables are for side-by-side comparison.
 * Don’t turn your prose into spreadsheets.
@@ -1259,6 +1389,7 @@ Don’t:
 ***
 
 ## 16. Terminology & Glossary
+
 
 _Define and link key terms so your readers—and your writers—stay aligned._
 
@@ -1272,7 +1403,8 @@ This glossary is your **source of truth** for:
 
 ***
 
-### 📘 Why It Matters
+###  Why It Matters
+
 
 | Without a glossary                                                   | With a glossary                           |
 | -------------------------------------------------------------------- | ----------------------------------------- |
@@ -1282,7 +1414,8 @@ This glossary is your **source of truth** for:
 
 ***
 
-### 🔤 Example Glossary Table
+###  Example Glossary Table
+
 
 | Term          | Definition                                          | Use it when…                      | Don’t confuse with |
 | ------------- | --------------------------------------------------- | --------------------------------- | ------------------ |
@@ -1294,7 +1427,8 @@ This glossary is your **source of truth** for:
 
 ***
 
-### 🧠 Tips for Maintaining the Glossary
+###  Tips for Maintaining the Glossary
+
 
 * ✅ Add a new term when:
   * You’ve used it 3+ times across docs
@@ -1312,7 +1446,8 @@ This glossary is your **source of truth** for:
 
 ***
 
-### 📌 Formatting Rules
+###  Formatting Rules
+
 
 | Rule           | What to Follow                                                       |
 | -------------- | -------------------------------------------------------------------- |
@@ -1324,7 +1459,8 @@ This glossary is your **source of truth** for:
 
 ***
 
-### 🧨 Common Anti-Patterns
+###  Common Anti-Patterns
+
 
 | Problem                                      | Fix                                               |
 | -------------------------------------------- | ------------------------------------------------- |
@@ -1334,7 +1470,8 @@ This glossary is your **source of truth** for:
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Your glossary is a contract between writer and reader
 * Define once, use everywhere
@@ -1345,6 +1482,7 @@ This glossary is your **source of truth** for:
 > They get bloated because of repeated definitions.
 
 ## 17. Doc Versioning & Changelogs
+
 
 _Semantic versions, last updated tags, and reader trust._
 
@@ -1358,7 +1496,8 @@ Versioning and changelogs help users know:
 
 ***
 
-### 🧮 Versioning Rules (Docs ≠ Product)
+###  Versioning Rules (Docs ≠ Product)
+
 
 Use [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`) for **published docs**, especially when they map to product releases.
 
@@ -1378,7 +1517,8 @@ _Last updated: May 21, 2025 • Version: 1.2.3_
 
 ***
 
-### 🗂️ Creating a Great CHANGELOG.md
+### ️ Creating a Great CHANGELOG.md
+
 
 Keep a root-level changelog that summarizes updates in **plain English** and separates additions, fixes, and changes:
 
@@ -1386,25 +1526,32 @@ Keep a root-level changelog that summarizes updates in **plain English** and sep
 
 ```markdown
 ## [2.1.0] – 2025-05-21
+
 ### Added
+
 - Slack bot quickstart template
 - Callout formatting section under “Tone & Voice”
 
 ### Fixed
+
 - Broken anchor link in API setup
 - Grammar issues in intro paragraphs
 
 ## [2.0.0] – 2025-04-01
+
 ### Changed
+
 - Reorganized entire Style Guide for clarity
 - Moved examples into `/examples/` folder
 ```
 
 ***
 
-### ❌ Don’t Do This
+### ❌ Dont Do This
+
 
 #### 1. ❌ Vague Commit Messages
+
 
 ```bash
 git commit -m "update docs"
@@ -1420,6 +1567,7 @@ git commit -m "docs: clarify setup steps in quickstart guide"
 
 #### 2. ❌ Messy Changelog
 
+
 ```markdown
 - Fixed some stuff  
 - Added docs  
@@ -1430,9 +1578,11 @@ git commit -m "docs: clarify setup steps in quickstart guide"
 
 ```markdown
 ### Fixed
+
 - Removed duplicate command in CLI section
 
 ### Added
+
 - New “Writing Principles” subsection with examples
 ```
 
@@ -1440,8 +1590,10 @@ git commit -m "docs: clarify setup steps in quickstart guide"
 
 #### 3. ❌ No “Last Updated” Info
 
+
 ```markdown
 ## Setup Guide
+
 
 Step 1: Install the CLI...
 ```
@@ -1450,12 +1602,14 @@ Step 1: Install the CLI...
 
 ```markdown
 ## Setup Guide  
+
 _Last updated: May 21, 2025_
 ```
 
 ***
 
 ### ✅ Where to Show Versioning
+
 
 | Place             | What to Show                                  |
 | ----------------- | --------------------------------------------- |
@@ -1467,7 +1621,8 @@ _Last updated: May 21, 2025_
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Use semantic versioning when your docs follow product changes
 * Maintain a clean, readable `/CHANGELOG.md`
@@ -1479,6 +1634,7 @@ _Last updated: May 21, 2025_
 > Changelogs tell the humans.
 
 ## 18. Review & Feedback Process
+
 
 _How to propose, review, and merge changes without losing your mind—or your voice._
 
@@ -1495,6 +1651,7 @@ This section defines how we do that:
 
 ### ✍️ Submitting a Doc Change (Pull Request Etiquette)
 
+
 ✅ Before opening a pull request:
 
 * Read the [Style Guide](../STYLE-GUIDE/STYLE-GUIDE.md)
@@ -1507,15 +1664,18 @@ This section defines how we do that:
 
 #### ❌ Vague PR Description
 
+
 > “Fixed some typos and stuff.”
 
 #### ✅ Better
+
 
 > “Clarified token vs. key usage in authentication section. Added alt text to 2 missing diagrams.”
 
 ***
 
-### 👀 How We Review
+###  How We Review
+
 
 ✅ We use this 4-check system:
 
@@ -1530,7 +1690,8 @@ This section defines how we do that:
 
 ***
 
-### 💬 How to Give Better Feedback
+###  How to Give Better Feedback
+
 
 | ❌ Don't Say                           | ✅ Say Instead                                             |
 | ------------------------------------- | --------------------------------------------------------- |
@@ -1544,6 +1705,7 @@ This section defines how we do that:
 
 ### ✅ Merging Guidelines
 
+
 * Every major update needs 1+ reviewer approval
 * Editorial changes (grammar, spacing, internal links) can be merged solo
 * Contributors **must** tag the latest doc version and update the changelog if the structure changes
@@ -1551,7 +1713,8 @@ This section defines how we do that:
 
 ***
 
-### 🧠 Pro Tips
+###  Pro Tips
+
 
 * If a change “feels off,” suggest—not block
 * If a section is unclear, ask _what it’s trying to do_, not just how it’s written
@@ -1559,7 +1722,8 @@ This section defines how we do that:
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Reviews are guardrails, not gates
 * Propose clearly, review kindly, and merge consistently
@@ -1570,6 +1734,7 @@ This section defines how we do that:
 ***
 
 ## 19. Automation & Tooling
+
 
 _Linting, CI checks, and the bots that make us better—not bitter._
 
@@ -1586,6 +1751,7 @@ We use light-touch automation to:
 
 ### ⚙️ Recommended Tools
 
+
 | Tool           | What It Does                                                | When We Use It             |
 | -------------- | ----------------------------------------------------------- | -------------------------- |
 | `markdownlint` | Checks for heading structure, spacing, and common MD errors | On every commit            |
@@ -1596,12 +1762,14 @@ We use light-touch automation to:
 
 ***
 
-### 🧠 Example: Pre-Commit Hook with `markdownlint`
+###  Example: Pre-Commit Hook with `markdownlint`
+
 
 `.husky/pre-commit`
 
 ```bash
 #!/bin/sh
+
 npx markdownlint "**/*.md"
 ```
 
@@ -1610,6 +1778,7 @@ npx markdownlint "**/*.md"
 ***
 
 ### ✅ GitHub Actions for Docs
+
 
 You can also add automation to your GitHub repo with minimal overhead.
 
@@ -1633,9 +1802,11 @@ jobs:
 
 ***
 
-### 🤖 Don’t Over-Automate
+###  Dont Over-Automate
+
 
 #### ❌ Anti-patterns
+
 
 * Blocking PRs because a line is 81 characters
 * Forcing tools that contributors can’t easily install
@@ -1643,13 +1814,15 @@ jobs:
 
 #### ✅ Better Approach
 
+
 * Catch _preventable friction_ (like broken anchors or missing alt text)
 * Format only what matters (spacing, heading structure)
 * Use automation to assist—not intimidate
 
 ***
 
-### 💬 What to Automate vs Review Manually
+###  What to Automate vs Review Manually
+
 
 | Automate                                | Review Manually                |
 | --------------------------------------- | ------------------------------ |
@@ -1659,7 +1832,8 @@ jobs:
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Use `markdownlint`, `alex`, and pre-commit hooks for clarity and inclusivity
 * Automate the boring stuff so humans can focus on meaning
@@ -1671,6 +1845,7 @@ jobs:
 
 ## 20. SEO & Discoverability
 
+
 _Slugs, meta-tags, internal linking—and how to be found without selling your soul._
 
 Your documentation is only useful if people can find it.\
@@ -1680,7 +1855,8 @@ Search Engine Optimization (SEO) isn’t about gaming Google—it’s about writ
 
 ***
 
-### 🔍 What Impacts Discoverability in Docs
+###  What Impacts Discoverability in Docs
+
 
 | Element               | Why It Matters                                                         |
 | --------------------- | ---------------------------------------------------------------------- |
@@ -1694,23 +1870,27 @@ Search Engine Optimization (SEO) isn’t about gaming Google—it’s about writ
 
 ### ✅ Writing SEO-Friendly Titles
 
+
 **Bad:**
 
 ```markdown
 # Features
+
 ```
 
 **Better:**
 
 ```markdown
 # Key Features of the Slack Integration
+
 ```
 
 ✅ Be specific. Use terms your audience is likely to search for.
 
 ***
 
-### 🧭 Writing Meta Descriptions (If Your Platform Supports It)
+###  Writing Meta Descriptions (If Your Platform Supports It)
+
 
 In frontmatter or metadata blocks:
 
@@ -1723,7 +1903,8 @@ description: "Learn how to configure Slack integration with webhooks, auth, and 
 
 ***
 
-### 📎 Link Placement Best Practices
+###  Link Placement Best Practices
+
 
 * Link **related docs inline** where context is relevant\
   ✅ _“To configure the webhook,_ [_see our error-handling guide_](webhook-errors.md)_.”_
@@ -1735,6 +1916,7 @@ description: "Learn how to configure Slack integration with webhooks, auth, and 
 
 ### ❌ Common SEO Pitfalls
 
+
 | Mistake                          | Better Practice                                      |
 | -------------------------------- | ---------------------------------------------------- |
 | Vague titles (“Getting Started”) | “Getting Started with XYZ CLI (Beginner Guide)”      |
@@ -1744,7 +1926,8 @@ description: "Learn how to configure Slack integration with webhooks, auth, and 
 
 ***
 
-### 🛠 Tools for Smarter Docs SEO
+###  Tools for Smarter Docs SEO
+
 
 | Tool                                                                | Use Case                              |
 | ------------------------------------------------------------------- | ------------------------------------- |
@@ -1755,7 +1938,8 @@ description: "Learn how to configure Slack integration with webhooks, auth, and 
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Title with clarity, not cleverness
 * Write 1–2 sentence summaries (meta descriptions)
@@ -1769,6 +1953,7 @@ description: "Learn how to configure Slack integration with webhooks, auth, and 
 ***
 
 ## 21. Living Documentation
+
 
 _Review schedules, ownership, and docs that age gracefully._
 
@@ -1784,7 +1969,8 @@ A “living” document means:
 
 ***
 
-### 🧠 Signs Your Doc Is Dying
+###  Signs Your Doc Is Dying
+
 
 | Symptom                                     | What It Means                          |
 | ------------------------------------------- | -------------------------------------- |
@@ -1797,6 +1983,7 @@ A “living” document means:
 
 ### ✅ Review Cadence Suggestions
 
+
 | Doc Type                 | Review Every…                        |
 | ------------------------ | ------------------------------------ |
 | Core product docs        | 3–6 months                           |
@@ -1808,7 +1995,8 @@ A “living” document means:
 
 ***
 
-### 🧑‍💼 Assigning Ownership
+### ‍ Assigning Ownership
+
 
 Every major doc should have:
 
@@ -1822,7 +2010,8 @@ _Last reviewed: April 2025 by @devdocqueen_
 
 ***
 
-### 🪦 How to Retire a Doc (Gracefully)
+###  How to Retire a Doc (Gracefully)
+
 
 Don’t just delete it. Deprecate with dignity.
 
@@ -1839,7 +2028,8 @@ Don’t just delete it. Deprecate with dignity.
 
 ***
 
-### 🧭 Proactive Doc Maintenance Checklist
+###  Proactive Doc Maintenance Checklist
+
 
 | Task                                  | Frequency    |
 | ------------------------------------- | ------------ |
@@ -1852,6 +2042,7 @@ Don’t just delete it. Deprecate with dignity.
 
 ### ❌ What Not to Do
 
+
 | Mistake                      | Better Approach                                      |
 | ---------------------------- | ---------------------------------------------------- |
 | Assume published = finished  | Review regularly; treat like product assets          |
@@ -1860,7 +2051,8 @@ Don’t just delete it. Deprecate with dignity.
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Assign doc owners and review cycles—don’t let docs drift
 * Mark outdated guides with version labels or warnings
@@ -1874,6 +2066,7 @@ Don’t just delete it. Deprecate with dignity.
 
 ## 22. AI-Assisted Writing
 
+
 _Guidance on responsible, ethical, and effective use of AI in docs._
 
 AI can draft, polish, rephrase, reformat—and hallucinate.
@@ -1886,7 +2079,8 @@ This section helps you use AI as a writing assistant—not a ghostwriter—and e
 
 ***
 
-### 🤖 What AI Can Help With
+###  What AI Can Help With
+
 
 | Task                   | AI Is Useful For…                                  |
 | ---------------------- | -------------------------------------------------- |
@@ -1900,6 +2094,7 @@ This section helps you use AI as a writing assistant—not a ghostwriter—and e
 
 ### ❌ What AI Should NOT Do
 
+
 | Task                               | Why It’s Risky                                 |
 | ---------------------------------- | ---------------------------------------------- |
 | Write final technical instructions | May hallucinate commands or concepts           |
@@ -1910,7 +2105,8 @@ This section helps you use AI as a writing assistant—not a ghostwriter—and e
 
 ***
 
-### 🧠 Ethical Considerations
+###  Ethical Considerations
+
 
 | Principle                | What It Means                                                            |
 | ------------------------ | ------------------------------------------------------------------------ |
@@ -1927,6 +2123,7 @@ This section helps you use AI as a writing assistant—not a ghostwriter—and e
 
 ### ✅ Ethical AI Workflow
 
+
 1. **Prompt clearly**\
    &#xNAN;_“Rewrite this section for a beginner. Avoid jargon, but don’t lose technical meaning.”_
 2. **Edit ruthlessly**\
@@ -1938,11 +2135,13 @@ This section helps you use AI as a writing assistant—not a ghostwriter—and e
 
 ***
 
-### 🔍 Prompt Design: Good vs Bad
+###  Prompt Design: Good vs Bad
+
 
 Writing for AI is a skill. Here’s how to level up:
 
 #### ❌ Bad Prompt:
+
 
 > “Write API documentation for my product.”
 
@@ -1957,6 +2156,7 @@ Writing for AI is a skill. Here’s how to level up:
 
 #### ✅ Better Prompt:
 
+
 > “Write a short Getting Started section for a REST API with three endpoints: `/login`, `/logout`, and `/profile`. Focus on tone clarity over cleverness. Audience is mid-level devs familiar with Postman.”
 
 ✅ What you get:
@@ -1968,6 +2168,7 @@ Writing for AI is a skill. Here’s how to level up:
 ***
 
 #### ❌ Bad Prompt:
+
 
 > “Explain JSON to a non-techie.”
 
@@ -1981,6 +2182,7 @@ Writing for AI is a skill. Here’s how to level up:
 
 #### ✅ Better Prompt:
 
+
 > “Explain JSON to a non-technical HR manager who understands spreadsheets. Use a friendly tone. Compare it to a table of columns and rows.”
 
 ✅ What you get:
@@ -1993,6 +2195,7 @@ Now that’s **readable and reusable**.
 
 ### ⚠️ Common Pitfalls with AI-Written Docs
 
+
 | Mistake                   | Real Impact                                 |
 | ------------------------- | ------------------------------------------- |
 | Copying without editing   | Leads to errors, bloated text, robotic tone |
@@ -2004,7 +2207,9 @@ Now that’s **readable and reusable**.
 
 ### ✅ Good AI Use vs Bad AI Use
 
+
 #### ✅ Good:
+
 
 ```markdown
 > AI-generated: Drafted alt text for all diagrams.  
@@ -2014,6 +2219,7 @@ Now that’s **readable and reusable**.
 
 #### ❌ Bad:
 
+
 ```markdown
 > AI-generated: Wrote entire user guide.  
 > Human: Copied and pasted into main without review.  
@@ -2022,7 +2228,8 @@ Now that’s **readable and reusable**.
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Use AI to support—not replace—your writing
 * Disclose, review, and rewrite as needed
@@ -2035,6 +2242,7 @@ Now that’s **readable and reusable**.
 ***
 
 ## 23. Multi-Format Output
+
 
 _PDF, slides, video scripts—and writing that works everywhere._
 
@@ -2053,7 +2261,8 @@ This section helps you write with adaptability in mind—so your content can mov
 
 ***
 
-### 🧭 Format-Agnostic Writing Principles
+###  Format-Agnostic Writing Principles
+
 
 | Rule                                 | Why It Matters                                   |
 | ------------------------------------ | ------------------------------------------------ |
@@ -2065,9 +2274,11 @@ This section helps you write with adaptability in mind—so your content can mov
 
 ***
 
-### 🎬 Adapting a Doc to Other Formats
+###  Adapting a Doc to Other Formats
+
 
 #### ✅ Slide Deck (Presentation)
+
 
 | Doc Element  | Slide Equivalent                  |
 | ------------ | --------------------------------- |
@@ -2078,6 +2289,7 @@ This section helps you write with adaptability in mind—so your content can mov
 
 #### ✅ Video Tutorial or Script
 
+
 | Doc Element       | Spoken Equivalent         |
 | ----------------- | ------------------------- |
 | Step-by-step list | Walkthrough narration     |
@@ -2087,13 +2299,16 @@ This section helps you write with adaptability in mind—so your content can mov
 
 ***
 
-### 🧱 Multi-Format Layout Template
+###  Multi-Format Layout Template
+
 
 ```markdown
 ## Section Title  
+
 _1-sentence intro for context_
 
 ### Step-by-step / Concept  
+
 - Step 1: Do the thing  
 - Step 2: Verify it worked  
 - Step 3: Roll back if needed
@@ -2110,6 +2325,7 @@ _1-sentence intro for context_
 
 ### ❌ Pitfalls to Avoid
 
+
 | Problem                              | Fix                                                  |
 | ------------------------------------ | ---------------------------------------------------- |
 | Long, dense paragraphs               | Break into 2–3 line chunks                           |
@@ -2119,7 +2335,8 @@ _1-sentence intro for context_
 
 ***
 
-### 🛠 Tools to Export From Markdown
+###  Tools to Export From Markdown
+
 
 | Tool                                                      | Output                           | Notes                                    |
 | --------------------------------------------------------- | -------------------------------- | ---------------------------------------- |
@@ -2130,7 +2347,8 @@ _1-sentence intro for context_
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Write with format flexibility in mind—structure > style
 * Keep language concise and modular for reuse in slides, videos, scripts, and more
@@ -2142,6 +2360,7 @@ _1-sentence intro for context_
 ***
 
 ## 24. Evolution Rules
+
 
 _How and when this guide updates—because writing standards grow, too._
 
@@ -2156,7 +2375,8 @@ This section defines how we:
 
 ***
 
-### 🧭 When Should the Style Guide Change?
+###  When Should the Style Guide Change?
+
 
 ✅ Add or revise a section when:
 
@@ -2175,7 +2395,8 @@ This section defines how we:
 
 ***
 
-### 🔧 How to Propose a Change
+###  How to Propose a Change
+
 
 Every style edit—no matter how small—should:
 
@@ -2184,6 +2405,7 @@ Every style edit—no matter how small—should:
 * Reference an example of where the current rule caused confusion or inconsistency
 
 #### ✅ Example PR Description:
+
 
 ```markdown
 This PR suggests rewording the “Emphasis Rules” section to better distinguish between emphasis for emotion vs. technical commands. 
@@ -2195,7 +2417,8 @@ Issue raised in #42 and #51.
 
 ***
 
-### 🧠 Who Approves Changes?
+###  Who Approves Changes?
+
 
 | Change Type                             | Reviewer Required                      |
 | --------------------------------------- | -------------------------------------- |
@@ -2207,7 +2430,8 @@ Issue raised in #42 and #51.
 
 ***
 
-### 🏷️ Versioning the Style Guide
+### ️ Versioning the Style Guide
+
 
 The style guide has its own semantic version.
 
@@ -2224,7 +2448,8 @@ _Last updated: May 21, 2025_
 
 ***
 
-### 🔐 What Doesn’t Change Easily
+###  What Doesnt Change Easily
+
 
 Some sections require higher scrutiny before edits:
 
@@ -2238,7 +2463,8 @@ Some sections require higher scrutiny before edits:
 
 ***
 
-### 📌 TL;DR
+###  TL;DR
+
 
 * Style guides are agreements, not absolutes
 * Propose changes with examples, not opinions

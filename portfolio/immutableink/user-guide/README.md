@@ -1,6 +1,8 @@
 # ImmutableInk User Guide
 
+
 ## Table of Contents
+
 * [How to Use This Guide](#how-to-use-this-guide-anchor)
 * [Overview (Welcome to ImmutableInk)](#overview-welcome-to-immutableink-anchor)
     * [What is ImmutableInk?](#what-is-immutableink-anchor)
@@ -46,6 +48,7 @@
 <a name="how-to-use-this-guide-anchor"></a>
 ### How to Use This Guide
 
+
 Welcome to the ImmutableInk User Guide. This document provides essential information to help you understand, get started with, and effectively use the ImmutableInk platform.
 
 **Navigating This Guide:**
@@ -67,10 +70,12 @@ Your feedback helps us improve this documentation. If you have suggestions or fi
 <a name="overview-welcome-to-immutableink-anchor"></a>
 ### Overview (Welcome to ImmutableInk)
 
+
 This section provides a high-level introduction to ImmutableInk, outlining its purpose, core features, and the problems it addresses.
 
 <a name="what-is-immutableink-anchor"></a>
 #### What is ImmutableInk?
+
 
 ImmutableInk is a **blockchain-backed documentation platform** designed for verifiable, auditable, and tamper-evident documentation. It protects high-stakes content, such as contracts, compliance policies, and intellectual property, from tampering, disputes, and version control issues. Unlike traditional document systems, ImmutableInk ensures every signature, timestamp, and review is permanently recorded on a secure, immutable ledger. Think of the blockchain here as a highly secure, unchangeable digital record book where every entry is timestamped and linked, ensuring transparency and trust.
 
@@ -90,6 +95,7 @@ v
 <a name="key-capabilities-at-a-glance-anchor"></a>
 #### Key Capabilities at a Glance
 
+
 ImmutableInk offers the following key capabilities:
 
 * **Sealing:** Finalizes and cryptographically locks a document. This creates an unchangeable record on the blockchain.
@@ -107,6 +113,7 @@ ImmutableInk offers the following key capabilities:
 <a name="problems-immutableink-solves-anchor"></a>
 #### Problems ImmutableInk Solves
 
+
 ImmutableInk provides solutions for common documentation challenges by:
 
 * **Automated Logging:** Eliminating audit pain through provable, unchangeable records.
@@ -119,6 +126,7 @@ ImmutableInk provides solutions for common documentation challenges by:
 
 <a name="understanding-user-roles-anchor"></a>
 ### Understanding User Roles
+
 
 ImmutableInk supports various user roles, each with specific permissions and responsibilities designed to streamline the document lifecycle. The following table provides a quick overview of each role:
 
@@ -133,10 +141,12 @@ ImmutableInk supports various user roles, each with specific permissions and res
 <a name="getting-started-with-immutableink-anchor"></a>
 ### Getting Started with ImmutableInk
 
+
 This section guides you through the onboarding process and your first steps in the system. Our goal is a frictionless experience to help you get your first document reviewed, sealed, and verified without requiring prior blockchain expertise.
 
 <a name="system-requirements-anchor"></a>
 #### System Requirements
+
 
 To ensure the best experience with ImmutableInk, verify your system meets these requirements:
 
@@ -151,6 +161,7 @@ To ensure the best experience with ImmutableInk, verify your system meets these 
 <a name="account-setup-anchor"></a>
 #### Account Setup
 
+
 Follow these steps to set up your ImmutableInk account:
 
 1.  Visit the ImmutableInk **signup page**.
@@ -164,6 +175,7 @@ Follow these steps to set up your ImmutableInk account:
 <a name="your-first-document-anchor"></a>
 #### Your First Document
 
+
 You have two options for creating your first document:
 
 * **Option A: Upload an Existing Document:** ImmutableInk supports **.docx, .md, .txt,** and **.pdf** formats. The system automatically creates a digital fingerprint (hash) of your document upon upload.
@@ -173,15 +185,18 @@ You have two options for creating your first document:
 <a name="assign-reviewers-anchor"></a>
 #### Assign Reviewers
 
+
 Once your document is ready for review, click "**Assign Reviewers**" (located on the right sidebar). You can choose between a **sequential** (reviewers approve one after the other) or **parallel** (all reviewers can approve simultaneously) review process.
 
 <a name="seal-the-document-anchor"></a>
 #### Seal the Document
 
+
 After all assigned reviews are complete, the user with the **Compliance Lead** role clicks "**Seal & Verify**." ImmutableInk then creates the final digital fingerprint (hash), securely locks the document's metadata and all associated signatures into a blockchain block, and updates the document status to **Sealed**.
 
 <a name="verify-integrity-anchor"></a>
 #### Verify Integrity
+
 
 Any authorized user can click "**Verify Integrity**" to compare the live document's current digital fingerprint with its officially sealed version on the blockchain. Status indicators will show:
 
@@ -210,6 +225,7 @@ Any authorized user can click "**Verify Integrity**" to compare the live documen
 
 #### Share and Download
 
+
 ImmutableInk offers various ways to share and download your documents:
 
 * Share via **permissioned links**, controlling who can view or verify the document.
@@ -221,17 +237,20 @@ ImmutableInk offers various ways to share and download your documents:
 <a name="quickstart-tutorial-anchor"></a>
 ### Quickstart Tutorial
 
+
 This hands-on tutorial guides you through the core ImmutableInk workflow, allowing you to create, review, and verify a document in approximately 10 minutes. The steps are numbered for clear procedural guidance.
 
 <a name="what-youll-need-anchor"></a>
-#### What You'll Need
+#### What Youll Need
+
 
 * An active ImmutableInk user account with the **Writer** role.
 
 * The names of at least two other team members to act as **Reviewer** and **Compliance Lead**. (For the tutorial, you can assign these roles to yourself if you have administrator privileges.)
 
 <a name="what-youll-accomplish-anchor"></a>
-#### What You'll Accomplish
+#### What Youll Accomplish
+
 
 By completing this tutorial, you will:
 
@@ -248,8 +267,10 @@ By completing this tutorial, you will:
 <a name="procedure-for-a-complete-document-lifecycle-anchor"></a>
 #### Procedure for a Complete Document Lifecycle
 
+
 <a name="create-a-new-document-qs-anchor"></a>
 #### Create a New Document
+
 
 1.  Log in to your ImmutableInk workspace.
 
@@ -264,6 +285,7 @@ By completing this tutorial, you will:
 <a name="submit-for-review-qs-anchor"></a>
 #### Submit for Review
 
+
 1.  In the right-hand sidebar of your document, locate the "**Reviewers**" panel.
 
 2.  Click "**Assign Reviewers**".
@@ -275,6 +297,7 @@ By completing this tutorial, you will:
 <a name="approve-as-a-reviewer-qs-anchor"></a>
 #### Approve as a Reviewer
 
+
 1.  If you assigned yourself as the reviewer, navigate back to your dashboard and open the document.
 
 2.  Click the green "**Approve**" button at the top of the page.
@@ -283,6 +306,7 @@ By completing this tutorial, you will:
 
 <a name="seal-the-document-qs-anchor"></a>
 #### Seal the Document
+
 
 1.  As the user designated Compliance Lead, open the document. The "**Approve**" button will now be replaced with a blue "**Seal Document**" button.
 
@@ -293,6 +317,7 @@ By completing this tutorial, you will:
 <a name="verify-document-integrity-qs-anchor">
 #### Verify Document Integrity
 
+
 1.  With the sealed document open, locate and click the "**Verify Integrity**" button in the top bar.
 
 2.  A verification panel will slide out, displaying a "**Verified**" status, matching hashes (Current Hash and Sealed Hash), and the complete Reviewer Chain.
@@ -302,10 +327,12 @@ By completing this tutorial, you will:
 <a name="beyond-your-first-document-anchor"></a>
 ### Beyond Your First Document
 
+
 Now that you've successfully created, reviewed, sealed, and verified your first document, explore these features to maximize your use of ImmutableInk.
 
 <a name="manage-documents-anchor"></a>
 #### Manage Documents
+
 
 Easily access and organize all your documents from the ImmutableInk dashboard:
 
@@ -317,6 +344,7 @@ Easily access and organize all your documents from the ImmutableInk dashboard:
 
 <a name="explore-version-history-anchor"></a>
 #### Explore Version History
+
 
 ImmutableInk maintains a robust version history for each document, providing a transparent audit trail:
 
@@ -348,6 +376,7 @@ V
 <a name="work-with-templates-anchor"></a>
 #### Work with Templates
 
+
 Streamline your document creation process and ensure consistency across your organization using templates:
 
 * **Create from Template:** When creating a new document, select from a library of pre-built templates (e.g., SOPs, Contracts, Meeting Minutes).
@@ -356,6 +385,7 @@ Streamline your document creation process and ensure consistency across your org
 
 <a name="integrate-and-extend-anchor"></a>
 #### Integrate and Extend
+
 
 ImmutableInk offers powerful integration capabilities to connect with your existing systems and automate workflows:
 
@@ -368,10 +398,12 @@ ImmutableInk offers powerful integration capabilities to connect with your exist
 <a name="troubleshooting-common-issues-anchor"></a>
 ### Troubleshooting Common Issues
 
+
 When you're getting started with any new software, encountering a snag can be frustrating. This section aims to help you quickly resolve the most common issues you might face while using ImmutableInk, ensuring a smooth experience.
 
 <a name="login-and-account-access-problems-anchor"></a>
 #### Login and Account Access Problems
+
 
 * **Issue: Cannot log in, "Invalid credentials" error.**
 
@@ -404,6 +436,7 @@ When you're getting started with any new software, encountering a snag can be fr
 <a name="document-creation-and-upload-challenges-anchor"></a>
 #### Document Creation and Upload Challenges
 
+
 * **Issue: Document upload fails or shows an error.**
 
     * **Solution:**
@@ -435,6 +468,7 @@ When you're getting started with any new software, encountering a snag can be fr
 <a name="review-and-workflow-issues-anchor"></a>
 #### Review and Workflow Issues
 
+
 * **Issue: Reviewer did not receive a notification.**
 
     * **Solution:**
@@ -464,6 +498,7 @@ When you're getting started with any new software, encountering a snag can be fr
 <a name="sealing-and-verification-problems-anchor"></a>
 #### Sealing and Verification Problems
 
+
 * **Issue: Cannot "Seal Document" button is not active.**
 
     * **Solution:**
@@ -487,6 +522,7 @@ When you're getting started with any new software, encountering a snag can be fr
 <a name="general-system-behavior-anchor"></a>
 #### General System Behavior
 
+
 * **Issue: Pages load slowly or the application feels sluggish.**
 
     * **Solution:**
@@ -503,6 +539,7 @@ When you're getting started with any new software, encountering a snag can be fr
 
 <a name="when-to-contact-support-anchor"></a>
 #### When to Contact Support
+
 
 If you've tried the troubleshooting steps above and are still experiencing issues, or if you encounter an error message not listed here, please contact your organization's ImmutableInk administrator or ImmutableInk Support with the following information:
 
@@ -525,6 +562,7 @@ Providing this detail will help your support team resolve your issue quickly and
 <a name="security-tips-anchor"></a>
 ### Security Tips
 
+
 ImmutableInk leverages advanced cryptographic principles for document integrity. To ensure the highest level of security for your account and documents, consider these best practices:
 
 * **Strong Passwords:** Always use strong, unique passwords for your ImmutableInk account. Combine uppercase and lowercase letters, numbers, and symbols.
@@ -542,6 +580,7 @@ ImmutableInk leverages advanced cryptographic principles for document integrity.
 <a name="accessibility-anchor"></a>
 ### Accessibility
 
+
 ImmutableInk is committed to providing an accessible experience for all users. We strive to meet industry standards for web accessibility to ensure our platform is usable by individuals with diverse needs.
 
 * **Keyboard Navigation:** All core functionalities are navigable using only a keyboard.
@@ -555,7 +594,8 @@ We continuously work to improve accessibility. If you encounter any accessibilit
 ---
 
 <a name="whats-new-anchor"></a>
-### What's New
+### Whats New
+
 
 Stay up-to-date with the latest features, enhancements, and bug fixes in ImmutableInk. We regularly release updates to improve your experience and expand the platform's capabilities.
 
@@ -567,6 +607,7 @@ Stay up-to-date with the latest features, enhancements, and bug fixes in Immutab
 
 <a name="key-terms-anchor"></a>
 ### Key Terms
+
 
 This glossary provides definitions for key terms used throughout the ImmutableInk User Guide:
 

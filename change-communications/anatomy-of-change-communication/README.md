@@ -4,11 +4,13 @@ icon: fork-knife
 
 # Anatomy of Change Communication
 
+
 > Change doesn’t begin with a slide deck. It begins with trust, with tension, and with the body of the organization itself.
 
 ***
 
-## 📘 Table of Contents
+##  Table of Contents
+
 
 * [Introduction](./#introduction)
 * [The Spine – Vision That Supports and Aligns](./#the-spine--vision-that-supports-and-aligns)
@@ -26,6 +28,7 @@ icon: fork-knife
 
 ## Introduction
 
+
 This guide is designed to help teams, leaders, and communicators rethink how they approach change. We use the metaphor of anatomy not for creativity’s sake—but to show how communication, like the human body, needs coherence to survive.
 
 A spine alone won’t help if the nerves can’t sense resistance. A heartbeat doesn’t matter if the muscles aren’t moving. This is a guide not just for sending messages, but for preparing an organization to carry them.
@@ -33,6 +36,7 @@ A spine alone won’t help if the nerves can’t sense resistance. A heartbeat d
 ***
 
 ## The Spine – Vision That Supports and Aligns
+
 
 A strong vision acts as the backbone of any change. It aligns every system—strategy, operations, incentives—with purpose. Without alignment, even good intentions collapse.
 
@@ -51,6 +55,7 @@ This is why vision must be felt, not just stated. As [Simon Sinek reminds us](ht
 
 ## The Nervous System – Listening, Feedback, and Responsiveness
 
+
 Communication is not just top-down. It's a sensing system. Your nervous system is how you hear early resistance, catch blind spots, and course-correct in real time.
 
 **Ask yourself:**
@@ -67,6 +72,7 @@ Organizations without nerves don’t feel pain until it’s too late.
 ***
 
 ## The Heart – Emotional Awareness and Human Impact
+
 
 People don’t experience change through bullet points. They experience it through uncertainty, hope, fear, and fatigue. The emotional experience must be acknowledged for trust to take root.
 
@@ -85,6 +91,7 @@ The heart isn’t a soft extra. It’s the reason people stay—or silently chec
 
 ## The Skin – Tone, Language, and Psychological Safety
 
+
 The skin is the interface. It protects and connects. Language in change communication works the same way. It must protect the message without becoming defensive, and must connect without overselling.
 
 **Common missteps to avoid:**
@@ -101,6 +108,7 @@ Language that doesn’t breathe becomes armor. And people respond to armor with 
 ***
 
 ## The Gut – Cultural Alignment and Internal Consistency
+
 
 Even when a message is technically correct, people sense when it’s not culturally aligned. This is your organization’s gut response.
 
@@ -120,6 +128,7 @@ This is echoed in [McKinsey’s research on why change fails](https://www.mckins
 
 ## The Muscles – Local Action and Instructional Clarity
 
+
 Change doesn’t happen in slides. It happens in team meetings, daily tools, and workflows. That’s where the muscles need to act.
 
 **What muscles need:**
@@ -136,6 +145,7 @@ Without clarity, action becomes guesswork. And guesswork leads to inaction.
 ***
 
 ## The Bones – Structures and Rituals That Reinforce Change
+
 
 Routines hold change in place. Without structural reinforcement, even the best campaigns fade away.
 
@@ -154,6 +164,7 @@ Messages don’t become culture until they're repeated in structures people can 
 ***
 
 ## Case Study – Twitter/X and the Collapse of Change Anatomy
+
 
 When Elon Musk took over Twitter and rebranded it to X, it became a textbook example of change without communication anatomy.
 
@@ -176,6 +187,7 @@ This isn’t a critique of bold decisions. It’s a case of what happens when **
 
 ## Final Reflection – Prepare the Body, Not Just the Message
 
+
 Most failed change efforts don’t collapse because the message was wrong.\
 They collapse because the organization wasn’t ready to carry the message.
 
@@ -185,6 +197,7 @@ No reinforcement rituals.\
 No clarity of direction.
 
 ## Further Reading & References
+
 
 If this blog felt like a postmortem you wish came earlier—here are a few resources that carry the conversation forward.\
 They don't sell a model. They offer perspective.

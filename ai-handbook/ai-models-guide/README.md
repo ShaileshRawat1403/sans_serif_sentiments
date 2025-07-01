@@ -4,11 +4,13 @@ icon: octopus
 
 # Understanding and Comparing AI Models
 
+
 _A Flavor + Function Guide to Modern AI Systems_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [What This Guide Covers](./#what-this-guide-covers)
 * [Understanding AI Model Types](./#understanding-ai-model-types)
@@ -31,7 +33,8 @@ _A Flavor + Function Guide to Modern AI Systems_
 
 ***
 
-## 🧭 What This Guide Covers
+##  What This Guide Covers
+
 
 This guide helps you:
 
@@ -44,9 +47,11 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 🧠 Understanding AI Model Types
+##  Understanding AI Model Types
 
-### 🏛️ Foundation Models
+
+### ️ Foundation Models
+
 
 **What:** Large, general-purpose models trained across diverse domains (text, code, audio, images).
 
@@ -58,6 +63,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ### ✍️ Language Models (LLMs)
 
+
 **What:** Foundation models fine-tuned specifically for language-related tasks.
 
 **Why:** They handle communication, analysis, reasoning, and text generation.
@@ -68,7 +74,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-### 🎨 Multimodal Models
+###  Multimodal Models
+
 
 **What:** AI models that process **text + images + audio + video**.
 
@@ -78,7 +85,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-### 🧪 Fine-Tuned Models
+###  Fine-Tuned Models
+
 
 **What:** Base models trained further on narrow domains (like legal, finance, support).
 
@@ -88,9 +96,11 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 🧱 The What, Why, and How of Model Architectures
+##  The What, Why, and How of Model Architectures
+
 
 ### ⚙️ Transformers
+
 
 **What:** The architecture that powers most modern models using self-attention.
 
@@ -100,7 +110,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-### 🔁 RNNs and LSTMs
+###  RNNs and LSTMs
+
 
 **What:** Older sequence-based models.
 
@@ -110,7 +121,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-### 🌫️ Diffusion Models
+### ️ Diffusion Models
+
 
 **What:** Models trained to denoise visual inputs and generate high-quality images.
 
@@ -120,7 +132,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 📊 Comparing Major AI Models in the Market
+##  Comparing Major AI Models in the Market
+
 
 | Model             | Strengths                               | Limitations                       | Unique Traits                                |
 | ----------------- | --------------------------------------- | --------------------------------- | -------------------------------------------- |
@@ -132,7 +145,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 🧩 Choosing the Right Model for the Right Task
+##  Choosing the Right Model for the Right Task
+
 
 | Use Case                 | Best Models                      | Why                                   |
 | ------------------------ | -------------------------------- | ------------------------------------- |
@@ -145,9 +159,11 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 📦 Model Deployment Types
+##  Model Deployment Types
 
-### 🛠️ 1. API-Based (SaaS)
+
+### ️ 1. API-Based (SaaS)
+
 
 **Example:** ChatGPT, Claude, Gemini
 
@@ -155,7 +171,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-### 🧰 2. Self-Hosted or On-Prem
+###  2. Self-Hosted or On-Prem
+
 
 **Example:** LLaMA, Mistral
 
@@ -163,7 +180,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-### 🪶 3. Edge & Lightweight
+###  3. Edge & Lightweight
+
 
 **Example:** Phi-3, TinyLLaMA
 
@@ -172,6 +190,7 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 ***
 
 ## ⚖️ Performance vs Speed Tradeoffs
+
 
 | Requirement    | Go With                       | Why                        |
 | -------------- | ----------------------------- | -------------------------- |
@@ -185,7 +204,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 🧩 Tooling & Ecosystem Overview
+##  Tooling & Ecosystem Overview
+
 
 | Tool / Framework  | Use                           | Works Best With    |
 | ----------------- | ----------------------------- | ------------------ |
@@ -197,7 +217,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 🧠 Think Break: Your AI Toolkit
+##  Think Break: Your AI Toolkit
+
 
 > You’re a content strategist. You need to:
 >
@@ -210,7 +231,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 🚫 Limitations & Ethical Considerations
+##  Limitations & Ethical Considerations
+
 
 * **Hallucination is real** – don’t blindly trust.
 * **Biases persist** – many models echo training data biases.
@@ -221,7 +243,8 @@ We blend technical explanations with **real-world use cases**, **L\&D reflection
 
 ***
 
-## 🧍 Final Thoughts: The Human in the Loop
+##  Final Thoughts: The Human in the Loop
+
 
 AI can scale speed, not sense.
 

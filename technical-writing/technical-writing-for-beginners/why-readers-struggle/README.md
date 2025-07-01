@@ -1,10 +1,12 @@
 # Why Readers Struggle
 
+
 _A psychological deep dive into what breaks documentation — and how to fix it._
 
 ***
 
-## 🧠 Introduction: The Perspective Trap
+##  Introduction: The Perspective Trap
+
 
 > “You know that feeling when you're stuck, frustrated, and hunting for a doc that makes sense?\
 > Now imagine you're the one who wrote it — and you're the reason someone else feels that way.”
@@ -21,9 +23,11 @@ One that most people don’t even know they need to make.
 
 ***
 
-## 🔍 The Science Behind Reader Struggle
+##  The Science Behind Reader Struggle
 
-### 🧩 The Curse of Knowledge
+
+###  The Curse of Knowledge
+
 
 > Once you know something, it’s hard to imagine not knowing it.
 
@@ -35,7 +39,8 @@ This bias is well-documented in cognitive psychology. When we become familiar wi
 
 ***
 
-### 🧠 Cognitive Load Theory
+###  Cognitive Load Theory
+
 
 The brain can only process a few new things at once. Overloading readers with:
 
@@ -49,7 +54,8 @@ The brain can only process a few new things at once. Overloading readers with:
 
 ***
 
-### 🔎 Scanning > Reading
+###  Scanning > Reading
+
 
 Most users **don’t read**. They scan.
 
@@ -63,7 +69,8 @@ Most users **don’t read**. They scan.
 
 ***
 
-## 🎯 Real-World Problem: We Write for Builders, Not Beginners
+##  Real-World Problem: We Write for Builders, Not Beginners
+
 
 Here’s what often happens:
 
@@ -77,7 +84,8 @@ Here’s what often happens:
 
 ***
 
-## 💥 The 10 Frustration Triggers
+##  The 10 Frustration Triggers
+
 
 | Frustration                           | Root Cause                | What It Feels Like                     |
 | ------------------------------------- | ------------------------- | -------------------------------------- |
@@ -94,7 +102,8 @@ Here’s what often happens:
 
 ***
 
-## 👤 But You Used a Persona Already: Why Revisit This?
+##  But You Used a Persona Already: Why Revisit This?
+
 
 Because writing for a persona (like Priya) isn’t just a UX exercise.\
 It’s an _intentional reset of your mental model_.
@@ -117,6 +126,7 @@ Give them goals, fears, and scenarios.
 
 ## ✅ Reader-Centric Doc Checklist
 
+
 Use this list as a final gate before publishing your doc:
 
 * [ ] Does this doc explain the _why_, not just the _how_?
@@ -137,7 +147,8 @@ Just observe where they stop, squint, or ask “Wait…”
 
 ***
 
-## 🔧 Practical Tools to Build Reader Empathy
+##  Practical Tools to Build Reader Empathy
+
 
 | Tool                                                             | Use Case                                                             |
 | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -149,7 +160,8 @@ Just observe where they stop, squint, or ask “Wait…”
 
 ***
 
-## 🧭 Final Reflection
+##  Final Reflection
+
 
 > If a reader fails to complete the task, it’s not their failure.\
 > It’s ours.

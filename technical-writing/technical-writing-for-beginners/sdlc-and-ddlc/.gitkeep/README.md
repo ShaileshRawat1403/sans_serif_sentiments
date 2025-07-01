@@ -1,6 +1,8 @@
-# 📘 Understanding SDLC & DDLC — The Right Way
+#  Understanding SDLC & DDLC - The Right Way
+
 
 ## ✨ Who This Is For
+
 
 If you've ever sat in a meeting where people threw around terms like “sprint,” “UAT,” or “backlog” — and you nodded politely while wondering if you’d accidentally wandered into a CrossFit class — this guide is for you.
 
@@ -13,7 +15,8 @@ And more importantly — how they work *together* to build great products *and* 
 
 ---
 
-## 🧭 The Big Idea
+##  The Big Idea
+
 
 **SDLC builds the product.  
 DDLC explains how to use it.**
@@ -25,7 +28,8 @@ Both are lifecycles. Both deserve equal attention.
 
 ---
 
-## 🔧 What Is SDLC?
+##  What Is SDLC?
+
 
 **SDLC** stands for **Software Development Life Cycle**. It’s a structured way for teams to plan, build, test, and deliver software.
 
@@ -37,7 +41,8 @@ Think of it like building a restaurant:
 - **Opening** to the public
 - **Maintaining** everything afterward
 
-### 📋 SDLC Phases Explained
+###  SDLC Phases Explained
+
 
 | Phase         | What Happens                                                     |
 |---------------|------------------------------------------------------------------|
@@ -53,6 +58,7 @@ Think of it like building a restaurant:
 
 ## ✍️ What Is DDLC?
 
+
 **DDLC** stands for **Documentation Development Life Cycle**. It ensures that clear, helpful, and accurate content is created and maintained alongside the software.
 
 Imagine getting a fancy new appliance but with:
@@ -62,7 +68,8 @@ Imagine getting a fancy new appliance but with:
 
 That’s what bad or missing documentation feels like.
 
-### 🗂️ DDLC Phases Explained
+### ️ DDLC Phases Explained
+
 
 | Phase            | What Happens                                                      |
 |------------------|-------------------------------------------------------------------|
@@ -76,7 +83,8 @@ That’s what bad or missing documentation feels like.
 
 ---
 
-## 🔁 SDLC vs DDLC — A Side-by-Side Look
+##  SDLC vs DDLC - A Side-by-Side Look
+
 
 | Aspect           | **SDLC**                                 | **DDLC**                                |
 |------------------|-------------------------------------------|------------------------------------------|
@@ -90,7 +98,8 @@ That’s what bad or missing documentation feels like.
 
 ---
 
-## 🧨 Real Talk: When Documentation Fails
+##  Real Talk: When Documentation Fails
+
 
 Here’s what actually happens when documentation is skipped, rushed, or treated like an afterthought:
 
@@ -108,7 +117,8 @@ Here’s what actually happens when documentation is skipped, rushed, or treated
 
 ---
 
-## 📚 Glossary: Common Enterprise & Dev Terms (Plain English)
+##  Glossary: Common Enterprise & Dev Terms (Plain English)
+
 
 | Term         | What It Means                                                       |
 |--------------|----------------------------------------------------------------------|
@@ -127,7 +137,8 @@ Here’s what actually happens when documentation is skipped, rushed, or treated
 
 ---
 
-## 🤝 How Documentation Integrates With Development
+##  How Documentation Integrates With Development
+
 
 Here’s how you can *actually* sync docs with dev teams:
 
@@ -139,9 +150,11 @@ Here’s how you can *actually* sync docs with dev teams:
 
 ---
 
-## 📎 Quick Tools & Templates
+##  Quick Tools & Templates
+
 
 ### ✅ Beginner Toolkit
+
 
 | Tool       | Use Case                          |
 |------------|-----------------------------------|
@@ -152,7 +165,8 @@ Here’s how you can *actually* sync docs with dev teams:
 | **Notion** | Flexible internal documentation     |
 | **Loom** | Record video walkthroughs          |
 
-### 🧾 Templates
+###  Templates
+
 
 - **Release Note Format:**
   ```markdown
@@ -175,7 +189,8 @@ Here’s how you can *actually* sync docs with dev teams:
 
 ---
 
-## 💬 Final Thoughts
+##  Final Thoughts
+
 
 > "A product without documentation is a locked door without a key."
 
@@ -187,7 +202,8 @@ you become the bridge that holds the system together.
 
 ---
 
-## 🔭 Want to Explore More?
+##  Want to Explore More?
+
 
 - [Google Tech Writing Course](https://developers.google.com/tech-writing)
 - [Diátaxis Documentation Framework](https://diataxis.fr/)

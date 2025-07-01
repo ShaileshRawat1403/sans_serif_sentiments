@@ -1,10 +1,12 @@
 # Your AI Governance Starter Pack
 
+
 _Because Scaling Without Guardrails Is a Shortcut to Failure_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why AI Governance Matters](ai-governance-kit.md#why-ai-governance-matters)
 * [What Governance Looks Like at Different Scales](ai-governance-kit.md#what-governance-looks-like-at-different-scales)
@@ -18,7 +20,8 @@ _Because Scaling Without Guardrails Is a Shortcut to Failure_
 
 ***
 
-## 🧱 Why AI Governance Matters
+##  Why AI Governance Matters
+
 
 > You wouldn’t let just anyone send an email on behalf of the CEO. Why let unreviewed AI outputs go straight to your customers?
 
@@ -34,7 +37,8 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ***
 
-## 🪜 What Governance Looks Like at Different Scales
+##  What Governance Looks Like at Different Scales
+
 
 | Stage                  | Characteristics                          | Governance Needed                    |
 | ---------------------- | ---------------------------------------- | ------------------------------------ |
@@ -48,7 +52,8 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ***
 
-## 🧑‍⚖️ Governance Roles: Who Owns What
+## ‍⚖️ Governance Roles: Who Owns What
+
 
 | Role               | Responsibility                                       |
 | ------------------ | ---------------------------------------------------- |
@@ -62,7 +67,8 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ***
 
-## 🧩 Core Governance Components
+##  Core Governance Components
+
 
 | Component                 | Description                                        |
 | ------------------------- | -------------------------------------------------- |
@@ -76,7 +82,8 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ***
 
-## 🧾 Prompt and Output Logging Best Practices
+##  Prompt and Output Logging Best Practices
+
 
 * Log every prompt that leads to a published or external output
 * Include: user ID, timestamp, prompt, response, model version
@@ -91,6 +98,7 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ## ✅ Approval Workflows for Sensitive Use Cases
 
+
 | Use Case                  | Who Must Approve        | Minimum Safeguards            |
 | ------------------------- | ----------------------- | ----------------------------- |
 | Legal Document Summaries  | Legal + AI Lead         | Human + AI version review     |
@@ -102,7 +110,8 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ***
 
-## 🔍 Audit Trails and Risk Classifications
+##  Audit Trails and Risk Classifications
+
 
 * Track all AI-related work leading to a published asset
 * Classify risks as:
@@ -116,9 +125,11 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ***
 
-## 🧰 Checklists, Templates, and Documentation
+##  Checklists, Templates, and Documentation
+
 
 ### Checklists
+
 
 * [ ] Was the prompt scoped clearly?
 * [ ] Was the output reviewed and edited?
@@ -128,12 +139,14 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ### Templates
 
+
 * Role-based prompt guides (Marketing, Support, HR, Legal)
 * Output review scorecard
 * Prompt escalation log template
 * Quarterly governance audit report template
 
 ### Documentation
+
 
 * Governance charter
 * Prompt library and updates log
@@ -142,7 +155,8 @@ It’s not about control. It’s about clarity, accountability, and confidence.
 
 ***
 
-## 🧠 Reflection Activity: Draft Your Governance Charter
+##  Reflection Activity: Draft Your Governance Charter
+
 
 **Goal:** Draft a living document that outlines your team or org’s AI usage boundaries and responsibilities.
 

@@ -1,10 +1,12 @@
 # Choosing the Right AI for the Job
 
+
 _A Decision-Making Guide for Writers, Analysts, Strategists & Builders_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why This Guide Exists](choosing-right-model.md#why-this-guide-exists)
 * [What “Right AI” Really Means](choosing-right-model.md#what-right-ai-really-means)
@@ -17,7 +19,8 @@ _A Decision-Making Guide for Writers, Analysts, Strategists & Builders_
 
 ***
 
-## 🔍 Why This Guide Exists
+##  Why This Guide Exists
+
 
 With so many AI models claiming to “do it all,” how do you know which one to actually use?
 
@@ -31,7 +34,8 @@ Whether you’re a **marketer**, **designer**, **researcher**, or **team lead**,
 
 ***
 
-## 🤖 What “Right AI” Really Means
+##  What “Right AI” Really Means
+
 
 There is no “best” AI. Only:
 
@@ -49,7 +53,8 @@ Think of models like teammates:
 
 ***
 
-## 👥 Matching Model Strengths to Human Roles
+##  Matching Model Strengths to Human Roles
+
 
 | Role             | Task Priority          | Best Model Fit                | Reason                        |
 | ---------------- | ---------------------- | ----------------------------- | ----------------------------- |
@@ -62,7 +67,8 @@ Think of models like teammates:
 
 ***
 
-## 🧾 Choosing Based on Input Type
+##  Choosing Based on Input Type
+
 
 | Input Type      | Recommended Model(s)     | Reason                        |
 | --------------- | ------------------------ | ----------------------------- |
@@ -74,7 +80,8 @@ Think of models like teammates:
 
 ***
 
-## 🧾 Choosing Based on Output Quality
+##  Choosing Based on Output Quality
+
 
 | Desired Trait         | Best Models          | Why                             |
 | --------------------- | -------------------- | ------------------------------- |
@@ -85,7 +92,8 @@ Think of models like teammates:
 
 ***
 
-## 🐇 Speed vs Depth: What Do You Prioritize?
+##  Speed vs Depth: What Do You Prioritize?
+
 
 | Need               | Use                    | Model Tip             |
 | ------------------ | ---------------------- | --------------------- |
@@ -100,6 +108,7 @@ Think of models like teammates:
 
 ## ✅ Reflective Checklist
 
+
 Before choosing an AI:
 
 * [ ] What is the **input format**?
@@ -113,7 +122,8 @@ If 3+ of these matter → you likely need Claude Opus or GPT-4o. If speed + cost
 
 ***
 
-## 🧠 Think Break: AI as a Teammate
+##  Think Break: AI as a Teammate
+
 
 > Think of your next team meeting.
 >

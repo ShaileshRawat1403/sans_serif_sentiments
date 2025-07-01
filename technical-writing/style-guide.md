@@ -1,4 +1,5 @@
-# FnF — Flavor and Function Framework
+# FnF - Flavor and Function Framework
+
 
 _A style guide for writing with depth, clarity, and psychological precision_\
 Version: Reflective 2025 Edition\
@@ -6,7 +7,8 @@ By: PoeticMayhem
 
 ***
 
-## 📘 About the Framework
+##  About the Framework
+
 
 **FnF** stands for **Flavor and Function** — a modular writing framework that balances:
 
@@ -21,7 +23,8 @@ It’s designed for writers, strategists, and communicators who want their work 
 
 ***
 
-## 🧩 Structure Overview
+##  Structure Overview
+
 
 Each piece of content follows six modular stages — like scaffolding for thought.
 
@@ -36,9 +39,11 @@ Each piece of content follows six modular stages — like scaffolding for though
 
 ***
 
-## 🔧 Full Breakdown with What, Why, How, When
+##  Full Breakdown with What, Why, How, When
 
-### 🧱 Friction
+
+###  Friction
+
 
 > The soft resistance that makes a reader pause — not because it's loud, but because it’s _true_ in a way they didn’t expect.
 
@@ -58,7 +63,8 @@ Example:
 
 ***
 
-### 🌉 Bridge
+###  Bridge
+
 
 > Reorient the reader. Signal: “I’m not here to perform — I’m here to help you see.”
 
@@ -78,7 +84,8 @@ Example:
 
 ***
 
-### 📚 Evidence
+###  Evidence
+
 
 > Make it real. Show how the issue plays out in systems, people, tools, culture.
 
@@ -100,6 +107,7 @@ Example:
 
 ### ⚠️ Implication
 
+
 > What’s at risk if nothing changes? What’s the hidden cost?
 
 **What:**\
@@ -119,6 +127,7 @@ Example:
 
 ### ✅  Action
 
+
 > Invite a small shift — a try, a lens, a reflection. Not a tip or task.
 
 **What:**\
@@ -136,7 +145,8 @@ Example:
 
 ***
 
-### 👀 Look Ahead / Leave Behind
+###  Look Ahead / Leave Behind
+
 
 > The final beat. A sentence that lingers.\
 > It could be poetic, unsettling, or circular — but never just a “wrap up.”
@@ -157,7 +167,8 @@ Example:
 
 ***
 
-## 🧠 Recap: What FNF Does Differently
+##  Recap: What FNF Does Differently
+
 
 | Typical Writing          | FnF Approach                         |
 | ------------------------ | ------------------------------------ |

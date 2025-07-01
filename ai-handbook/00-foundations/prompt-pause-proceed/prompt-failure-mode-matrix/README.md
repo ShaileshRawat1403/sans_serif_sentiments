@@ -1,9 +1,11 @@
-# 🧨 Prompt Failure Mode Matrix  
+#  Prompt Failure Mode Matrix  
+
 *A diagnostic guide to identify, understand, and correct common AI prompt issues.*
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 - [What This Is](#-what-this-is)
 - [Why Prompts Fail](#-why-prompts-fail)
@@ -15,7 +17,8 @@
 
 ---
 
-## 🧠 What This Is
+##  What This Is
+
 
 This guide helps you identify why your AI prompt didn’t deliver what you expected.  
 It’s not just about “fixing” bad results — it’s about **understanding where the prompt broke down.**
@@ -24,7 +27,8 @@ It’s not just about “fixing” bad results — it’s about **understanding 
 
 ---
 
-## 🤖 Why Prompts Fail
+##  Why Prompts Fail
+
 
 Even advanced users misjudge prompts because they:
 
@@ -39,7 +43,8 @@ This matrix is designed to help you debug that pattern logic.
 
 ---
 
-## 🧩 The Failure Mode Matrix
+##  The Failure Mode Matrix
+
 
 | Mode | What It Looks Like | Likely Cause | Fix Strategy |
 |------|--------------------|--------------|--------------|
@@ -56,7 +61,8 @@ This matrix is designed to help you debug that pattern logic.
 
 ---
 
-## 📦 Real-World Examples
+##  Real-World Examples
+
 
 | ❌ Prompt | Result | Failure Mode | ✅ Fix |
 |----------|--------|---------------|--------|
@@ -70,7 +76,8 @@ This matrix is designed to help you debug that pattern logic.
 
 ---
 
-## 🛠️ How to Use This in Practice
+## ️ How to Use This in Practice
+
 
 **1. Diagnose**  
 Ask yourself: *Which row of the matrix does my output fall into?*
@@ -92,7 +99,8 @@ Refinement is a loop — not a reset.
 
 ---
 
-## 🔄 Optional Visual Decision Tree (Text)
+##  Optional Visual Decision Tree (Text)
+
 
 ```
 [Prompt Failed?]
@@ -111,7 +119,8 @@ Refine + Retry
 
 ---
 
-## 🔍 Helpful Prompts to Diagnose Output
+##  Helpful Prompts to Diagnose Output
+
 
 - “Summarize your interpretation of my prompt in one sentence.”
 - “What part of my prompt was unclear?”
@@ -123,7 +132,8 @@ Refine + Retry
 
 ---
 
-## 📚 References & Resources
+##  References & Resources
+
 
 - [OpenAI Cookbook: Prompt Engineering Best Practices](https://github.com/openai/openai-cookbook/blob/main/articles/how_to_work_with_large_language_models.md)
 - [Anthropic Prompting Guide (Claude)](https://docs.anthropic.com/claude/docs/prompting-best-practices)
@@ -140,7 +150,8 @@ you just need to learn how to **think with precision**.”_
 
 ---
 
-## 💡 Next:
+##  Next:
+
 - [📘 Prompt Dissection Lab Overview](../README.md)
 - [📍 Track 1: Clarity & Structure](./clarity-structure-track.md)
 - [📍 Track 2: Literary & Linguistic Guide](./literary-linguistic-track.md)

@@ -1,11 +1,13 @@
 # GitHub Pages User Guide: From Confusion to Clarity
 
+
 > _"Built from real 404s, broken links, and documentation despair."_\
 > A beginner-friendly guide to setting up and publishing GitHub Pages—step-by-step, mistake-by-mistake.
 
 ***
 
-## 📘 Table of Contents
+##  Table of Contents
+
 
 * [What Is GitHub Pages?](./#what-is-github-pages)
 * [How GitHub Pages Actually Works](./#how-github-pages-actually-works)
@@ -25,6 +27,7 @@
 
 ## What Is GitHub Pages?
 
+
 GitHub Pages is a free service by GitHub that lets you turn a GitHub repository into a live, static website. It’s widely used for:
 
 * Portfolios
@@ -38,6 +41,7 @@ You don't need to install anything or deploy manually. You simply write Markdown
 
 ## How GitHub Pages Actually Works
 
+
 Behind the scenes:
 
 * GitHub watches a specific **branch** and **folder** in your repo.
@@ -48,6 +52,7 @@ Behind the scenes:
 ***
 
 ## Step-by-Step: Creating Your First GitHub Pages Site
+
 
 1. Go to your GitHub repo → **Settings → Pages**
 2. Set your Source:
@@ -69,6 +74,7 @@ Behind the scenes:
 
 ## Choosing Between README.md and index.md
 
+
 | File        | Purpose               | Rendered Where                   |
 | ----------- | --------------------- | -------------------------------- |
 | `README.md` | GitHub repo homepage  | Shown when you visit the repo    |
@@ -80,6 +86,7 @@ If you want to serve a homepage via GitHub Pages, use `index.md` inside your `/d
 ***
 
 ## Where to Put Your Files (And What Breaks Things)
+
 
 Your content must live inside the folder specified in GitHub Pages settings.
 
@@ -99,6 +106,7 @@ Put `STYLE-GUIDE/` inside `docs/`, and link as `STYLE-GUIDE/index.html`.
 
 ## The .nojekyll File Mystery
 
+
 `.nojekyll` is a special file you place at the root of your site to disable Jekyll.
 
 * ✅ Use it if you want to serve raw HTML, or folders that begin with `_`
@@ -110,19 +118,23 @@ Most users using `index.md` and other Markdown don’t need `.nojekyll`.
 
 ## Why You Got a 404 (And What to Do About It)
 
+
 404s are common during setup. Here’s how to troubleshoot:
 
 ### Homepage 404
 
+
 You may not have a valid `index.md` in your `/docs` folder. GitHub looks for this file and converts it into `index.html`.
 
 ### Page-level 404
+
 
 You may be linking to `.md` files instead of `.html`. GitHub Pages renders `.md` → `.html`, and visitors can’t load the Markdown file directly.
 
 ***
 
 ## Permalinks: Your Invisible Gatekeepers
+
 
 To serve `docs/STYLE-GUIDE/index.md` at `/STYLE-GUIDE/`, add this to the top of the file:
 
@@ -138,6 +150,7 @@ Without this, clean folder links won’t work.
 ***
 
 ## Relative Links: `./`, `../`, and the Blob Confusion
+
 
 ✅ Use relative links inside your Pages site:
 
@@ -155,6 +168,7 @@ They only work on GitHub.com and break on the live site.
 
 ## Live Site Preview vs GitHub Repo Preview
 
+
 | Preview Context | What You See              |
 | --------------- | ------------------------- |
 | GitHub Repo     | Renders `.md` in browser  |
@@ -166,6 +180,7 @@ You must link to `index.html` or use permalinks.
 ***
 
 ## Advanced: Using Custom Workflows and gh-pages Branch
+
 
 For more control, you can deploy using GitHub Actions and a `gh-pages` branch.
 
@@ -192,6 +207,7 @@ Use this if you want to separate your site files from your source.
 
 ## Troubleshooting Cheatsheet
 
+
 | Problem                          | Likely Cause                       | Fix                                 |
 | -------------------------------- | ---------------------------------- | ----------------------------------- |
 | 404 on homepage                  | Missing `index.md` in `/docs/`     | Create `docs/index.md`              |
@@ -201,9 +217,11 @@ Use this if you want to separate your site files from your source.
 
 ***
 
-## Real-World Mistakes We Made (So You Don’t)
+## Real-World Mistakes We Made (So You Dont)
+
 
 ### Mistake 1: Linked to `README.md` instead of `index.md`
+
 
 **Result**: Repo preview worked. Live site 404’d.\
 **Fix**: Created `docs/index.md`
@@ -212,12 +230,14 @@ Use this if you want to separate your site files from your source.
 
 ### Mistake 2: Linked to `./STYLE-GUIDE/` instead of `index.html`
 
+
 **Result**: Repo link worked, live site failed.\
 **Fix**: Changed links to `STYLE-GUIDE/index.html`
 
 ***
 
 ### Mistake 3: Missing front-matter
+
 
 **Result**: Clean URLs didn’t resolve properly.\
 **Fix**: Added this to top of the file:
@@ -232,12 +252,14 @@ permalink: /STYLE-GUIDE/
 
 ### Mistake 4: Folder outside `docs/`
 
+
 **Result**: File wasn’t published at all.\
 **Fix**: Moved everything into `docs/`
 
 ***
 
 ## Final Note
+
 
 GitHub Pages is powerful once you understand how it works. But it can be frustrating when links break without explanation.
 

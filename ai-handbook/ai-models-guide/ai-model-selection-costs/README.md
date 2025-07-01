@@ -4,11 +4,13 @@ icon: hand-pointer
 
 # AI Model Selection and Cost Optimization
 
+
 _How to Choose the Right Brain Without Breaking the Bank_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why Model Selection Matters](./#why-model-selection-matters)
 * [What Makes One Model Different from Another](./#what-makes-one-model-different-from-another)
@@ -24,7 +26,8 @@ _How to Choose the Right Brain Without Breaking the Bank_
 
 ***
 
-## 🧠 Why Model Selection Matters
+##  Why Model Selection Matters
+
 
 > The most powerful model isn’t always the smartest choice — or the safest.
 
@@ -45,7 +48,8 @@ When choosing an AI model for your org:
 
 ***
 
-## 🧬 What Makes One Model Different from Another
+##  What Makes One Model Different from Another
+
 
 * **Size** – Larger models (GPT-4, Claude 3 Opus) = more parameters, better reasoning, higher cost
 * **Training Data** – Some models trained on more recent data (Claude = up to Mar 2024)
@@ -58,7 +62,8 @@ When choosing an AI model for your org:
 
 ***
 
-## 🎯 Model Types and Use Cases
+##  Model Types and Use Cases
+
 
 | Model Type       | Example Models         | Best For                            |
 | ---------------- | ---------------------- | ----------------------------------- |
@@ -76,15 +81,18 @@ When choosing an AI model for your org:
 
 ***
 
-## 📊 Evaluating Accuracy, Cost, and Latency
+##  Evaluating Accuracy, Cost, and Latency
+
 
 ### LLM Cost & Latency Comparison (2025)
+
 
 This document presents the most recent 2025 benchmark data on pricing and latency for major Large Language Models (LLMs), including OpenAI's GPT-4.5 and Google's Gemini 2.5 family. All sources are cited below.
 
 ***
 
-### 💰 Token Cost (Per 1 Million Tokens)
+###  Token Cost (Per 1 Million Tokens)
+
 
 | Model                     | Input Cost | Output Cost | Source                                                                                                                                                                                         |
 | ------------------------- | ---------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -97,6 +105,7 @@ This document presents the most recent 2025 benchmark data on pricing and latenc
 
 ### ⚡ Latency and Performance (Time-to-First-Token / Throughput)
 
+
 | Model                     | Time to First Token (TTFT)    | Throughput            | Source                                                                                                                    |
 | ------------------------- | ----------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **GPT‑4.5**               | Not publicly disclosed        | Estimated moderate    | [Wikipedia](https://en.wikipedia.org/wiki/GPT-4.5?utm_source=chatgpt.com)                                                 |
@@ -106,7 +115,8 @@ This document presents the most recent 2025 benchmark data on pricing and latenc
 
 ***
 
-### 🔍 Why GPT-4.5 Isn’t Part of Gemini Family
+###  Why GPT-4.5 Isnt Part of Gemini Family
+
 
 GPT-4.5 is developed by OpenAI and is not affiliated with the Gemini model lineup from Google. These are entirely separate ecosystems:
 
@@ -120,7 +130,8 @@ Each model serves different user needs and pricing tiers, which is why they aren
 
 ***
 
-### 📘 References
+###  References
+
 
 * [Dirox: Gemini 2.5 vs GPT-4.5 Comparison](https://dirox.com/post/gemini-2-5-pro-a-comparative-analysis-against-its-ai-rivals-2025-landscape?utm_source=chatgpt.com)
 * [Google Blog: Gemini 2.5 Launch Details](https://blog.google/products/gemini/gemini-2-5-model-family-expands/?utm_source=chatgpt.com)
@@ -152,7 +163,8 @@ Each model serves different user needs and pricing tiers, which is why they aren
 
 ***
 
-## 🔄 When to Switch Models Mid-Project
+##  When to Switch Models Mid-Project
+
 
 * Model hallucination rates spike for specific prompt types
 * Project moves from prototyping → production
@@ -170,7 +182,8 @@ Each model serves different user needs and pricing tiers, which is why they aren
 
 ***
 
-## 🏗️ Architecture: Open vs Closed, API vs On-Prem
+## ️ Architecture: Open vs Closed, API vs On-Prem
+
 
 | Factor        | Closed API (OpenAI, Anthropic) | Open Model (Mistral, LLaMA) |
 | ------------- | ------------------------------ | --------------------------- |
@@ -184,7 +197,8 @@ Each model serves different user needs and pricing tiers, which is why they aren
 
 ***
 
-## 💸 Understanding Token Costs and Response Length
+##  Understanding Token Costs and Response Length
+
 
 A “token” is roughly:
 
@@ -205,7 +219,8 @@ A “token” is roughly:
 
 ***
 
-## 🔍 The Hidden Costs: Governance, Logging, Risk
+##  The Hidden Costs: Governance, Logging, Risk
+
 
 * **Logging storage**: Model outputs must be auditable for legal + internal checks
 * **Prompt traceability**: Who said what, when, and why
@@ -222,7 +237,8 @@ A “token” is roughly:
 
 ***
 
-## 🧮 Model Decision Matrix Template
+##  Model Decision Matrix Template
+
 
 | Criteria          | Weight | Model A (GPT-4) | Model B (Claude 3) | Model C (Mistral) |
 | ----------------- | ------ | --------------- | ------------------ | ----------------- |
@@ -238,7 +254,8 @@ A “token” is roughly:
 
 ***
 
-## 🧠 Reflection Activity: Map Your Model Match
+##  Reflection Activity: Map Your Model Match
+
 
 1. Choose a task (e.g., contract redlining, summarizing Slack threads)
 2. Identify what matters most:

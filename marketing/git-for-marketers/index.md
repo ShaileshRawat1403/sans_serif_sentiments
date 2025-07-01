@@ -1,13 +1,16 @@
 # Git for Marketers  
+
 *A documentation initiative to bring version control clarity to creative chaos.*
 
 ---
 
-## 📘 About This Project
+##  About This Project
+
 
 This folder contains comprehensive documentation to help **marketing and content teams** understand and use **Git** and **GitHub** effectively — even if they’ve never touched a line of code.
 
 ### ✨ Why?
+
 Because we’re tired of:
 - Files named `final_FINAL_REAL_REVIEWED_v5.pptx`
 - Feedback scattered across 5 platforms
@@ -17,7 +20,8 @@ Git solves all that. This project explains how — with real-world marketing exa
 
 ---
 
-## 📂 What's Inside
+##  Whats Inside
+
 
 - [`git-and-github-for-marketing-teams.md`](./git-and-github-for-marketing-teams.md)  
   📄 The main guide — version control for marketers, explained simply, with use cases, visuals, and Git commands.
@@ -26,7 +30,8 @@ Git solves all that. This project explains how — with real-world marketing exa
 
 ---
 
-## 👥 Who Is This For?
+##  Who Is This For?
+
 
 - Content writers  
 - Marketing managers  
@@ -36,7 +41,8 @@ Git solves all that. This project explains how — with real-world marketing exa
 
 ---
 
-## 🧭 How to Use This
+##  How to Use This
+
 
 1. Start by reading the main doc → [`git-and-github-for-marketing-teams.md`](./git-and-github-for-marketing-teams.md)
 2. Use it to:
@@ -47,14 +53,16 @@ Git solves all that. This project explains how — with real-world marketing exa
 
 ---
 
-## 🏁 Motto
+##  Motto
+
 
 **Explain with examples. That’s the motto.**  
 This is not just theory — this is practical documentation for creative people who want cleaner systems without losing the magic.
 
 ---
 
-## 🤝 Contribute
+##  Contribute
+
 
 If you’ve hacked Git into your marketing workflow in creative ways, we’d love to include your use case here.  
 Open an issue or submit a PR with your example.

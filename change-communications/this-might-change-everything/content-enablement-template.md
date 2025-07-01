@@ -4,11 +4,13 @@ icon: arrows-to-circle
 
 # Content Enablement Template
 
+
 _A practical scaffold for writing useful, usable, and relevant support content when change is in motion_
 
 ***
 
-## 🧭 Why This Template Exists
+##  Why This Template Exists
+
 
 > Most enablement content tries to teach too much, too soon, with too little connection.
 
@@ -28,37 +30,46 @@ Enablement that’s written **for the moment they get stuck**—not just the mom
 
 ## ✍️ The Template
 
+
 Use this structure when creating any **just-in-time content** (emails, help articles, walkthroughs, UI microcopy):
 
 ```
-## 🧭 What Just Changed
+##  What Just Changed
+
 [Write in one sentence. Be specific, not dramatic.]
 
-## 👀 What You'll Notice
+##  What Youll Notice
+
 [List 2–3 behavior-level changes they’ll observe. Use real language.]
 
-## 😕 What Might Feel Off
+##  What Might Feel Off
+
 [Acknowledge friction. Preempt resistance.]
 
 ## ✅ What To Try Instead
+
 [Offer 1–2 steps they can take. Actionable. Friction-aware.]
 
-## 🧠 What It’s Meant to Improve
+##  What Its Meant to Improve
+
 [Connect back to purpose without hype.]
 
-## 🤔 What To Do If You’re Still Confused
+##  What To Do If Youre Still Confused
+
 [Link to 1 next step. Set emotional tone: safe to not know.]
 ```
 
 ***
 
-## 🔍 Real-World Example
+##  Real-World Example
+
 
 Let’s say a product team introduces a new tagging system.
 
 ***
 
 ### ❌ Typical Content:
+
 
 > “We’re excited to introduce Smart Tags—a new way to auto-categorize your content! Learn more in our 10-minute video walkthrough.”
 
@@ -68,31 +79,39 @@ Let’s say a product team introduces a new tagging system.
 
 ### ✅ Enablement Using This Template:
 
+
 ```
-## 🧭 What Just Changed  
+##  What Just Changed  
+
 We replaced manual tags with Smart Tags that auto-suggest based on what you’re writing.
 
-## 👀 What You'll Notice  
+##  What Youll Notice  
+
 - Your usual tag list is gone  
 - A small “Suggested” chip appears after saving
 
-## 😕 What Might Feel Off  
+##  What Might Feel Off  
+
 You won’t find your old custom tags anymore—and suggestions may feel weird at first.
 
 ## ✅ What To Try Instead  
+
 - Start typing like you normally would  
 - If a suggestion looks off, hit “Edit Tags” to tweak it
 
-## 🧠 What It’s Meant to Improve  
+##  What Its Meant to Improve  
+
 This helps keep content consistent across teams—especially for new users.
 
-## 🤔 What To Do If You’re Still Confused  
+##  What To Do If Youre Still Confused  
+
 Ping us in #smart-tags-support or watch the 90-second walkthrough [here].
 ```
 
 ***
 
-## 🛠️ When To Use This Template
+## ️ When To Use This Template
+
 
 Use this structure:
 
@@ -103,7 +122,8 @@ Use this structure:
 
 ***
 
-## 🧠 Why It Works
+##  Why It Works
+
 
 | Element                               | Why It Helps                                |
 | ------------------------------------- | ------------------------------------------- |
@@ -117,6 +137,7 @@ Use this structure:
 ***
 
 ## ✅ TL;DR
+
 
 This isn’t just a content structure.\
 It’s a **clarity ritual**.

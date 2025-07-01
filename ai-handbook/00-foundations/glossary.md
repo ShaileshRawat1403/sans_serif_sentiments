@@ -4,11 +4,13 @@ icon: magnifying-glass-waveform
 
 # AI Systems Glossary
 
+
 _A single source of truth for all key terms, concepts, and jargon used across our AI documentation series — written for clarity, grounded in context._
 
 ***
 
-## 🧠 Table of Contents
+##  Table of Contents
+
 
 * [A–C](glossary.md#a–c)
 * [D–F](glossary.md#d–f)
@@ -23,7 +25,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 A–C
+##  A–C
+
 
 **AI Hallucination** When an AI confidently invents incorrect or fictional information. Not just a mistake — but a believable lie.
 
@@ -43,7 +46,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 D–F
+##  D–F
+
 
 **DDLC (Documentation Development Life Cycle)** The lifecycle for writing and maintaining documentation — plan, draft, review, publish, update.
 
@@ -61,7 +65,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 G–I
+##  G–I
+
 
 **Generative AI** AI that creates new content — text, images, audio, code — from scratch, based on patterns learned from large datasets.
 
@@ -81,7 +86,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 J–L
+##  J–L
+
 
 **Latency** The time it takes for an AI to respond after a prompt is sent. Lower = better experience.
 
@@ -93,7 +99,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 M–O
+##  M–O
+
 
 **Model Architecture** The structure of how an AI model is built — e.g., transformer-based, encoder-decoder, decoder-only.
 
@@ -109,7 +116,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 P–R
+##  P–R
+
 
 **Prompt Engineering** Crafting clear, strategic prompts to get accurate and aligned outputs from AI. Involves tone, structure, examples.
 
@@ -129,7 +137,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 S–U
+##  S–U
+
 
 **SDLC (Software Development Life Cycle)** The process followed to build software — from idea to code to testing to release.
 
@@ -147,7 +156,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🔤 V–Z
+##  V–Z
+
 
 **Vector Store** A database of embeddings (see above), often used in RAG systems to help AI retrieve relevant data.
 
@@ -163,7 +173,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🏷️ Enterprise Terms Demystified
+## ️ Enterprise Terms Demystified
+
 
 **LLMOps** Managing and deploying language models across teams or systems. Like DevOps, but for AI.
 
@@ -179,7 +190,8 @@ _A single source of truth for all key terms, concepts, and jargon used across ou
 
 ***
 
-## 🛠️ Prompting & UX Phrases
+## ️ Prompting & UX Phrases
+
 
 **Flavor + Function Style** Our house style: clear, grounded in real use cases, and lightly poetic. Combines utility with tone.
 

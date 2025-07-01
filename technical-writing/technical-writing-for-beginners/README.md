@@ -1,10 +1,12 @@
 # Technical Writing for Beginners
 
+
 _A guide to understanding technology, documenting what matters, and contributing to clarity in a world drowning in noise._
 
 ***
 
-## 👋 Welcome
+##  Welcome
+
 
 If you’ve ever asked:
 
@@ -19,7 +21,8 @@ It’s a **beginner-friendly, honest, and practical roadmap** built by someone w
 
 ***
 
-## 🧠 Why This Repo Exists
+##  Why This Repo Exists
+
 
 Because _technical writing is one of the most important, underappreciated, and surprisingly impactful roles in tech._
 
@@ -45,7 +48,8 @@ You just need to care about **making sense of complexity** — and turning it in
 
 ***
 
-## ✍️ What You'll Learn
+## ✍️ What Youll Learn
+
 
 Not just how to write —\
 But how to **understand tech**, structure knowledge, and communicate in a way that _actually helps_.
@@ -60,7 +64,8 @@ By the end of this series, you’ll know:
 
 ***
 
-## 🎯 Who This Is For
+##  Who This Is For
+
 
 This series is designed for:
 
@@ -74,7 +79,8 @@ No prior experience needed. Just curiosity and empathy.
 
 ***
 
-## 📚 What’s Inside
+##  Whats Inside
+
 
 | File                              | What You'll Learn                                                          |
 | --------------------------------- | -------------------------------------------------------------------------- |
@@ -92,7 +98,8 @@ More coming soon.
 
 ***
 
-## 💬 Author’s Note
+##  Authors Note
+
 
 I’ve written technical blogs. I’ve led marketing teams.\
 But I never had “Technical Writer” in my job title.
@@ -110,6 +117,7 @@ If that’s you — welcome in.
 ***
 
 ## ❤️ Help This Grow
+
 
 This is a living, evolving resource.\
 Fork it. Star it. Share it. Or just read and pass it on.

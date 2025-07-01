@@ -1,10 +1,12 @@
 # getting-started
 
+
 **Title:** _How to Start in Technical Writing (Without a Tech Job)_ **Subtitle:** _Learn, write, and prove your skill — without waiting for permission._
 
 ***
 
-## 🪜 Purpose of This Chapter
+##  Purpose of This Chapter
+
 
 To help beginners who feel like outsiders:
 
@@ -18,6 +20,7 @@ This is your **activation chapter** — real, doable, and honest.
 ***
 
 ## ✅ 1. Introduction
+
 
 > _You don’t need permission to get started. You need curiosity, consistency, and something to explain._
 
@@ -36,7 +39,8 @@ You can start right now by doing what technical writers actually do:
 
 ***
 
-## 🙅‍♂️ 2. What You _Don’t_ Need
+## ‍♂️ 2. What You _Dont_ Need
+
 
 Let’s bust some myths.
 
@@ -55,7 +59,8 @@ What you really need:
 
 ***
 
-## 🧠 3. Learn the Basics (Without Overwhelm)
+##  3. Learn the Basics (Without Overwhelm)
+
 
 | What to Learn              | Why It Matters                           | Free Tools                         |
 | -------------------------- | ---------------------------------------- | ---------------------------------- |
@@ -68,6 +73,7 @@ What you really need:
 ***
 
 ## ✍️ 4. Start Writing Practice Projects
+
 
 Here are 5 no-permission-needed ways to get started:
 
@@ -83,7 +89,8 @@ Here are 5 no-permission-needed ways to get started:
 
 ***
 
-## 📁 5. Build a Simple Portfolio
+##  5. Build a Simple Portfolio
+
 
 Use GitHub to host your writing. Simple folder structure like:
 
@@ -106,7 +113,8 @@ That shows **thinking**, not just writing.
 
 ***
 
-## 🎯 6. Practice With Purpose
+##  6. Practice With Purpose
+
 
 Don’t just write — write with intention:
 
@@ -119,7 +127,8 @@ And remember: **writing it once is not the goal.** Explaining it clearly is.
 
 ***
 
-## 🧩 7. Where to Learn More (for Free)
+##  7. Where to Learn More (for Free)
+
 
 | Resource                      | Why It Helps                              |
 | ----------------------------- | ----------------------------------------- |
@@ -131,7 +140,8 @@ And remember: **writing it once is not the goal.** Explaining it clearly is.
 
 ***
 
-## 📘 8. What’s Next
+##  8. Whats Next
+
 
 Now that you’ve started building your skill and your proof — let’s talk about what makes documentation _different_ from marketing content.
 

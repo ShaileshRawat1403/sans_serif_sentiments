@@ -4,11 +4,13 @@ icon: screwdriver-wrench
 
 # Fine-Tuning and Custom Models
 
+
 _How to Train AI to Work Like It’s on Your Team, Not Just in the Cloud_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why This Guide Exists](fine-tuning-guide.md#why-this-guide-exists)
 * [What Is Fine-Tuning?](fine-tuning-guide.md#what-is-fine-tuning)
@@ -30,7 +32,8 @@ _How to Train AI to Work Like It’s on Your Team, Not Just in the Cloud_
 
 ***
 
-## 🧭 Why This Guide Exists
+##  Why This Guide Exists
+
 
 Generative AI is powerful, but **generic**.
 
@@ -45,7 +48,8 @@ This guide helps you go beyond prompts. It teaches you how to **build smarter, t
 
 ***
 
-## 🧠 What Is Fine-Tuning?
+##  What Is Fine-Tuning?
+
 
 Fine-tuning is the process of **retraining a model on your specific data**, so it learns your patterns, language, or domain expertise.
 
@@ -56,6 +60,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 ***
 
 ## ⚖️ How Fine-Tuning Differs from Prompt Engineering
+
 
 | Feature         | Prompt Engineering            | Fine-Tuning                          |
 | --------------- | ----------------------------- | ------------------------------------ |
@@ -69,27 +74,32 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 ***
 
-## 🧩 Types of Model Customization
+##  Types of Model Customization
 
-### 🔁 Full Fine-Tuning
+
+###  Full Fine-Tuning
+
 
 * Rewrites internal model weights
 * High control, high compute cost
 * Best for unique tone, policy, or reasoning patterns
 
-### 📜 Instruction Tuning
+###  Instruction Tuning
+
 
 * Adds examples of desired outputs
 * Trains model to follow certain task formats or styles
 * Low to medium cost
 
-### 🧬 LoRA (Low-Rank Adaptation)
+###  LoRA (Low-Rank Adaptation)
+
 
 * Modifies only select parts of the model (adapters)
 * Light on compute, good for edge deployments
 * Popular in open-source models (e.g., LLaMA, Mistral)
 
-### 📚 Retrieval-Augmented Generation (RAG)
+###  Retrieval-Augmented Generation (RAG)
+
 
 * Doesn’t change the model
 * Adds a search layer that “feeds” real-time documents into the prompt
@@ -99,7 +109,8 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 ***
 
-## 🧠 Choosing the Right Customization Method
+##  Choosing the Right Customization Method
+
 
 | Goal                          | Method                     | Why                                     |
 | ----------------------------- | -------------------------- | --------------------------------------- |
@@ -111,7 +122,8 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 ***
 
-## 🛠️ Popular Tools for Fine-Tuning
+## ️ Popular Tools for Fine-Tuning
+
 
 | Tool / Platform    | Best For                       | Notes                             |
 | ------------------ | ------------------------------ | --------------------------------- |
@@ -123,29 +135,35 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 ***
 
-## 🧾 Fine-Tuning in Practice: Use Cases
+##  Fine-Tuning in Practice: Use Cases
+
 
 ### ✅ Customer Support
+
 
 * Input: Logs + ideal ticket responses
 * Outcome: Always-on agent using your preferred voice
 
 ### ✍️ Brand Copywriting
 
+
 * Input: High-performing email/social copy
 * Outcome: GPT outputs match brand tone every time
 
-### 📚 Internal Knowledge Assistants
+###  Internal Knowledge Assistants
+
 
 * Input: Company policies, processes
 * Outcome: Helpdesk bots that reference the latest SOPs
 
-### 👩‍⚖️ Legal & Compliance
+### ‍⚖️ Legal & Compliance
+
 
 * Input: Legal terminology + rejection logic
 * Outcome: Drafts that respect jurisdiction, redlines
 
-### 🎓 Education & Tutoring
+###  Education & Tutoring
+
 
 * Input: Lesson plans, student queries
 * Outcome: Personalized learning guides by subject and level
@@ -155,6 +173,7 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 ***
 
 ## ⚠️ Risks, Limits, and Ethical Considerations
+
 
 * **Data quality matters** — fine-tuning on biased or poorly written examples leads to garbage outputs.
 * **Overfitting is real** — models may memorize examples, not generalize.
@@ -166,7 +185,8 @@ You’re not building a new model from scratch — just shaping a pre-trained on
 
 ***
 
-## 🧠 Reflection Activity: Build a Fine-Tune Strategy
+##  Reflection Activity: Build a Fine-Tune Strategy
+
 
 You’re a knowledge manager in a fintech company. Your team struggles with maintaining consistent tone in product release notes.
 
@@ -187,6 +207,7 @@ Then:
 
 ## ✅ Interactive Design Checklist
 
+
 Use this checklist before deciding to fine-tune or customize a model:
 
 * [ ] Do we have **at least 50–100** good examples of what we want?
@@ -199,7 +220,8 @@ Use this checklist before deciding to fine-tune or customize a model:
 
 ***
 
-## 🗂️ Sample File Structure for Fine-Tune Projects
+## ️ Sample File Structure for Fine-Tune Projects
+
 
 ```bash
 fine-tune-project/
@@ -223,22 +245,26 @@ fine-tune-project/
 
 ***
 
-## 📏 Evaluation and Feedback Loops
+##  Evaluation and Feedback Loops
+
 
 After fine-tuning, don’t stop at “it works.” Build a feedback loop:
 
 ### Define:
+
 
 * ✅ Output quality (clarity, tone, task accuracy)
 * ❌ Common failure patterns (hallucination, irrelevance)
 
 ### Track:
 
+
 * 📊 Token usage per task
 * 📉 Deviation from expected phrasing
 * 🔁 Prompt retries required
 
 ### Sample Scorecard:
+
 
 | Criteria         | Target | Score | Notes                   |
 | ---------------- | ------ | ----- | ----------------------- |
@@ -248,7 +274,8 @@ After fine-tuning, don’t stop at “it works.” Build a feedback loop:
 
 ***
 
-## 🧠 Visual: Human-in-the-Loop Workflow
+##  Visual: Human-in-the-Loop Workflow
+
 
 ```
 [Upload Examples] 

@@ -1,6 +1,8 @@
 # ImmutableInk Installation Guide
 
+
 ## Table of Contents
+
 * [Introduction](#introduction-anchor)
 * [Deployment Options](#deployment-options-anchor)
 * [Before You Begin: Prerequisites](#prerequisites-anchor)
@@ -30,12 +32,14 @@
 <a name="introduction-anchor"></a>
 ### Introduction
 
+
 This guide provides comprehensive instructions for installing and setting up ImmutableInk. It targets system administrators and IT professionals responsible for deploying and configuring the software within their environment. By following these steps, you can successfully prepare your infrastructure and launch ImmutableInk.
 
 ---
 
 <a name="deployment-options-anchor"></a>
 ### Deployment Options
+
 
 ImmutableInk offers flexible deployment options to suit various organizational needs. This guide focuses on the **Self-Hosted Deployment using Docker Compose**, which provides a streamlined way to get ImmutableInk running in your environment.
 
@@ -46,10 +50,12 @@ Other deployment options, such as cloud-specific deployments (e.g., Kubernetes, 
 <a name="prerequisites-anchor"></a>
 ### Before You Begin: Prerequisites
 
+
 Before you start the installation, ensure your system meets all the necessary requirements. Fulfilling these prerequisites is critical for a smooth and successful deployment.
 
 <a name="system-requirements-install-anchor"></a>
 #### System Requirements
+
 
 Verify your server or virtual machine meets the minimum hardware specifications:
 
@@ -61,6 +67,7 @@ Verify your server or virtual machine meets the minimum hardware specifications:
 <a name="software-requirements-anchor"></a>
 #### Software Requirements
 
+
 Install the following software on your deployment host:
 
 * **Docker Engine:** Version 20.10.0 or higher.
@@ -70,6 +77,7 @@ Install the following software on your deployment host:
 
 <a name="network-requirements-anchor"></a>
 #### Network Requirements
+
 
 Configure your network to allow necessary communication:
 
@@ -83,6 +91,7 @@ Configure your network to allow necessary communication:
 <a name="account-permissions-anchor"></a>
 #### Account and Permissions
 
+
 Ensure you have the necessary account access and permissions:
 
 * **Sudo/Root Access:** You must have `sudo` or root privileges on the deployment host to install Docker and manage services.
@@ -93,10 +102,12 @@ Ensure you have the necessary account access and permissions:
 <a name="installation-docker-anchor"></a>
 ### Installation Procedure: Self-Hosted (Docker Compose)
 
+
 Follow these steps to deploy ImmutableInk using Docker Compose. This procedure assumes you have met all [Prerequisites](#prerequisites-anchor).
 
 <a name="install-docker-anchor"></a>
 #### Step 1: Install Docker and Docker Compose
+
 
 If you do not have Docker and Docker Compose installed, follow the official Docker documentation. These guides are specific to your Linux distribution's package manager (e.g., `apt` for Ubuntu, `yum` or `dnf` for RHEL/CentOS):
 
@@ -118,6 +129,7 @@ docker compose version
 
 #### Step 2: Download ImmutableInk Deployment Files
 
+
 Obtain the ImmutableInk Docker Compose deployment files. This typically involves cloning a Git repository:
 
 ```bash
@@ -130,6 +142,7 @@ cd deployment
 \<a name="configure-env-anchor"\>\</a\>
 
 #### Step 3: Configure Environment Variables
+
 
 ImmutableInk uses environment variables for crucial settings. Create and edit a `.env` file in the `deployment` directory.
 
@@ -152,6 +165,7 @@ ImmutableInk uses environment variables for crucial settings. Create and edit a 
 \<a name="start-services-anchor"\>\</a\>
 
 #### Step 4: Start ImmutableInk Services
+
 
 Use Docker Compose to build and start all ImmutableInk services in detached mode:
 
@@ -189,6 +203,7 @@ docker compose up -d --build
 
 #### Step 5: Complete Initial Setup
 
+
 After services start, access ImmutableInk via your web browser to complete the initial setup:
 
 1.  Open your web browser and navigate to `http://your.immutableink.com` (or your server's IP address if no domain is configured yet).
@@ -201,6 +216,7 @@ After services start, access ImmutableInk via your web browser to complete the i
 \<a name="verify-installation-anchor"\>\</a\>
 
 ### Verify Your Installation
+
 
 After installation, confirm that all ImmutableInk services are running correctly and the application is accessible.
 
@@ -228,17 +244,20 @@ After installation, confirm that all ImmutableInk services are running correctly
 
 ### Post-Installation Configuration
 
+
 After a successful initial installation, consider these crucial steps for a production-ready ImmutableInk deployment.
 
 \<a name="set-up-persistent-storage-anchor"\>\</a\>
 
 #### Set Up Persistent Storage
 
+
 Ensure your database and application data persist even if containers are removed or recreated. This typically involves configuring Docker volumes for your database and application data directories. For example, ensure your `docker-compose.yml` mounts a volume for your database data (e.g., `db_data:/var/lib/postgresql/data`) and any application upload directories. Refer to the `docker-compose.yml` file and Docker documentation for detailed volume configuration.
 
 \<a name="configure-ssl-anchor"\>\</a\>
 
 #### Configure SSL/TLS
+
 
 Secure your ImmutableInk instance with SSL/TLS certificates for HTTPS access.
 
@@ -253,17 +272,20 @@ Refer to your web server's documentation and the [ImmutableInk Administration Gu
 
 #### Integrate with Single Sign-On (SSO)
 
+
 For enhanced security and user management, integrate ImmutableInk with your organization's SSO provider (e.g., Okta, Azure AD, Google Workspace). Refer to the [ImmutableInk Administration Guide](https://www.google.com/search?q=%23) (Placeholder: Link to Administration Guide) for detailed SSO configuration steps and supported providers.
 
 \<a name="implement-backup-recovery-anchor"\>\</a\>
 
 #### Implement Backup and Recovery
 
+
 Establish a robust backup strategy for your ImmutableInk data. This includes regular backups of your database (e.g., PostgreSQL data in the mounted volume) and any persistent application files (e.g., uploaded documents). Regularly test your recovery procedures to ensure data integrity.
 
 \<a name="update-immutableink-anchor"\>\</a\>
 
 #### Update ImmutableInk
+
 
 Regularly update your ImmutableInk installation to benefit from new features, security patches, and performance improvements. Consult the [ImmutableInk Release Notes](https://www.google.com/search?q=%23) (Placeholder: Link to Release Notes) and the [Administrator Guide](https://www.google.com/search?q=%23) (Placeholder: Link to Administration Guide) for detailed update procedures.
 
@@ -272,6 +294,7 @@ Regularly update your ImmutableInk installation to benefit from new features, se
 \<a name="troubleshooting-install-anchor"\>\</a\>
 
 ### Troubleshooting Installation Issues
+
 
 This section provides solutions for common problems encountered during ImmutableInk installation.
 
@@ -313,6 +336,7 @@ This section provides solutions for common problems encountered during Immutable
 
 ### Related Documentation
 
+
 For more in-depth information on managing and extending ImmutableInk:
 
   * **ImmutableInk Administration Guide:** Comprehensive details on managing users, security, backups, and advanced configurations. (Placeholder: Link to actual Administration Guide).
@@ -324,6 +348,7 @@ For more in-depth information on managing and extending ImmutableInk:
 \<a name="key-terms-install-anchor"\>\</a\>
 
 ### Key Terms (Installation)
+
 
 This glossary provides definitions for key terms specific to ImmutableInk installation and deployment:
 

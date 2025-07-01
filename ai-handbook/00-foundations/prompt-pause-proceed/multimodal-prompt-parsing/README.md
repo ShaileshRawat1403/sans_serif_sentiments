@@ -1,10 +1,12 @@
-# 🎛️ Multimodal Prompt Parsing  
+# ️ Multimodal Prompt Parsing  
+
 *Part of the Prompt Dissection Lab*  
 _Design prompts that blend text, image, audio, or more — and understand how AI processes each._
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
+
 - [What This Is](#-what-this-is)
 - [Why Multimodal Prompts Matter](#-why-multimodal-prompts-matter)
 - [How AI Parses Each Input Type](#-how-ai-parses-each-input-type)
@@ -16,7 +18,8 @@ _Design prompts that blend text, image, audio, or more — and understand how AI
 
 ---
 
-## 🧠 What This Is
+##  What This Is
+
 
 This guide helps you craft **multimodal prompts** — those combining text with images, audio, or other inputs — and explains how AI interprets each mode.
 
@@ -25,7 +28,8 @@ Multimodal parsing requires intentional, descriptive scaffolding — and awarene
 
 ---
 
-## 🎯 Why Multimodal Prompts Matter
+##  Why Multimodal Prompts Matter
+
 
 - You want AI to **analyze an infographic** and write a caption  
 - You need help **describing a photo** for accessibility or branding  
@@ -39,7 +43,8 @@ They **convert them into embeddings** (numeric patterns) and match those with la
 
 ---
 
-## 🧪 How AI Parses Each Input Type
+##  How AI Parses Each Input Type
+
 
 | Input | What Happens Behind the Scenes | Common Misconception |
 |-------|-------------------------------|-----------------------|
@@ -54,7 +59,9 @@ They **convert them into embeddings** (numeric patterns) and match those with la
 
 ## ✍️ Prompt Structure & Tips by Mode
 
-### 🖼️ Text + Image
+
+### ️ Text + Image
+
 
 ```yaml
 You are a [role, e.g., art critic].  
@@ -71,7 +78,8 @@ Given this image: [attach image]
 
 ---
 
-### 🔊 Text + Audio
+###  Text + Audio
+
 
 ```yaml
 This is an audio note from a team lead. [attach audio]  
@@ -88,7 +96,8 @@ This is an audio note from a team lead. [attach audio]
 
 ---
 
-### 🎥 Text + Video
+###  Text + Video
+
 
 ```yaml
 Given this video [attach link if supported], summarize the 3 main actions happening.  
@@ -103,7 +112,8 @@ Then write a one-liner that describes what feature is shown.
 
 ---
 
-## 🚫 Common Multimodal Prompt Failures
+##  Common Multimodal Prompt Failures
+
 
 | Mistake | What Happens | Fix |
 |--------|---------------|-----|
@@ -114,7 +124,8 @@ Then write a one-liner that describes what feature is shown.
 
 ---
 
-## 💡 Examples by Modality
+##  Examples by Modality
+
 
 | Modality | Task | Good Prompt |
 |----------|------|-------------|
@@ -125,7 +136,8 @@ Then write a one-liner that describes what feature is shown.
 
 ---
 
-## 🧰 Helpful Diagnostic Prompts
+##  Helpful Diagnostic Prompts
+
 
 - “What do you see in this image?”  
 - “Describe this audio as if to a blind person.”  
@@ -135,7 +147,8 @@ Then write a one-liner that describes what feature is shown.
 
 ---
 
-## 📚 References & Resources
+##  References & Resources
+
 
 - [OpenAI GPT-4 with Vision](https://openai.com/index/hello-gpt-4/)  
 - [Whisper Speech Recognition](https://github.com/openai/whisper)  
@@ -151,7 +164,8 @@ Your job? Provide the landmarks.”_
 
 ---
 
-## 🔁 Explore More
+##  Explore More
+
 
 - [📘 Prompt Dissection Lab Overview](./README.md)  
 - [🧭 Clarity & Structure Track](./clarity-structure-track.md)  

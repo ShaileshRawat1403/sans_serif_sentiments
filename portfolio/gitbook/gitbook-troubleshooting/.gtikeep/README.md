@@ -1,11 +1,13 @@
-# 🛠️ Troubleshooting Guide: Common GitBook Issues
+# ️ Troubleshooting Guide: Common GitBook Issues
+
 
 Use this guide to identify and resolve common issues you may encounter while using GitBook.  
 Each section includes a symptom, likely cause, and recommended actions.
 
 ---
 
-## 🔒 Problem: I Can’t Access a Space
+##  Problem: I Cant Access a Space
+
 
 **Possible Causes:**
 - You’re not logged in with the correct workspace account  
@@ -22,7 +24,8 @@ Each section includes a symptom, likely cause, and recommended actions.
 
 ---
 
-## 🌐 Problem: My Published Page Isn’t Visible
+##  Problem: My Published Page Isnt Visible
+
 
 **Possible Causes:**
 - The space hasn’t been published  
@@ -38,7 +41,8 @@ Each section includes a symptom, likely cause, and recommended actions.
 
 ---
 
-## ⏳ Problem: My Changes Aren’t Saving
+## ⏳ Problem: My Changes Arent Saving
+
 
 **Possible Causes:**
 - You may have lost connection temporarily  
@@ -54,7 +58,8 @@ Each section includes a symptom, likely cause, and recommended actions.
 
 ---
 
-## 🔄 Problem: I Can’t Switch Between Markdown and Block Mode
+##  Problem: I Cant Switch Between Markdown and Block Mode
+
 
 **Possible Causes:**
 - You’re working in a synced GitHub doc (external sources lock the editing mode)  
@@ -71,7 +76,8 @@ Each section includes a symptom, likely cause, and recommended actions.
 
 ---
 
-## 🚫 Problem: I Invited a Team Member, But They Can’t See Anything
+##  Problem: I Invited a Team Member, But They Cant See Anything
+
 
 **Possible Causes:**
 - The invite hasn’t been accepted yet  
@@ -87,6 +93,7 @@ Each section includes a symptom, likely cause, and recommended actions.
 
 ## ✅ General Tips
 
+
 - Always use the latest version of your browser  
 - GitBook autosaves, but check for internet disconnects if edits seem lost  
 - Recheck space and page visibility before assuming content was deleted  
@@ -98,6 +105,7 @@ Each section includes a symptom, likely cause, and recommended actions.
 ---
 
 ## ➕ Next Steps
+
 
 - [Explore the Glossary →](./gitbook-glossary.md)  
 - [Use the Editor →](./gitbook-editor-guide.md)

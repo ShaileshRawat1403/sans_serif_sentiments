@@ -4,11 +4,13 @@ icon: hands-asl-interpreting
 
 # Voice Prompts and Conversational UX
 
+
 _Designing Natural Interactions for Humans — Not Just Commands for AI_
 
 ***
 
-## 📁 Table of Contents
+##  Table of Contents
+
 
 * [What Is Conversational UX (And Why It Matters)](voice-prompts-conversational-ux.md#what-is-conversational-ux-and-why-it-matters)
 * [How Voice Prompts Differ from Text Prompts](voice-prompts-conversational-ux.md#how-voice-prompts-differ-from-text-prompts)
@@ -22,7 +24,8 @@ _Designing Natural Interactions for Humans — Not Just Commands for AI_
 
 ***
 
-## 🧠 What Is Conversational UX (And Why It Matters)
+##  What Is Conversational UX (And Why It Matters)
+
 
 Conversational UX is about designing interactions that feel **human**, **fluid**, and **intent-driven** — not robotic, repetitive, or overly scripted.
 
@@ -36,7 +39,8 @@ Voice is:
 
 ***
 
-## 🔄 How Voice Prompts Differ from Text Prompts
+##  How Voice Prompts Differ from Text Prompts
+
 
 | Feature           | Text Prompts                  | Voice Prompts                        |
 | ----------------- | ----------------------------- | ------------------------------------ |
@@ -54,7 +58,8 @@ Voice requires:
 
 ***
 
-## 🎨 Designing for Natural Conversations
+##  Designing for Natural Conversations
+
 
 To make AI feel conversational:
 
@@ -68,6 +73,7 @@ To make AI feel conversational:
 ***
 
 ## ⚠️ Common Pitfalls in Voice-Driven AI UX
+
 
 * ❌ **Info dumping** — Too much at once; causes overwhelm
 * ❌ **No interrupt handling** — User interjections break the flow
@@ -83,9 +89,11 @@ Fix by:
 
 ***
 
-## 🏗️ Prompt Structures for Better Voice Inputs
+## ️ Prompt Structures for Better Voice Inputs
 
-### 🧱 Modular Prompt Format
+
+###  Modular Prompt Format
+
 
 > "Let’s start with the basics: What’s your goal today?"
 
@@ -95,7 +103,8 @@ Then:
 * Offer categories or choices
 * Confirm and summarize
 
-### 🎯 Voice Prompt Template
+###  Voice Prompt Template
+
 
 > "I can help you with \[task type], \[task type], or \[task type]. What would you like to do?"
 
@@ -109,9 +118,11 @@ Then:
 
 ***
 
-## 🧪 Examples: Good vs Bad Voice Prompts (Flavor + Function)
+##  Examples: Good vs Bad Voice Prompts (Flavor + Function)
 
-### 🎙️ Use Case: Writing a Quick Summary
+
+### ️ Use Case: Writing a Quick Summary
+
 
 **❌ Bad Prompt:**
 
@@ -123,7 +134,8 @@ Then:
 
 ***
 
-### 🔍 Use Case: Getting Customer Feedback
+###  Use Case: Getting Customer Feedback
+
 
 **❌ Bad Prompt:**
 
@@ -137,6 +149,7 @@ Then:
 
 ### ✍️ Use Case: Preparing a Daily Brief
 
+
 **❌ Bad Prompt:**
 
 > "State your morning priorities for task sorting and workflow optimization."
@@ -147,7 +160,8 @@ Then:
 
 ***
 
-### 💬 Use Case: Clarifying Input Tone
+###  Use Case: Clarifying Input Tone
+
 
 **❌ Bad Prompt:**
 
@@ -161,7 +175,8 @@ Then:
 
 ***
 
-## 🧪 Testing and Calibrating Voice UX
+##  Testing and Calibrating Voice UX
+
 
 Checklist:
 
@@ -180,7 +195,8 @@ Tools:
 
 ***
 
-## 🔍 Reflection Activity: Voice Audit Sprint
+##  Reflection Activity: Voice Audit Sprint
+
 
 Run a 30-minute audit of your product’s voice UX:
 
@@ -198,7 +214,8 @@ Run a 30-minute audit of your product’s voice UX:
 
 ***
 
-## 📚 Resources and Toolkits
+##  Resources and Toolkits
+
 
 * [Voiceflow Design Guides](https://www.voiceflow.com/)
 * [Google Conversational Design](https://designguidelines.withgoogle.com/conversation-design)

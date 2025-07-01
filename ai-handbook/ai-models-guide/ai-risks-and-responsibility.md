@@ -4,11 +4,13 @@ icon: skull
 
 # Risks, Red Flags, and Responsible Use
 
+
 _What AI Can Break — and How to Build Safety Nets Before It Happens_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why Responsible AI Use Isn’t Optional](ai-risks-and-responsibility.md#why-responsible-ai-use-isnt-optional)
 * [Common Risks Across AI Use Cases](ai-risks-and-responsibility.md#common-risks-across-ai-use-cases)
@@ -22,7 +24,8 @@ _What AI Can Break — and How to Build Safety Nets Before It Happens_
 
 ***
 
-## ⚠️ Why Responsible AI Use Isn’t Optional
+## ⚠️ Why Responsible AI Use Isnt Optional
+
 
 > It’s not about whether AI will make mistakes. It’s about who’s left responsible when it does.
 
@@ -39,7 +42,8 @@ Responsible AI is **not a blocker.** It’s an enabler of safe, scalable innovat
 
 ***
 
-## 🧨 Common Risks Across AI Use Cases
+##  Common Risks Across AI Use Cases
+
 
 | Risk Category    | Description                                                | Example Scenario                         |
 | ---------------- | ---------------------------------------------------------- | ---------------------------------------- |
@@ -52,7 +56,8 @@ Responsible AI is **not a blocker.** It’s an enabler of safe, scalable innovat
 
 ***
 
-## 🌀 Hallucinations vs Misinformation
+##  Hallucinations vs Misinformation
+
 
 **Hallucination** = Model invents info based on patterns (not intent to deceive) **Misinformation** = Humans use AI to intentionally or carelessly spread untruths
 
@@ -68,6 +73,7 @@ Responsible AI is **not a blocker.** It’s an enabler of safe, scalable innovat
 ***
 
 ## ⚖️ Legal, Ethical, and Reputational Pitfalls
+
 
 1. **Legal**:
    * Copyrighted material reuse without disclosure
@@ -90,7 +96,8 @@ Responsible AI is **not a blocker.** It’s an enabler of safe, scalable innovat
 
 ***
 
-## 🧱 Guardrails and Governance Models
+##  Guardrails and Governance Models
+
 
 | Guardrail Type      | What It Controls                    | Example Tool or Practice                  |
 | ------------------- | ----------------------------------- | ----------------------------------------- |
@@ -104,7 +111,8 @@ Responsible AI is **not a blocker.** It’s an enabler of safe, scalable innovat
 
 ***
 
-## 🧭 Signs of Misuse or Prompt Drift
+##  Signs of Misuse or Prompt Drift
+
 
 * Prompts grow longer but less clear
 * Team starts skipping final reviews
@@ -120,7 +128,8 @@ Responsible AI is **not a blocker.** It’s an enabler of safe, scalable innovat
 
 ***
 
-## 🛠️ Embedding Ethical Checks Into Workflows
+## ️ Embedding Ethical Checks Into Workflows
+
 
 1. **At Input**
    * Clear intent: Why are you prompting?
@@ -139,9 +148,11 @@ Responsible AI is **not a blocker.** It’s an enabler of safe, scalable innovat
 
 ***
 
-## 🔍 Good, Bad, and Ugly Use Cases
+##  Good, Bad, and Ugly Use Cases
 
-### 🟢 GOOD: Using AI to Draft Internal Summaries
+
+###  GOOD: Using AI to Draft Internal Summaries
+
 
 Prompt: "Summarize these meeting notes with focus on marketing and sales."
 
@@ -149,7 +160,8 @@ Prompt: "Summarize these meeting notes with focus on marketing and sales."
 * Internal use only
 * Reviewed before sharing
 
-### 🟡 BAD: Using AI to Generate Performance Reviews
+###  BAD: Using AI to Generate Performance Reviews
+
 
 Prompt: "Write a feedback summary for this employee."
 
@@ -157,7 +169,8 @@ Prompt: "Write a feedback summary for this employee."
 * No structured rubric used
 * May unintentionally discriminate
 
-### 🔴 UGLY: Using AI to Create a Press Release Without Review
+###  UGLY: Using AI to Create a Press Release Without Review
+
 
 Prompt: "Write a press release about our new product launch."
 
@@ -169,7 +182,8 @@ Prompt: "Write a press release about our new product launch."
 
 ***
 
-## 🧠 Reflection Activity: Create a Team Risk Map
+##  Reflection Activity: Create a Team Risk Map
+
 
 1. Pick 3 workflows where your team uses AI (e.g., drafting emails, summarizing calls, idea generation)
 2. For each:

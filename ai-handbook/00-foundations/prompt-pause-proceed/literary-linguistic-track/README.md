@@ -1,10 +1,12 @@
-# 🧭 Literary & Linguistic Track  
+#  Literary & Linguistic Track  
+
 *Part of the Prompt Dissection Lab*  
 _A track designed for writers, deep thinkers, and those crafting nuance._
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
+
 - [Why This Track Exists](#why-this-track-exists)
 - [How AI Views Information](#how-ai-views-information)
 - [Why Linguistics and Literary Devices Work](#why-linguistics-and-literary-devices-work)
@@ -17,7 +19,8 @@ _A track designed for writers, deep thinkers, and those crafting nuance._
 
 ---
 
-## 🧠 Why This Track Exists
+##  Why This Track Exists
+
 
 Most guides focus on clarity — and that’s good.
 
@@ -35,7 +38,8 @@ It uses tools of literature, rhetoric, and composition to craft prompts that fee
 
 ---
 
-## 🧩 How AI Views Information
+##  How AI Views Information
+
 
 AI doesn’t “think” — it completes.
 
@@ -55,7 +59,8 @@ Knowing this, you can **reverse-engineer these levers** into your prompt.
 
 ---
 
-## 📚 Why Linguistics and Literary Devices Work
+##  Why Linguistics and Literary Devices Work
+
 
 Because **AI was trained on language, not logic**.
 
@@ -76,7 +81,8 @@ That means AI is excellent at:
 
 ---
 
-## 💬 Rhetorical Device Prompts
+##  Rhetorical Device Prompts
+
 
 These help you *guide* the AI’s emotional or persuasive structure.
 
@@ -89,7 +95,8 @@ These help you *guide* the AI’s emotional or persuasive structure.
 
 ---
 
-## 🧠 Thought Scaffolding Models
+##  Thought Scaffolding Models
+
 
 These prompt styles encourage **cognitive reasoning** — not just verbal completion.
 
@@ -104,7 +111,8 @@ These prompt styles encourage **cognitive reasoning** — not just verbal comple
 
 ---
 
-## 🎭 Stylistic Mode Switches
+##  Stylistic Mode Switches
+
 
 AI can shape-shift. But only if you tell it **what mood, aesthetic, or tradition** to mimic.
 
@@ -124,6 +132,7 @@ AI can shape-shift. But only if you tell it **what mood, aesthetic, or tradition
 
 ## ✨ Bonus: Narrative Tension & Pacing Tricks
 
+
 Want to **guide rhythm and reveal**? Try:
 
 | Technique | Prompt |
@@ -137,7 +146,8 @@ Use these to create prompts that **live on the edge of emotion and structure**.
 
 ---
 
-## 📚 Source References
+##  Source References
+
 
 - [GPT-4 Technical Report (OpenAI, 2023)](https://openai.com/research/gpt-4)
 - [Anthropic Claude Prompting Guidelines](https://docs.anthropic.com/claude/docs)
@@ -147,7 +157,8 @@ Use these to create prompts that **live on the edge of emotion and structure**.
 
 ---
 
-## 🔗 Explore the Lab
+##  Explore the Lab
+
 
 - [📘 Clarity Track (Structure, Usability)](./clarity-structure-track.md)
 - [🗺️ Prompting as a Thinking Loop](./README.md#-the-prompting-flowchart)
