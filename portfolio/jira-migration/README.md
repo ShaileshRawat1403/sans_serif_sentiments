@@ -1,9 +1,11 @@
-# ğŸ§© Project Manifesto: Migration to JIRA  
+#  Project Manifesto: Migration to JIRA  
+
 **Title**: Aligning Projects, People, and Processes
 
 ---
 
-## ğŸ“Œ Project Summary
+##  Project Summary
+
 
 This initiative aims to migrate all project and task management workflows from decentralized tools (Trello, Excel, Basecamp, emails) to **JIRA**, enabling scalable, auditable, and standardized project tracking across the organization.
 
@@ -11,7 +13,8 @@ While the technical switch is manageable, the core challenge is **behavioral** â
 
 ---
 
-## ğŸ§  Business Problem
+##  Business Problem
+
 
 - Fragmented task management across tools creates silos, miscommunication, and data inconsistency  
 - Leadership lacks unified visibility into project status across teams  
@@ -19,7 +22,8 @@ While the technical switch is manageable, the core challenge is **behavioral** â
 
 ---
 
-## ğŸ¯ Project Objectives
+##  Project Objectives
+
 
 - Establish JIRA as the **single source of truth** for work management  
 - Enable cross-team visibility, standardization, and reporting at scale  
@@ -28,7 +32,8 @@ While the technical switch is manageable, the core challenge is **behavioral** â
 
 ---
 
-## ğŸ§­ Strategic Approach
+##  Strategic Approach
+
 
 1. **Communications First**: Announce the why before the what â€” to reduce anxiety  
 2. **Segmented Messaging**: Tailor messages by role (Dev, PM, Ops, Exec)  
@@ -38,7 +43,8 @@ While the technical switch is manageable, the core challenge is **behavioral** â
 
 ---
 
-## ğŸ› ï¸ Tools Used
+## ï¸ Tools Used
+
 
 | Tool | Purpose |
 |------|---------|
@@ -50,7 +56,8 @@ While the technical switch is manageable, the core challenge is **behavioral** â
 
 ---
 
-## ğŸ“‚ Documentation to be Created
+##  Documentation to be Created
+
 
 | Doc | Format | Template |
 |-----|--------|----------|
@@ -67,7 +74,8 @@ While the technical switch is manageable, the core challenge is **behavioral** â
 
 ---
 
-## ğŸ“ˆ What This Portfolio Demonstrates
+##  What This Portfolio Demonstrates
+
 
 - Clear, structured change communication strategy  
 - Ability to create cross-functional content with empathy  
@@ -77,7 +85,8 @@ While the technical switch is manageable, the core challenge is **behavioral** â
 
 ---
 
-# ğŸš€ JIRA Migration Documentation Suite
+#  JIRA Migration Documentation Suite
+
 
 This project simulates a real-world internal rollout of **JIRA** as a unified project management platform across a growing enterprise.
 

@@ -4,11 +4,13 @@ icon: rotate
 
 # AI Change Communication Playbook
 
+
 _Helping Your Org Understand the Shift — Not Just the Software_
 
 ***
 
-## 📁 Table of Contents
+##  Table of Contents
+
 
 * [Why AI Change Needs Communication](ai-change-comms-playbook.md#why-ai-change-needs-communication)
 * [The Role of Communication in AI Rollouts](ai-change-comms-playbook.md#the-role-of-communication-in-ai-rollouts)
@@ -22,7 +24,8 @@ _Helping Your Org Understand the Shift — Not Just the Software_
 
 ***
 
-## 🧠 Why AI Change Needs Communication
+##  Why AI Change Needs Communication
+
 
 > “It’s not the tech that confuses people — it’s the meaning.”
 
@@ -36,7 +39,8 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 
 ***
 
-## 🗣️ The Role of Communication in AI Rollouts
+## ️ The Role of Communication in AI Rollouts
+
 
 * Reduce fear through clarity
 * Set shared expectations
@@ -48,7 +52,8 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 
 ***
 
-## 👥 Audience Segments to Consider
+##  Audience Segments to Consider
+
 
 | Group                   | What They Need to Hear                  |
 | ----------------------- | --------------------------------------- |
@@ -62,6 +67,7 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 
 ## ❗ Common Misunderstandings to Address
 
+
 | Myth                     | Clarification                                                         |
 | ------------------------ | --------------------------------------------------------------------- |
 | "AI will replace us all" | It augments decision-making, not wholesale job elimination            |
@@ -71,15 +77,18 @@ Communication is not the cherry on top — it's the oven. It's what bakes the ch
 
 ***
 
-## 🎯 Messaging Pillars for Change Communication
+##  Messaging Pillars for Change Communication
+
 
 ### **Permission, Not Pressure**
+
 
 Give people room to explore and question — not just comply.
 
 > "You don’t have to be confident. Just curious."
 
 ### **Why This, Why Now?**
+
 
 Explain the shift in terms of context:
 
@@ -89,6 +98,7 @@ Explain the shift in terms of context:
 
 ### **Practical, Not Promotional**
 
+
 Don’t hype the tools. Show the workflows:
 
 * Where it fits
@@ -97,11 +107,13 @@ Don’t hype the tools. Show the workflows:
 
 ### **Clarity Before Complexity**
 
+
 Define terms. Show working examples. Acknowledge limitations.
 
 > Every rollout should come with a glossary.
 
 ### **Feedback Is a Feature**
+
 
 Open loops for:
 
@@ -112,7 +124,8 @@ Open loops for:
 
 ***
 
-## 🗺️ Template: AI Rollout Comms Map
+## ️ Template: AI Rollout Comms Map
+
 
 | Phase       | Message Goal                  | Channel            | Example Message                                               |
 | ----------- | ----------------------------- | ------------------ | ------------------------------------------------------------- |
@@ -125,6 +138,7 @@ Open loops for:
 
 ## ✅ Checklist: AI Change Messaging Review
 
+
 * [ ] Does each audience know **what’s changing** for them?
 * [ ] Have we explained the **why**, not just the **how**?
 * [ ] Are there **safe spaces** for feedback and concern?
@@ -135,7 +149,8 @@ Open loops for:
 
 ***
 
-## 🧠 Reflection Activity: Craft Your Org’s Change Story
+##  Reflection Activity: Craft Your Orgs Change Story
+
 
 Write a short internal post or email draft:
 
@@ -154,35 +169,42 @@ Then:
 
 ***
 
-## 🌟 Novel Ideas to Elevate Change Comms
+##  Novel Ideas to Elevate Change Comms
 
-### 🎭 AI Ambassadors by Role
+
+###  AI Ambassadors by Role
+
 
 Appoint employees as internal “AI ambassadors” across departments. Their job? Use AI, fail with it, succeed with it — then share learnings in a low-stakes, team-specific way.
 
 > Example: An ops manager shows how AI helped write SOPs 3x faster — and shares the before/after.
 
-### 📚 Prompt-of-the-Month Club
+###  Prompt-of-the-Month Club
+
 
 Create a shared space where teams submit a “prompt they loved” — with context and results. Best ones are spotlighted monthly in a comms roundup or slack thread.
 
-### 🔄 Reverse Q\&A Series
+###  Reverse Q\&A Series
+
 
 Instead of leaders answering questions, let frontline teams ask _each other_: “What did you learn about using AI this week?”
 
 > Create a habit of storytelling from the bottom-up.
 
-### 🧪 Internal AI Lab Day
+###  Internal AI Lab Day
+
 
 Monthly 2-hour window where teams explore use cases hands-on. Mix breakout rooms with structured prompts and live walkthroughs.
 
-### 🎙️ AI Podcast or Fireside Log
+### ️ AI Podcast or Fireside Log
+
 
 Internal audio updates (5–10 mins) where teams share wins, experiments, or failures with AI — recorded like a short podcast.
 
 > “What Prompt Surprised You This Week?”
 
-### 🎨 Visual Explainability Boards
+###  Visual Explainability Boards
+
 
 Use Miro, Canva, or even printed whiteboards to visually map prompts, AI outputs, decision paths, and outcomes. Great for visual learners and exec briefings.
 

@@ -1,8 +1,10 @@
 # git-demystified
 
+
 _A calm, clear, human-first walk-through of the Git pull/push/rebase workflow, with analogies anyone can relate to._
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 1. [Why Git?](./#why-git)
 2. [Key Concepts](./#key-concepts)
@@ -18,6 +20,7 @@ _A calm, clear, human-first walk-through of the Git pull/push/rebase workflow, w
 
 ## Why Git?
 
+
 Imagine you’re writing a long letter by hand. Every time you finish a paragraph, you make a photocopy—just in case you spill coffee or want to go back. Git does that automatically for your text files.
 
 * **Version history** = your stack of photocopies
@@ -28,6 +31,7 @@ Imagine you’re writing a long letter by hand. Every time you finish a paragrap
 ***
 
 ## Key Concepts
+
 
 | Term                  | What It Means                                                           |
 | --------------------- | ----------------------------------------------------------------------- |
@@ -46,6 +50,7 @@ Imagine you’re writing a long letter by hand. Every time you finish a paragrap
 
 ### Some Analogies
 
+
 | Term            | Real-world Analogy                                    |
 | --------------- | ----------------------------------------------------- |
 | **Local repo**  | Your home office (your computer folder)               |
@@ -63,25 +68,32 @@ Imagine you’re writing a long letter by hand. Every time you finish a paragrap
 
 ## Basic Commands
 
+
 Think of your terminal as the mailroom window—you hand over commands, and Git processes them.
 
 ```bash
-# 1. See what’s changed on your desk
+# 1. See whats changed on your desk
+
 git status
 
 # 2. Choose letters to mail
+
 git add file.md
 
 # 3. Seal and label them
+
 git commit -m "docs: clarify Git workflow"
 
 # 4. Peek at the post office (get new mail)
+
 git fetch origin
 
 # 5. Re-stack your letters on top of the newest mail
+
 git rebase origin/main
 
 # 6. Send your sealed letters back
+
 git push origin main
 ```
 
@@ -95,6 +107,7 @@ git push origin main
 ***
 
 ## Daily Workflow
+
 
 1. **Work locally.** Edit files in your editor—like drafting a letter at home.
 2.  **Stage & commit.**
@@ -127,6 +140,7 @@ git push origin main
 
 ## Rebase vs. Merge
 
+
 | Aspect         | Merge                                    | Rebase                                      |    |                                          |
 | -------------- | ---------------------------------------- | ------------------------------------------- | -- | ---------------------------------------- |
 | **History**    | Shows a side-by-side merge commit (“     |                                             | ”) | Keeps a single, straight line of commits |
@@ -139,6 +153,7 @@ git push origin main
 ***
 
 ## Handling Conflicts
+
 
 When two cooks follow the same recipe and change the same line, you get a conflict:
 
@@ -168,6 +183,7 @@ Their version from the remote
 ***
 
 ## Best Practices
+
 
 *   **Fetch before you start**
 
@@ -200,7 +216,9 @@ Their version from the remote
 
 ## Troubleshooting
 
+
 ### “! \[rejected] main → main (fetch first)”
+
 
 ```bash
 git fetch origin
@@ -209,6 +227,7 @@ git push origin main
 ```
 
 ### “error: cannot pull with rebase: You have unstaged changes.”
+
 
 Options:
 
@@ -234,6 +253,7 @@ Options:
 ***
 
 ## Glossary
+
 
 * **Fast-forward**: Your branch just moves ahead—no new commit needed.
 * **Merge commit**: A special commit that ties two roads together.

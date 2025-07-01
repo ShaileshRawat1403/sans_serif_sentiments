@@ -4,11 +4,13 @@ icon: language
 
 # Change Translation Template
 
+
 _A framework to help you translate change into something people can understand, trust, and act on._
 
 ***
 
 ## ❓ Why This Template Exists
+
 
 > Most change fails not because it’s wrong, but because it’s _untranslatable_.
 
@@ -25,37 +27,46 @@ It’ll help people realize.
 
 ## ✍️ The Template
 
+
 Use this to write internal memos, announcements, or internal articles about _what’s changing_ and _why it matters_—without confusing people or triggering panic.
 
 ```
-## 🔄 What’s Changing
+##  Whats Changing
+
 [Use plain language. No jargon. State it directly.]
 
-## 🎯 Why It’s Happening
+##  Why Its Happening
+
 [Connect to a tension or trigger—not just vision.]
 
-## 🧠 What It Means For You
+##  What It Means For You
+
 [Show how it affects their day-to-day. Don’t generalize.]
 
-## 🛠️ What’s Staying the Same
+## ️ Whats Staying the Same
+
 [Anchor familiarity. Prevent full-blown disorientation.]
 
 ## ✅ What Happens Next
+
 [Make the immediate future clear—1 or 2 concrete steps.]
 
-## 🗣️ How To Ask or Contribute
+## ️ How To Ask or Contribute
+
 [Invite feedback, questions, or concerns. Name the channel/person.]
 ```
 
 ***
 
-## 🧵 Real-World Example
+##  Real-World Example
+
 
 Let’s say your company is shifting to a 4-day workweek pilot.
 
 ***
 
 ### ❌ Typical Comms:
+
 
 > “To support work-life balance, we’re excited to explore a flexible, people-first model of work. Our new 4DWW pilot begins in Q3.”
 
@@ -69,34 +80,42 @@ Let’s say your company is shifting to a 4-day workweek pilot.
 
 ### ✅ Translation Using This Template:
 
+
 ```
-## 🔄 What’s Changing  
+##  Whats Changing  
+
 We’re starting a 3-month 4-day workweek pilot. Teams will work Monday–Thursday, with Fridays off.
 
-## 🎯 Why It’s Happening  
+##  Why Its Happening  
+
 We’ve seen signs of burnout and declining focus. We want to test if fewer days can improve well-being *without hurting outcomes.*
 
-## 🧠 What It Means For You  
+##  What It Means For You  
+
 - You’ll set a weekly plan Mon–Thu  
 - Friday will be non-working—no Slack, no meetings, no emails  
 - Client teams will set exceptions based on external timelines
 
-## 🛠️ What’s Staying the Same  
+## ️ Whats Staying the Same  
+
 - Your salary  
 - Your targets  
 - Our values on ownership and async collaboration
 
 ## ✅ What Happens Next  
+
 - Week 1 planning meeting on June 3  
 - Feedback checkpoints every 2 weeks
 
-## 🗣️ How To Ask or Contribute  
+## ️ How To Ask or Contribute  
+
 Drop anonymous questions [here] or join the #4DWW Slack channel for open discussion.
 ```
 
 ***
 
-## 🧠 When To Use This Template
+##  When To Use This Template
+
 
 * When launching a change that affects **roles, teams, goals, or tools**
 * When internal reactions are likely to vary across functions
@@ -105,7 +124,8 @@ Drop anonymous questions [here] or join the #4DWW Slack channel for open discuss
 
 ***
 
-## 💡 Why It Works
+##  Why It Works
+
 
 | Section                    | Why It Helps                                  |
 | -------------------------- | --------------------------------------------- |
@@ -119,6 +139,7 @@ Drop anonymous questions [here] or join the #4DWW Slack channel for open discuss
 ***
 
 ## ✅ TL;DR
+
 
 Change communication often skips the translation layer.\
 This template **restores that layer**—where doubt turns to understanding.

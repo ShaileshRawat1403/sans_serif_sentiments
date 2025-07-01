@@ -4,11 +4,13 @@ icon: github
 
 # GitHub Contribution Guide for Writers
 
+
 > A professional workflow and best practices documentation tailored for writers contributing to open-source projects on GitHub.
 
 ***
 
-## 📖 Table of Contents
+##  Table of Contents
+
 
 * [Understanding GitHub Terminology](contribution-guide.md#understanding-github-terminology)
 * [Recommended Workflow](contribution-guide.md#recommended-workflow)
@@ -22,6 +24,7 @@ icon: github
 
 ## Understanding GitHub Terminology
 
+
 | Term                  | Explanation                                                | Importance                                                 |
 | --------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | **Repository (Repo)** | A project folder that contains all your files.             | Central workspace for collaboration.                       |
@@ -34,7 +37,9 @@ icon: github
 
 ## Recommended Workflow
 
+
 ### Fork the Repository
+
 
 * Navigate to the original repository.
 * Click **Fork** to create your copy.
@@ -47,6 +52,7 @@ Original Repo → Fork
 
 ### Clone Your Fork Locally
 
+
 Clone your fork to your computer using terminal:
 
 ```bash
@@ -55,6 +61,7 @@ cd repo-name
 ```
 
 ### Create a Branch
+
 
 Create a new branch for each contribution:
 
@@ -70,6 +77,7 @@ Main Branch → New Branch → Local Changes
 
 ### Make and Commit Your Changes
 
+
 Edit files locally, then commit:
 
 ```bash
@@ -78,6 +86,7 @@ git commit -m "Added workflow guide for new writers"
 ```
 
 ### Push Your Branch
+
 
 Push your local branch to GitHub:
 
@@ -92,6 +101,7 @@ Local Branch → GitHub Fork Branch
 ```
 
 ### Create a Pull Request (PR)
+
 
 * Navigate to your fork.
 * Click **Compare & pull request**.
@@ -108,6 +118,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 
 ### Respond to Feedback
 
+
 * Address feedback promptly.
 * Maintain clear communication.
 
@@ -115,7 +126,9 @@ Forked Branch → PR → Maintainer Reviews → Merge
 
 ## Best Practices for GitHub Contributions
 
+
 ### ✅ Always
+
 
 * Fork and branch before changes.
 * Use clear commit messages.
@@ -123,6 +136,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 * Describe PRs clearly.
 
 ### ❌ Never
+
 
 * Push directly to main/master branch.
 * Use unclear commit messages.
@@ -133,7 +147,9 @@ Forked Branch → PR → Maintainer Reviews → Merge
 
 ## Common Gaps and How to Avoid Them
 
+
 ### Gap: Not Creating Branches
+
 
 **Issue:** Potential overwriting or breaking content.
 
@@ -141,11 +157,13 @@ Forked Branch → PR → Maintainer Reviews → Merge
 
 ### Gap: Poor Documentation/Commit Messages
 
+
 **Issue:** Difficult reviews, unclear context.
 
 **Solution:** Provide clear descriptions and meaningful commit messages.
 
 ### Gap: Large, Unfocused PRs
+
 
 **Issue:** Challenging review process, delays.
 
@@ -154,6 +172,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 ***
 
 ## Essential Git Commands for Writers
+
 
 | Command                         | Explanation                    |
 | ------------------------------- | ------------------------------ |
@@ -170,6 +189,7 @@ Forked Branch → PR → Maintainer Reviews → Merge
 
 ## Creating Professional Contributions
 
+
 Ensure contributions are:
 
 * Clear, concise, and readable
@@ -181,6 +201,7 @@ Ensure contributions are:
 
 ## Next Steps for Writers
 
+
 * **Practice:** Contribute incrementally.
 * **Document:** Clearly document contributions.
 * **Engage:** Participate actively in discussions.
@@ -188,6 +209,7 @@ Ensure contributions are:
 ***
 
 ## Contribution Workflow Visual
+
 
 ```mermaid
 graph TD
@@ -204,6 +226,7 @@ H --> I[Merge Changes]
 ***
 
 ## Final Thoughts
+
 
 > "Effective open-source contributions are not just technical—they're fundamentally about clear communication and collaboration."
 

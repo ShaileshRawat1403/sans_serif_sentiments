@@ -1,8 +1,10 @@
 # ImmutableInk: Comprehensive User Documentation
 
+
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Welcome to ImmutableInk](./#-welcome-to-immutableink)
 * [What is ImmutableInk?](./#-what-is-immutableink)
@@ -24,7 +26,8 @@
 
 ***
 
-## 🧭 Welcome to ImmutableInk
+##  Welcome to ImmutableInk
+
 
 Welcome to the official documentation for **ImmutableInk**, your trusted platform for verifiable, auditable, and tamper-evident documentation.
 
@@ -37,7 +40,8 @@ Whether you're a technical writer, compliance officer, developer, or executive, 
 
 ***
 
-## 🧱 What is ImmutableInk?
+##  What is ImmutableInk?
+
 
 ImmutableInk is a **blockchain-backed documentation platform** that ensures every document review, approval, and seal is **verifiable with cryptographic certainty**.
 
@@ -51,7 +55,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 🔍 What Makes ImmutableInk Different?
+##  What Makes ImmutableInk Different?
+
 
 | ❌ Traditional DMS (e.g., SharePoint)       | ✅ ImmutableInk                              |
 | ------------------------------------------ | ------------------------------------------- |
@@ -63,7 +68,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 👥 Who Should Use This Documentation?
+##  Who Should Use This Documentation?
+
 
 * **Technical Writers**: Draft, collaborate, and finalize documentation.
 * **Reviewers / SMEs**: Approve documents with cryptographic proof.
@@ -73,7 +79,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 🔧 What Problems Does ImmutableInk Solve?
+##  What Problems Does ImmutableInk Solve?
+
 
 | Problem           | ImmutableInk Solution                                |
 | ----------------- | ---------------------------------------------------- |
@@ -84,7 +91,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 🚀 Key Capabilities at a Glance
+##  Key Capabilities at a Glance
+
 
 | Feature             | Description                                 |
 | ------------------- | ------------------------------------------- |
@@ -97,7 +105,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 🛠 Prerequisites Before You Start
+##  Prerequisites Before You Start
+
 
 * Active user account
 * Workspace access with correct role
@@ -108,15 +117,18 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ## ▶️ What to Do Next
 
+
 * New? Start the **Quickstart Tutorial**
 * Have a role? Jump to **Role-Based Workflows**
 * Issues? Check **FAQs** or **Contact Support**
 
 ***
 
-## 🧠 Core Concepts & System Architecture
+##  Core Concepts & System Architecture
 
-### 🔄 The Document Lifecycle
+
+###  The Document Lifecycle
+
 
 | Stage     | Description                                           |
 | --------- | ----------------------------------------------------- |
@@ -139,6 +151,7 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ### ⛓️ Blockchain as an Integrity Ledger
 
+
 * SHA-256 hashed document
 * Linked digital signatures
 * Metadata stored immutably
@@ -147,7 +160,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-### 🔐 Cryptographic Hashing & Verification
+###  Cryptographic Hashing & Verification
+
 
 * **SHA-256**: deterministic, collision-resistant, avalanche effect
 * **Live Hash Check**: `✅ Verified` / `❌ Tampering Detected`
@@ -156,20 +170,23 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ### ✍️ Digital Signatures & Non-Repudiation
 
+
 * Each approval = signed identity + timestamp
 * Stored in the ledger
 * **Legally admissible proof of sign-off**
 
 ***
 
-### 🤖 Smart Contract Governance (Enterprise)
+###  Smart Contract Governance (Enterprise)
+
 
 * Auto-routes reviews: e.g., Legal → Security → Compliance
 * Rules are enforceable, not just suggested
 
 ***
 
-## 🎭 Roles, Use Cases, and Core Features
+##  Roles, Use Cases, and Core Features
+
 
 | Role             | Needs               | Key Features                     |
 | ---------------- | ------------------- | -------------------------------- |
@@ -184,6 +201,7 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ## ⚙️ Product Features
 
+
 * **Create & Upload**: `.docx`, `.pdf`, `.md`, editor included
 * **Reviewer Chain**: Sequential/parallel sign-offs
 * **Final Seal**: Lock hash + approvals
@@ -194,7 +212,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 💼 Executive Summary
+##  Executive Summary
+
 
 | Business Priority | How ImmutableInk Helps       |
 | ----------------- | ---------------------------- |
@@ -206,9 +225,11 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 🧑‍💻 Getting Started with ImmutableInk
+## ‍ Getting Started with ImmutableInk
+
 
 ### ✅ System Requirements
+
 
 | Requirement | Details                       |
 | ----------- | ----------------------------- |
@@ -219,7 +240,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-### 🛠️ Account Setup
+### ️ Account Setup
+
 
 1. Sign up
 2. Choose role
@@ -227,28 +249,32 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-### 📂 First Document
+###  First Document
+
 
 * Upload or use built-in editor
 * Auto-generates hash
 
 ***
 
-### 👥 Assign Reviewers
+###  Assign Reviewers
+
 
 * Sequential or parallel
 * Signed and stored on-chain
 
 ***
 
-### 🧾 Seal & Verify
+###  Seal & Verify
+
 
 * Final signature by Compliance Lead
 * Document → “Sealed” with hash & audit trail
 
 ***
 
-### 🔍 Verify Integrity
+###  Verify Integrity
+
 
 | Status        | Meaning                |
 | ------------- | ---------------------- |
@@ -258,7 +284,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-### 🧪 Try It Yourself
+###  Try It Yourself
+
 
 | Step | Action               |
 | ---- | -------------------- |
@@ -270,39 +297,46 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 🔄 Role-Based Workflows
+##  Role-Based Workflows
 
-### 🧑‍🎨 Technical Writer
+
+### ‍ Technical Writer
+
 
 ```
 [New Doc] → [Metadata] → [Assign Reviewers] → [Track Status] → [Submit for Sealing]
 ```
 
-### 🧑‍⚖️ Reviewer
+### ‍⚖️ Reviewer
+
 
 ```
 [Notification] → [Open Doc] → [Approve/Reject + Notes] → [Signed to Chain]
 ```
 
-### 🛡️ Compliance Lead
+### ️ Compliance Lead
+
 
 ```
 [Review Queue] → [Audit Reviewer Chain] → [Seal] → [Export Audit]
 ```
 
-### 📊 Decision Maker
+###  Decision Maker
+
 
 ```
 [Open Dashboard] → [Review Sealed Docs] → [Download Reports]
 ```
 
-### 🧑‍💻 Developer
+### ‍ Developer
+
 
 ```
 [API Token] → [Connect Webhooks] → [Test] → [Deploy]
 ```
 
-### 🔍 Auditor
+###  Auditor
+
 
 ```
 [Receive Access] → [Run "Verify"] → [Check Chain] → [Export Ledger]
@@ -310,9 +344,11 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-## 🧩 Installation & Setup
+##  Installation & Setup
 
-### 🚀 Deployment Options
+
+###  Deployment Options
+
 
 | Model                | Best For                   |
 | -------------------- | -------------------------- |
@@ -322,7 +358,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-### 📋 Onboarding Checklist
+###  Onboarding Checklist
+
 
 * Create Workspace
 * Add Users
@@ -332,7 +369,8 @@ Every signature, timestamp, and review is permanently recorded on an **immutable
 
 ***
 
-### 🐳 Quick Install (Docker)
+###  Quick Install (Docker)
+
 
 ```bash
 git clone https://github.com/immutable-ink/core.git
@@ -346,7 +384,8 @@ Visit: `http://localhost:3000`
 
 ***
 
-### 🔐 Identity Options
+###  Identity Options
+
 
 * Email + Password
 * OAuth / SSO (Google, Okta)
@@ -354,7 +393,8 @@ Visit: `http://localhost:3000`
 
 ***
 
-## 🔄 Document Lifecycle in Practice
+##  Document Lifecycle in Practice
+
 
 ```
 [ Draft ]  
@@ -368,7 +408,8 @@ Visit: `http://localhost:3000`
 
 ***
 
-### 🧪 Real-World Example: HR Policy
+###  Real-World Example: HR Policy
+
 
 1. HR drafts policy → Assigns Legal & Compliance
 2. Both approve → Compliance seals
@@ -376,7 +417,8 @@ Visit: `http://localhost:3000`
 
 ***
 
-## 💻 API & Lifecycle Events
+##  API & Lifecycle Events
+
 
 Example API Payloads:
 
@@ -396,9 +438,11 @@ Example API Payloads:
 
 ***
 
-## 🔌 Integrations & Extensibility
+##  Integrations & Extensibility
 
-### 💡 Why It Matters
+
+###  Why It Matters
+
 
 * Trigger alerts on review/seal/hash issues
 * Embed docs in Notion, SharePoint
@@ -406,7 +450,8 @@ Example API Payloads:
 
 ***
 
-### 🔗 Integration Examples
+###  Integration Examples
+
 
 | Tool                | Use                       |
 | ------------------- | ------------------------- |
@@ -418,7 +463,8 @@ Example API Payloads:
 
 ***
 
-### 🔔 Webhooks (Planned)
+###  Webhooks (Planned)
+
 
 | Event                | Description     |
 | -------------------- | --------------- |
@@ -429,7 +475,8 @@ Example API Payloads:
 
 ***
 
-### 📬 Alerts: No Code Setup
+###  Alerts: No Code Setup
+
 
 | Use Case      | Output              |
 | ------------- | ------------------- |
@@ -439,7 +486,8 @@ Example API Payloads:
 
 ***
 
-### 🔐 SSO + Role Mapping
+###  SSO + Role Mapping
+
 
 Supports:
 
@@ -449,7 +497,8 @@ Supports:
 
 ***
 
-### 🔧 API (Planned)
+###  API (Planned)
+
 
 ```bash
 curl -X POST https://api.immutableink.io/verify \
@@ -470,6 +519,7 @@ Returns:
 ***
 
 ### ✅ Best Practices
+
 
 * **Admins**: Setup alerts + roles
 * **Devs**: Register webhooks

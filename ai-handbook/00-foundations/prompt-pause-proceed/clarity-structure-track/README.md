@@ -1,10 +1,12 @@
-# 📘 Clarity & Structure Track  
+#  Clarity & Structure Track  
+
 *Part of the Prompt Dissection Lab*  
 _A track designed for clarity, usability, and practical prompting._
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
+
 - [Why This Track Matters](#why-this-track-matters)
 - [What Clarity Really Means in AI Contexts](#what-clarity-really-means-in-ai-contexts)
 - [Key Elements of a Clear Prompt](#key-elements-of-a-clear-prompt)
@@ -17,7 +19,8 @@ _A track designed for clarity, usability, and practical prompting._
 
 ---
 
-## 🧠 Why This Track Matters
+##  Why This Track Matters
+
 
 You don't need to be a tech expert to get great results from AI.  
 But you do need **clarity** — and that doesn’t mean using big words.
@@ -34,7 +37,8 @@ Clarity isn’t optional — it’s what lets you **collaborate with AI instead 
 
 ---
 
-## 🔍 What Clarity Really Means in AI Contexts
+##  What Clarity Really Means in AI Contexts
+
 
 Clarity is about being:
 
@@ -49,7 +53,8 @@ Clarity is about being:
 
 ---
 
-## 🧱 Key Elements of a Clear Prompt
+##  Key Elements of a Clear Prompt
+
 
 | Element                 | What It Does                                               | Tip                                                           |
 |-------------------------|------------------------------------------------------------|----------------------------------------------------------------|
@@ -61,11 +66,13 @@ Clarity is about being:
 
 ---
 
-## 🛠️ Action Prompts: Test & Improve Yours
+## ️ Action Prompts: Test & Improve Yours
+
 
 Here are real examples of how to revise weak prompts:
 
 ### 1. Add Constraints
+
 
 ❌ “Write about climate change.”  
 ⏩ This is too broad — AI may ramble without direction.
@@ -77,6 +84,7 @@ Here are real examples of how to revise weak prompts:
 
 ### 2. Remove Ambiguity
 
+
 ❌ “Make it better.”  
 ⏩ Better how? For whom? In what context?
 
@@ -87,6 +95,7 @@ Here are real examples of how to revise weak prompts:
 
 ### 3. Frame With Intent
 
+
 ❌ “Explain photosynthesis.”  
 ✅ “Act like a 7th-grade science teacher. Explain photosynthesis using a food analogy, in less than 5 bullet points.”  
 ⏩ Instructional tone, audience, analogy, format — this is prompt precision.
@@ -95,13 +104,15 @@ Here are real examples of how to revise weak prompts:
 
 ### 4. Specify Platform Needs
 
+
 ❌ “Help me write a caption.”  
 ✅ “Write 3 variations of a 1-sentence caption for Instagram about mental health awareness, using a hopeful tone.”  
 ⏩ Tells the AI the **what**, **where**, **how**, and **how many**.
 
 ---
 
-## 🔁 The Usability Loop
+##  The Usability Loop
+
 
 When the output doesn’t match your expectations, try this loop:
 
@@ -125,6 +136,7 @@ Then refine from there. Don’t delete and restart — diagnose.
 
 ## ⚖️ Examples: Vague vs Refined Prompts
 
+
 | Prompt Type | Example | Why It (Doesn’t) Work |
 |-------------|---------|-----------------------|
 | ❌ Vague | “Write something about UX.” | No audience, no goal, no format |
@@ -140,6 +152,7 @@ Then refine from there. Don’t delete and restart — diagnose.
 
 ## ✅ Use This Mini Prompt Audit
 
+
 Before hitting enter, ask yourself:
 
 - [ ] What am I really trying to do here?
@@ -153,7 +166,8 @@ If yes — expect clarity in return.
 
 ---
 
-## 📚 Sources & Insights
+##  Sources & Insights
+
 
 - [Google Developer Style Guide: Prompt Guidelines](https://developers.google.com/style/prompts)
 - [OpenAI Cookbook: Best Practices for Prompting](https://github.com/openai/openai-cookbook)
@@ -168,7 +182,8 @@ If yes — expect clarity in return.
 
 ---
 
-## 📚 Go Deeper
+##  Go Deeper
+
 
 - [🗺️ Prompting as a Thinking Loop](./README.md#-the-prompting-flowchart)
 - [💡 Prompting Flowchart](./README.md#-the-prompting-flowchart)

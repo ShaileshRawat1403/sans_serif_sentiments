@@ -1,4 +1,5 @@
-# 🛠️ Troubleshooting Guide
+# ️ Troubleshooting Guide
+
 
 *Run into issues while using GitBook? Start here to resolve the most common problems without delay.*
 
@@ -6,7 +7,8 @@ This guide helps you identify, diagnose, and resolve the most frequently reporte
 
 ---
 
-## 🔄 GitHub/GitLab Sync Issues
+##  GitHub/GitLab Sync Issues
+
 
 **Problem:** Changes in GitHub don’t reflect in GitBook, or vice versa.
 
@@ -24,6 +26,7 @@ This guide helps you identify, diagnose, and resolve the most frequently reporte
 
 ## ✏️ Editor Not Saving Changes
 
+
 **Problem:** Changes made in the editor appear to be lost or not saved.
 
 **Try This:**
@@ -37,7 +40,8 @@ This guide helps you identify, diagnose, and resolve the most frequently reporte
 
 ---
 
-## 📂 Sidebar or Page Navigation Missing
+##  Sidebar or Page Navigation Missing
+
 
 **Problem:** Sidebar doesn’t appear or pages seem to disappear.
 
@@ -52,7 +56,8 @@ This guide helps you identify, diagnose, and resolve the most frequently reporte
 
 ---
 
-## 📤 Publishing Issues (Page Not Visible)
+##  Publishing Issues (Page Not Visible)
+
 
 **Problem:** You’ve published a space but the page isn't accessible via link.
 
@@ -67,7 +72,8 @@ This guide helps you identify, diagnose, and resolve the most frequently reporte
 
 ---
 
-## 🧩 Embedded Content Not Displaying
+##  Embedded Content Not Displaying
+
 
 **Problem:** You’ve added embeds (e.g., YouTube, Google Docs), but they don’t render.
 
@@ -82,7 +88,8 @@ This guide helps you identify, diagnose, and resolve the most frequently reporte
 
 ---
 
-## 🧪 Still Stuck?
+##  Still Stuck?
+
 
 If these fixes don’t help:
 - Visit [GitBook Help Center](https://support.gitbook.com/)

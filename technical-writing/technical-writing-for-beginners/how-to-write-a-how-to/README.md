@@ -4,9 +4,11 @@ description: A step-by-step walkthrough for writing your first usable doc.
 
 # how-to-write-a-how-to
 
+
 ***
 
-### 🪜 Purpose of This Chapter
+###  Purpose of This Chapter
+
 
 To help beginners:
 
@@ -21,6 +23,7 @@ This chapter is practical, hands-on, and includes templates, tools, analogies, a
 ***
 
 ### ✅ What is a How-To Document?
+
 
 A how-to is a **task-based document**.
 
@@ -41,7 +44,8 @@ Think of a how-to doc as the **GPS of tech documentation** — not the travel br
 
 ***
 
-### 🧱 Anatomy of a Great How-To Doc
+###  Anatomy of a Great How-To Doc
+
 
 | Section                    | Purpose                                                 |
 | -------------------------- | ------------------------------------------------------- |
@@ -56,7 +60,8 @@ Think of a how-to doc as the **GPS of tech documentation** — not the travel br
 
 ***
 
-#### 🧩 A Reader’s Perspective: Why Docs Fail (and When They Do)
+####  A Readers Perspective: Why Docs Fail (and When They Do)
+
 
 Let’s flip the script. You’re not the writer right now. You’re the reader.
 
@@ -69,7 +74,8 @@ You blink. You scroll. You still don’t know where to click.
 
 ***
 
-#### 🧠 Where Communication Breaks Down
+####  Where Communication Breaks Down
+
 
 | Cause                        | Reader Experience                                                   |
 | ---------------------------- | ------------------------------------------------------------------- |
@@ -86,7 +92,8 @@ You blink. You scroll. You still don’t know where to click.
 
 ***
 
-#### 🎯 Understand Your Reader’s Proficiency
+####  Understand Your Readers Proficiency
+
 
 Before writing, ask:
 
@@ -95,7 +102,8 @@ Before writing, ask:
 * What terminology do they use?
 * Are they expected to “figure things out” or follow precise rules?
 
-### 🧠 Why Readers Struggle: Before You Write Anything
+###  Why Readers Struggle: Before You Write Anything
+
 
 > “The problem with most docs isn’t what’s written. It’s what’s assumed.”
 
@@ -104,13 +112,15 @@ Readers usually arrive from a place of stress.
 
 ***
 
-#### 🔍 Why Does This Happen?
+####  Why Does This Happen?
+
 
 Because documentation is often written from the **builder’s brain**, not the **user’s reality**.
 
 ***
 
-#### 💥 10 Common Breakdowns (and What Causes Them)
+####  10 Common Breakdowns (and What Causes Them)
+
 
 | Frustration                          | Root Cause                             | Fix                                                  |
 | ------------------------------------ | -------------------------------------- | ---------------------------------------------------- |
@@ -127,7 +137,8 @@ Because documentation is often written from the **builder’s brain**, not the *
 
 ***
 
-#### 🎯 Understand Your Reader: A Real Example
+####  Understand Your Reader: A Real Example
+
 
 Before writing, ask:
 
@@ -138,7 +149,8 @@ Before writing, ask:
 
 ***
 
-#### 🧠 Tool Tip
+####  Tool Tip
+
 
 Use [Userforge](https://userforge.com/) or sketch a persona like this:
 
@@ -159,7 +171,8 @@ That’s the difference between a doc that helps and a doc that confuses.
 
 ***
 
-### 🛠 Tools and Formatting Patterns That Help
+###  Tools and Formatting Patterns That Help
+
 
 | Tool                                   | Use Case                                              |
 | -------------------------------------- | ----------------------------------------------------- |
@@ -179,14 +192,17 @@ Design docs like landing pages: use scannable structure, subheadings, and bold a
 
 ### ✍️ Writing Your First How-To (Example Template)
 
+
 > **Title:** How to Invite a Teammate to Your Project Workspace
 
 #### Prerequisites
+
 
 * You need admin access to your workspace.
 * The teammate must have a valid email address.
 
 #### Steps
+
 
 1. Log in to your dashboard.
 2. Click **Settings** in the top navigation bar.
@@ -197,10 +213,12 @@ Design docs like landing pages: use scannable structure, subheadings, and bold a
 
 #### Notes
 
+
 * The invite link expires after 48 hours.
 * Only Admins can invite new teammates.
 
-#### What’s Next
+#### Whats Next
+
 
 * [Manage Team Roles](./)
 * [Set Up Two-Factor Authentication](./)
@@ -214,7 +232,8 @@ Design docs like landing pages: use scannable structure, subheadings, and bold a
 
 ***
 
-#### 🎭 Real Scenario: The Doc That Lost the User
+####  Real Scenario: The Doc That Lost the User
+
 
 **Scenario: Onboarding a New HR Manager**
 
@@ -230,7 +249,8 @@ Design docs like landing pages: use scannable structure, subheadings, and bold a
 
 ***
 
-#### 💥 10 Points of Frustration — and Why
+####  10 Points of Frustration - and Why
+
 
 | Frustration                                        | Root Cause                  | Fix                                                             |
 | -------------------------------------------------- | --------------------------- | --------------------------------------------------------------- |
@@ -249,6 +269,7 @@ Design docs like landing pages: use scannable structure, subheadings, and bold a
 
 ### ⚠️ Common Mistakes and Fixes
 
+
 | Mistake                        | Fix                                        |
 | ------------------------------ | ------------------------------------------ |
 | Writing vague steps            | Use action verbs and specific labels       |
@@ -262,7 +283,8 @@ Ask someone unfamiliar with the product to follow your doc. Watch where they hes
 
 ***
 
-### 💡 Pro Tips
+###  Pro Tips
+
 
 * Read your steps aloud — awkward = unclear.
 * One action per step. No compound instructions.
@@ -281,7 +303,8 @@ Ask someone unfamiliar with the product to follow your doc. Watch where they hes
 
 ***
 
-### 🧭 What’s Next
+###  Whats Next
+
 
 Now that you’ve written your first how-to, it’s time to **build your portfolio** — and showcase what you’ve learned.
 

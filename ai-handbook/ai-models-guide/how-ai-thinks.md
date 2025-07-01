@@ -2,13 +2,15 @@
 icon: train-track
 ---
 
-# How AI Thinks (And How It Doesn’t)
+# How AI Thinks (And How It Doesnt)
+
 
 _A Guide to Understanding What’s Actually Happening Under the Hood_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why This Guide Matters](how-ai-thinks.md#why-this-guide-matters)
 * [What Does It Mean for AI to Think](how-ai-thinks.md#what-does-it-mean-for-ai-to-think)
@@ -22,7 +24,8 @@ _A Guide to Understanding What’s Actually Happening Under the Hood_
 
 ***
 
-## 🧭 Why This Guide Matters
+##  Why This Guide Matters
+
 
 AI models sound smart. They structure thoughts like us. But they do not **think** like us.
 
@@ -35,7 +38,8 @@ Understanding what’s really happening helps you:
 
 ***
 
-## 💭 What Does It Mean for AI to Think
+##  What Does It Mean for AI to Think
+
 
 > It doesn’t. But it can simulate.
 
@@ -50,13 +54,15 @@ AI does the **last part extremely well.** But the **middle steps are not conscio
 
 ***
 
-## 🧠 How Generative AI Works The Mental Model
+##  How Generative AI Works The Mental Model
+
 
 Generative AI can feel like magic — but it’s math. Understanding the mechanics gives you the power to prompt better, detect flaws earlier, and explain outcomes clearly.
 
 ***
 
-### 📌 The What:
+###  The What:
+
 
 Generative AI models are statistical machines. They don’t think — they **predict the most likely next unit** (a word, pixel, token, or waveform) based on what came before.
 
@@ -64,7 +70,8 @@ Generative AI models are statistical machines. They don’t think — they **pre
 
 ***
 
-### 🧰 The How:
+###  The How:
+
 
 It works using four core layers:
 
@@ -77,7 +84,8 @@ It works using four core layers:
 
 ***
 
-### 🧠 Mental Model: Predictive Word Composer
+###  Mental Model: Predictive Word Composer
+
 
 Imagine:
 
@@ -89,7 +97,8 @@ It’s part logic, part language, but **no lived meaning** — only mapped proba
 
 ***
 
-### 🧪 What It’s NOT Doing:
+###  What Its NOT Doing:
+
 
 * It doesn’t “think ahead” unless told to.
 * It doesn’t have memory beyond what’s fed in (unless architected to retain it).
@@ -99,9 +108,11 @@ It’s part logic, part language, but **no lived meaning** — only mapped proba
 
 ### The What:
 
+
 Generative AI uses **probability** to guess the next word (or image pixel, or audio segment).
 
 ### The How:
+
 
 It uses:
 
@@ -112,11 +123,13 @@ It uses:
 
 ### The Analogy:
 
+
 > Imagine a hyper-fast autocomplete trained on the entire internet. It’s guessing what you want based on what others have said — not what you mean.
 
 ***
 
 ## ❗ Prediction Not Understanding
+
 
 AI doesn't “understand” Paris is in France. It knows:
 
@@ -133,7 +146,8 @@ That’s different from a human knowing:
 
 ***
 
-## 🔍 Where It Fails Common Breakdowns
+##  Where It Fails Common Breakdowns
+
 
 | Failure Mode      | Description                              | Example                                   |
 | ----------------- | ---------------------------------------- | ----------------------------------------- |
@@ -144,7 +158,8 @@ That’s different from a human knowing:
 
 ***
 
-## 🧬 Types of Reasoning System vs Semantic Memory
+##  Types of Reasoning System vs Semantic Memory
+
 
 | Type             | Used by AI?  | Human Equivalent    | Example                             |
 | ---------------- | ------------ | ------------------- | ----------------------------------- |
@@ -156,7 +171,8 @@ That’s different from a human knowing:
 
 ***
 
-## 🎯 Reflection Activity Decoding a Bots Thought Process
+##  Reflection Activity Decoding a Bots Thought Process
+
 
 Take a ChatGPT output that:
 
@@ -172,7 +188,8 @@ Ask yourself:
 
 ***
 
-## 🧍 Human vs AI Misunderstanding the Misunderstanding
+##  Human vs AI Misunderstanding the Misunderstanding
+
 
 We often:
 
@@ -185,6 +202,7 @@ We often:
 ***
 
 ## ⚖️ The Ethical Trap Trusting Coherence Over Truth
+
 
 AI outputs are often:
 

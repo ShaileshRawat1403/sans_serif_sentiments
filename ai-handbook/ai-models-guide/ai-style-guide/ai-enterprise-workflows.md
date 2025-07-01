@@ -1,10 +1,12 @@
 # AI + Enterprise Workflows
 
+
 _How to Seamlessly Embed AI Into Your Org Without Breaking What Works_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why AI Integration Needs a Playbook](ai-enterprise-workflows.md#why-ai-integration-needs-a-playbook)
 * [What We Mean by 'Workflow'](ai-enterprise-workflows.md#what-we-mean-by-workflow)
@@ -23,7 +25,8 @@ _How to Seamlessly Embed AI Into Your Org Without Breaking What Works_
 
 ***
 
-## 🔍 Why AI Integration Needs a Playbook
+##  Why AI Integration Needs a Playbook
+
 
 Throwing GPT into Slack or Notion isn’t “integration.” It’s experimentation — and that’s okay for early-stage testing. But when AI becomes part of core operations, you need:
 
@@ -35,7 +38,8 @@ Throwing GPT into Slack or Notion isn’t “integration.” It’s experimentat
 
 ***
 
-## 🔧 What We Mean by “Workflow”
+##  What We Mean by “Workflow”
+
 
 A workflow is more than a task list. It’s a:
 
@@ -54,9 +58,11 @@ A workflow is more than a task list. It’s a:
 
 ***
 
-## 🧩 Types of Enterprise AI Integrations
+##  Types of Enterprise AI Integrations
 
-### 🤖 Standalone Assistants
+
+###  Standalone Assistants
+
 
 * Often deployed via a web app or a chat window
 * Useful for FAQs, onboarding, policy lookup
@@ -64,7 +70,8 @@ A workflow is more than a task list. It’s a:
 
 **Example:** Internal HR bot that answers questions about leaves, policies, and onboarding steps.
 
-### 🧠 Embedded Smart Fields
+###  Embedded Smart Fields
+
 
 * Adds generative capabilities inside existing software
 * Makes UI fields “aware” of context
@@ -76,6 +83,7 @@ A workflow is more than a task list. It’s a:
 
 ### ⚙️ 3. Trigger-Based Automation
 
+
 * Uses events to call an AI function
 * Input → AI → Suggested action → Auto or human approval
 
@@ -84,7 +92,8 @@ A workflow is more than a task list. It’s a:
 * Content management system auto-generates SEO metadata
 * AI flags inbound support tickets that are legal-sensitive
 
-### 👩‍✈️ Co-Pilot Interfaces
+### ‍✈️ Co-Pilot Interfaces
+
 
 * AI works alongside user to co-create or co-review
 * Keeps human in loop with suggestions, not commands
@@ -98,7 +107,8 @@ A workflow is more than a task list. It’s a:
 
 ***
 
-## 📊 Common Enterprise Use Cases
+##  Common Enterprise Use Cases
+
 
 | Function         | Use Case                                     | AI Pattern            |
 | ---------------- | -------------------------------------------- | --------------------- |
@@ -113,7 +123,8 @@ A workflow is more than a task list. It’s a:
 
 ***
 
-## 🧭 System Mapping: Where Does AI Plug In?
+##  System Mapping: Where Does AI Plug In?
+
 
 Mapping AI entry points requires:
 
@@ -131,7 +142,8 @@ Mapping AI entry points requires:
 
 ***
 
-## 🔐 Roles and Permissions: Who Sees What, When?
+##  Roles and Permissions: Who Sees What, When?
+
 
 Role-aware AI means:
 
@@ -151,7 +163,8 @@ Don’t let AI shortcut your security architecture.
 
 ***
 
-## 🔁 Data Flow Diagrams & Lifecycle
+##  Data Flow Diagrams & Lifecycle
+
 
 Visualizing how data moves through an AI-enabled workflow improves:
 
@@ -177,7 +190,8 @@ Visualizing how data moves through an AI-enabled workflow improves:
 
 ***
 
-## 📣 Change Management Tips for AI Rollouts
+##  Change Management Tips for AI Rollouts
+
 
 1. Start small with high-visibility teams (e.g. support, content)
 2. Choose a “friendly skeptic” stakeholder to pilot with
@@ -189,7 +203,8 @@ Visualizing how data moves through an AI-enabled workflow improves:
 
 ***
 
-## 🧠 Reflection Activity: Map Your AI Entry Points
+##  Reflection Activity: Map Your AI Entry Points
+
 
 Choose a workflow you manage. For each step:
 
@@ -208,9 +223,11 @@ Then:
 
 ***
 
-## 🧩 Visual Aids: Sample Workflows & Logic
+##  Visual Aids: Sample Workflows & Logic
+
 
 ### Contract Review Co-Pilot (Legal Team)
+
 
 ```
 [Upload Contract] 
@@ -226,6 +243,7 @@ Then:
 
 ### Customer Ticket Classification
 
+
 ```
 [New Ticket] 
    ↓
@@ -239,6 +257,7 @@ Then:
 ```
 
 ### Marketing Draft Generation Flow
+
 
 ```
 [Product Brief] + [Target Persona] →

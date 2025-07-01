@@ -1,11 +1,13 @@
-# 🧾 Writing Modes Reference: Markdown vs Blocks
+#  Writing Modes Reference: Markdown vs Blocks
+
 
 GitBook offers two writing modes: **Markdown** and **Block editor**.  
 This guide helps you understand the differences so you can choose the best editing experience for your workflow.
 
 ---
 
-## 🧭 Overview
+##  Overview
+
 
 | Mode | Description |
 |------|-------------|
@@ -18,6 +20,7 @@ Each mode supports core documentation needs, but the authoring experience varies
 ---
 
 ## 🆚 Feature Comparison Table
+
 
 | Feature | Markdown Mode | Block Mode |
 |---------|----------------|------------|
@@ -36,7 +39,8 @@ Each mode supports core documentation needs, but the authoring experience varies
 
 ---
 
-## 📝 When to Use Markdown Mode
+##  When to Use Markdown Mode
+
 
 Choose Markdown when you want to:
 
@@ -49,7 +53,8 @@ Choose Markdown when you want to:
 
 ---
 
-## 🧱 When to Use Block Editor
+##  When to Use Block Editor
+
 
 Use Block mode if you prefer:
 
@@ -62,7 +67,8 @@ Use Block mode if you prefer:
 
 ---
 
-## 🔄 Switching Between Modes
+##  Switching Between Modes
+
 
 You can switch modes anytime:
 
@@ -76,6 +82,7 @@ You can switch modes anytime:
 
 ## ✅ Outcome
 
+
 After reading this guide, you should be able to:
 
 - Understand the difference between Markdown and Block mode  
@@ -85,6 +92,7 @@ After reading this guide, you should be able to:
 ---
 
 ## ➕ Next Steps
+
 
 - [Use the Editor →](./gitbook-editor-guide.md): Learn how to write in both modes  
 - [Fix Publishing Issues →](./gitbook-troubleshooting.md)

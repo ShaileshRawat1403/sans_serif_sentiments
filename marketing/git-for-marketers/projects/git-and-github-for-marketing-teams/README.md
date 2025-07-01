@@ -1,4 +1,5 @@
 # Git and GitHub for Marketing Teams  
+
 *A version-controlled strategy to kill chaos and boost collaboration.*
 
 ---
@@ -13,6 +14,7 @@
 
 ## Overview
 
+
 **Marketing teams are creative — but often disorganized.** — overflowing folders, files named `final_FINAL_v3_APPROVED_THIS_ONE_REVIEWED.pptx`, and feedback scattered across email, Slack, and sticky notes.
 
 Git and GitHub offer a better way.
@@ -23,6 +25,7 @@ This guide tries to bring **version control**, **collaboration**, and **clarity*
 ---
 
 ## Table of Contents
+
 
 1. [Why Git and GitHub for Marketing?](#why-git-and-github-for-marketing)
 2. [Key Concepts Explained Simply](#key-concepts-explained-simply)
@@ -44,12 +47,15 @@ This guide tries to bring **version control**, **collaboration**, and **clarity*
 
 ## Why Git and GitHub for Marketing?
 
+
 ### Problem:
+
 > “Where’s the final deck?”  
 > “Which version do I use?”  
 > “Who changed the headline again?”
 
 ### Solution:
+
 GitHub removes the guesswork.  
 You get **one source of truth**, **every version tracked**, and **collaborative workflows that scale**.
 
@@ -58,6 +64,7 @@ Instead of emailing “content-v2-revised-July28-NEW-Draft.pptx” back and fort
 you create a branch → edit → push → create pull request → review → merge.
 
 ### Why Git Makes Sense for Marketing Teams
+
 
 > **✅ Version Control**  
 > Track every content change — no more overwriting files.
@@ -78,6 +85,7 @@ you create a branch → edit → push → create pull request → review → mer
 
 ## Key Concepts Explained Simply
 
+
 | Concept            | What It Means                        | Use Case in Marketing                                                  |
 |--------------------|---------------------------------------|---------------------------------------------------------------------------|
 | **Repository**      | A folder that holds your project      | `email-campaigns-2025/` or `brand-guidelines/`                            |
@@ -97,24 +105,31 @@ you create a branch → edit → push → create pull request → review → mer
 
 ## Use Cases in Marketing Teams
 
+
 ### ✅ Blog Publishing Workflow  
+
 Track drafts, edits, approvals, and design assets — all in one versioned place.
 
 ### ✅ Email Campaign Coordination  
+
 Each email is a Markdown file. Pull Requests are used to review subject lines and CTAs.
 
 ### ✅ Social Media Calendars  
+
 Use Issues as post tasks and Projects to plan the publishing calendar.
 
 ### ✅ Brand Guidelines  
+
 Manage typography, logo rules, tone of voice, and more — version-controlled.
 
 ### ✅ Content Experiments  
+
 Try SEO variations in branches, track what works, and roll back when needed.
 
 ---
 
 ## Step-by-Step: Setting Up GitHub for Marketing
+
 
 1. **Create a GitHub account**
 2. **Start a repository**  
@@ -137,7 +152,9 @@ Try SEO variations in branches, track what works, and roll back when needed.
 
 ## Workflow Example: Blog Publishing
 
+
 ### Text-Based Flow (GitHub-Compatible)
+
 
 1. New blog idea  
 2. Create branch: `blog-draft-topicX`  
@@ -153,11 +170,13 @@ Try SEO variations in branches, track what works, and roll back when needed.
 
 ### Before GitHub
 
+
 - `blog-title-draft-v3-edited-SANDHYA-version-FINAL.docx`
 - Email feedback: “Please change line 3 and 5”
 - Designer using old copy by mistake
 
 ### ✅ After GitHub
+
 
 - `blog-title.md` in a branch  
 - PR with inline comments  
@@ -166,6 +185,7 @@ Try SEO variations in branches, track what works, and roll back when needed.
 ---
 
 ## Managing Creative Assets
+
 
 | Scenario                              | Best Practice                                   |
 |---------------------------------------|-------------------------------------------------|
@@ -181,10 +201,13 @@ Try SEO variations in branches, track what works, and roll back when needed.
 
 ## Version Control Without Tears
 
+
 ### ❌ Common Pain:
+
 > “I’m not sure which version of the email we approved.”
 
 ### ✅ Git Solution:
+
 - Create a branch per version  
   e.g., `email-1-holiday-promo`  
 - Write your copy in Markdown  
@@ -198,9 +221,11 @@ Now you know **who wrote what**, **when**, and **why** — with the ability to u
 
 ## Pull Requests: Feedback Without Chaos
 
+
 A Pull Request (PR) lets you propose changes, get feedback, and merge when approved — just like Suggest Mode in Google Docs, but tracked forever.
 
 ### Example:
+
 - 🧑‍💻 Content team writes blog draft
 - 📢 PR created: “Draft: Top 5 Summer Travel Tips”
 - 🧑‍🎨 Design team reviews → suggests shorter headings
@@ -214,7 +239,9 @@ No overlapping edits. No back-and-forth emails. No confusion.
 
 ## Managing Campaigns with Issues and Projects
 
+
 ### Example: Social Media Planning Board
+
 
 | Column        | Issues                                      |
 |---------------|---------------------------------------------|
@@ -233,6 +260,7 @@ Each Issue can have:
 
 ## Best Practices for Marketing GitHub Repos
 
+
 | Tip                                 | Why It Helps                                               |
 |-------------------------------------|-------------------------------------------------------------|
 | Use branches like draft folders     | Keeps experiments isolated                                 |
@@ -246,6 +274,7 @@ Each Issue can have:
 
 ## When Not to Use GitHub
 
+
 | Don’t use GitHub for...           | Reason                                                      |
 |----------------------------------|--------------------------------------------------------------|
 | Huge media libraries              | Git can’t handle large video or raw files efficiently        |
@@ -255,6 +284,7 @@ Each Issue can have:
 ---
 
 ## Tools and Integrations
+
 
 | Tool                  | Integration Use                                       |
 |-----------------------|--------------------------------------------------------|
@@ -266,6 +296,7 @@ Each Issue can have:
 ---
 
 ## Git Glossary for Marketing Teams
+
 
 | Command                   | What It Means                                     | Marketing Scenario Example                        |
 |---------------------------|----------------------------------------------------|---------------------------------------------------|
@@ -288,6 +319,7 @@ Each Issue can have:
 
 ## Final Thoughts
 
+
 GitHub isn’t just for developers.
 
 It’s for marketers who are tired of:
@@ -307,6 +339,7 @@ And most importantly: **Creative with clarity.**
 ---
 
 ## Next Steps
+
 
 1. Create your first GitHub repo for your **2025 content calendar**  
 2. Write your next email copy as a `.md` file in a branch  

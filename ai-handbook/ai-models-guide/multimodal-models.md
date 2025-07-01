@@ -4,11 +4,13 @@ icon: layer-group
 
 # Multimodal Models Explained
 
+
 _How AI Sees, Hears, and Talks in One Unified Brain_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why This Guide Exists](multimodal-models.md#why-this-guide-exists)
 * [What Are Multimodal Models?](multimodal-models.md#what-are-multimodal-models)
@@ -23,7 +25,8 @@ _How AI Sees, Hears, and Talks in One Unified Brain_
 
 ***
 
-## 🧭 Why This Guide Exists
+##  Why This Guide Exists
+
 
 Multimodal AI sounds futuristic. But it’s already here.
 
@@ -44,7 +47,8 @@ This guide breaks down what that really means, how it works, and how to use it r
 
 ***
 
-## 🧠 What Are Multimodal Models?
+##  What Are Multimodal Models?
+
 
 > Models that can process, interpret, and generate responses from more than one kind of input — like **text, images, audio, or video**.
 
@@ -64,15 +68,18 @@ These models ingest these forms and **fuse them into a shared context**.
 
 ***
 
-## 🌐 Why Multimodality Matters
+##  Why Multimodality Matters
+
 
 ### 1. **Human-Like Interaction**
+
 
 We live multimodally — reading, listening, speaking, viewing. Why shouldn’t AI?
 
 > Imagine explaining a recipe with just text — now compare that to explaining while showing a video.
 
 ### 2. **Richer Context**
+
 
 Multimodal AI can “see” what text misses:
 
@@ -83,6 +90,7 @@ Multimodal AI can “see” what text misses:
 > **Analogy:** A photo of a cluttered room contains more context than a 500-word description.
 
 ### 3. **Cross-Domain Power**
+
 
 The future of:
 
@@ -98,9 +106,11 @@ The future of:
 
 ***
 
-## 🔍 How Multimodal AI Actually Works
+##  How Multimodal AI Actually Works
+
 
 ### The Core Idea:
+
 
 Different input types (text, image, audio) are **converted into a common representation space** called embeddings.
 
@@ -118,11 +128,13 @@ Then:
 
 ***
 
-## 🧠 Model Design: Early, Late, and Cross Attention Fusion
+##  Model Design: Early, Late, and Cross Attention Fusion
+
 
 There are three common fusion strategies:
 
 ### 1. Early Fusion
+
 
 * Inputs are merged early in the model’s pipeline
 * Enables deep inter-modal attention
@@ -130,11 +142,13 @@ There are three common fusion strategies:
 
 ### 2. Late Fusion
 
+
 * Separate encoders for each input type
 * Merging happens just before output
 * Fast, modular, but shallow interaction
 
 ### 3. Cross Attention
+
 
 * Specialized layers allow one modality to query another
 * Used in image captioning and vision QA tasks
@@ -143,7 +157,8 @@ There are three common fusion strategies:
 
 ***
 
-## 🧪 Popular Multimodal Models Compared
+##  Popular Multimodal Models Compared
+
 
 | Model             | Modalities                | Strengths                            | Weaknesses                   |
 | ----------------- | ------------------------- | ------------------------------------ | ---------------------------- |
@@ -154,26 +169,31 @@ There are three common fusion strategies:
 
 ***
 
-## 🧾 Real-World Use Cases by Input Type
+##  Real-World Use Cases by Input Type
 
-### 📷 Image + Text
+
+###  Image + Text
+
 
 * Ask: “What’s wrong with this UI screenshot?” → GPT-4o explains buttons and layout
 * Upload a chart → Ask for key trends
 * Show a blurry menu → Ask “What’s legible?”
 
-### 🎧 Audio + Text
+###  Audio + Text
+
 
 * Upload a podcast → “Summarize episode highlights”
 * Speak to the app → Get structured to-dos
 * Send voice note → Ask “Is this actionable?”
 
-### 📹 Video + Text
+###  Video + Text
+
 
 * Gemini: Upload a how-to video → Ask “What tools are used?”
 * Combine timestamped narration + subtitles → Get visual timeline
 
-### 🎨 Mixed Input to Creative Output
+###  Mixed Input to Creative Output
+
 
 * Upload hand-drawn wireframe → “Turn into HTML/CSS skeleton”
 * Combine product photo + tone keywords → Get ad copy variations
@@ -183,7 +203,8 @@ There are three common fusion strategies:
 
 ***
 
-## 🚫 Limits and Misconceptions
+##  Limits and Misconceptions
+
 
 | Myth                         | Reality                                     |
 | ---------------------------- | ------------------------------------------- |
@@ -197,7 +218,8 @@ There are three common fusion strategies:
 
 ***
 
-## 🎓 L\&D Tip: Building Your Multimodal Thinking Muscle
+##  L\&D Tip: Building Your Multimodal Thinking Muscle
+
 
 * When designing prompts, ask yourself:
   * What information lives in **text**?
@@ -208,7 +230,8 @@ There are three common fusion strategies:
 
 ***
 
-## 🧠 Reflection Activity: Seeing Through the Model’s Eyes
+##  Reflection Activity: Seeing Through the Models Eyes
+
 
 Choose a multimodal task (e.g., image upload + question).
 

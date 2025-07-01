@@ -7,11 +7,13 @@ coverY: 0
 
 # Flavor & Function
 
+
 > _A writing rhythm for people who think before they speak. And still want to be heard._
 
 ***
 
-## 📚 Table of Contents
+##  Table of Contents
+
 
 * [📌 What Is This?](flavor-and-function.md#what-is-this)
 * [🌀 The Rhythm](flavor-and-function.md#the-rhythm)
@@ -31,7 +33,8 @@ coverY: 0
 
 ***
 
-## 📌 What Is This?
+##  What Is This?
+
 
 **Flavor & Function (FnF)** is not a tone guide.\
 It’s a **thinking system** disguised as a writing rhythm.
@@ -48,7 +51,8 @@ FnF helps you design writing that:
 
 ***
 
-## 🌀 The Rhythm
+##  The Rhythm
+
 
 Each piece follows a six-beat cadence:
 
@@ -65,7 +69,8 @@ You don’t need all six in every piece. But **the rhythm helps you think**.
 
 ***
 
-## 🧠 Why This Exists
+##  Why This Exists
+
 
 Most content is either:
 
@@ -85,13 +90,15 @@ It’s built for:
 
 ***
 
-## 🤖 Using FnF With AI
+##  Using FnF With AI
+
 
 _A rhythm is not a script. It’s a scaffold._
 
 ***
 
-### 🛠️ Prompt Framework Using FnF
+### ️ Prompt Framework Using FnF
+
 
 Use this **FnF-based prompt scaffold** when talking to AI:
 
@@ -115,7 +122,8 @@ Keep the tone clear, thoughtful, and emotionally intelligent.
 
 ***
 
-### 📋 FnF Rewrite Example (AI + Human Edit)
+###  FnF Rewrite Example (AI + Human Edit)
+
 
 **❌ Prompted without FnF:**
 
@@ -129,7 +137,8 @@ Keep the tone clear, thoughtful, and emotionally intelligent.
 
 ***
 
-### 🧪 Output Audit Using FnF
+###  Output Audit Using FnF
+
 
 Once AI gives a draft, **ask these questions**:
 
@@ -146,7 +155,8 @@ Once AI gives a draft, **ask these questions**:
 
 ***
 
-### 🔁 Use Cases: Where FnF + AI Work Best
+###  Use Cases: Where FnF + AI Work Best
+
 
 * LinkedIn and blog posts (human tone + logic)
 * Knowledge base entries (engaging yet clear)
@@ -163,9 +173,11 @@ Once AI gives a draft, **ask these questions**:
 
 ## ❓FAQs + Common Misuses
 
+
 ***
 
 ### Q1: Can I use FnF with technical documentation?
+
 
 **Yes.**\
 FnF doesn’t remove structure — it reinforces it with empathy.\
@@ -174,7 +186,8 @@ Just adapt the “Friction” and “Bridge” steps to match user pain.
 
 ***
 
-### Q2: What if I don’t have a stat or story for the Evidence step?
+### Q2: What if I dont have a stat or story for the Evidence step?
+
 
 You don’t always need a stat.\
 “Evidence” can also be:
@@ -190,6 +203,7 @@ You don’t always need a stat.\
 
 ### Q3: What if I only use 3 out of 6 steps?
 
+
 Good. That means you’re thinking, not templating.\
 FnF is a rhythm — not a rulebook.\
 Use what the piece needs. Drop the rest.
@@ -197,6 +211,7 @@ Use what the piece needs. Drop the rest.
 ***
 
 ### Q4: Can I automate this with AI?
+
 
 You can scaffold it with AI.\
 But you still need to **shape** the rhythm.\
@@ -207,6 +222,7 @@ You decide if the **emotional and cognitive flow** makes sense.
 
 ### Q5: What does FnF _not_ do?
 
+
 * It’s **not a copywriting formula** (like AIDA or PAS)
 * It’s **not tone policing**
 * It’s **not for performative content farming**
@@ -216,7 +232,8 @@ Especially when readers are smart, skeptical, or scared.
 
 ***
 
-## 🚫 Common Misuses
+##  Common Misuses
+
 
 | Misuse                             | Why It Fails                |
 | ---------------------------------- | --------------------------- |

@@ -1,10 +1,12 @@
-# 🕋️ The AI Style Guide
+# ️ The AI Style Guide
+
 
 _Making Sure AI Sounds Like You — Not a Robot Writing a Resume_
 
 ***
 
-## 📁 Table of Contents
+##  Table of Contents
+
 
 * [Why Style Consistency Matters in AI Outputs](./#why-style-consistency-matters-in-ai-outputs)
 * [What a Style Guide for AI Should Include](./#what-a-style-guide-for-ai-should-include)
@@ -18,7 +20,8 @@ _Making Sure AI Sounds Like You — Not a Robot Writing a Resume_
 
 ***
 
-## 🧠 Why Style Consistency Matters in AI Outputs
+##  Why Style Consistency Matters in AI Outputs
+
 
 > If your AI content doesn’t sound like your brand, it isn’t helpful — it’s confusing.
 
@@ -32,7 +35,8 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ***
 
-## 📘️ What a Style Guide for AI Should Include
+## ️ What a Style Guide for AI Should Include
+
 
 | Section                     | Purpose                                              |
 | --------------------------- | ---------------------------------------------------- |
@@ -49,6 +53,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ## ⚠️ Common Problems in AI-Generated Tone
 
+
 * **Generic Copywriting Voice** — Vague phrases, empty inspiration
 * **Overuse of Buzzwords** — Disrupt, innovate, synergies...
 * **Inconsistent Form** — One message is chatty, the next is corporate
@@ -57,9 +62,11 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ***
 
-## 🗣️ Setting the Default Voice: Style Rules and Examples
+## ️ Setting the Default Voice: Style Rules and Examples
+
 
 ### Sample Voice Rules:
+
 
 * Be clear, not clever
 * Friendly but never casual
@@ -68,6 +75,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 * Avoid passive voice when possible
 
 ### Example: Internal Announcement
+
 
 **❌ Bad AI Output:**
 
@@ -79,6 +87,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ### Example: Customer Support Message
 
+
 **❌ Bad AI Output:**
 
 > “Apologies for the inconvenience caused. We value your feedback and are working on it.”
@@ -89,7 +98,8 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ***
 
-## 🎯 When to Change the Tone (and When Not To)
+##  When to Change the Tone (and When Not To)
+
 
 | Context            | Adjust Tone? | Notes                                       |
 | ------------------ | ------------ | ------------------------------------------- |
@@ -105,6 +115,7 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ## ✅ Checklist: Make Your Prompts Style-Smart
 
+
 * [ ] Does your prompt include the **desired tone**?
 * [ ] Did you define **audience and purpose**?
 * [ ] Have you included a “before” sample to match tone?
@@ -115,15 +126,18 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ***
 
-## 🛠️ Downloadable Templates + Quick Prompts
+## ️ Downloadable Templates + Quick Prompts
+
 
 ### Templates
+
 
 * Prompt style card (PDF / Notion)
 * Team tone grid
 * Voice traits table (for marketing, support, etc.)
 
 ### Quick Prompts
+
 
 * “Rewrite this in our company tone: \[Insert text]”
 * “Use a neutral, respectful tone for external messaging.”
@@ -132,7 +146,8 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ***
 
-## 🧠 Reflection Activity: Style Calibration Exercise
+##  Reflection Activity: Style Calibration Exercise
+
 
 1. Take a recent AI-generated message.
 2. Compare it to your company’s recent comms.
@@ -149,7 +164,8 @@ Your AI model is a **collaborator** — not a ghostwriter. You still need to tea
 
 ***
 
-## 📄 External Resources
+##  External Resources
+
 
 * [Google Style Guide](https://developers.google.com/style)
 * [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)

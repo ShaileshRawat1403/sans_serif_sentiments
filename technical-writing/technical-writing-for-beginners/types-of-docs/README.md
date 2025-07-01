@@ -1,10 +1,12 @@
 # What Technical Writers Really Do (and How They Do It)
 
+
 _Tasks, tools, and traits you don’t see in the job description._
 
 ***
 
-## 🧠 Why This Chapter Matters
+##  Why This Chapter Matters
+
 
 Technical writing isn't just about "writing." It's about:
 
@@ -16,7 +18,8 @@ This chapter explores the **real roles** tech writers play, the **tools** they u
 
 ***
 
-## 🧢 The Many Hats of a Technical Writer
+##  The Many Hats of a Technical Writer
+
 
 > You're not just a writer. You're a translator, architect, detective, and editor-in-chief of user sanity.
 
@@ -32,42 +35,50 @@ This chapter explores the **real roles** tech writers play, the **tools** they u
 
 ***
 
-## 🛠 Tools of the Trade
+##  Tools of the Trade
+
 
 You won’t need all of these on day one — but knowing what exists helps you grow faster.
 
 ### ✍️ Writing & Formatting
 
+
 * **Markdown** – Lightweight writing syntax used across most tech docs
 * **Google Docs / Notion** – Great for drafts, comments, early collaboration
 
-### 🌐 Version Control
+###  Version Control
+
 
 * **Git + GitHub** – For docs-as-code teams; versioning, pull requests, history tracking
 
-### 🚀 Publishing Platforms
+###  Publishing Platforms
+
 
 * **MkDocs / Docusaurus / ReadTheDocs** – Convert Markdown into beautiful static sites
 
-### 🤝 Collaboration & Tracking
+###  Collaboration & Tracking
+
 
 * **Confluence** – Widely used wiki/documentation hub
 * **Jira / Trello** – Connect doc work with product/dev tasks
 * **Slack / Teams** – Where you get context (and chaos)
 
-### 🧭 Diagrams & Structure
+###  Diagrams & Structure
+
 
 * **Mermaid / PlantUML** – Diagrams in code
 * **Lucidchart / Miro** – Visual flows, wireframes, architecture mapping
 
-### 🧪 QA & Review Tools
+###  QA & Review Tools
+
 
 * **Loom / ScreenRec** – Record workflows to understand intent
 * **Grammarly / Vale / Hemingway** – Writing quality, consistency, linting
 
 ***
 
-## 🧠 Skills That Matter (More Than You Think)
+##  Skills That Matter (More Than You Think)
+
 
 | Skill            | Why It’s Crucial                                                      |
 | ---------------- | --------------------------------------------------------------------- |
@@ -82,7 +93,8 @@ You won’t need all of these on day one — but knowing what exists helps you g
 
 ***
 
-## 🌀 Where Documentation Fits: SDLC & PDLC
+##  Where Documentation Fits: SDLC & PDLC
+
 
 > _So… when do tech writers get involved?_
 
@@ -103,7 +115,8 @@ Understanding the **Software Development Life Cycle (SDLC)** and **Product Devel
 
 ***
 
-## 🤐 What They Don’t Tell You (But You’ll Definitely Do)
+##  What They Dont Tell You (But Youll Definitely Do)
+
 
 * Chase down context like a detective solving a cold case
 * Interview engineers who don’t know what users need (and don’t care)
@@ -123,6 +136,7 @@ You’ll become the person who:
 
 ## ✅ Quick Recap Table
 
+
 | Role       | Real Task            | Tools Used             | Skill Needed     |
 | ---------- | -------------------- | ---------------------- | ---------------- |
 | Researcher | Trace scattered info | Slack, Jira, Docs      | Curiosity        |
@@ -134,7 +148,8 @@ You’ll become the person who:
 
 ***
 
-## 📘 Up Next
+##  Up Next
+
 
 You now know what tech writers _really_ do. But _how_ do they write in a way that actually helps users — not just sounds smart?
 

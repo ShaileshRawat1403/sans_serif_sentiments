@@ -1,4 +1,4 @@
-# 📂 ai-handbook
+# ai-handbook
 
 ## Table of Contents
 
@@ -15,7 +15,9 @@
 - [Tips or notes](#tips-or-notes)
 
 
-### 📜 Prologue — Before We Begin
+
+###  Prologue - Before We Begin
+
 
 > 🧠 _This isn’t a manual for machines._  
 > _It’s a wake-up call for the humans using them._
@@ -33,7 +35,8 @@ It’s for people who still ask questions like:
 
 ***
 
-### 🎯 What This Handbook Is
+###  What This Handbook Is
+
 
 This is a thinking companion.  
 Built for **humans using generative AI** in personal and professional life — and trying to stay _conscious_ while doing so.
@@ -52,14 +55,22 @@ Whether you’re:
 
 ### ⚠️ What This Is Not
 
+<<<<<<< HEAD
 * ❌ It’s not a technical tutorial  
 * ❌ It’s not a productivity hack list  
 * ❌ It’s not legal, medical, financial, or compliance advice  
+=======
+
+* ❌ It’s not a technical tutorial
+* ❌ It’s not a productivity hack list
+* ❌ It’s not legal, medical, financial, or compliance advice
+>>>>>>> ae0c6ba (Cleanup: update markdown files and docs structure)
 * ❌ It’s not going to save you time if you’re unwilling to spend thought
 
 ***
 
 ### ✍️ Why It Exists
+
 
 Because most people weren’t taught to use AI — they were told to adopt it.
 
@@ -77,7 +88,8 @@ That’s what this handbook offers.
 
 ***
 
-### 📚 The Scope (So We’re Clear)
+###  The Scope (So Were Clear)
+
 
 * We focus on **generative AI** (LLMs like ChatGPT, Claude, Gemini, etc.)  
 * We explore how to use it better for **writing, decision-making, creativity, productivity, reflection, and clarity**  
@@ -86,7 +98,8 @@ That’s what this handbook offers.
 
 ***
 
-### 🙏 Disclaimer
+###  Disclaimer
+
 
 This is a living, open-source handbook.
 

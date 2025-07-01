@@ -4,7 +4,9 @@ permalink: /marketing/brand-storytelling/projects/busting-the-brand-with-buster-
 
 # Busting the Brand with Buster Keaton
 
-### _What a silent film star taught me about branding in a world that won’t shut up_
+
+### _What a silent film star taught me about branding in a world that wont shut up_
+
 
 > “Some of the best wisdom won’t come from books. It’ll come from a man falling off a building… and sticking the landing.”
 
@@ -20,6 +22,7 @@ No words. Just impeccable timing, chaos, and clarity.
 
 ## The Silent Blueprint for Loud Brands
 
+
 Buster fell and slipped all across the silver screen.\
 He didn’t speak. He didn’t sell. He didn’t shout.\
 He didn’t explain his value proposition in 6 slides.\
@@ -33,7 +36,9 @@ Here’s what Buster teaches us about branding:
 
 ## Brand Masterclass from a Silent Superstar
 
+
 ### ✅ Trust & Credibility: **Authenticity Over Acting**
+
 
 > Buster's deadpan expression was his trademark. He didn’t sell the smile. He sold the moment.
 
@@ -47,6 +52,7 @@ Here’s what Buster teaches us about branding:
 
 ### Adaptability = Resilience + Relevance
 
+
 > Buster didn’t fear change. He built scenes around it.
 
 * Collapsing buildings. Runaway trains. Broken bones. Still in character.
@@ -55,7 +61,8 @@ Here’s what Buster teaches us about branding:
 
 ***
 
-### Less Is Not More — It’s **Legendary**
+### Less Is Not More - Its **Legendary**
+
 
 > A hat. A cane. A straight face. That’s all it took.
 
@@ -68,6 +75,7 @@ Here’s what Buster teaches us about branding:
 ***
 
 ### Timing Beats Tactics
+
 
 > Buster didn’t just fall. He fell _on time._
 
@@ -82,6 +90,7 @@ Here’s what Buster teaches us about branding:
 
 ### Constraints Create Creativity
 
+
 > No CGI. No stunts. No budget. Just gravity, grit, and guts.
 
 * Buster turned limitations into leverage.
@@ -94,6 +103,7 @@ Here’s what Buster teaches us about branding:
 
 ### Consistency Builds Trust
 
+
 > Whether dodging trains or falling off roofs—Buster stayed Buster.
 
 * No sudden genre shifts. No brand identity crisis.
@@ -105,6 +115,7 @@ Here’s what Buster teaches us about branding:
 
 ### Silence > Noise
 
+
 > He never said a word. And yet, the world listened.
 
 * Buster’s silent stories transcended language.
@@ -115,6 +126,7 @@ Here’s what Buster teaches us about branding:
 ***
 
 ### Storytelling Is Universal
+
 
 > Real stories don’t need subtitles. They need **a soul**.
 
@@ -128,7 +140,8 @@ Make people laugh, cry, or feel slightly broken. Just **don’t bore them**.
 
 ***
 
-## TL;DR — What Buster Taught Me
+## TL;DR - What Buster Taught Me
+
 
 * Learn
 * Adapt

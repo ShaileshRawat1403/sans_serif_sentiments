@@ -4,11 +4,13 @@ icon: dna
 
 # Evaluating AI Outputs: Hallucinations, Truth, and Usefulness
 
+
 _Why "Looks Right" Isn’t Good Enough in Enterprise AI_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why This Chapter Matters](evaluating-ai-responses-hallucination-usefulness.md#why-this-chapter-matters)
 * [What Are Hallucinations?](evaluating-ai-responses-hallucination-usefulness.md#what-are-hallucinations)
@@ -23,7 +25,8 @@ _Why "Looks Right" Isn’t Good Enough in Enterprise AI_
 
 ***
 
-## 🧭 Why This Chapter Matters
+##  Why This Chapter Matters
+
 
 AI doesn’t “know” truth. It predicts the next word. And that prediction might be:
 
@@ -44,6 +47,7 @@ This chapter helps you design **robust evaluation strategies** that:
 
 ## ❓ What Are Hallucinations?
 
+
 Hallucinations occur when AI generates outputs that are:
 
 * Factually incorrect
@@ -62,6 +66,7 @@ Common causes:
 
 ## ⚠️ Types of AI Output Failures
 
+
 | Failure Type         | Description                             | Example                           |
 | -------------------- | --------------------------------------- | --------------------------------- |
 | **Factual Error**    | Wrong data or misrepresented info       | "Elon Musk founded Amazon."       |
@@ -75,7 +80,8 @@ Common causes:
 
 ***
 
-## 🌈 The Spectrum: From Useful to Dangerous
+##  The Spectrum: From Useful to Dangerous
+
 
 Visualize AI outputs as a spectrum:
 
@@ -89,7 +95,8 @@ You need **graded response categories**, not binary pass/fail.
 
 ***
 
-## 🛠️ How to Design Evaluation Criteria
+## ️ How to Design Evaluation Criteria
+
 
 Use the 4Cs Framework:
 
@@ -113,7 +120,8 @@ Score 1–5:
 
 ***
 
-## 🔄 The Human Review Loop
+##  The Human Review Loop
+
 
 Design review stages like you would QA in code:
 
@@ -131,9 +139,11 @@ Design review stages like you would QA in code:
 
 ***
 
-## 📈 Scorecards, Logs, and Continuous Tuning
+##  Scorecards, Logs, and Continuous Tuning
 
-### 🔢 Sample Scorecard Table
+
+###  Sample Scorecard Table
+
 
 | Output ID | Clarity | Correctness | Context Fit | Notes                         |
 | --------- | ------- | ----------- | ----------- | ----------------------------- |
@@ -143,15 +153,18 @@ Design review stages like you would QA in code:
 
 ### Logging Tips:
 
+
 * Log by use case, not just model ID
 * Track retried prompts + final selected version
 * Highlight hallucination vs misalignment
 
 ***
 
-## 🧪 Examples: Output Rating Across Departments
+##  Examples: Output Rating Across Departments
+
 
 ### 1. Marketing
+
 
 Prompt: "Write 3 tweets about new product X."
 
@@ -161,6 +174,7 @@ Prompt: "Write 3 tweets about new product X."
 
 ### 2. Legal
 
+
 Prompt: "Summarize this NDA."
 
 * ✅ Correctness: 4
@@ -168,6 +182,7 @@ Prompt: "Summarize this NDA."
 * 📌 Action: Add clause check regex
 
 ### 3. Sales Enablement
+
 
 Prompt: "Create objection-handling doc for competitor Y."
 
@@ -177,7 +192,8 @@ Prompt: "Create objection-handling doc for competitor Y."
 
 ***
 
-## 🧠 Reflection Activity: Audit Your Own Output
+##  Reflection Activity: Audit Your Own Output
+
 
 Choose an AI task you’ve shipped:
 
@@ -194,9 +210,11 @@ Then:
 
 ***
 
-## 📊 Visual Aids: Output Evaluation Flow
+##  Visual Aids: Output Evaluation Flow
+
 
 ### ⚙️ Output QA Process (Human-in-the-Loop)
+
 
 ```
 [Prompt + Context]
@@ -210,7 +228,8 @@ Then:
 [Retry / Tweak Prompt / Approve]
 ```
 
-### 📉 Spectrum Radar Map (Risk vs Usefulness)
+###  Spectrum Radar Map (Risk vs Usefulness)
+
 
 ```
 Y-Axis: Risk (Low → High)

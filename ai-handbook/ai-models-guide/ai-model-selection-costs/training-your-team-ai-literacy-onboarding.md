@@ -1,10 +1,12 @@
 # Training Your Team to Use AI Consistently
 
+
 _Because Prompt Power Means Nothing Without People Prepared to Use It_
 
 ***
 
-## 📑 Table of Contents
+##  Table of Contents
+
 
 * [Why AI Training Needs Structure](training-your-team-ai-literacy-onboarding.md#why-ai-training-needs-structure)
 * [What AI Training Is (and Isn’t)](training-your-team-ai-literacy-onboarding.md#what-ai-training-is-and-isnt)
@@ -18,7 +20,8 @@ _Because Prompt Power Means Nothing Without People Prepared to Use It_
 
 ***
 
-## 🧭 Why AI Training Needs Structure
+##  Why AI Training Needs Structure
+
 
 > Untrained users don’t fear AI — they misuse it.
 
@@ -41,7 +44,8 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## ❓ What AI Training Is (and Isn’t)
+## ❓ What AI Training Is (and Isnt)
+
 
 ✅ It **is**:
 
@@ -61,7 +65,8 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## 🧠 The 5 Layers of AI Literacy
+##  The 5 Layers of AI Literacy
+
 
 | Layer | What It Teaches                             | Audience Level         |
 | ----- | ------------------------------------------- | ---------------------- |
@@ -75,7 +80,8 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## 🧍‍♂️ Common Team Personas and Their Struggles
+## ‍♂️ Common Team Personas and Their Struggles
+
 
 | Persona             | Fear / Misuse                           | What They Need                   |
 | ------------------- | --------------------------------------- | -------------------------------- |
@@ -90,7 +96,8 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## 🧰 Designing AI Onboarding Programs
+##  Designing AI Onboarding Programs
+
 
 **Structure:**
 
@@ -112,9 +119,11 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## 🧾 What to Include in Training Modules
+##  What to Include in Training Modules
+
 
 ### ✅ MUST-HAVES
+
 
 * What is a model vs a chatbot
 * What data the model “knows” (and doesn’t)
@@ -125,12 +134,14 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ### ⚠️ NICE-TO-HAVES
 
+
 * Voice prompt best practices
 * Model comparison charts
 * API vs interface usage
 * Common red flag words to avoid (e.g., "always," "guarantee")
 
-### 🎯 FORMAT SUGGESTIONS
+###  FORMAT SUGGESTIONS
+
 
 * Microlearning cards (Notion, LMS)
 * Scenario quizzes
@@ -139,9 +150,11 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## 🧮 Good, Bad, and Ugly: Real Examples
+##  Good, Bad, and Ugly: Real Examples
 
-### 🟢 GOOD: Marketing Team Prompt for Tone Tweaks
+
+###  GOOD: Marketing Team Prompt for Tone Tweaks
+
 
 > Prompt: “Reword this LinkedIn post to be more empathetic, while keeping the CTA clear.”
 
@@ -153,7 +166,8 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-### 🟡 BAD: Legal User Copying Entire Contract
+###  BAD: Legal User Copying Entire Contract
+
 
 > Prompt: “Summarize this contract.” (Pastes 15 pages of legal text)
 
@@ -165,7 +179,8 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-### 🔴 UGLY: HR User Asking for Interview Feedback
+###  UGLY: HR User Asking for Interview Feedback
+
 
 > Prompt: “Give feedback on this candidate's answers.”
 
@@ -179,9 +194,11 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## 🧰 Toolkits, Templates, and Resources
+##  Toolkits, Templates, and Resources
+
 
 ### Internal Resources to Build
+
 
 * Prompt libraries by role
 * Do/Don’t prompt sheets
@@ -193,6 +210,7 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ### External Resources to Use
 
+
 * [Google Prompt Engineering Guide](https://cloud.google.com/blog/products/ai-machine-learning/prompting-gemini-google-cloud)
 * [MIT’s Responsible AI Modules](https://rai.mit.edu)
 * [LearnPrompting.org](https://learnprompting.org)
@@ -202,7 +220,8 @@ Outcome? Low trust. High misuse. Zero measurable impact.
 
 ***
 
-## 🧠 Reflection Activity: Build a Role-Based AI Guide
+##  Reflection Activity: Build a Role-Based AI Guide
+
 
 Choose a department (e.g., Support, Finance, L\&D).
 

@@ -4,7 +4,9 @@ icon: swap-arrows
 
 # change-comms
 
-## 📣 Change Communication Guide
+
+##  Change Communication Guide
+
 
 **Helping people understand change — clearly, calmly, and completely.**
 
