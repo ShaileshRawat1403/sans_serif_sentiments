@@ -5,10 +5,11 @@ description: "A human-centric guide to using generative AI thoughtfully."
 tags: \[ai, handbook]
 author: ShaileshRawat1403
 last\_updated: 2025-07-03
--------------------------
+---
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [About This Handbook](#about-this-handbook)
   - [What This Handbook Is Not](#what-this-handbook-is-not)
 - [Prerequisites](#prerequisites)
