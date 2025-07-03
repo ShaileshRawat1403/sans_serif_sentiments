@@ -1,0 +1,23 @@
+name: Spell & Grammar Check
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install proselint
+        run: pip install proselint reviewdog
+
+      - name: Run proselint with reviewdog
+        run: |
+          find . -name '*.md' \
+            | xargs proselint \
+            | reviewdog -f=proselint -name="proselint" \
+                -reporter=github-pr-review -level=warning
+

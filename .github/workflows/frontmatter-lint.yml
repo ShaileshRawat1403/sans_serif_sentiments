@@ -1,0 +1,22 @@
+name: Frontmatter Validation
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  pull_request:
+    paths:
+      - '**/*.md'
+
+jobs:
+  frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run Frontmatter Lint
+        uses: adrd/frontmatter-lint@v1
+        with:
+          required: title,description,tags
+          path: '**/*.md'
+
