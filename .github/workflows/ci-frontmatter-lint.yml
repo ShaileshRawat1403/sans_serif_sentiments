@@ -1,4 +1,4 @@
-name: Frontmatter Validation
+name: CI – Frontmatter Validation
 
 on:
   push:
