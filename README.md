@@ -18,7 +18,9 @@ last_updated: 2025-07-03
 
 ## About This Handbook
 
-This is a thinking companion built for people using generative AI—LLMs like ChatGPT, Claude, and Gemini—in personal and professional contexts. It helps you:
+This is a thinking companion built for people using generative AI—
+LLMs like ChatGPT, Claude, and Gemini— in personal and professional contexts.
+It helps you:
 
 * Examine why AI-generated answers feel right or wrong
 * Reflect on your learning rather than just your speed
@@ -61,5 +63,6 @@ This is a thinking companion built for people using generative AI—LLMs like Ch
 
 ## Disclaimer
 
-This is a living, open-source handbook. The tools and ideas may evolve, but the intent remains: to support clarity in a world optimized for speed. We are not affiliated with any specific LLM provider.
-
+This is a living, open-source handbook. The tools and ideas may evolve,
+but the intent remains: to support clarity in a world optimized for speed.
+We are not affiliated with any specific LLM provider.
