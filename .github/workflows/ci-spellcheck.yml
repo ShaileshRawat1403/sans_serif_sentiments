@@ -1,4 +1,4 @@
-name: Spell & Grammar Check
+name: CI – Spell & Grammar Check
 
 on:
   pull_request:
