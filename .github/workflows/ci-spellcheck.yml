@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install proselint
+      - name: Install proselint & reviewdog
         run: pip install proselint reviewdog
 
       - name: Run proselint with reviewdog
@@ -20,4 +20,3 @@ jobs:
             | xargs proselint \
             | reviewdog -f=proselint -name="proselint" \
                 -reporter=github-pr-review -level=warning
-
