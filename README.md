@@ -1,21 +1,11 @@
----
-icon: door-open
-cover: >-
-  https://images.unsplash.com/photo-1515923152115-758a6b16f35e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxtaW5pbWFsfGVufDB8fHx8MTc1MDk2NDAzMHww&ixlib=rb-4.1.0&q=85
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# Sans Serif Sentiments
 
+Welcome to **Sans Serif Sentiments**, an open-source portfolio of high-quality documentation:
+
+- **AI Handbook** – A human-centric guide to generative AI  
+- **Technical Communication Docs** – Clear, concise writing best practices  
+- **Change Communications** – Strategies and templates for organizational change  
+- **MarCom Playbook** – Marketing and communications resources  
+- **Templates Workshop** – Reusable templates and snippets for docs  
+
+Jump in with [AI Handbook](ai-handbook/README.md) or explore the modules above!
