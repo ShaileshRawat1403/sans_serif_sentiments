@@ -14,9 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Run Frontmatter Lint
-        uses: adrd/frontmatter-lint@v1
-        with:
-          required: title,description,tags
-          path: '**/*.md'
+      - name: Validate Frontmatter
+        run: |
+          npm install -g yaml-front-matter
+          exit_code=0
+          for file in $(git ls-files '*.md'); do
+            if [ ! -s "$file" ]; then
+              echo "Skipping empty file $file" >&2
+              continue
+            fi
+            if ! cat "$file" | yaml-front-matter | jq -e 'has("title") and has("description") and has("tags")' >/dev/null; then
+              echo "Missing required front matter fields in $file" >&2
+              exit_code=1
+            fi
+          done
+          exit $exit_code
 
