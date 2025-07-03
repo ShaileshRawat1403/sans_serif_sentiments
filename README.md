@@ -1,7 +1,7 @@
 ---
-title: "AI Handbook"
-description: "A human-centric guide to using generative AI thoughtfully."
-tags: [ai, handbook]
+title: "Sans_Serif_Sentiments"
+description: "An open-source Docs-as-Code portfolio showcasing CI/CD…"
+tags: [docs-as-code, CI/CD, portfolio]
 author: ShaileshRawat1403
 last_updated: 2025-07-03
 ---
@@ -14,14 +14,8 @@ last_updated: 2025-07-03
 4. [Navigation](#navigation)
 5. [Disclaimer](#disclaimer)
 
-
-title: "Sans_Serif_Sentiments"
-description: "An open-source Docs-as-Code portfolio showcasing CI/CD pipelines and best practices for modern documentation."
-tags: [docs-as-code, CI/CD, portfolio]
-author: ShaileshRawat1403
-last_updated: 2025-07-03
-chore/ai-handbook-structure
 ---
+
 # Sans_Serif_Sentiments
 
 > **Disclaimer:** This project is a personal experimentation in experiential learning—sharing what I’ve discovered about applying Git and CI/CD to documentation. It also serves as a portfolio showcase to demonstrate the power of Docs-as-Code and attract potential collaborators or employers.
