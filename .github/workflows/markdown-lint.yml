@@ -1,0 +1,24 @@
+name: Markdown Lint
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  pull_request:
+    paths:
+      - '**/*.md'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Super-Linter (Markdown only)
+        uses: github/super-linter@v4
+        env:
+          VALIDATE_MARKDOWN: true
+          VALIDATE_YAML: false
+          VALIDATE_JSON: false
+          VALIDATE_SHELL: false
+          VALIDATE_TOML: false
+

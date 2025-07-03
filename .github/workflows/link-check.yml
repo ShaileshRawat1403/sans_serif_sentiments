@@ -1,0 +1,22 @@
+name: Link Check
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  pull_request:
+    paths:
+      - '**/*.md'
+  schedule:
+    - cron: '0 2 * * 0'  # weekly at 02:00 UTC
+
+jobs:
+  link_check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check Markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          path: '**/*.md'
+
