@@ -14,52 +14,72 @@ last_updated: 2025-07-03
 4. [Navigation](#navigation)
 5. [Disclaimer](#disclaimer)
 
+
+title: "Sans_Serif_Sentiments"
+description: "An open-source Docs-as-Code portfolio showcasing CI/CD pipelines and best practices for modern documentation."
+tags: [docs-as-code, CI/CD, portfolio]
+author: ShaileshRawat1403
+last_updated: 2025-07-03
+chore/ai-handbook-structure
 ---
+# Sans_Serif_Sentiments
 
-## About This Handbook
+> **Disclaimer:** This project is a personal experimentation in experiential learning—sharing what I’ve discovered about applying Git and CI/CD to documentation. It also serves as a portfolio showcase to demonstrate the power of Docs-as-Code and attract potential collaborators or employers.
 
-This is a thinking companion built for people using generative AI—LLMs like ChatGPT, Claude, and Gemini—in personal and professional contexts. It helps you:
+Welcome to **Sans_Serif_Sentiments**, an open-source repository that illustrates how **CI/CD pipelines** and a **Docs-as-Code** approach can elevate *any* form of documentation—user guides, product docs, internal communications, marketing collateral, and more.
 
-* Examine why AI-generated answers feel right or wrong
-* Reflect on your learning rather than just your speed
-* Build mental models that go beyond simple prompts
+## Our Philosophy
 
-### What This Handbook Is Not
+- **Docs-as-Code**  
+  Treat documentation like software: version it in Git, review via Pull Requests, and enforce quality through automated linters and checks.
+- **CI/CD for Docs**  
+  Every branch and PR triggers pipelines running markdown-lint, frontmatter validation, link-checking, and spell-check—keeping your docs accurate, complete, and production-ready.
+- **Content Governance**  
+  With structured frontmatter, tagged versions, and enforced templates:  
+  - **Auditability:** track who changed what, when, and why  
+  - **Traceability:** connect updates to issues or feature requests  
+  - **Consistency:** apply style rules automatically across all files
+- **Communication Robustness**  
+  Whether for change management, customer manuals, or marketing playbooks:  
+  - Enables coordinated, rapid updates  
+  - Prevents stale or conflicting versions  
+  - Scales governance across distributed teams
+- **Open-Source Experimentation & Portfolio**  
+  This is my journey in experiential learning—documenting pipelines and templates for writers—and a showcase of my work to demonstrate Git’s power for documentation and attract future opportunities.
 
-* A technical tutorial
-* A list of productivity hacks
-* Legal, medical, financial, or compliance advice
+## Pillars
 
----
+| Directory                                                        | Description                                                      |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **[ai-handbook](ai-handbook/)**                                   | A human-centric guide to using generative AI thoughtfully.       |
+| **[technical-communication-docs](technical-communication-docs/)** | Best practices for clear, concise technical writing.             |
+| **[change-communication](change-communication/)**                 | Strategies and templates for effective organizational change.    |
+| **[marcom-playbook](marcom-playbook/)**                           | Marketing communications resources, campaigns, and storytelling. |
+| **[templates-workshop](templates-workshop/)**                     | Reusable Docs-as-Code templates, callout snippets, and toolkit.  |
 
-## Prerequisites
+## Getting Started
 
-* Familiarity with basic generative AI concepts (Large Language Models)
-* Willingness to pause and reflect, not just follow templates
+1. **Clone** the repo and switch to `main`  
+   git clone https://github.com/ShaileshRawat1403/sans_serif_sentiments.git  
+   cd sans_serif_sentiments  
+   git checkout main
+2. **Explore** a pillar by opening its `README.md` for module overviews and links.
+3. **Contribute** on a feature branch  
+   git checkout -b docs/your-change  
+   # make edits…  
+   git add .  
+   git commit -m "docs: your change description"  
+   git push -u origin docs/your-change
+4. **Review & Merge** once CI checks pass, ensuring `main` remains stable.
 
----
+## Contributing
 
-## What You’ll Learn
+Adopt our **branch-per-change** workflow:  
+- `fix/...` – typos and minor tweaks  
+- `docs/...` – content additions and proofreading  
+- `chore/...` – scaffolding, CI config, renames  
+- `feat/...` – new modules, major reorganizations
 
-* How to craft prompts that promote clarity and insight
-* Techniques for evaluating AI outputs qualitatively and quantitatively
-* Ethical frameworks for responsible AI use
-* Advanced strategies such as chain-of-thought prompting and fine-tuning concepts
+Pull requests enable peer review, automated validation, and transparent history for every change.
 
----
-
-## Navigation
-
-* **Foundations**: [Overview](modules/01-foundations/01-overview.md)
-* **Prompt Engineering**: [Why Prompts Fail](modules/02-prompt-engineering/02-why-prompts-fail.md)
-* **Model Theory**: [How AI Thinks](modules/03-model-theory/02-how-ai-thinks.md)
-* **Model Selection**: [Choosing the Right Model](modules/04-model-selection/02-choosing-right-model.md)
-* **Model Application**: [Evaluation Metrics](modules/05-model-application/02-evaluation-metrics.md)
-* **Ethics & Governance**: [Risks and Responsibility](modules/06-ethics-governance/02-risks-and-responsibility.md)
-
----
-
-## Disclaimer
-
-This is a living, open-source handbook. The tools and ideas may evolve, but the intent remains: to support clarity in a world optimized for speed. We are not affiliated with any specific LLM provider.
-
+*Sans_Serif_Sentiments* is an evolving, open-source effort to empower writers with code-centric documentation practices—experiment, learn, and contribute to make documentation more robust, traceable, and collaborative!
