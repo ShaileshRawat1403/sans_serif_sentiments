@@ -1,11 +1,11 @@
----  
-title: "AI Handbook"  
-description: "A human-centric guide to using generative AI thoughtfully."  
-- tags: \[ai, handbook]  
-+ tags: [ai, handbook]  
-author: ShaileshRawat1403  
-last_updated: 2025-07-03  
 ---
+title:       "AI Handbook"
+description: "A human-centric guide to using generative AI thoughtfully."
+tags:        [ai, handbook]
+author:      ShaileshRawat1403
+last_updated: 2025-07-03
+---
+
 
 ## Table of Contents
 
