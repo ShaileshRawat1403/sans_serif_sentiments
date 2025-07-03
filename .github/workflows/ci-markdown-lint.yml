@@ -1,5 +1,4 @@
 name: CI – Markdown Lint
-
 on:
   push:
     paths:
@@ -7,7 +6,6 @@ on:
   pull_request:
     paths:
       - '**/*.md'
-
 jobs:
   lint:
     runs-on: ubuntu-latest
@@ -17,8 +15,3 @@ jobs:
         uses: github/super-linter@v4
         env:
           VALIDATE_MARKDOWN: true
-          VALIDATE_YAML: false
-          VALIDATE_JSON: false
-          VALIDATE_SHELL: false
-          VALIDATE_TOML: false
-
