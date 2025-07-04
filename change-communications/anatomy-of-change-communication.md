@@ -1,6 +1,4 @@
----
-icon: fork-knife
----
+
 
 # Anatomy of Change Communication
 
