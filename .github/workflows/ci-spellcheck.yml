@@ -9,24 +9,29 @@ jobs:
   spellcheck:
     runs-on: ubuntu-latest
     steps:
+      # 1. checkout
       - uses: actions/checkout@v3
 
+      # 2. install proselint
       - name: Install proselint
-        run: pip install proselint
-
-      - name: Install reviewdog
         run: |
-          curl -sfL https://raw.githubusercontent.com/reviewdog/reviewdog/master/install.sh | sh -s -- -b ./bin
-          echo "$(pwd)/bin" >> $GITHUB_PATH
+          python3 -m pip install --upgrade pip
+          pip install proselint
 
-      - name: Check reviewdog version
-        run: reviewdog -version
+      # 3. install reviewdog
+      - name: Setup reviewdog
+        uses: reviewdog/action-setup@v1
+        with:
+          reviewdog_version: latest
 
-      - name: Run proselint with reviewdog
+      # 4. lint with proselint and pipe into reviewdog
+      - name: Run proselint via reviewdog
         run: |
           find . -name '*.md' \
             | xargs proselint \
-            | reviewdog -f=proselint -name="proselint" \
-                -reporter=github-pr-review -level=warning
+            | reviewdog -f=proselint \
+                        -name="proselint" \
+                        -reporter=github-pr-review \
+                        -level=warning
         env:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
