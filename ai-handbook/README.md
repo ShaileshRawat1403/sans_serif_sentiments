@@ -9,7 +9,6 @@ last_updated: 2025-07-03
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [About This Handbook](#about-this-handbook)
   - [What This Handbook Is Not](#what-this-handbook-is-not)
 - [Prerequisites](#prerequisites)
