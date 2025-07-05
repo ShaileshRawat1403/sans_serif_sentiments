@@ -8,7 +8,7 @@ _Your single source of truth for strategic messaging, change translation, and co
 ##  Table of Contents
 
 
-* [Why This Exists](./#why-this-exists)
+* [Why This Exists](./why-this-exists)
 * [System Architecture](./#system-architecture)
   * [Strategic Messaging Layer](./#strategic-messaging-layer)
   * [Change Translation Layer](./#change-translation-layer)
