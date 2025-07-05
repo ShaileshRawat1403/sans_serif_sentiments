@@ -8,21 +8,21 @@ _Your single source of truth for strategic messaging, change translation, and co
 ##  Table of Contents
 
 
-* [Why This Exists](why-this-exists)
-* [System Architecture](./#system-architecture)
-  * [Strategic Messaging Layer](./#strategic-messaging-layer)
-  * [Change Translation Layer](./#change-translation-layer)
-  * [Content Enablement Layer](./#content-enablement-layer)
-  * [Governance & Workflow](./#governance--workflow)
-  * [Metrics & Postmortems](./#metrics--postmortems)
-* [Our Philosophy in Practice: Flavour + Function](./#our-philosophy-in-practice-flavour--function)
-  * [Defining the Terms (The What)](./#defining-the-terms-the-what)
-  * [Explaining the Synergy (The Why)](./#explaining-the-synergy-the-why)
-  * [Making It Practical (The How)](./#making-it-practical-the-how)
-* [Quick Reference Cheatsheet](./#quick-reference-cheatsheet)
-* [Cognitive Principles (Behind the Why)](./#cognitive-principles-behind-the-why)
-* [Writing for When Things Break](./#writing-for-when-things-break)
-* [Final Notes](./#final-notes)
+* [Why This Exists](#why-this-exists)
+* [System Architecture](#system-architecture)
+  * [Strategic Messaging Layer](#strategic-messaging-layer)
+  * [Change Translation Layer](#change-translation-layer)
+  * [Content Enablement Layer](#content-enablement-layer)
+  * [Governance & Workflow](#governance-workflow)
+  * [Metrics & Postmortems](#metrics-postmortems)
+* [Our Philosophy in Practice: Flavour + Function](#our-philosophy-in-practice-flavour-function)
+  * [Defining the Terms (The What)](#defining-the-terms-the-what)
+  * [Explaining the Synergy (The Why)](#explaining-the-synergy-the-why)
+  * [Making It Practical (The How)](#making-it-practical-the-how)
+* [Quick Reference Cheatsheet](#quick-reference-cheatsheet)
+* [Cognitive Principles (Behind the Why)](#cognitive-principles-behind-the-why)
+* [Writing for When Things Break](#writing-for-when-things-break)
+* [Final Notes](#final-notes)
 
 ***
 
